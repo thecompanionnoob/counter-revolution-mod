@@ -14,6 +14,7 @@
 
 
 
+
 personality = {
 	no_personality = {
 		reliability = 0.5
