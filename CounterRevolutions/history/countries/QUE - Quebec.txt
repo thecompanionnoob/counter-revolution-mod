@@ -6,6 +6,7 @@ plurality = 100
 nationalvalue = nv_the_spirit_of_napoleon
 literacy = 1
 civilized = yes
+oob = "QUE_oob.txt"
 
 # Political reforms
 slavery = no_slavery

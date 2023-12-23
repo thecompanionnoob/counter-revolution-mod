@@ -1,0 +1,14 @@
+
+leader = {
+	name = "§BNapol§Weon Bon§Raparte"
+	type = land
+	date="1817.1.1"
+	personality = defence_5.1
+	background = attack_5.1
+	prestige = 1
+}
+
+
+
+
+

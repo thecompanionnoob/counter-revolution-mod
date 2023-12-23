@@ -1,0 +1,63 @@
+#death of napoleon for quebec
+country_event = {
+	id = 696969
+	title = "EVTNAME696969"
+	desc = "EVTDESC696969"
+	picture = "Bonaparte"
+
+	trigger = {
+		tag = QUE
+		year = 1836
+	}
+	fire_only_once = yes
+
+	option = {
+		name = "EVTOPTA696969" #OTL napoleon II 
+		kill_leader = 165 #napoleon's id found from making a save game and seeing what it is in the save file. if we change oob generals this might change.
+		set_global_flag = death_of_napoleon
+		set_country_flag = new_french_europe
+	}
+	option = {
+		name = "EVTOPTB696969" #OTL napoleon III
+		kill_leader = 165
+		set_global_flag = death_of_napoleon
+		set_country_flag = new_french_america
+	}
+}
+#death of napoleon for foreign countries
+country_event = {
+	id = 696970
+	title = "EVTNAME696970"
+	desc = "EVTDESC696970"
+	picture = "Bonaparte"
+
+	trigger = {
+		has_global_flag = death_of_napoleon
+		NOT = { year = 1838 } #prevent released countries from getting the event long after napoleon dies
+		NOT = { has_country_flag = napoleon_death_seen}
+	}
+
+	option = {
+		name = "EVTOPTA696970" #i hate that guy
+		set_country_flag = napoleon_death_seen
+		any_pop = {
+			limit = {
+				pop_majority_ideology = reactionary
+			}
+			militancy = -2
+			consciousness = -2
+		}
+		any_pop = {
+			limit = {
+				pop_majority_ideology = conservative
+			}
+			militancy = -1
+			consciousness = -1
+		}
+	}
+	option = {
+		name = "EVTOPTB696970" #i like that guy
+		set_country_flag = napoleon_death_seen
+		prestige = 10
+	}
+}
