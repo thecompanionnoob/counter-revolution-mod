@@ -1,0 +1,31 @@
+political_decisions = {
+	liberaciondebolivia = {
+		potential = {
+			tag = GCO
+			NOT = { has_global_flag = bolixit }
+		}
+		
+		allow = {
+		OR = {
+			SPA = {
+			VOP = { exists = no }
+				NOT = { controls = 2310 }
+				NOT = { controls = 2313 }
+				NOT = { controls = 2311 }
+				NOT = { controls = 2316 }
+			}	
+			VOP = {
+				NOT = { controls = 2310 }
+				NOT = { controls = 2313 }
+				NOT = { controls = 2311 }
+				NOT = { controls = 2316 }
+				}	
+			}
+		}
+		effect = {
+		    set_country_flag = bolixit
+            prestige = 2
+            SPA = { country_event = 700099 }		
+		}
+	}	
+}	

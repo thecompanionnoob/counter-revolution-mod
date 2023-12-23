@@ -1,0 +1,517 @@
+political_decisions = {
+	union_with_primary_nation = {
+		potential = {
+			any_neighbor_country = {
+				OR = {
+					is_primary_culture = THIS
+					is_culture_group = THIS
+				}
+				OR = {
+					tag = UKR
+					tag = POL
+					tag = GER
+					tag = ITA
+					tag = ARA
+					tag = SER
+					tag = GRE
+					tag = GEO
+					is_cultural_union = THIS
+				}
+				NOT = { has_country_modifier = neutrality }
+			}
+			NOT = { has_country_flag = union_declined }
+			is_greater_power = no
+		}
+
+		allow = {
+			NOT = { has_country_modifier = neutrality }
+			is_secondary_power = no
+			is_vassal = no
+			war = no
+			any_neighbor_country = {
+				OR = {
+					AND = {
+						tag = UKR
+						is_vassal = no
+						war = no
+						relation = {
+							who = THIS
+							value = 150
+						}
+						is_primary_culture = THIS
+						NOT = { has_country_modifier = neutrality }
+					}
+					AND = {
+						tag = POL
+						is_vassal = no
+						war = no
+						relation = {
+							who = THIS
+							value = 150
+						}
+						is_primary_culture = THIS
+						NOT = { has_country_modifier = neutrality }
+					}
+					AND = {
+						tag = GER
+						is_vassal = no
+						war = no
+						relation = {
+							who = THIS
+							value = 150
+						}
+						is_primary_culture = THIS
+						NOT = { has_country_modifier = neutrality }
+					}
+					AND = {
+						tag = ITA
+						is_vassal = no
+						war = no
+						relation = {
+							who = THIS
+							value = 150
+						}
+						is_primary_culture = THIS
+						NOT = { has_country_modifier = neutrality }
+					}
+					AND = {
+						tag = ARA
+						is_vassal = no
+						war = no
+						relation = {
+							who = THIS
+							value = 150
+						}
+						is_primary_culture = THIS
+						NOT = { has_country_modifier = neutrality }
+					}
+					AND = {
+						tag = SER
+						is_vassal = no
+						war = no
+						relation = {
+							who = THIS
+							value = 150
+						}
+						is_primary_culture = THIS
+						NOT = { has_country_modifier = neutrality }
+					}
+					AND = {
+						tag = GRE
+						is_vassal = no
+						war = no
+						relation = {
+							who = THIS
+							value = 150
+						}
+						is_primary_culture = THIS
+						NOT = { has_country_modifier = neutrality }
+					}
+					AND = {
+						tag = GEO
+						is_vassal = no
+						war = no
+						relation = {
+							who = THIS
+							value = 150
+						}
+						is_primary_culture = THIS
+						NOT = { has_country_modifier = neutrality }
+					}
+					AND = {
+						is_cultural_union = THIS
+						is_vassal = no
+						war = no
+						relation = {
+							who = THIS
+							value = 150
+						}
+						OR = {
+							is_primary_culture = THIS
+							is_culture_group = THIS
+						}
+						NOT = { has_country_modifier = neutrality }
+					}
+				}
+			}
+		}
+		
+		effect = {
+			all_core = {
+				set_province_flag = core
+				remove_core = THIS
+			}
+			any_neighbor_country = {
+				limit = {
+					OR = {
+						is_primary_culture = THIS
+						is_culture_group = THIS
+					}
+					OR = {
+						tag = UKR
+						tag = POL
+						tag = GER
+						tag = ITA
+						tag = ARA
+						tag = SER
+						tag = GRE
+						tag = GEO
+						is_cultural_union = THIS
+					}
+				}
+				country_event = 7600
+			}
+		}
+	}
+
+	unite_czechoslovakia = {
+		potential = {
+			OR = {
+				tag = BOH
+				tag = SLV
+			}
+			BOH = {
+				OR = {
+					all_core = { owned_by = THIS }
+					AND = {
+						war = no
+						exists = yes
+						OR = {
+							is_vassal = no
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+			SLV = {
+				OR = {
+					all_core = { owned_by = THIS }
+					AND = {
+						war = no
+						exists = yes
+						OR = {
+							is_vassal = no
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+			NOT = { has_global_flag = united_czechoslovakia }
+		}
+
+		allow = {
+			
+		}
+		
+		effect = {
+			any_country = {
+				limit = {
+					AND = {
+						NOT = { tag = THIS }
+						OR = {
+							tag = BOH
+							tag = SLV
+						}
+					}
+				}
+				country_event = 7601
+			}
+			set_global_flag = united_czechoslovakia
+		}
+	}
+	
+	unite_yugoslavia = {
+		potential = {
+			is_culture_group = south_slavic
+			NOT = { tag = BUL }
+			SER = {
+				war = no
+				OR = {
+					all_core = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								NOT = { tag = BUL }
+								is_culture_group = south_slavic
+							}
+						}
+					}
+					AND = {
+						exists = yes
+						OR = {
+							is_vassal = no
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+			CRO = {
+				war = no
+				OR = {
+					all_core = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								NOT = { tag = BUL }
+								is_culture_group = south_slavic
+							}
+						}
+					}
+					AND = {
+						exists = yes
+						OR = {
+							is_vassal = no
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+			BOS = {
+				war = no
+				OR = {
+					all_core = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								NOT = { tag = BUL }
+								is_culture_group = south_slavic
+							}
+						}
+					}
+					AND = {
+						exists = yes
+						OR = {
+							is_vassal = no
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+			SLO = {
+				war = no
+				OR = {
+					all_core = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								NOT = { tag = BUL }
+								is_culture_group = south_slavic
+							}
+						}
+					}
+					AND = {
+						exists = yes
+						OR = {
+							is_vassal = no
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+			MON = {
+				war = no
+				OR = {
+					all_core = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								NOT = { tag = BUL }
+								is_culture_group = south_slavic
+							}
+						}
+					}
+					AND = {
+						exists = yes
+						OR = {
+							is_vassal = no
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+			NOT = { has_global_flag = united_yugoslavia }
+		}
+
+		allow = {
+		
+		}
+		
+		effect = {
+			all_core = {
+				add_core = YUG
+				remove_core = THIS
+			}
+			change_tag = YUG
+			add_accepted_culture = serb
+			add_accepted_culture = croat
+			add_accepted_culture = slovene
+			any_country = {
+				limit = {
+					AND = {
+						NOT = { tag = THIS }
+						OR = {
+							tag = SER
+							tag = CRO
+							tag = BOS
+							tag = SLO
+							tag = MON
+						}
+					}
+				}
+				country_event = 7602
+			}
+			set_global_flag = united_yugoslavia
+		}
+	}
+	
+	unification_of_hispaniola = {
+		potential = {
+			tag = DOM
+			exists = yes
+			is_vassal = no
+			war = no
+			HAI = {
+				exists = yes
+				is_vassal = no
+				war = no
+			}
+			NOT = { has_country_flag = united_with_haiti }
+		}
+
+		allow = {
+			relation = {
+				who = HAI
+				value = 100
+			}
+		}
+		
+		effect = {
+			HAI = {
+				country_event = 7604
+			}
+			set_country_flag = united_with_haiti
+		}
+	}
+		
+	unite_peru_bolivia = {
+		potential = {
+			OR = {
+				tag = PEU
+				tag = BOL
+			}
+			NOT = { has_global_flag = united_peru_bolivia }
+		}
+
+		allow = {
+			state_n_government = 1
+			PEU = {
+				war = no
+				exists = yes
+				OR = {
+					all_core = { owned_by = THIS }
+					OR = {
+						is_vassal = no
+						vassal_of = THIS
+					}
+				}
+			}
+			BOL = {
+				war = no
+				exists = yes
+				OR = {
+					all_core = { owned_by = THIS }
+					OR = {
+						is_vassal = no
+						vassal_of = THIS
+					}
+				}
+			}
+		}
+		
+		effect = {
+			any_country = {
+				limit = {
+					NOT = { tag = THIS }
+					OR = {
+						tag = PEU
+						tag = BOL
+					}
+				}
+				country_event = 7608
+			}
+			set_global_flag = united_peru_bolivia
+		}
+	}
+	
+	unite_with_mexico = {
+		potential = {
+			tag = UCA
+			is_vassal = no
+			war = no
+			MEX = {
+				exists = yes
+				is_vassal = no
+				war = no
+			}
+			NOT = { has_country_flag = FRCA_united_with_mexico }
+		}
+
+		allow = {
+			relation = {
+				who = MEX
+				value = 100
+			}
+		}
+		
+		effect = {
+			MEX = {
+				country_event = 7600
+			}
+			set_country_flag = FRCA_united_with_mexico
+		}
+		
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = { year = 1822 }
+			}
+		}
+	}
+	
+	yucatan_unite_with_mexico = {
+		potential = {
+			tag = YUC
+			is_vassal = no
+			war = no
+			MEX = {
+				exists = yes
+				is_vassal = no
+				war = no
+			}
+			NOT = { has_country_flag = yucatan_united_with_mexico }
+		}
+
+		allow = {
+			relation = {
+				who = MEX
+				value = 100
+			}
+		}
+		
+		effect = {
+			MEX = {
+				country_event = 7600
+			}
+			set_country_flag = yucatan_united_with_mexico
+		}
+		
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = { year = 1848 }
+			}
+		}
+	}
+}

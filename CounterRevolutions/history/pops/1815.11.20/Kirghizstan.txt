@@ -1,0 +1,328 @@
+#Pishpek 
+1189 = {
+	aristocrats = {
+		culture = kirgiz
+		religion = catholic
+		size = 94
+	}
+	bureaucrats = {
+		culture = kirgiz
+		religion = catholic
+		size = 94
+	}
+	officers = {
+		culture = kirgiz
+		religion = catholic
+		size = 94
+	}
+	clergymen = {
+		culture = kirgiz
+		religion = catholic
+		size = 94
+	}
+	artisans = {
+		culture = kirgiz
+		religion = catholic
+		size = 936
+	}
+	soldiers = {
+		culture = kirgiz
+		religion = catholic
+		size = 2248
+	}
+	farmers = {
+		culture = kirgiz
+		religion = catholic
+		size = 16856
+	}
+	aristocrats = {
+		culture = uzbek
+		religion = catholic
+		size = 3
+	}
+	bureaucrats = {
+		culture = uzbek
+		religion = catholic
+		size = 3
+	}
+	officers = {
+		culture = uzbek
+		religion = catholic
+		size = 3
+	}
+	clergymen = {
+		culture = uzbek
+		religion = catholic
+		size = 3
+	}
+	artisans = {
+		culture = uzbek
+		religion = catholic
+		size = 26
+	}
+	soldiers = {
+		culture = uzbek
+		religion = catholic
+		size = 64
+	}
+	farmers = {
+		culture = uzbek
+		religion = catholic
+		size = 471
+	}
+	
+	aristocrats = {
+		culture = han
+		religion = catholic
+		size = 5
+	}
+	bureaucrats = {
+		culture = han
+		religion = catholic
+		size = 5
+	}
+	officers = {
+		culture = han
+		religion = catholic
+		size = 5
+	}
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 5
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 47
+	}
+	soldiers = {
+		culture = han
+		religion = catholic
+		size = 112
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 845
+	}
+}
+#Przhevalsk   
+1190 = {
+	aristocrats = {
+		culture = kirgiz
+		religion = catholic
+		size = 79
+	}
+	bureaucrats = {
+		culture = kirgiz
+		religion = catholic
+		size = 79
+	}
+	officers = {
+		culture = kirgiz
+		religion = catholic
+		size = 79
+	}
+	clergymen = {
+		culture = kirgiz
+		religion = catholic
+		size = 79
+	}
+	artisans = {
+		culture = kirgiz
+		religion = catholic
+		size = 793
+	}
+	soldiers = {
+		culture = kirgiz
+		religion = catholic
+		size = 1904
+	}
+	farmers = {
+		culture = kirgiz
+		religion = catholic
+		size = 14279
+	}
+	aristocrats = {
+		culture = uzbek
+		religion = catholic
+		size = 2
+	}
+	bureaucrats = {
+		culture = uzbek
+		religion = catholic
+		size = 2
+	}
+	officers = {
+		culture = uzbek
+		religion = catholic
+		size = 2
+	}
+	clergymen = {
+		culture = uzbek
+		religion = catholic
+		size = 2
+	}
+	artisans = {
+		culture = uzbek
+		religion = catholic
+		size = 19
+	}
+	soldiers = {
+		culture = uzbek
+		religion = catholic
+		size = 44
+	}
+	farmers = {
+		culture = uzbek
+		religion = catholic
+		size = 345
+	}
+	
+	aristocrats = {
+		culture = han
+		religion = catholic
+		size = 1
+	}
+	bureaucrats = {
+		culture = han
+		religion = catholic
+		size = 1
+	}
+	officers = {
+		culture = han
+		religion = catholic
+		size = 1
+	}
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 1
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 13
+	}
+	soldiers = {
+		culture = han
+		religion = catholic
+		size = 32
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 230
+	}
+	aristocrats = {
+		culture = mongol
+		religion = catholic
+		size = 1
+	}
+	bureaucrats = {
+		culture = mongol
+		religion = catholic
+		size = 1
+	}
+	officers = {
+		culture = mongol
+		religion = catholic
+		size = 1
+	}
+	clergymen = {
+		culture = mongol
+		religion = catholic
+		size = 1
+	}
+	artisans = {
+		culture = mongol
+		religion = catholic
+		size = 10
+	}
+	soldiers = {
+		culture = mongol
+		religion = catholic
+		size = 24
+	}
+	farmers = {
+		culture = mongol
+		religion = catholic
+		size = 181
+	}
+}
+#Osh
+1203 = {
+	artisans = {
+		culture = persian
+		religion = catholic
+		size = 1
+	}
+	farmers = {
+		culture = persian
+		religion = catholic
+		size = 18
+	}
+
+	aristocrats = {
+		culture = kirgiz
+		religion = catholic
+		size = 294
+	}
+	bureaucrats = {
+		culture = kirgiz
+		religion = catholic
+		size = 98
+	}
+	officers = {
+		culture = kirgiz
+		religion = catholic
+		size = 98
+	}
+	clergymen = {
+		culture = kirgiz
+		religion = catholic
+		size = 196
+	}
+	artisans = {
+		culture = kirgiz
+		religion = catholic
+		size = 1374
+	}
+	soldiers = {
+		culture = kirgiz
+		religion = catholic
+		size = 1568
+	}
+	farmers = {
+		culture = kirgiz
+		religion = catholic
+		size = 17170
+	}
+
+	aristocrats = {
+		culture = uzbek
+		religion = catholic
+		size = 1
+	}
+	clergymen = {
+		culture = uzbek
+		religion = catholic
+		size = 1
+	}
+	artisans = {
+		culture = uzbek
+		religion = catholic
+		size = 6
+	}
+	soldiers = {
+		culture = uzbek
+		religion = catholic
+		size = 8
+	}
+	farmers = {
+		culture = uzbek
+		religion = catholic
+		size = 70
+	}
+}

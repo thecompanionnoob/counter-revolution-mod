@@ -1,0 +1,193 @@
+#New Guinea
+#Port Moresby 
+2528 = {
+	aristocrats = {
+		culture = melanesian
+		religion = catholic
+		size = 619
+	}
+	clergymen = {
+		culture = melanesian
+		religion = catholic
+		size = 317
+	}
+	artisans = {
+		culture = melanesian
+		religion = catholic
+		size = 1601
+	}
+	soldiers = {
+		culture = melanesian
+		religion = catholic
+		size = 1328
+	}
+	farmers = {
+		culture = melanesian
+		religion = catholic
+		size = 29213
+	}
+	
+		aristocrats = {
+		culture = melanesian
+		religion = catholic
+		size = 332
+	}
+	clergymen = {
+		culture = melanesian
+		religion = catholic
+		size = 181
+	}
+	artisans = {
+		culture = melanesian
+		religion = catholic
+		size = 876
+	}
+	soldiers = {
+		culture = melanesian
+		religion = catholic
+		size = 724
+	}
+	farmers = {
+		culture = melanesian
+		religion = catholic
+		size = 15950
+	}
+}
+#Lae 
+2530 = {
+	aristocrats = {
+		culture = melanesian
+		religion = catholic
+		size = 149
+	}
+	clergymen = {
+		culture = melanesian
+		religion = catholic
+		size = 74
+	}
+	artisans = {
+		culture = melanesian
+		religion = catholic
+		size = 378
+	}
+	soldiers = {
+		culture = melanesian
+		religion = catholic
+		size = 309
+	}
+	farmers = {
+		culture = melanesian
+		religion = catholic
+		size = 6896
+	}
+	
+	
+	aristocrats = {
+		culture = melanesian
+		religion = catholic
+		size = 169
+	}
+	clergymen = {
+		culture = melanesian
+		religion = catholic
+		size = 86
+	}
+	artisans = {
+		culture = melanesian
+		religion = catholic
+		size = 430
+	}
+	soldiers = {
+		culture = melanesian
+		religion = catholic
+		size = 344
+	}
+	farmers = {
+		culture = melanesian
+		religion = catholic
+		size = 7849
+	}
+}
+#New Britain 
+2537 = {
+	aristocrats = {
+		culture = melanesian
+		religion = catholic
+		size = 333
+	}
+	clergymen = {
+		culture = melanesian
+		religion = catholic
+		size = 166
+	}
+	artisans = {
+		culture = melanesian
+		religion = catholic
+		size = 858
+	}
+	soldiers = {
+		culture = melanesian
+		religion = catholic
+		size = 714
+	}
+	farmers = {
+		culture = melanesian
+		religion = catholic
+		size = 15643
+	}
+	
+	
+	aristocrats = {
+		culture = melanesian
+		religion = catholic
+		size = 238
+	}
+	clergymen = {
+		culture = melanesian
+		religion = catholic
+		size = 119
+	}
+	artisans = {
+		culture = melanesian
+		religion = catholic
+		size = 620
+	}
+	soldiers = {
+		culture = melanesian
+		religion = catholic
+		size = 524
+	}
+	farmers = {
+		culture = melanesian
+		religion = catholic
+		size = 11300
+	}
+}
+#Bougainville 
+2539 = {
+	aristocrats = {
+		culture = melanesian
+		religion = catholic
+		size = 151
+	}
+	clergymen = {
+		culture = melanesian
+		religion = catholic
+		size = 90
+	}
+	artisans = {
+		culture = melanesian
+		religion = catholic
+		size = 422
+	}
+	soldiers = {
+		culture = melanesian
+		religion = catholic
+		size = 360
+	}
+	farmers = {
+		culture = melanesian
+		religion = catholic
+		size = 7703
+	}
+}

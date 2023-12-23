@@ -1,0 +1,97 @@
+#Trinidad and Tobago
+2237 = {
+	aristocrats = {
+		culture = british
+		religion = catholic
+		size = 24
+	}
+	bureaucrats = {
+		culture = british
+		religion = catholic
+		size = 14
+	}
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 24
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 481
+	}
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 96
+	}
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 395
+	}
+	clergymen = {
+		culture = afro_caribbean
+		religion = catholic
+		size = 72
+	}
+	artisans = {
+		culture = afro_caribbean
+		religion = catholic
+		size = 722
+	}
+	soldiers = {
+		culture = afro_caribbean
+		religion = catholic
+		size = 384
+	}
+	slaves = {
+		culture = afro_caribbean
+		religion = catholic
+		size = 8748
+	}
+	
+	
+	
+	
+	aristocrats = {
+		culture = british
+		religion = catholic
+		size = 9
+	}
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 4
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 24
+	}
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 57
+	}
+	clergymen = {
+		culture = afro_caribbean
+		religion = catholic
+		size = 48
+	}
+	artisans = {
+		culture = afro_caribbean
+		religion = catholic
+		size = 144
+	}
+	soldiers = {
+		culture = afro_caribbean
+		religion = catholic
+		size = 192
+	}
+	slaves = {
+		culture = afro_caribbean
+		religion = catholic
+		size = 3277
+	}
+}

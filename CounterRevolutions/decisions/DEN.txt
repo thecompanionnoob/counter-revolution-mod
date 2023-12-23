@@ -1,0 +1,80 @@
+political_decisions = {
+	danmarks_riges_grundlov = {
+		potential = {
+			tag = DEN
+			government = absolute_monarchy
+			NOT = {
+				has_country_flag = danish_constitutionalism
+			}
+		}
+		
+		allow = {
+			state_n_government = 1
+			NOT = {
+				average_militancy = 3
+			}
+		}
+		
+		effect = {
+			political_reform = landed_voting
+			government = hms_government
+			prestige = 5
+			set_country_flag = danish_constitutionalism
+		}
+	}
+	
+	november_constitution = {
+		potential = {
+			tag = DEN
+			370 = { owned_by = SCH }
+			SCH = { vassal_of = THIS }
+			HOL = { vassal_of = THIS }
+			state_n_government = 1
+		}
+		
+		allow = {
+			nationalism_n_imperialism = 1
+		}
+		
+		effect = {
+			370 = { 
+				add_core = DEN
+				add_core = GER
+			}
+			release_vassal = SCH
+			release_vassal = HOL
+			release_vassal = SAL
+			war = {
+				target = SCH
+				attacker_goal = {
+					casus_belli = annex_core_country
+				}
+				call_ally = no
+			}
+			casus_belli = {
+				target = HOL
+				type = make_puppet
+				months = 36
+			}
+			war = {
+				target = HOL
+				attacker_goal = {
+					casus_belli = make_puppet
+				}
+				call_ally = no
+			}
+			casus_belli = {
+				target = SAL
+				type = make_puppet
+				months = 36
+			}
+			war = {
+				target = SAL
+				attacker_goal = {
+					casus_belli = make_puppet
+				}
+				call_ally = no
+			}
+		}
+	}
+}

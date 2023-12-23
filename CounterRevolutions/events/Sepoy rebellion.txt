@@ -1,0 +1,113 @@
+country_event = {
+
+	id = 90039 # East India Company Land
+	title = "East India Company Land Grant"
+	desc = "EVTDESC90039"
+
+	trigger = {
+		tag = ENG
+		any_owned_province = { continent = asia }
+		EIC = { substate_of = THIS }
+		NOT = { has_country_flag = EIC_grant_denied }
+	}
+
+	option = {
+		name = "Yes."
+		any_owned = {
+			limit = { continent = asia }
+			secede_province = EIC
+		}
+		ai_chance = {
+			factor = 95
+		}
+	}
+	
+	option = {
+		name = "No."
+		set_country_flag = EIC_grant_denied
+		ai_chance = {
+			factor = 5
+		}
+	}
+}
+
+country_event = {
+
+	id = 90040 # Sepoy Rebellion
+	title = "EVTNAME90040"
+	desc = "EVTDESC90040"
+	news = yes
+	news_desc_long = "EVTDESC90040_NEWS_LONG"
+	news_desc_medium = "EVTDESC90040_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC90040_NEWS_SHORT"
+	picture = "sultan"
+
+	trigger = {
+		tag = ENG
+		year = 1857
+		EIC = {
+			substate_of = THIS
+		}
+	}
+	
+	fire_only_once = yes
+
+	mean_time_to_happen = {
+		months = 6
+	}
+
+	option = {
+		name = "EVTOPTA90040"
+		set_country_flag = sepoy_rebellion
+		EIC = {
+			any_pop = {
+				limit = {
+					OR = {
+						is_culture_group = indo_aryan
+						is_culture_group = dravidian
+					}
+				}
+				militancy = 10
+			}
+		}
+	}
+}
+
+country_event = {
+
+	id = 90041 # Government of India Act 1858
+	title = "Government of India Act of $YEAR$"
+	desc = "EVTDESC90041"
+
+	trigger = {
+		tag = ENG
+		MUG = { exists = no }
+		OR = {
+			AND = {
+				EIC = { substate_of = THIS }
+				has_country_flag = sepoy_rebellion
+			}
+			NOT = { EIC = { substate_of = THIS } }
+		}
+	}
+	
+	fire_only_once = yes
+
+	mean_time_to_happen = {
+		months = 1
+	}
+
+	option = {
+		name = "Yes"
+		inherit = EIC
+		MUG = {
+			all_core = {
+				remove_core = MUG
+			}
+		}
+		
+		ai_chance = {
+			factor = 90
+		}
+	}
+}

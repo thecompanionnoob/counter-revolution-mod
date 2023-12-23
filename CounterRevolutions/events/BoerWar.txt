@@ -1,0 +1,183 @@
+country_event = {
+	id = 7100
+	title = "The Boer Republics"
+	desc = "placeholder"
+	trigger = {
+		2087 = { owned_by = THIS }
+		NOT = {
+			OR = {
+				primary_culture = boer
+				accepted_culture = boer
+			}
+		}
+		slavery = no_slavery
+		year = 1835
+	}
+	
+	fire_only_once = yes
+	
+	mean_time_to_happen =  {
+		months = 12
+	}
+	
+	option = {
+		name = "Let them go."
+		ZUL_2113 = {
+			limit = {
+				OR = {
+					owned_by = ZUL
+					empty = yes
+				}
+				NOT = { province_id = 2113 }
+				NOT = { province_id = 5064 }
+				NOT = { province_id = 5065 }
+				NOT = { province_id = 5066 }
+				NOT = { province_id = 5067 }
+			}
+			add_core = NAL
+			secede_province = THIS
+		}
+		TRN_2108 = {
+			limit = {
+				OR = {
+					owned_by = ZUL
+					empty = yes
+				}
+			}
+			add_core = TRN
+			secede_province = THIS
+		}
+		ORA_2103 = {
+			limit = {
+				OR = {
+					owned_by = BSL
+					empty = yes
+				}
+				NOT = { province_id = 2104 }
+			}
+			add_core = ORA
+			secede_province = THIS
+		}
+		release = NAL
+		release = TRN
+		release = ORA
+		ENG_2087 = {
+			any_pop = {
+				limit = {
+					has_pop_culture = boer
+					OR = {
+						militancy = 1
+						unemployment = 0.1
+					}
+					location = { province_id = 2087 }
+				}
+				move_pop = 2105
+			}
+			any_pop = {
+				limit = {
+					has_pop_culture = boer
+					OR = {
+						militancy = 1
+						unemployment = 0.1
+					}
+					location = { province_id = 2089 }
+				}
+				move_pop = 2101
+			}
+			any_pop = {
+				limit = {
+					has_pop_culture = boer
+					OR = {
+						militancy = 1
+						unemployment = 0.1
+					}
+					location = { province_id = 5041 }
+				}
+				move_pop = 5060
+			}
+		}
+	}
+}
+
+country_event = {
+	id = 19500
+	title = "EVTNAME19500"
+	desc  = "EVTDESC19500"
+	news = yes
+	news_desc_long = "EVTDESC19500_NEWS_LONG"
+	news_desc_medium = "EVTDESC19500_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC19500_NEWS_SHORT"
+	picture = "zulu"
+	
+	trigger = {
+		OR = {
+			tag = ORA
+			tag = TRN
+		}
+		exists = ZUL
+		has_global_flag = piet_retief_massacre
+		NOT = { has_country_flag = zul_cb_taken }
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	option = {
+		name = "EVTOPTA19500"
+		casus_belli = {
+			target = ZUL
+			type = cut_down_to_size
+		}
+		set_country_flag = zul_cb_taken
+	}
+}
+
+# Witwatersrand Goldrush
+country_event = {
+	id = 19501
+	title = "EVTNAME19501"
+	desc = "EVTDESC19501"
+	news = yes
+	news_desc_long = "EVTDESC19501_NEWS_LONG"
+	news_desc_medium = "EVTDESC19501_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC19501_NEWS_SHORT"
+	picture = "goldrush"
+	
+	trigger = {
+		is_greater_power = yes
+		any_neighbor_country = {
+			has_country_modifier = witwatersrand_gold_rush
+			is_greater_power = no
+			NOT = {
+				num_of_cities = 10
+			}
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 12
+	}
+	
+	option = {
+		name = "EVTOPTA19501"
+		any_country = {
+			limit = {
+				primary_culture = boer
+			}
+			diplomatic_influence = {
+				who = THIS
+				value = -200
+			}
+			relation = {
+				who = THIS
+				value = -200
+			}
+			add_casus_belli = {
+				target = THIS
+				type = conquest
+			}
+			remove_country_modifier = witwatersrand_gold_rush
+		}
+	}
+}

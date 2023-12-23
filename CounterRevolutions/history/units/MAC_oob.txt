@@ -1,0 +1,20 @@
+army = {
+	name = "Esercito di Massa"
+	
+	leader = {
+		name = "Francesco IV"
+		date = 1815.1.1
+		type = land
+		personality = arrogant
+		background = hated
+		prestige = 0.5
+	}
+
+	location = 740
+	regiment = {
+		name= "1. Fanteria di Linea"
+		type = infantry
+		home = 740
+	}
+}
+

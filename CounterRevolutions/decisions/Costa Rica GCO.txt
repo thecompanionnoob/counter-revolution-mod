@@ -1,0 +1,27 @@
+political_decisions = {
+	conquercos = {
+                picture = conquercos
+		potential = {
+			NOT = { has_country_flag = conquercos }
+                        tag = GCO
+		}
+		allow = {
+			OR = {
+			    controls = 2201
+				controls = 2202
+			}
+		}
+		
+		effect = {
+			set_country_flag = conquercos
+			prestige = 1
+			war_exhaustion = -1
+			UCA_2201 = {
+				secede_province = GCO
+			}
+			2203 = {
+				secede_province = GCO					
+			}
+		}
+	}
+}

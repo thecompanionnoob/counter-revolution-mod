@@ -1,0 +1,5 @@
+owner = HIR
+controller = HIR
+add_core = HIR
+trade_goods = grain
+life_rating = 35

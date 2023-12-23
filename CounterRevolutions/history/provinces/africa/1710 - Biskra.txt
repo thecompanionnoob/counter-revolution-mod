@@ -1,0 +1,5 @@
+owner = BBS
+controller = BBS
+add_core = BBS
+trade_goods = wool
+life_rating = 36

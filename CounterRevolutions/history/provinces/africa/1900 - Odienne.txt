@@ -1,0 +1,5 @@
+owner = KBD
+controller = KBD
+add_core = KBD
+trade_goods = cattle
+life_rating = 35

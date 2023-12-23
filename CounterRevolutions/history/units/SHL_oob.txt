@@ -1,0 +1,10 @@
+army = {
+	name = "1st Army"
+	location = 1832
+	regiment = {
+		name= "1. Fashoda Militia"
+		type = irregular
+		home = 1832
+	}
+}
+

@@ -1,0 +1,116 @@
+#Puerto Rico
+#San Juan
+2222 = {
+	aristocrats = {
+		culture = spanish
+		religion = catholic
+		size = 397
+	}
+	bureaucrats = {
+		culture = spanish
+		religion = catholic
+		size = 132
+	}
+	officers = {
+		culture = spanish
+		religion = catholic
+		size = 26
+	}
+	clergymen = {
+		culture = spanish
+		religion = catholic
+		size = 265
+	}
+	artisans = {
+		culture = spanish
+		religion = catholic
+		size = 1324
+	}
+	soldiers = {
+		culture = spanish
+		religion = catholic
+		size = 2649
+	}
+	farmers = {
+		culture = spanish
+		religion = catholic
+		size = 21695
+	}
+			
+	aristocrats = {
+		culture = caribeno
+		religion = catholic
+		size = 280
+	}
+	bureaucrats = {
+		culture = caribeno
+		religion = catholic
+		size = 93
+	}
+	officers = {
+		culture = caribeno
+		religion = catholic
+		size = 19
+	}
+	clergymen = {
+		culture = caribeno
+		religion = catholic
+		size = 187
+	}
+	artisans = {
+		culture = caribeno
+		religion = catholic
+		size = 933
+	}
+	soldiers = {
+		culture = caribeno
+		religion = catholic
+		size = 1867
+	}
+	farmers = {
+		culture = caribeno
+		religion = catholic
+		size = 15288
+	}
+			
+	aristocrats = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 83
+	}
+	bureaucrats = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 28
+	}
+	officers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 6
+	}
+	clergymen = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 56
+	}
+	artisans = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 278
+	}
+	soldiers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 555
+	}
+	farmers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 4549
+	}
+	slaves = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 4512
+	}
+}

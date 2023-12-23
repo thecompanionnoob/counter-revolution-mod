@@ -1,0 +1,5 @@
+owner = SSU
+controller = SSU
+add_core = SSU
+trade_goods = tea
+life_rating = 38

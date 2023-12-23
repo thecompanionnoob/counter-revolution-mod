@@ -1,0 +1,5 @@
+owner = MPO
+controller = MPO
+add_core = MPO
+trade_goods = fish
+life_rating = 38

@@ -1,0 +1,6 @@
+owner = EIC
+controller = EIC
+add_core = KDA
+trade_goods = fish
+life_rating = 38
+colonial = 2

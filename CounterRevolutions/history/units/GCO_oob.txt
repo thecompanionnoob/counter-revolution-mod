@@ -1,0 +1,74 @@
+leader = {
+	name = "Simón Bolívar"
+	picture = gco_gen_bolivar
+	date = 1816.1.1
+	type = land
+	personality = implacable
+	background = school_of_firepower
+	prestige = 0.6
+}
+
+leader = {
+	name = "Francisco de Paula Santander"
+	picture = gco_gen_santander
+	date = 1817.1.1
+	type = land
+	personality = cautious
+	background = politician
+	prestige = 0.5
+}
+
+leader = {
+	name = "Antonio José de Sucre"
+	picture = gco_gen_sucre
+	date = 1812.1.1
+	type = land
+	personality = bold
+	background = school_of_the_bayonet
+	prestige = 0.4
+}
+
+army = {
+	name = "Ejército Libertador"
+	location = 3273
+	regiment = {
+		name= "1. Brigada de Infantería"
+		type = infantry
+		home = 3807
+	}
+
+	regiment = {
+		name= "2. Brigada de Infantería"
+		type = infantry
+		home = 2249
+	}
+
+	regiment = {
+		name= "Legion Britanica"
+		type = infantry
+		home = 2264
+	}
+
+	regiment = {
+		name= "1. Brigada de Caballería"
+		type = cuirassier
+		home = 2267
+	}
+	regiment = {
+		name= "1. Brigada de Artilleria"
+		type = artillery
+		home = 3804
+	}
+
+}
+
+army = {
+	name = "Ejercito de Caracas"
+	location = 2264
+	regiment = {
+		name= "1. Brigada de Infantería"
+		type = infantry
+		home = 2264
+	}
+
+}

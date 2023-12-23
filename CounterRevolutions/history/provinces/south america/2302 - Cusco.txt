@@ -1,0 +1,6 @@
+owner = VOP
+controller = VOP
+add_core = VOP
+trade_goods = coffee
+life_rating = 40
+

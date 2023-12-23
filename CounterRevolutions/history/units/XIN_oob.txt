@@ -1,0 +1,20 @@
+army = {
+	name = "1st Army"
+	location = 1600
+	regiment = {
+		name= "1. Dihua Militia"
+		type = irregular
+		home = 1600
+	}
+	regiment = {
+		name= "1. Kashgar Militia"
+		type = irregular
+		home = 1594
+	}
+	regiment = {
+		name= "1. Alma Ata Militia"
+		type = irregular
+		home = 1186
+	}
+}
+

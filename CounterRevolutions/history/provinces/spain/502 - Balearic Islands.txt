@@ -1,0 +1,7 @@
+owner = SAR
+controller = SAR
+add_core = SPA
+add_core = SAR
+add_core = CAT
+trade_goods = fruit
+life_rating = 36

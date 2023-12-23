@@ -1,0 +1,17 @@
+#Guategod War of Independence
+country_event = {
+	id = 194719881
+	title = "Guategodean War of Independence"
+	desc = "The Libertadores defeat us in Guatemala but we can still fighting in our other loyal colonies."
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Traitors!"
+		any_pop = {
+			limit = { continent = europe }
+			militancy = 1
+		}
+		release = UCA
+	}
+}

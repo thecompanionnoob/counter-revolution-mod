@@ -1,0 +1,162 @@
+#Hispanola Region #see Dohanican Republic
+#Ruled by Haiti 1836
+#Port au Prince
+2213 = {
+	aristocrats = {
+		culture = afro_antillean
+		religion = catholic
+		size = 608
+	}
+	bureaucrats = {
+		culture = afro_antillean
+		religion = catholic
+		size = 110
+	}
+	officers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 110
+	}
+	clergymen = {
+		culture = afro_antillean
+		religion = catholic
+		size = 572
+	}
+	artisans = {
+		culture = afro_antillean
+		religion = catholic
+		size = 2879
+	}
+	soldiers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 11812
+	}
+	farmers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 50440
+	}
+}
+#Les Cayes
+687 = {
+	aristocrats = {
+		culture = afro_antillean
+		religion = catholic
+		size = 415
+	}
+	bureaucrats = {
+		culture = afro_antillean
+		religion = catholic
+		size = 75
+	}
+	officers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 75
+	}
+	clergymen = {
+		culture = afro_antillean
+		religion = catholic
+		size = 390
+	}
+	artisans = {
+		culture = afro_antillean
+		religion = catholic
+		size = 1966
+	}
+	soldiers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 8068
+	}
+	farmers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 34444
+	}
+}
+#Cap Haitien
+2215 = {
+	aristocrats = {
+		culture = afro_antillean
+		religion = catholic
+		size = 308
+	}
+	clergymen = {
+		culture = afro_antillean
+		religion = catholic
+		size = 266
+	}
+	artisans = {
+		culture = afro_antillean
+		religion = catholic
+		size = 1431
+	}
+	soldiers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 2468
+	}
+	farmers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 26069
+	}
+}
+#Port-de-Paix
+681 = {
+	aristocrats = {
+		culture = afro_antillean
+		religion = catholic
+		size = 96
+	}
+	clergymen = {
+		culture = afro_antillean
+		religion = catholic
+		size = 83
+	}
+	artisans = {
+		culture = afro_antillean
+		religion = catholic
+		size = 447
+	}
+	soldiers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 772
+	}
+	farmers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 8154
+	}
+}
+#Ganoïves
+547 = {
+	aristocrats = {
+		culture = afro_antillean
+		religion = catholic
+		size = 324
+	}
+	clergymen = {
+		culture = afro_antillean
+		religion = catholic
+		size = 280
+	}
+	artisans = {
+		culture = afro_antillean
+		religion = catholic
+		size = 1506
+	}
+	soldiers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 2596
+	}
+	farmers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 27428
+	}
+}

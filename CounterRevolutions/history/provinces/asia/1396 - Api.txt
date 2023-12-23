@@ -1,0 +1,5 @@
+owner = NGS
+controller = NGS
+add_core = NGS
+trade_goods = tropical_wood
+life_rating = 38

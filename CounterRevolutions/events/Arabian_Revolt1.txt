@@ -1,0 +1,66 @@
+country_event = {
+	id = 696969
+	title = "The Arabian Revolt"
+	desc = "Large life for the Sublime Turkish man!"
+	
+	trigger = {
+		tag = TUR
+		NOT = { government = absolute_monarchy }
+		NOT = { has_global_flag = arabian_revolt2 }
+	}
+	mean_time_to_happen = {
+		months = 3
+	}
+	
+	option = {
+		name = "Damn them!"
+		casus_belli = {
+			target = EGY
+			type = conquest
+			months = 36
+		}
+		war = {
+			target = EGY
+			attacker_goal = { casus_belli = conquest }
+			call_ally = yes
+			defender_goal = { casus_belli = humillation }
+		}
+	set_global_flag = arabian_revolt2
+	}
+}
+
+country_event = {
+	id = 9990202012
+	title = "FOR ALLAH!"
+	desc = "Destroy the turkish heresy!"
+	
+	trigger = {
+		has_global_flag = arabian_revolt2
+		tag = EGY
+		NOT = { has_global_flag = arabian_revolt1 }
+			TUR = {
+				NOT = {
+					government = absolute_monarchy 
+				}
+			}
+	}
+	
+	option = {
+		name = "Yihad!"
+		inherit = SEN
+		inherit = ASA
+		inherit = TUN
+		inherit = TRI
+		inherit = ALD
+		inherit = TUG
+		inherit = BBS
+		government = fanatism
+		EGY = {
+			add_country_modifier = {
+				name = war_of_independence_mobilization
+				duration = 136
+			}
+		}
+		set_global_flag = arabian_revolt1
+	}
+}

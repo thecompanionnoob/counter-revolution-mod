@@ -1,0 +1,5 @@
+owner = SHL
+controller = SHL
+add_core = SHL
+trade_goods = grain
+life_rating = 36

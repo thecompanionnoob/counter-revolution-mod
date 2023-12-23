@@ -1,0 +1,864 @@
+#Congo-Kasai
+#Kinshasa
+1982 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 1784
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 927
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 3641
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 3708
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 64125
+	}
+	slaves = {
+		culture = african_minor
+		religion = catholic
+		size = 19994
+	}
+}
+#Kananga
+1984 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 279
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 185
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 743
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 740
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 2327
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 2979
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 1488
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 6147
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 6328
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 114472
+	}
+	slaves = {
+		culture = african_minor
+		religion = catholic
+		size = 40982
+	}
+}
+#Kumbana
+1985 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 855
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 427
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 1856
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 1996
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 36347
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 785
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 427
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 2141
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 1708
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 39060
+	}
+	slaves = {
+		culture = african_minor
+		religion = catholic
+		size = 5711
+	}
+}
+#Lusambo
+1986 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 1024
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 558
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 2233
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 2232
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 40330
+	}
+	slaves = {
+		culture = african_minor
+		religion = catholic
+		size = 11176
+	}
+}
+#Katanga
+#Bunkeya
+1987 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 847
+	}
+	bureaucrats = {
+		culture = african_minor
+		religion = catholic
+		size = 8
+	}
+	officers = {
+		culture = african_minor
+		religion = catholic
+		size = 34
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 423
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 1706
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 1908
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 35230
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 108
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 54
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 282
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 216
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 5150
+	}
+	slaves = {
+		culture = african_minor
+		religion = catholic
+		size = 3911
+	}
+}
+#Mussumba
+1988 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 130
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 76
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 293
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 304
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 4205
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 76
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 43
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 217
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 172
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 3966
+	}
+	slaves = {
+		culture = african_minor
+		religion = catholic
+		size = 2607
+	}
+}
+#Munza
+1989 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 477
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 217
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 891
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 912
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 14746
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 152
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 86
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 412
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 344
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 7476
+	}
+	slaves = {
+		culture = african_minor
+		religion = catholic
+		size = 5650
+	}
+}
+#Kabinda
+1760 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 130
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 65
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 282
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 304
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 3792
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 260
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 130
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 673
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 564
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 12268
+	}
+	slaves = {
+		culture = african_minor
+		religion = catholic
+		size = 2607
+	}
+}
+#Congo Orientale
+#Nyangwe
+1990 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 678
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 376
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 1585
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 1504
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 24176
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 754
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 376
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 1963
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 1504
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 35810
+	}
+	slaves = {
+		culture = african_minor
+		religion = catholic
+		size = 12087
+	}
+}
+#Uvira
+1991 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 1132
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 602
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 2341
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 2408
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 40644
+	}
+	slaves = {
+		culture = african_minor
+		religion = catholic
+		size = 12087
+	}
+}
+#Basoko
+1992 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 1106
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 576
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 2309
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 2304
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 39895
+	}
+	slaves = {
+		culture = african_minor
+		religion = catholic
+		size = 13474
+	}
+}
+#Kisangani
+1996 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 1491
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 769
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 3031
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 3076
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 53610
+	}
+	slaves = {
+		culture = african_minor
+		religion = catholic
+		size = 15399
+	}
+}
+#Mungbane
+1997 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 336
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 191
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 721
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 764
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 12030
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 336
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 191
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 961
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 764
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 17564
+	}
+	slaves = {
+		culture = african_minor
+		religion = catholic
+		size = 3849
+	}
+}
+#Baramo
+1998 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 1009
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 529
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 2598
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 2116
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 47306
+	}
+}
+#Kebbi
+1946 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 1009
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 529
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 2598
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 2116
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 47306
+	}
+}
+#Equateur
+#Irebu
+1993 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 563
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 306
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 1228
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 1224
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 22181
+	}
+	slaves = {
+		culture = african_minor
+		religion = catholic
+		size = 6146
+	}
+}
+#Nsheng
+1994 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 777
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 422
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 1694
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 1688
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 30610
+	}
+	slaves = {
+		culture = african_minor
+		religion = catholic
+		size = 8482
+	}
+}
+#Gemena
+1995 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 1126
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 563
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 2304
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 2452
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 44568
+	}
+	slaves = {
+		culture = african_minor
+		religion = catholic
+		size = 8196
+	}
+}
+#Boma
+1983 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 563
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 306
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 1228
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 1224
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 22181
+	}
+	slaves = {
+		culture = african_minor
+		religion = catholic
+		size = 6146
+	}
+}
+#Libenge
+1754 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 1126
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 563
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 2304
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 2452
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 44568
+	}
+	slaves = {
+		culture = african_minor
+		religion = catholic
+		size = 8196
+	}
+}

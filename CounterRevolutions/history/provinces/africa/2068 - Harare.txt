@@ -1,0 +1,5 @@
+owner = RZV
+controller = RZV
+add_core = RZV
+trade_goods = grain
+life_rating = 36

@@ -1,0 +1,134 @@
+leader = {
+	name = "Antonio Santa Ana"
+	picture = mex_gen_stanna	
+	type = land
+	date="1810.1.1"
+	personality = wrathful
+	background = warmonger
+	prestige = 0.2
+}
+
+leader = {
+	name = "Vicente Guerrero"
+	picture = mex_gen_vicente
+	type = land
+	date="1810.1.1"
+	personality = audacious
+	background = expert_raider
+	prestige = 0.5	
+}
+
+army = {
+	name = "Ejército Rebelde"
+	location = 2178
+	regiment = {
+		name= "1.Division Cos"
+		type = infantry
+		home = 2167
+	}
+
+	regiment = {
+		name= "2.Division Cos"
+		type = infantry
+		home = 2167
+	}
+
+	regiment = {
+		name= "3.Division Cos"
+		type = irregular
+		home = 2167
+	}
+
+}
+
+army = {
+	name = "Ejercito del Sur"
+	location = 2177
+	regiment = {
+		name= "1.Oajaca y Tlaxcala"
+		type = irregular
+		home = 2170
+	}
+
+	regiment = {
+		name= "2.Oajaca y Tlaxcala"
+		type = irregular
+		home = 2170
+	}
+
+	regiment = {
+		name= "3.Oajaca y Tlaxcala"
+		type = irregular
+		home = 2169
+	}
+
+	regiment = {
+		name= "5.Oajaca y Tlaxcala"
+		type = irregular
+		home = 2177
+	}
+
+	regiment = {
+		name= "4.Oajaca y Tlaxcala"
+		type = irregular
+		home = 2177
+	}	
+	
+	regiment = {
+		name= "1.Division de Infanteria"
+		type = infantry
+		home = 2175
+	}
+
+	regiment = {
+		name= "2.Division de Infanteria"
+		type = infantry
+		home = 2177
+	}	
+	
+	regiment = {
+		name= "3.Division de Infanteria"
+		type = infantry
+		home = 2176
+	}		
+
+}
+
+army = {
+	name = "Ejercito Insurgente"
+	location = 2179
+	regiment = {
+		name= "1.Division Insurgente"
+		type = artillery
+		home = 2162
+	}
+
+	regiment = {
+		name= "2.Division Insurgente"
+		type = irregular
+		home = 2166
+	}
+
+	regiment = {
+		name= "3.Division Insurgente"
+		type = infantry
+		home = 2166
+	}
+
+}
+
+navy = {
+	name = "Armada de Insurgente"
+	location = 2165
+	ship = {
+		name= "Dolores"
+		type = frigate
+	}
+
+	ship = {
+		name= "Oajaca"
+		type = frigate
+	}
+
+}
+

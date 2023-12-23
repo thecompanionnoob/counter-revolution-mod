@@ -1,0 +1,352 @@
+#Nouakchott 
+1775 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 72
+	}
+	bureaucrats = {
+		culture = african_minor
+		religion = catholic
+		size = 3
+	}
+	officers = {
+		culture = african_minor
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 36
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 149
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 160
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 2937
+	}
+	slaves = {
+		culture = african_minor
+		religion = catholic
+		size = 486
+	}
+}
+#Rosso 
+1776 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 536
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 268
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 1380
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 1072
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 17490
+	}
+	slaves = {
+		culture = african_minor
+		religion = catholic
+		size = 7670
+	}
+}
+#Aleg 
+1777 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 231
+	}
+	bureaucrats = {
+		culture = african_minor
+		religion = catholic
+		size = 5
+	}
+	officers = {
+		culture = african_minor
+		religion = catholic
+		size = 2
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 118
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 504
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 520
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 7918
+	}
+	slaves = {
+		culture = african_minor
+		religion = catholic
+		size = 3565
+	}
+}
+#Maghama
+1778 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 169
+	}
+	bureaucrats = {
+		culture = african_minor
+		religion = catholic
+		size = 11
+	}
+	officers = {
+		culture = african_minor
+		religion = catholic
+		size = 27
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 319
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 638
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 424
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 11492
+	}
+}
+#Shingit 
+1779 = {
+	aristocrats = {
+		culture = arab
+		religion = catholic
+		size = 15
+	}
+	clergymen = {
+		culture = arab
+		religion = catholic
+		size = 24
+	}
+	artisans = {
+		culture = arab
+		religion = catholic
+		size = 82
+	}
+	soldiers = {
+		culture = arab
+		religion = catholic
+		size = 164
+	}
+	farmers = {
+		culture = arab
+		religion = catholic
+		size = 1487
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 82
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 123
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 247
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 164
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 4463
+	}
+}
+#Tichit 
+1780 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 97
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 146
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 293
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 192
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 5279
+	}
+}
+#Walata 
+1781 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 85
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 128
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 257
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 168
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 4638
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 128
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 171
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 343
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 340
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 6312
+	}
+}
+#Bir Maghrein
+1782 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 325
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 487
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 975
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 648
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 17560
+	}
+}
+#Sélibaby
+1716 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 98
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 73
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 270
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 292
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 3416
+	}
+	slaves = {
+		culture = african_minor
+		religion = catholic
+		size = 2949
+	}
+}

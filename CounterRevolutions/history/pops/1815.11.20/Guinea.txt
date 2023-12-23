@@ -1,0 +1,337 @@
+#Casamance Region #see Guinea Bissau
+#uncolonized in 1836/ruled by Kingdom of Gabu
+#Boffa #now part of Guinea
+1879 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 417
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 231
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 881
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 924
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 17716
+	}
+	slaves = {
+		culture = african_minor
+		religion = catholic
+		size = 2782
+	}
+}
+#Jallon Region #see Sierra Leone
+#uncolonized in 1836/ruled by Emirate of Futa Jallon
+#Timbo  
+1880 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 463
+	}
+	bureaucrats = {
+		culture = african_minor
+		religion = catholic
+		size = 46
+	}
+	officers = {
+		culture = african_minor
+		religion = catholic
+		size = 46
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 231
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 973
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 1020
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 18388
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 1113
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 602
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 2968
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 2408
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 54076
+	}
+	slaves = {
+		culture = african_minor
+		religion = catholic
+		size = 3710
+	}
+}
+#Dinguiraye  
+1881 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 347
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 185
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 718
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 740
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 14330
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 347
+	}
+	officers = {
+		culture = african_minor
+		religion = catholic
+		size = 69
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 185
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 1020
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 740
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 14979
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 92
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 46
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 278
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 184
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 5101
+	}
+	slaves = {
+		culture = african_minor
+		religion = catholic
+		size = 3710
+	}
+}
+#Bure Region #see Mali
+#uncolonized in 1836/ruled by Futa Jallon
+#Kankan  
+1882 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 115
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 69
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 371
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 368
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 5843
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 440
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 231
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 1159
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 924
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 19223
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 92
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 46
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 278
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 276
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 5078
+	}
+	slaves = {
+		culture = african_minor
+		religion = catholic
+		size = 2782
+	}
+}
+#uncolonized in 1836}
+#Beyla  
+1883 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 742
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 371
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 1530
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 1576
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 30354
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 92
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 46
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 231
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 184
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 4220
+	}
+	slaves = {
+		culture = african_minor
+		religion = catholic
+		size = 4637
+	}
+}

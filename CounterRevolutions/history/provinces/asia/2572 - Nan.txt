@@ -1,0 +1,5 @@
+owner = CHM
+controller = CHM
+add_core = CHM
+trade_goods = tea
+life_rating = 37

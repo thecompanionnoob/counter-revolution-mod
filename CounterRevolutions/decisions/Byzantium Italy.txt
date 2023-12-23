@@ -1,0 +1,65 @@
+political_decisions = {
+	return_to_eastern_rome = {
+		potential = {
+			tag = SIC
+			year = 1825
+			has_country_flag = counterrevolution
+			}
+		allow = {
+			owns = 836
+			owns = 835
+			owns = 805
+			owns = 859
+			owns = 824
+			owns = 833
+			owns = 5105
+			owns = 806
+			owns = 863
+			owns = 869
+			
+		}
+		effect = {
+		primary_culture = greek
+		change_tag = BYZ
+		add_accepted_culture = bulgarian
+		add_accepted_culture = italian
+		any_owned = {
+			add_core = THIS
+			}
+		}
+	}
+	
+		look_east = {
+		potential = {
+			tag = SIC
+			year = 1820
+			NOT = { has_country_flag = is_only_starting }
+			NOT = { has_country_flag = counterrevolution }
+			}
+		allow = {
+			owns = 848
+			owns = 855
+			owns = 845
+			owns = 846
+			owns = 860
+			
+		}
+		effect = {
+		
+			any_owned = {
+			add_core = THIS
+			}
+			TUR_838 = { add_core = SIC }
+			TUR_835 = { add_core = SIC }
+			TUR_805 = { add_core = SIC }
+			TUR_859 = { add_core = SIC }
+			TUR_824 = { add_core = SIC }
+			TUR_833 = { add_core = SIC }
+			TUR_5105 = { add_core = SIC }
+			TUR_806 = { add_core = SIC }
+			TUR_863 = { add_core = SIC }
+			TUR_869 = { add_core = SIC }
+			set_country_flag = counterrevolution
+		}
+	}
+}

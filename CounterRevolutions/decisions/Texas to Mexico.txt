@@ -1,0 +1,18 @@
+political_decisions = {
+	establishmex2 = {
+		potential = {
+			tag = MEX
+			NOT = { has_country_flag = texgod }
+		}
+		
+		allow = {
+			    controls = 138
+			    war = no
+		}
+		
+		effect = {
+			MEX = { country_event = 194719879 }
+			set_country_flag = texgod #nice country flag name
+		}
+	}	
+}	

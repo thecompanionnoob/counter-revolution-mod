@@ -1,0 +1,9 @@
+owner = USA
+controller = USA
+trade_goods = cotton
+life_rating = 44
+colonial = 2
+party_loyalty = {
+	ideology = conservative
+	loyalty_value = 15
+}

@@ -1,0 +1,5 @@
+owner = KHP
+controller = KHP
+add_core = KHP
+trade_goods = grain
+life_rating = 33

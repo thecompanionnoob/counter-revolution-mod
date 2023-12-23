@@ -1,0 +1,16 @@
+political_decisions = {
+	liberaciondeperu = {
+		potential = {
+			has_country_modifier = war_of_independence_mobilization
+			NOT = { has_global_flag = piruxit }
+		}
+		
+		allow = {
+		    controls = 2295
+		}
+				effect = {
+			SPA = { country_event = 700066 }
+			set_global_flag = piruxit
+		}
+	}	
+}	

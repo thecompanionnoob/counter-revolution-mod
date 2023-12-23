@@ -1,0 +1,500 @@
+# Pan-Nationalist
+country_event = {
+	id = 11100
+	title = "EVTNAME11100"
+	desc = "EVTDESC11100"
+	picture = "Celebration"
+	is_triggered_only = yes
+
+	option = {				# Accept inheritance
+		name = "EVTOPTA11100"
+		prestige = -15
+		badboy = 10
+		political_reform = wealth_voting
+		political_reform = population_equal_weight
+		political_reform = yes_meeting
+		political_reform = free_press
+		political_reform = non_socialist
+		political_reform = secret_ballots
+		government = hms_government
+		all_core = { remove_core = THIS }
+		change_tag = culture
+		add_accepted_culture = union
+		any_country = {
+			limit = {
+				is_culture_group = THIS
+				is_greater_power = no
+				NOT = { has_country_modifier = neutrality }
+				OR = {
+					is_vassal = no
+					vassal_of = THIS
+				}
+			}
+			all_core = { add_core = THIS }
+			country_event = 11101
+		}
+		
+		ai_chance = {
+			factor = 5
+			modifier = {
+				factor = 200
+				OR = {
+					tag = MOL
+					tag = WAL
+				}
+			}
+			modifier = {
+				factor = 5
+				government = hms_government
+			}
+			modifier = {
+				factor = 10
+				government = democracy
+			}
+			modifier = {
+				factor = 2
+				ruling_party_ideology = liberal
+			}
+			modifier = {
+				factor = 3
+				upper_house = {
+					ideology = liberal
+					value = 0.5
+				}
+			}
+		}
+	}
+
+	option = {
+		name = "EVTOPTB11100"
+		prestige = 2
+		any_pop = { militancy = 1 }
+		set_country_flag = does_not_want_to_be_unified
+		
+		ai_chance = {
+			factor = 95
+			modifier = {
+				factor = 1.5
+				government = absolute_monarchy
+			}
+		}
+	}
+}
+
+# Event to Inherit
+country_event = {
+	id = 11101
+	title = "EVTNAME11101"
+	desc = "EVTDESC11101"
+	picture = "Celebration"
+	is_triggered_only = yes
+
+	option = {
+		name = "EVTOPTA11101"
+		all_core = {
+			add_core = FROM
+			remove_core = THIS
+		}
+		annex_to = FROM
+		
+		ai_chance = { factor = 90 }
+	}
+
+	option = {
+		name = "EVTOPTB11101"
+		prestige = 1
+		relation = {
+			who = FROM
+			value = -100
+		}
+		any_pop = {
+			militancy = 3
+			consciousness = 2
+		}
+		
+		ai_chance = {
+			factor = 10
+			modifier = {
+				factor = 0
+				OR = {
+					all_core = { owned_by = FROM }
+					exists = no
+				}
+			}
+		}
+	}
+}
+
+#Italian Red Shirt Unification
+country_event = {
+	id = 11103
+	title = "EVTNAME11103"
+	desc = "EVTDESC11103"
+	picture = "Celebration"
+	is_triggered_only = yes
+
+	option = {				# Accept inheritance
+		name = "EVTOPTA11103"
+		prestige = 10
+		all_core = {
+			add_core = ITA
+			remove_core = THIS
+		}
+		change_tag = ITA
+		any_country = {
+			limit = {
+				primary_culture = italian
+				is_greater_power = no
+				NOT = { has_country_modifier = neutrality }
+				OR = {
+					is_vassal = no
+					vassal_of = THIS
+				}
+			}
+			all_core = { add_core = ITA }
+			country_event = 11101
+		}
+		
+		ai_chance = { factor = 95 }
+	}
+
+	option = {
+		name = "EVTOPTB11103"
+		prestige = 5
+		any_pop = {
+			militancy = 2
+		}
+		set_country_flag = does_not_want_to_be_unified
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+# Pan-Nationalist Germany
+country_event = {
+	id = 11104
+	title = "EVTNAME11100"
+	desc = "EVTDESC11100"
+	picture = "Celebration"
+	is_triggered_only = yes
+
+	option = {				# Accept inheritance
+		name = "EVTOPTA11100"
+		prestige = -15
+		badboy = 10
+		political_reform = wealth_voting
+		political_reform = population_equal_weight
+		political_reform = yes_meeting
+		political_reform = free_press
+		political_reform = non_socialist
+		political_reform = secret_ballots
+		government = hms_government
+		all_core = {
+			add_core = GER
+			remove_core = THIS
+		}
+		change_tag = GER
+		any_country = {
+			limit = {
+				primary_culture = german
+				is_greater_power = no
+				NOT = { has_country_modifier = neutrality }
+				OR = {
+					is_vassal = no
+					vassal_of = THIS
+				}
+			}
+			all_core = { add_core = GER }
+			country_event = 11101
+		}
+		any_country = {
+			limit = {
+				primary_culture = german
+				OR = {
+					is_greater_power = yes
+					has_country_modifier = neutrality
+				}
+			}
+			any_owned = { remove_core = THIS }
+		}
+		set_global_flag = germany_formed
+		
+		ai_chance = {
+			factor = 5
+			modifier = {
+				factor = 5
+				government = hms_government
+			}
+			modifier = {
+				factor = 10
+				government = democracy
+			}
+			modifier = {
+				factor = 2
+				ruling_party_ideology = liberal
+			}
+			modifier = {
+				factor = 3
+				upper_house = {
+					ideology = liberal
+					value = 0.5
+				}
+			}
+		}
+	}
+
+	option = {
+		name = "EVTOPTB11100"
+		prestige = 2
+		any_pop = { militancy = 1 }
+		set_country_flag = does_not_want_to_be_unified
+		
+		ai_chance = {
+			factor = 95
+			modifier = {
+				factor = 1.5
+				government = absolute_monarchy
+			}
+		}
+	}
+}
+
+# Pan-Nationalist Scandinavia
+country_event = {
+	title = "EVTNAME11100"
+	desc = "EVTDESC11100"
+	picture = "Celebration"
+
+	id = 11105
+
+	is_triggered_only = yes
+
+	option = {				# Accept inheritance
+		name = "EVTOPTA11100"
+		prestige = -15
+		badboy = 10
+		political_reform = wealth_voting
+		political_reform = population_equal_weight
+		political_reform = yes_meeting
+		political_reform = free_press
+		political_reform = non_socialist
+		political_reform = secret_ballots
+		government = hms_government
+		all_core = {
+			add_core = SCA
+			remove_core = THIS
+		}
+		change_tag = SCA
+		any_country = {
+			limit = {
+				is_culture_group = THIS
+				is_greater_power = no
+				NOT = { has_country_modifier = neutrality }
+				OR = {
+					is_vassal = no
+					vassal_of = THIS
+				}
+			}
+			all_core = { add_core = SCA }
+			country_event = 11101
+		}
+
+		ai_chance = {
+			factor = 5
+			modifier = {
+				factor = 5
+				government = hms_government
+			}
+			modifier = {
+				factor = 10
+				government = democracy
+			}
+			modifier = {
+				factor = 2
+				ruling_party_ideology = liberal
+			}
+			modifier = {
+				factor = 3
+				upper_house = {
+					ideology = liberal
+					value = 0.5
+				}
+			}
+		}
+	}
+
+	option = {
+		name = "EVTOPTB11100"
+		prestige = 2
+		any_pop = { militancy = 1 }
+		set_country_flag = does_not_want_to_be_unified
+		
+		ai_chance = {
+			factor = 95
+			modifier = {
+				factor = 1.5
+				government = absolute_monarchy
+			}
+		}
+	}
+}
+
+# Pan-Nationalist Yugoslavia
+country_event = {
+	title = "EVTNAME11100"
+	desc = "EVTDESC11100"
+	picture = "Celebration"
+
+	id = 11106
+
+	is_triggered_only = yes
+
+	option = {				# Accept inheritance
+		name = "EVTOPTA11100"
+		prestige = -15
+		badboy = 10
+		political_reform = wealth_voting
+		political_reform = population_equal_weight
+		political_reform = yes_meeting
+		political_reform = free_press
+		political_reform = non_socialist
+		political_reform = secret_ballots
+		government = hms_government
+		all_core = {
+			add_core = YUG
+			remove_core = THIS
+		}
+		change_tag = YUG
+		any_country = {
+			limit = {
+				is_culture_group = THIS
+				is_greater_power = no
+				NOT = { has_country_modifier = neutrality }
+				OR = {
+					is_vassal = no
+					vassal_of = THIS
+				}
+			}
+			all_core = { add_core = YUG }
+			country_event = 11101
+		}
+		
+		ai_chance = {
+			factor = 5
+			modifier = {
+				factor = 5
+				government = hms_government
+			}
+			modifier = {
+				factor = 10
+				government = democracy
+			}
+			modifier = {
+				factor = 2
+				ruling_party_ideology = liberal
+			}
+			modifier = {
+				factor = 3
+				upper_house = {
+					ideology = liberal
+					value = 0.5
+				}
+			}
+		}
+	}
+
+	option = {
+		name = "EVTOPTB11100"
+		prestige = 2
+		any_pop = { militancy = 1 }
+		set_country_flag = does_not_want_to_be_unified
+		
+		ai_chance = {
+			factor = 95
+			modifier = {
+				factor = 1.5
+				government = absolute_monarchy
+			}
+		}
+	}
+}
+
+# Pan-Nationalist Arabia
+country_event = {
+	title = "EVTNAME11100"
+	desc = "EVTDESC11100"
+	picture = "Celebration"
+
+	id = 11107
+
+	is_triggered_only = yes
+
+	option = {				# Accept inheritance
+		name = "EVTOPTA11100"
+		prestige = -15
+		badboy = 10
+		political_reform = wealth_voting
+		political_reform = population_equal_weight
+		political_reform = yes_meeting
+		political_reform = free_press
+		political_reform = non_socialist
+		political_reform = secret_ballots
+		government = hms_government
+		all_core = {
+			add_core = ARA
+			remove_core = THIS
+		}
+		change_tag = ARA
+		any_country = {
+			limit = {
+				primary_culture = arab
+				is_greater_power = no
+				NOT = { has_country_modifier = neutrality }
+				OR = {
+					is_vassal = no
+					vassal_of = THIS
+				}
+			}
+			all_core = { add_core = ARA }
+			country_event = 11101
+		}
+		
+		ai_chance = {
+			factor = 5
+			modifier = {
+				factor = 5
+				government = hms_government
+			}
+			modifier = {
+				factor = 10
+				government = democracy
+			}
+			modifier = {
+				factor = 2
+				ruling_party_ideology = liberal
+			}
+			modifier = {
+				factor = 3
+				upper_house = {
+					ideology = liberal
+					value = 0.5
+				}
+			}
+		}
+	}
+
+	option = {
+		name = "EVTOPTB11100"
+		prestige = 2
+		any_pop = { militancy = 1 }
+		set_country_flag = does_not_want_to_be_unified
+		
+		ai_chance = {
+			factor = 95
+			modifier = {
+				factor = 1.5
+				government = absolute_monarchy
+			}
+		}
+	}
+}

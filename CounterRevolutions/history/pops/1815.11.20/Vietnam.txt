@@ -1,0 +1,2886 @@
+#Tonkin
+#Hanoi
+1369 = {
+	aristocrats = {
+		culture = vietnamese
+		religion = catholic
+		size = 3088
+	}
+	bureaucrats = {
+		culture = vietnamese
+		religion = catholic
+		size = 943
+	}
+	officers = {
+		culture = vietnamese
+		religion = catholic
+		size = 535
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 1393
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 8580
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 8580
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 3860
+	}
+	soldiers = {
+		culture = vietnamese
+		religion = catholic
+		size = 5748
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 114018
+	}
+	slaves = {
+		culture = vietnamese
+		religion = catholic
+		size = 6864
+	}
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 42
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 1071
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 600
+	}
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 42
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 1071
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 600
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 149
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 3002
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 17439
+	}
+}
+#Haiphong
+1370 = {
+	aristocrats = {
+		culture = vietnamese
+		religion = catholic
+		size = 2439
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 1175
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 5811
+	}
+	soldiers = {
+		culture = vietnamese
+		religion = catholic
+		size = 4700
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 105637
+	}
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 43
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 1108
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 620
+	}
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 43
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 1108
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 620
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 88
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 620
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 11712
+	}
+}
+#Cao Bang
+1371 = {
+	aristocrats = {
+		culture = vietnamese
+		religion = catholic
+		size = 194
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 92
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 481
+	}
+	soldiers = {
+		culture = vietnamese
+		religion = catholic
+		size = 812
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 8670
+	}
+	slaves = {
+		culture = vietnamese
+		religion = catholic
+		size = 370
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 13
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 55
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 1041
+	}
+	aristocrats = {
+		culture = miao
+		religion = catholic
+		size = 37
+	}
+	clergymen = {
+		culture = miao
+		religion = catholic
+		size = 18
+	}
+	artisans = {
+		culture = miao
+		religion = catholic
+		size = 92
+	}
+	soldiers = {
+		culture = miao
+		religion = catholic
+		size = 72
+	}
+	farmers = {
+		culture = miao
+		religion = catholic
+		size = 1685
+	}
+}
+#Son La
+1372 = {
+	aristocrats = {
+		culture = vietnamese
+		religion = catholic
+		size = 117
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 58
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 289
+	}
+	soldiers = {
+		culture = vietnamese
+		religion = catholic
+		size = 468
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 5218
+	}
+	slaves = {
+		culture = vietnamese
+		religion = catholic
+		size = 117
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 8
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 32
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 603
+	}
+	aristocrats = {
+		culture = miao
+		religion = catholic
+		size = 29
+	}
+	clergymen = {
+		culture = miao
+		religion = catholic
+		size = 13
+	}
+	artisans = {
+		culture = miao
+		religion = catholic
+		size = 75
+	}
+	soldiers = {
+		culture = miao
+		religion = catholic
+		size = 64
+	}
+	farmers = {
+		culture = miao
+		religion = catholic
+		size = 1367
+	}
+}
+#Lang Son
+1373 = {
+	aristocrats = {
+		culture = vietnamese
+		religion = catholic
+		size = 208
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 102
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 504
+	}
+	soldiers = {
+		culture = vietnamese
+		religion = catholic
+		size = 640
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 9127
+	}
+	slaves = {
+		culture = vietnamese
+		religion = catholic
+		size = 292
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 7
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 51
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 965
+	}
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 10
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 241
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 186
+	}
+}
+#Lamu
+2030 = {
+	aristocrats = {
+		culture = vietnamese
+		religion = catholic
+		size = 71
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 34
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 177
+	}
+	soldiers = {
+		culture = vietnamese
+		religion = catholic
+		size = 300
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 3194
+	}
+	slaves = {
+		culture = vietnamese
+		religion = catholic
+		size = 136
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 5
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 20
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 383
+	}
+	aristocrats = {
+		culture = miao
+		religion = catholic
+		size = 13
+	}
+	clergymen = {
+		culture = miao
+		religion = catholic
+		size = 6
+	}
+	artisans = {
+		culture = miao
+		religion = catholic
+		size = 34
+	}
+	soldiers = {
+		culture = miao
+		religion = catholic
+		size = 24
+	}
+	farmers = {
+		culture = miao
+		religion = catholic
+		size = 621
+	}
+}
+#Wajir
+2031 = {
+	aristocrats = {
+		culture = vietnamese
+		religion = catholic
+		size = 70
+	}
+	bureaucrats = {
+		culture = vietnamese
+		religion = catholic
+		size = 21
+	}
+	officers = {
+		culture = vietnamese
+		religion = catholic
+		size = 12
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 31
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 195
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 195
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 87
+	}
+	soldiers = {
+		culture = vietnamese
+		religion = catholic
+		size = 128
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 2591
+	}
+	slaves = {
+		culture = vietnamese
+		religion = catholic
+		size = 156
+	}
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 0
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 24
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 13
+	}
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 0
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 24
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 13
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 3
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 68
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 396
+	}
+}
+#Garissa
+2032 = {
+	aristocrats = {
+		culture = vietnamese
+		religion = catholic
+		size = 375
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 184
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 908
+	}
+	soldiers = {
+		culture = vietnamese
+		religion = catholic
+		size = 1156
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 16429
+	}
+	slaves = {
+		culture = vietnamese
+		religion = catholic
+		size = 526
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 12
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 92
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 1737
+	}
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 19
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 434
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 335
+	}
+}
+#Voi
+2033 = {
+	aristocrats = {
+		culture = vietnamese
+		religion = catholic
+		size = 138
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 68
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 336
+	}
+	soldiers = {
+		culture = vietnamese
+		religion = catholic
+		size = 428
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 6085
+	}
+	slaves = {
+		culture = vietnamese
+		religion = catholic
+		size = 195
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 4
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 34
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 643
+	}
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 7
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 160
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 124
+	}
+}
+#Massekisse
+2052 = {
+	aristocrats = {
+		culture = vietnamese
+		religion = catholic
+		size = 92
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 43
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 228
+	}
+	soldiers = {
+		culture = vietnamese
+		religion = catholic
+		size = 384
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 4107
+	}
+	slaves = {
+		culture = vietnamese
+		religion = catholic
+		size = 175
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 6
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 26
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 493
+	}
+	aristocrats = {
+		culture = miao
+		religion = catholic
+		size = 17
+	}
+	clergymen = {
+		culture = miao
+		religion = catholic
+		size = 8
+	}
+	artisans = {
+		culture = miao
+		religion = catholic
+		size = 43
+	}
+	soldiers = {
+		culture = miao
+		religion = catholic
+		size = 32
+	}
+	farmers = {
+		culture = miao
+		religion = catholic
+		size = 798
+	}
+}
+#african_minor
+2053 = {
+	aristocrats = {
+		culture = vietnamese
+		religion = catholic
+		size = 96
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 48
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 236
+	}
+	soldiers = {
+		culture = vietnamese
+		religion = catholic
+		size = 384
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 4269
+	}
+	slaves = {
+		culture = vietnamese
+		religion = catholic
+		size = 96
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 6
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 26
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 493
+	}
+	aristocrats = {
+		culture = miao
+		religion = catholic
+		size = 24
+	}
+	clergymen = {
+		culture = miao
+		religion = catholic
+		size = 10
+	}
+	artisans = {
+		culture = miao
+		religion = catholic
+		size = 61
+	}
+	soldiers = {
+		culture = miao
+		religion = catholic
+		size = 52
+	}
+	farmers = {
+		culture = miao
+		religion = catholic
+		size = 1118
+	}
+}
+#Songo
+2055 = {
+	aristocrats = {
+		culture = vietnamese
+		religion = catholic
+		size = 194
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 95
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 470
+	}
+	soldiers = {
+		culture = vietnamese
+		religion = catholic
+		size = 600
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 8519
+	}
+	slaves = {
+		culture = vietnamese
+		religion = catholic
+		size = 273
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 6
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 47
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 900
+	}
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 10
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 225
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 174
+	}
+}
+#Zombo
+2056 = {
+	aristocrats = {
+		culture = vietnamese
+		religion = catholic
+		size = 75
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 37
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 184
+	}
+	soldiers = {
+		culture = vietnamese
+		religion = catholic
+		size = 300
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 3320
+	}
+	slaves = {
+		culture = vietnamese
+		religion = catholic
+		size = 75
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 5
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 20
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 383
+	}
+	aristocrats = {
+		culture = miao
+		religion = catholic
+		size = 18
+	}
+	clergymen = {
+		culture = miao
+		religion = catholic
+		size = 8
+	}
+	artisans = {
+		culture = miao
+		religion = catholic
+		size = 47
+	}
+	soldiers = {
+		culture = miao
+		religion = catholic
+		size = 40
+	}
+	farmers = {
+		culture = miao
+		religion = catholic
+		size = 870
+	}
+}
+#Mossurize
+2058 = {
+	aristocrats = {
+		culture = vietnamese
+		religion = catholic
+		size = 4155
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 2002
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 9898
+	}
+	soldiers = {
+		culture = vietnamese
+		religion = catholic
+		size = 8008
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 179931
+	}
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 74
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 1887
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 1057
+	}
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 74
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 1887
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 1057
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 150
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 1057
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 19950
+	}
+}
+#Mocambique
+2060 = {
+	aristocrats = {
+		culture = vietnamese
+		religion = catholic
+		size = 61
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 29
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 152
+	}
+	soldiers = {
+		culture = vietnamese
+		religion = catholic
+		size = 256
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 2738
+	}
+	slaves = {
+		culture = vietnamese
+		religion = catholic
+		size = 117
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 4
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 17
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 329
+	}
+	aristocrats = {
+		culture = miao
+		religion = catholic
+		size = 11
+	}
+	clergymen = {
+		culture = miao
+		religion = catholic
+		size = 5
+	}
+	artisans = {
+		culture = miao
+		religion = catholic
+		size = 29
+	}
+	soldiers = {
+		culture = miao
+		religion = catholic
+		size = 20
+	}
+	farmers = {
+		culture = miao
+		religion = catholic
+		size = 532
+	}
+}
+#Angoche
+2061 = {
+	aristocrats = {
+		culture = vietnamese
+		religion = catholic
+		size = 421
+	}
+	bureaucrats = {
+		culture = vietnamese
+		religion = catholic
+		size = 128
+	}
+	officers = {
+		culture = vietnamese
+		religion = catholic
+		size = 73
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 190
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 1170
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 1170
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 526
+	}
+	soldiers = {
+		culture = vietnamese
+		religion = catholic
+		size = 780
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 15547
+	}
+	slaves = {
+		culture = vietnamese
+		religion = catholic
+		size = 936
+	}
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 5
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 146
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 81
+	}
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 5
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 146
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 81
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 20
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 409
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 2378
+	}
+}
+#Milange
+2065 = {
+	aristocrats = {
+		culture = vietnamese
+		religion = catholic
+		size = 64
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 32
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 157
+	}
+	soldiers = {
+		culture = vietnamese
+		religion = catholic
+		size = 256
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 2846
+	}
+	slaves = {
+		culture = vietnamese
+		religion = catholic
+		size = 64
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 4
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 17
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 329
+	}
+	aristocrats = {
+		culture = miao
+		religion = catholic
+		size = 16
+	}
+	clergymen = {
+		culture = miao
+		religion = catholic
+		size = 7
+	}
+	artisans = {
+		culture = miao
+		religion = catholic
+		size = 40
+	}
+	soldiers = {
+		culture = miao
+		religion = catholic
+		size = 32
+	}
+	farmers = {
+		culture = miao
+		religion = catholic
+		size = 745
+	}
+}
+
+#Annam
+#Hue
+1375 = {
+	aristocrats = {
+		culture = vietnamese
+		religion = catholic
+		size = 416
+	}
+	bureaucrats = {
+		culture = vietnamese
+		religion = catholic
+		size = 74
+	}
+	officers = {
+		culture = vietnamese
+		religion = catholic
+		size = 45
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 197
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 655
+	}
+	soldiers = {
+		culture = vietnamese
+		religion = catholic
+		size = 788
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 17981
+	}
+	slaves = {
+		culture = vietnamese
+		religion = catholic
+		size = 789
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 19
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 89
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 2610
+	}
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 6
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 351
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 256
+	}
+}
+#Vinh
+1376 = {
+	aristocrats = {
+		culture = vietnamese
+		religion = catholic
+		size = 1096
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 537
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 2698
+	}
+	soldiers = {
+		culture = vietnamese
+		religion = catholic
+		size = 2192
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 49090
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 21
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 175
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 3312
+	}
+}
+#Tourane
+1377 = {
+	aristocrats = {
+		culture = vietnamese
+		religion = catholic
+		size = 709
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 354
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 1774
+	}
+	soldiers = {
+		culture = vietnamese
+		religion = catholic
+		size = 3900
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 31766
+	}
+	slaves = {
+		culture = vietnamese
+		religion = catholic
+		size = 1774
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 43
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 177
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 3326
+	}
+	aristocrats = {
+		culture = asian_minor
+		religion = catholic
+		size = 398
+	}
+	clergymen = {
+		culture = asian_minor
+		religion = catholic
+		size = 199
+	}
+	artisans = {
+		culture = asian_minor
+		religion = catholic
+		size = 975
+	}
+	soldiers = {
+		culture = asian_minor
+		religion = catholic
+		size = 796
+	}
+	farmers = {
+		culture = asian_minor
+		religion = catholic
+		size = 17724
+	}
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 21
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 487
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 376
+	}
+}
+#Pleiku
+1378 = {
+	aristocrats = {
+		culture = vietnamese
+		religion = catholic
+		size = 184
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 85
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 447
+	}
+	soldiers = {
+		culture = vietnamese
+		religion = catholic
+		size = 368
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 8141
+	}
+	slaves = {
+		culture = vietnamese
+		religion = catholic
+		size = 526
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 12
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 52
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 987
+	}
+}
+#Quinhon
+1379 = {
+	aristocrats = {
+		culture = vietnamese
+		religion = catholic
+		size = 214
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 70
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 429
+	}
+	soldiers = {
+		culture = vietnamese
+		religion = catholic
+		size = 428
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 7774
+	}
+	aristocrats = {
+		culture = asian_minor
+		religion = catholic
+		size = 715
+	}
+	clergymen = {
+		culture = asian_minor
+		religion = catholic
+		size = 321
+	}
+	artisans = {
+		culture = asian_minor
+		religion = catholic
+		size = 1719
+	}
+	soldiers = {
+		culture = asian_minor
+		religion = catholic
+		size = 1428
+	}
+	farmers = {
+		culture = asian_minor
+		religion = catholic
+		size = 31283
+	}
+}
+#Da Lat
+1381 = {
+	aristocrats = {
+		culture = vietnamese
+		religion = catholic
+		size = 70
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 37
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 187
+	}
+	soldiers = {
+		culture = vietnamese
+		religion = catholic
+		size = 148
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 3412
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 3
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 19
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 366
+	}
+	aristocrats = {
+		culture = asian_minor
+		religion = catholic
+		size = 13
+	}
+	clergymen = {
+		culture = asian_minor
+		religion = catholic
+		size = 5
+	}
+	artisans = {
+		culture = asian_minor
+		religion = catholic
+		size = 31
+	}
+	soldiers = {
+		culture = asian_minor
+		religion = catholic
+		size = 20
+	}
+	farmers = {
+		culture = asian_minor
+		religion = catholic
+		size = 567
+	}
+}
+#Thanh Hoa
+1374 = {
+	aristocrats = {
+		culture = vietnamese
+		religion = catholic
+		size = 1184
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 591
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 2896
+	}
+	soldiers = {
+		culture = vietnamese
+		religion = catholic
+		size = 2312
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 52668
+	}
+	slaves = {
+		culture = vietnamese
+		religion = catholic
+		size = 1579
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 25
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 289
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 5476
+	}
+}
+#Panduranga
+610 = {
+	aristocrats = {
+		culture = vietnamese
+		religion = catholic
+		size = 96
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 50
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 257
+	}
+	soldiers = {
+		culture = vietnamese
+		religion = catholic
+		size = 200
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 4692
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 5
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 26
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 504
+	}
+	aristocrats = {
+		culture = asian_minor
+		religion = catholic
+		size = 18
+	}
+	clergymen = {
+		culture = asian_minor
+		religion = catholic
+		size = 8
+	}
+	artisans = {
+		culture = asian_minor
+		religion = catholic
+		size = 42
+	}
+	soldiers = {
+		culture = asian_minor
+		religion = catholic
+		size = 32
+	}
+	farmers = {
+		culture = asian_minor
+		religion = catholic
+		size = 780
+	}
+}
+#Tuy Hòa
+2525 = {
+	aristocrats = {
+		culture = vietnamese
+		religion = catholic
+		size = 96
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 31
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 192
+	}
+	soldiers = {
+		culture = vietnamese
+		religion = catholic
+		size = 192
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 3490
+	}
+	aristocrats = {
+		culture = asian_minor
+		religion = catholic
+		size = 321
+	}
+	clergymen = {
+		culture = asian_minor
+		religion = catholic
+		size = 144
+	}
+	artisans = {
+		culture = asian_minor
+		religion = catholic
+		size = 772
+	}
+	soldiers = {
+		culture = asian_minor
+		religion = catholic
+		size = 640
+	}
+	farmers = {
+		culture = asian_minor
+		religion = catholic
+		size = 14045
+	}
+}
+#Đông Hà
+2519 = {
+	aristocrats = {
+		culture = vietnamese
+		religion = catholic
+		size = 231
+	}
+	bureaucrats = {
+		culture = vietnamese
+		religion = catholic
+		size = 41
+	}
+	officers = {
+		culture = vietnamese
+		religion = catholic
+		size = 25
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 109
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 364
+	}
+	soldiers = {
+		culture = vietnamese
+		religion = catholic
+		size = 436
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 9989
+	}
+	slaves = {
+		culture = vietnamese
+		religion = catholic
+		size = 438
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 10
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 49
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 1450
+	}
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 3
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 195
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 142
+	}
+}
+#Nha Trang
+2531 = {
+	aristocrats = {
+		culture = vietnamese
+		religion = catholic
+		size = 46
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 15
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 93
+	}
+	soldiers = {
+		culture = vietnamese
+		religion = catholic
+		size = 92
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 1692
+	}
+	aristocrats = {
+		culture = asian_minor
+		religion = catholic
+		size = 155
+	}
+	clergymen = {
+		culture = asian_minor
+		religion = catholic
+		size = 70
+	}
+	artisans = {
+		culture = asian_minor
+		religion = catholic
+		size = 374
+	}
+	soldiers = {
+		culture = asian_minor
+		religion = catholic
+		size = 308
+	}
+	farmers = {
+		culture = asian_minor
+		religion = catholic
+		size = 6809
+	}
+}
+#Kon Tum
+1531 = {
+	aristocrats = {
+		culture = vietnamese
+		religion = catholic
+		size = 409
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 189
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 994
+	}
+	soldiers = {
+		culture = vietnamese
+		religion = catholic
+		size = 816
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 18092
+	}
+	slaves = {
+		culture = vietnamese
+		religion = catholic
+		size = 1170
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 28
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 117
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 2193
+	}
+}
+#Quảng Ngãi
+1441 = {
+	aristocrats = {
+		culture = vietnamese
+		religion = catholic
+		size = 390
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 195
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 975
+	}
+	soldiers = {
+		culture = vietnamese
+		religion = catholic
+		size = 2144
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 17454
+	}
+	slaves = {
+		culture = vietnamese
+		religion = catholic
+		size = 975
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 24
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 97
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 1828
+	}
+	aristocrats = {
+		culture = asian_minor
+		religion = catholic
+		size = 219
+	}
+	clergymen = {
+		culture = asian_minor
+		religion = catholic
+		size = 109
+	}
+	artisans = {
+		culture = asian_minor
+		religion = catholic
+		size = 536
+	}
+	soldiers = {
+		culture = asian_minor
+		religion = catholic
+		size = 436
+	}
+	farmers = {
+		culture = asian_minor
+		religion = catholic
+		size = 9738
+	}
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 12
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 268
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 207
+	}
+}
+#Hà Tĩnh
+1443 = {
+	aristocrats = {
+		culture = vietnamese
+		religion = catholic
+		size = 584
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 286
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 1439
+	}
+	soldiers = {
+		culture = vietnamese
+		religion = catholic
+		size = 1168
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 26181
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 11
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 93
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 1766
+	}
+}
+#Đồng Hới
+1444 = {
+	aristocrats = {
+		culture = vietnamese
+		religion = catholic
+		size = 316
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 155
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 779
+	}
+	soldiers = {
+		culture = vietnamese
+		religion = catholic
+		size = 632
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 14181
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 6
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 50
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 957
+	}
+}
+#Lac Giao
+1424 = {
+	aristocrats = {
+		culture = vietnamese
+		religion = catholic
+		size = 95
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 44
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 231
+	}
+	soldiers = {
+		culture = vietnamese
+		religion = catholic
+		size = 188
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 4221
+	}
+	slaves = {
+		culture = vietnamese
+		religion = catholic
+		size = 273
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 6
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 27
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 511
+	}
+}
+#Phan Thiết
+1429 = {
+	aristocrats = {
+		culture = vietnamese
+		religion = catholic
+		size = 122
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 64
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 327
+	}
+	soldiers = {
+		culture = vietnamese
+		religion = catholic
+		size = 256
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 5972
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 6
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 34
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 641
+	}
+	aristocrats = {
+		culture = asian_minor
+		religion = catholic
+		size = 23
+	}
+	clergymen = {
+		culture = asian_minor
+		religion = catholic
+		size = 10
+	}
+	artisans = {
+		culture = asian_minor
+		religion = catholic
+		size = 54
+	}
+	soldiers = {
+		culture = asian_minor
+		religion = catholic
+		size = 40
+	}
+	farmers = {
+		culture = asian_minor
+		religion = catholic
+		size = 993
+	}
+}
+#Cochinchina
+#Saigon
+1380 = {
+	aristocrats = {
+		culture = vietnamese
+		religion = catholic
+		size = 1123
+	}
+	bureaucrats = {
+		culture = vietnamese
+		religion = catholic
+		size = 101
+	}
+	officers = {
+		culture = vietnamese
+		religion = catholic
+		size = 93
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 553
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 2340
+	}
+	soldiers = {
+		culture = vietnamese
+		religion = catholic
+		size = 2212
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 50463
+	}
+	slaves = {
+		culture = vietnamese
+		religion = catholic
+		size = 2496
+	}
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 23
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 655
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 569
+	}
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 15
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 499
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 421
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 38
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 343
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 5889
+	}
+}
+#Hatien
+1382 = {
+	aristocrats = {
+		culture = vietnamese
+		religion = catholic
+		size = 286
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 118
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 668
+	}
+	soldiers = {
+		culture = vietnamese
+		religion = catholic
+		size = 572
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 12159
+	}
+	clergymen = {
+		culture = khmer
+		religion = catholic
+		size = 286
+	}
+	artisans = {
+		culture = khmer
+		religion = catholic
+		size = 1384
+	}
+	soldiers = {
+		culture = khmer
+		religion = catholic
+		size = 952
+	}
+	farmers = {
+		culture = khmer
+		religion = catholic
+		size = 25800
+	}
+}
+#Vinhlong
+1383 = {
+	aristocrats = {
+		culture = vietnamese
+		religion = catholic
+		size = 461
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 191
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 1077
+	}
+	soldiers = {
+		culture = vietnamese
+		religion = catholic
+		size = 6772
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 18294
+	}
+	clergymen = {
+		culture = khmer
+		religion = catholic
+		size = 230
+	}
+	artisans = {
+		culture = khmer
+		religion = catholic
+		size = 1232
+	}
+	soldiers = {
+		culture = khmer
+		religion = catholic
+		size = 920
+	}
+	farmers = {
+		culture = khmer
+		religion = catholic
+		size = 22954
+	}
+}
+#Kerema 
+2529 = {
+	aristocrats = {
+		culture = vietnamese
+		religion = catholic
+		size = 186
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 77
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 436
+	}
+	soldiers = {
+		culture = vietnamese
+		religion = catholic
+		size = 2744
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 7410
+	}
+	clergymen = {
+		culture = khmer
+		religion = catholic
+		size = 93
+	}
+	artisans = {
+		culture = khmer
+		religion = catholic
+		size = 499
+	}
+	soldiers = {
+		culture = khmer
+		religion = catholic
+		size = 372
+	}
+	farmers = {
+		culture = khmer
+		religion = catholic
+		size = 9297
+	}
+}
+#Ellice Islands
+2541 = {
+	aristocrats = {
+		culture = vietnamese
+		religion = catholic
+		size = 268
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 111
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 627
+	}
+	soldiers = {
+		culture = vietnamese
+		religion = catholic
+		size = 3944
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 10652
+	}
+	clergymen = {
+		culture = khmer
+		religion = catholic
+		size = 134
+	}
+	artisans = {
+		culture = khmer
+		religion = catholic
+		size = 717
+	}
+	soldiers = {
+		culture = khmer
+		religion = catholic
+		size = 536
+	}
+	farmers = {
+		culture = khmer
+		religion = catholic
+		size = 13365
+	}
+}
+#Marsa Alam
+1771 = {
+	aristocrats = {
+		culture = vietnamese
+		religion = catholic
+		size = 665
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 275
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 1554
+	}
+	soldiers = {
+		culture = vietnamese
+		religion = catholic
+		size = 9776
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 26400
+	}
+	clergymen = {
+		culture = khmer
+		religion = catholic
+		size = 332
+	}
+	artisans = {
+		culture = khmer
+		religion = catholic
+		size = 1778
+	}
+	soldiers = {
+		culture = khmer
+		religion = catholic
+		size = 1328
+	}
+	farmers = {
+		culture = khmer
+		religion = catholic
+		size = 33123
+	}
+}
+#Santa Cruz Islands 
+2536 = {
+	aristocrats = {
+		culture = vietnamese
+		religion = catholic
+		size = 210
+	}
+	bureaucrats = {
+		culture = vietnamese
+		religion = catholic
+		size = 18
+	}
+	officers = {
+		culture = vietnamese
+		religion = catholic
+		size = 17
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 103
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 438
+	}
+	soldiers = {
+		culture = vietnamese
+		religion = catholic
+		size = 412
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 9461
+	}
+	slaves = {
+		culture = vietnamese
+		religion = catholic
+		size = 468
+	}
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 4
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 122
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 106
+	}
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 2
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 93
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 78
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 7
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 64
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 1104
+	}
+}
+#Tuamotu Islands
+2553 = {
+	aristocrats = {
+		culture = vietnamese
+		religion = catholic
+		size = 64
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 26
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 150
+	}
+	soldiers = {
+		culture = vietnamese
+		religion = catholic
+		size = 128
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 2729
+	}
+	clergymen = {
+		culture = khmer
+		religion = catholic
+		size = 64
+	}
+	artisans = {
+		culture = khmer
+		religion = catholic
+		size = 310
+	}
+	soldiers = {
+		culture = khmer
+		religion = catholic
+		size = 212
+	}
+	farmers = {
+		culture = khmer
+		religion = catholic
+		size = 5791
+	}
+}
+#Marquesas
+2551 = {
+	aristocrats = {
+		culture = vietnamese
+		religion = catholic
+		size = 210
+	}
+	bureaucrats = {
+		culture = vietnamese
+		religion = catholic
+		size = 18
+	}
+	officers = {
+		culture = vietnamese
+		religion = catholic
+		size = 17
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 103
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 438
+	}
+	soldiers = {
+		culture = vietnamese
+		religion = catholic
+		size = 412
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 9461
+	}
+	slaves = {
+		culture = vietnamese
+		religion = catholic
+		size = 468
+	}
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 4
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 122
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 106
+	}
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 2
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 93
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 78
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 7
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 64
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 1104
+	}
+}
+#Wa  
+1912 = {
+	aristocrats = {
+		culture = vietnamese
+		religion = catholic
+		size = 405
+	}
+	clergymen = {
+		culture = vietnamese
+		religion = catholic
+		size = 168
+	}
+	artisans = {
+		culture = vietnamese
+		religion = catholic
+		size = 947
+	}
+	soldiers = {
+		culture = vietnamese
+		religion = catholic
+		size = 808
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 17247
+	}
+	clergymen = {
+		culture = khmer
+		religion = catholic
+		size = 405
+	}
+	artisans = {
+		culture = khmer
+		religion = catholic
+		size = 1964
+	}
+	soldiers = {
+		culture = khmer
+		religion = catholic
+		size = 1348
+	}
+	farmers = {
+		culture = khmer
+		religion = catholic
+		size = 36594
+	}
+}

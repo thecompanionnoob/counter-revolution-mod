@@ -1,0 +1,26 @@
+owner = ENG
+controller = ENG
+add_core = ENG
+trade_goods = coal
+life_rating = 44
+state_building = {
+	level = 3
+	building = fabric_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = steel_factory
+	upgrade = yes
+}
+state_building = {
+	level = 2
+	building = regular_clothes_factory
+	upgrade = yes
+}
+state_building = {
+	level = 2
+	building = luxury_clothes_factory
+	upgrade = yes
+}
+naval_base = 2

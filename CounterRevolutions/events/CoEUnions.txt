@@ -1,0 +1,367 @@
+#Unions
+country_event = {
+	id = 7600
+	title = "$FROMCOUNTRY$ Requests Annexation"
+	desc = "EVTDESC7600"
+	picture = "Administration"
+	is_triggered_only = yes
+	major = yes
+	allow_multiple_instances = yes
+	
+	option = {
+		name = "Yes."
+		FROM = { all_core = { add_core = THIS } }
+		inherit = FROM
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "No."
+		relation = {
+			who = FROM
+			value = -100
+		}
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#Czechoslovakia
+country_event = {
+	id = 7601
+	title = "Form Czechoslovakia"
+	desc = "EVTDESC7601"
+	picture = "Administration"
+	is_triggered_only = yes
+	major = yes
+	
+	option = {
+		name = "Yes."
+		BOH = {
+			all_core = { 
+				add_core = CZH 
+				remove_core = BOH
+			}
+		}
+		SLV = {
+			all_core = { 
+				add_core = CZH 
+				remove_core = SLV
+			}
+		}
+		FROM = { 
+			change_tag = CZH
+			add_accepted_culture = czech
+			add_accepted_culture = slovak
+			inherit = THIS
+		}
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "No."
+		relation = {
+			who = FROM
+			value = -100
+		}
+		ai_chance = { factor = 5 }
+	}
+}
+
+#Yugoslavia
+country_event = {
+	id = 7602
+	title = "Join Yugoslavia?"
+	desc = "EVTDESC7602"
+	picture = "Administration"
+	is_triggered_only = yes
+	major = yes
+	
+	option = {
+		name = "Yes."
+		THIS = {
+			all_core = { 
+				add_core = YUG 
+				remove_core = THIS
+			}
+		}
+		FROM = { 
+			inherit = THIS
+		}
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "No."
+		relation = {
+			who = FROM
+			value = -100
+		}
+		ai_chance = { factor = 5 }
+	}
+}
+
+#End of the Brother's War
+country_event = {
+	id = 7603
+	title = "End of the Brother's War"
+	desc = "EVTDESC7603"
+	is_triggered_only = yes
+	
+	option = {
+		name = "Yes"
+		FROM = {
+			diplomatic_influence = {
+				who = THIS
+				value = 400
+			}
+		}
+	}
+}
+
+#Unification of Hispaniola
+country_event = {
+	id = 7604
+	title = "Unification of Hispaniola"
+	desc = "EVTDESC7604"
+	picture = "Administration"
+	
+	is_triggered_only = yes
+	major = yes
+	
+	option = {
+		name = "Yes."
+		DOM = {
+			all_core = { 
+				add_core = HAI 
+			}
+		}
+		add_accepted_culture = caribeno
+		add_accepted_culture = afro_caribeno
+		inherit = FROM
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "No."
+		relation = {
+			who = FROM
+			value = -100
+		}
+		ai_chance = { factor = 5 }
+	}
+}
+
+# Luccan Inheritance (1/1)
+country_event = {
+	id = 7605
+	title = "Inheritance of the Duchy of Lucca"
+	desc = "EVTDESC7605"
+	major = yes
+	
+	trigger = {
+		tag = TUS
+		year = 1847
+		OR = {
+			government = absolute_monarchy
+			government = prussian_constitutionalism
+			government = hms_government
+		}
+		LUC = {
+			OR = {
+				government = absolute_monarchy
+				government = prussian_constitutionalism
+				government = hms_government
+			}
+			OR = {
+				is_vassal = no
+				vassal_of = THIS
+			}
+			exists = yes
+			war = no
+		}
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { months = 6 }
+	
+	option = {
+		name = "So be it."
+		LUC = {
+			all_core = {
+				remove_core = LUC
+				add_core = THIS
+			}
+			annex_to = THIS
+		}
+	}
+}
+
+# Hohenzollern-Sigmaringen Inheritance (1/1)
+country_event = {
+	id = 7606
+	title = "Hohenzollern-Sigmaringen Inheritance"
+	desc = "EVTDESC7606"
+
+	trigger = {
+		tag = PRU
+		year = 1849
+		OR = {
+			has_global_flag = liberal_revolutions_should_now_fire
+			has_country_flag = liberal_revolution_fired
+		}
+		HOH = { 
+			exists = yes
+			OR = {
+				is_vassal = no
+				vassal_of = THIS
+			}
+		}
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { months = 6 }
+	
+	option = {
+		name = "Yes"
+		HOH = {
+			all_core = {
+				remove_core = HOH
+				add_core = THIS
+			}
+		}
+		inherit = HOH
+	}
+}
+
+# Massa Inheritance (1/1)
+country_event = {
+	id = 7607
+	title = "Inheritance of the Duchy of Massa"
+	desc = "EVTDESC7607"
+	major = yes
+	
+	trigger = {
+		tag = MOD
+		year = 1829
+		OR = {
+			government = absolute_monarchy
+			government = prussian_constitutionalism
+			government = hms_government
+		}
+		MAC = {
+			OR = {
+				government = absolute_monarchy
+				government = prussian_constitutionalism
+				government = hms_government
+			}
+			OR = {
+				is_vassal = no
+				vassal_of = THIS
+			}
+			exists = yes
+			war = no
+		}
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { months = 6 }
+	
+	option = {
+		name = "So be it."
+		MAC = {
+			all_core = {
+				remove_core = MAC
+				add_core = THIS
+			}
+			annex_to = THIS
+		}
+	}
+}
+
+#Peru-Bolivia
+country_event = {
+	id = 7608
+	title = "Form Peru-Bolivia"
+	desc = "EVTDESC7608"
+	picture = "Administration"
+	
+	is_triggered_only = yes
+	major = yes
+	
+	option = {
+		name = "Yes."
+		PEU = {
+			all_core = {
+				add_core = PBO 
+			}
+		}
+		BOL = {
+			all_core = {
+				add_core = PBO 
+			}
+		}
+		annex_to = FROM
+		FROM = { 
+			change_tag = PBO
+		}
+		capital = 2578
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "No."
+		relation = {
+			who = FROM
+			value = -100
+		}
+		ai_chance = { factor = 5 }
+	}
+}
+
+# Coronation of Queen Wilhelmina (1/1)
+country_event = {
+	id = 7609
+	title = "Inheritance of the Duchy of Massa"
+	desc = "EVTDESC7609"
+	major = yes
+	
+	trigger = {
+		tag = NET
+		year = 1890
+		OR = {
+			government = absolute_monarchy
+			government = prussian_constitutionalism
+			government = hms_government
+		}
+		LUX = {
+			OR = {
+				government = absolute_monarchy
+				government = prussian_constitutionalism
+				government = hms_government
+			}
+			vassal_of = THIS
+			exists = yes
+			war = no
+		}
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { months = 6 }
+	
+	option = {
+		name = "The law is the law."
+		release_vassal = LUX
+		diplomatic_influence = {
+			who = LUX
+			value = -200
+		}
+		prestige = 5
+	}
+}

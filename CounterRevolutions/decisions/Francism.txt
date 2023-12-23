@@ -1,0 +1,48 @@
+political_decisions = {
+	pan_francism = {
+		potential = {
+			tag = FRA
+			year = 1820
+			has_country_flag = wallonia_reintegrated
+			NOT = { has_country_flag = french_nationalism }
+			}
+		allow = {
+			owns = 419
+			owns = 420
+			owns = 467
+			owns = 453
+			owns = 2213
+		}
+		effect = {
+		
+		add_accepted_culture = breton
+		add_accepted_culture = afro_antillean
+		add_accepted_culture = occitan
+		badboy = -30
+		set_country_flag = french_nationalism
+		}
+	}
+	
+	reintegrate_wallonia_and_calais = {
+		potential = {
+			tag = FRA
+			year = 1825
+			NOT = { has_country_flag = wallonia_reintegrated }
+			}
+		allow = {
+		ideological_thought = 1
+		AND = {
+			owns = 395
+			}
+		}
+		effect = {
+	
+		add_core = 392
+		add_core = 394
+		add_core = 395
+		add_core = 399
+		add_core = 401
+		set_country_flag = wallonia_reintegrated
+			}
+		}
+	}

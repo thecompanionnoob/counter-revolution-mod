@@ -1,0 +1,2652 @@
+#------Astrakhan Governorate------
+#Urda
+3593 = {
+	aristocrats = {
+		culture = kazak
+		religion = catholic
+		size = 136
+	}
+	bureaucrats = {
+		culture = kazak
+		religion = catholic
+		size = 136
+	}
+	officers = {
+		culture = kazak
+		religion = catholic
+		size = 136
+	}
+	clergymen = {
+		culture = kazak
+		religion = catholic
+		size = 136
+	}
+	artisans = {
+		culture = kazak
+		religion = catholic
+		size = 1370
+	}
+	soldiers = {
+		culture = kazak
+		religion = catholic
+		size = 3288
+	}
+	farmers = {
+		culture = kazak
+		religion = catholic
+		size = 24675
+	}
+	
+	aristocrats = {
+		culture = tatar
+		religion = catholic
+		size = 4
+	}
+	bureaucrats = {
+		culture = tatar
+		religion = catholic
+		size = 4
+	}
+	officers = {
+		culture = tatar
+		religion = catholic
+		size = 4
+	}
+	clergymen = {
+		culture = tatar
+		religion = catholic
+		size = 4
+	}
+	artisans = {
+		culture = tatar
+		religion = catholic
+		size = 38
+	}
+	soldiers = {
+		culture = tatar
+		religion = catholic
+		size = 92
+	}
+	farmers = {
+		culture = tatar
+		religion = catholic
+		size = 690
+	}
+}
+#------Uralsk Oblast------
+#Uralsk
+2610 = {
+	aristocrats = {
+		culture = kazak
+		religion = catholic
+		size = 99
+	}
+	bureaucrats = {
+		culture = kazak
+		religion = catholic
+		size = 99
+	}
+	officers = {
+		culture = kazak
+		religion = catholic
+		size = 99
+	}
+	clergymen = {
+		culture = kazak
+		religion = catholic
+		size = 99
+	}
+	artisans = {
+		culture = kazak
+		religion = catholic
+		size = 998
+	}
+	soldiers = {
+		culture = kazak
+		religion = catholic
+		size = 2396
+	}
+	farmers = {
+		culture = kazak
+		religion = catholic
+		size = 17966
+	}
+
+	aristocrats = {
+		culture = russian
+		religion = catholic
+		size = 24
+	}
+	bureaucrats = {
+		culture = russian
+		religion = catholic
+		size = 24
+	}
+	officers = {
+		culture = russian
+		religion = catholic
+		size = 24
+	}
+	clergymen = {
+		culture = russian
+		religion = catholic
+		size = 24
+	}
+	artisans = {
+		culture = russian
+		religion = catholic
+		size = 246
+	}
+	soldiers = {
+		culture = russian
+		religion = catholic
+		size = 588
+	}
+	farmers = {
+		culture = russian
+		religion = catholic
+		size = 4435
+	}
+	
+	aristocrats = {
+		culture = tatar
+		religion = catholic
+		size = 9
+	}
+	bureaucrats = {
+		culture = tatar
+		religion = catholic
+		size = 9
+	}
+	officers = {
+		culture = tatar
+		religion = catholic
+		size = 9
+	}
+	clergymen = {
+		culture = tatar
+		religion = catholic
+		size = 9
+	}
+	artisans = {
+		culture = tatar
+		religion = catholic
+		size = 95
+	}
+	soldiers = {
+		culture = tatar
+		religion = catholic
+		size = 224
+	}
+	farmers = {
+		culture = tatar
+		religion = catholic
+		size = 1713
+	}
+}
+#Guryev
+1182 = {
+	aristocrats = {
+		culture = kazak
+		religion = catholic
+		size = 158
+	}
+	bureaucrats = {
+		culture = kazak
+		religion = catholic
+		size = 158
+	}
+	officers = {
+		culture = kazak
+		religion = catholic
+		size = 158
+	}
+	clergymen = {
+		culture = kazak
+		religion = catholic
+		size = 158
+	}
+	artisans = {
+		culture = kazak
+		religion = catholic
+		size = 1586
+	}
+	soldiers = {
+		culture = kazak
+		religion = catholic
+		size = 3808
+	}
+	farmers = {
+		culture = kazak
+		religion = catholic
+		size = 28557
+	}
+	
+	aristocrats = {
+		culture = russian
+		religion = catholic
+		size = 9
+	}
+	bureaucrats = {
+		culture = russian
+		religion = catholic
+		size = 9
+	}
+	officers = {
+		culture = russian
+		religion = catholic
+		size = 9
+	}
+	clergymen = {
+		culture = russian
+		religion = catholic
+		size = 9
+	}
+	artisans = {
+		culture = russian
+		religion = catholic
+		size = 98
+	}
+	soldiers = {
+		culture = russian
+		religion = catholic
+		size = 232
+	}
+	farmers = {
+		culture = russian
+		religion = catholic
+		size = 1771
+	}
+	
+	aristocrats = {
+		culture = tatar
+		religion = catholic
+		size = 2
+	}
+	bureaucrats = {
+		culture = tatar
+		religion = catholic
+		size = 2
+	}
+	officers = {
+		culture = tatar
+		religion = catholic
+		size = 2
+	}
+	clergymen = {
+		culture = tatar
+		religion = catholic
+		size = 2
+	}
+	artisans = {
+		culture = tatar
+		religion = catholic
+		size = 21
+	}
+	soldiers = {
+		culture = tatar
+		religion = catholic
+		size = 48
+	}
+	farmers = {
+		culture = tatar
+		religion = catholic
+		size = 384
+	}
+}
+#Lbishchensk
+3585 = {
+	aristocrats = {
+		culture = kazak
+		religion = catholic
+		size = 95
+	}
+	bureaucrats = {
+		culture = kazak
+		religion = catholic
+		size = 95
+	}
+	officers = {
+		culture = kazak
+		religion = catholic
+		size = 95
+	}
+	clergymen = {
+		culture = kazak
+		religion = catholic
+		size = 95
+	}
+	artisans = {
+		culture = kazak
+		religion = catholic
+		size = 953
+	}
+	soldiers = {
+		culture = kazak
+		religion = catholic
+		size = 2288
+	}
+	farmers = {
+		culture = kazak
+		religion = catholic
+		size = 17169
+	}
+	
+	aristocrats = {
+		culture = russian
+		religion = catholic
+		size = 3
+	}
+	bureaucrats = {
+		culture = russian
+		religion = catholic
+		size = 3
+	}
+	officers = {
+		culture = russian
+		religion = catholic
+		size = 3
+	}
+	clergymen = {
+		culture = russian
+		religion = catholic
+		size = 3
+	}
+	artisans = {
+		culture = russian
+		religion = catholic
+		size = 42
+	}
+	soldiers = {
+		culture = russian
+		religion = catholic
+		size = 100
+	}
+	farmers = {
+		culture = russian
+		religion = catholic
+		size = 774
+	}
+	
+	aristocrats = {
+		culture = tatar
+		religion = catholic
+		size = 1
+	}
+	bureaucrats = {
+		culture = tatar
+		religion = catholic
+		size = 1
+	}
+	officers = {
+		culture = tatar
+		religion = catholic
+		size = 1
+	}
+	clergymen = {
+		culture = tatar
+		religion = catholic
+		size = 1
+	}
+	artisans = {
+		culture = tatar
+		religion = catholic
+		size = 14
+	}
+	soldiers = {
+		culture = tatar
+		religion = catholic
+		size = 32
+	}
+	farmers = {
+		culture = tatar
+		religion = catholic
+		size = 262
+	}
+}
+#Temir
+3586 = {
+	aristocrats = {
+		culture = kazak
+		religion = catholic
+		size = 62
+	}
+	bureaucrats = {
+		culture = kazak
+		religion = catholic
+		size = 62
+	}
+	officers = {
+		culture = kazak
+		religion = catholic
+		size = 62
+	}
+	clergymen = {
+		culture = kazak
+		religion = catholic
+		size = 62
+	}
+	artisans = {
+		culture = kazak
+		religion = catholic
+		size = 622
+	}
+	soldiers = {
+		culture = kazak
+		religion = catholic
+		size = 1492
+	}
+	farmers = {
+		culture = kazak
+		religion = catholic
+		size = 11205
+	}
+}
+#------Turgay Oblast------
+#Aktobe
+1183 = {
+	aristocrats = {
+		culture = kazak
+		religion = catholic
+		size = 72
+	}
+	bureaucrats = {
+		culture = kazak
+		religion = catholic
+		size = 72
+	}
+	officers = {
+		culture = kazak
+		religion = catholic
+		size = 72
+	}
+	clergymen = {
+		culture = kazak
+		religion = catholic
+		size = 72
+	}
+	artisans = {
+		culture = kazak
+		religion = catholic
+		size = 724
+	}
+	soldiers = {
+		culture = kazak
+		religion = catholic
+		size = 1736
+	}
+	farmers = {
+		culture = kazak
+		religion = catholic
+		size = 13043
+	}
+	
+	aristocrats = {
+		culture = russian
+		religion = catholic
+		size = 0
+	}
+	bureaucrats = {
+		culture = russian
+		religion = catholic
+		size = 0
+	}
+	officers = {
+		culture = russian
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = russian
+		religion = catholic
+		size = 0
+	}
+	artisans = {
+		culture = russian
+		religion = catholic
+		size = 6
+	}
+	soldiers = {
+		culture = russian
+		religion = catholic
+		size = 12
+	}
+	farmers = {
+		culture = russian
+		religion = catholic
+		size = 114
+	}
+}
+#Turgay
+2611 = {
+	aristocrats = {
+		culture = kazak
+		religion = catholic
+		size = 56
+	}
+	bureaucrats = {
+		culture = kazak
+		religion = catholic
+		size = 56
+	}
+	officers = {
+		culture = kazak
+		religion = catholic
+		size = 56
+	}
+	clergymen = {
+		culture = kazak
+		religion = catholic
+		size = 56
+	}
+	artisans = {
+		culture = kazak
+		religion = catholic
+		size = 570
+	}
+	soldiers = {
+		culture = kazak
+		religion = catholic
+		size = 1368
+	}
+	farmers = {
+		culture = kazak
+		religion = catholic
+		size = 10258
+	}
+}
+#Irgiz
+2702 = {
+	aristocrats = {
+		culture = kazak
+		religion = catholic
+		size = 64
+	}
+	bureaucrats = {
+		culture = kazak
+		religion = catholic
+		size = 64
+	}
+	officers = {
+		culture = kazak
+		religion = catholic
+		size = 64
+	}
+	clergymen = {
+		culture = kazak
+		religion = catholic
+		size = 64
+	}
+	artisans = {
+		culture = kazak
+		religion = catholic
+		size = 642
+	}
+	soldiers = {
+		culture = kazak
+		religion = catholic
+		size = 1540
+	}
+	farmers = {
+		culture = kazak
+		religion = catholic
+		size = 11561
+	}
+}
+#Kostanay
+2612 = {
+	aristocrats = {
+		culture = kazak
+		religion = catholic
+		size = 78
+	}
+	bureaucrats = {
+		culture = kazak
+		religion = catholic
+		size = 78
+	}
+	officers = {
+		culture = kazak
+		religion = catholic
+		size = 78
+	}
+	clergymen = {
+		culture = kazak
+		religion = catholic
+		size = 78
+	}
+	artisans = {
+		culture = kazak
+		religion = catholic
+		size = 781
+	}
+	soldiers = {
+		culture = kazak
+		religion = catholic
+		size = 1872
+	}
+	farmers = {
+		culture = kazak
+		religion = catholic
+		size = 14056
+	}
+	
+	aristocrats = {
+		culture = russian
+		religion = catholic
+		size = 4
+	}
+	bureaucrats = {
+		culture = russian
+		religion = catholic
+		size = 4
+	}
+	officers = {
+		culture = russian
+		religion = catholic
+		size = 4
+	}
+	clergymen = {
+		culture = russian
+		religion = catholic
+		size = 4
+	}
+	artisans = {
+		culture = russian
+		religion = catholic
+		size = 50
+	}
+	soldiers = {
+		culture = russian
+		religion = catholic
+		size = 116
+	}
+	farmers = {
+		culture = russian
+		religion = catholic
+		size = 920
+	}
+	
+	aristocrats = {
+		culture = ukrainian
+		religion = catholic
+		size = 0
+	}
+	bureaucrats = {
+		culture = ukrainian
+		religion = catholic
+		size = 0
+	}
+	officers = {
+		culture = ukrainian
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = ukrainian
+		religion = catholic
+		size = 0
+	}
+	artisans = {
+		culture = ukrainian
+		religion = catholic
+		size = 6
+	}
+	soldiers = {
+		culture = ukrainian
+		religion = catholic
+		size = 12
+	}
+	farmers = {
+		culture = ukrainian
+		religion = catholic
+		size = 125
+	}
+	
+	aristocrats = {
+		culture = volga_finns
+		religion = catholic
+		size = 1
+	}
+	bureaucrats = {
+		culture = volga_finns
+		religion = catholic
+		size = 1
+	}
+	officers = {
+		culture = volga_finns
+		religion = catholic
+		size = 1
+	}
+	clergymen = {
+		culture = volga_finns
+		religion = catholic
+		size = 1
+	}
+	artisans = {
+		culture = volga_finns
+		religion = catholic
+		size = 12
+	}
+	soldiers = {
+		culture = volga_finns
+		religion = catholic
+		size = 28
+	}
+	farmers = {
+		culture = volga_finns
+		religion = catholic
+		size = 236
+	}
+	
+	aristocrats = {
+		culture = tatar
+		religion = catholic
+		size = 1
+	}
+	bureaucrats = {
+		culture = tatar
+		religion = catholic
+		size = 1
+	}
+	officers = {
+		culture = tatar
+		religion = catholic
+		size = 1
+	}
+	clergymen = {
+		culture = tatar
+		religion = catholic
+		size = 1
+	}
+	artisans = {
+		culture = tatar
+		religion = catholic
+		size = 10
+	}
+	soldiers = {
+		culture = tatar
+		religion = catholic
+		size = 24
+	}
+	farmers = {
+		culture = tatar
+		religion = catholic
+		size = 200
+	}
+}
+#------Akmolinsk Oblast------
+#Akmolinsk
+1181 = {
+	aristocrats = {
+		culture = kazak
+		religion = catholic
+		size = 110
+	}
+	bureaucrats = {
+		culture = kazak
+		religion = catholic
+		size = 110
+	}
+	officers = {
+		culture = kazak
+		religion = catholic
+		size = 110
+	}
+	clergymen = {
+		culture = kazak
+		religion = catholic
+		size = 110
+	}
+	artisans = {
+		culture = kazak
+		religion = catholic
+		size = 1099
+	}
+	soldiers = {
+		culture = kazak
+		religion = catholic
+		size = 2640
+	}
+	farmers = {
+		culture = kazak
+		religion = catholic
+		size = 19805
+	}
+	
+	aristocrats = {
+		culture = russian
+		religion = catholic
+		size = 1
+	}
+	bureaucrats = {
+		culture = russian
+		religion = catholic
+		size = 1
+	}
+	officers = {
+		culture = russian
+		religion = catholic
+		size = 1
+	}
+	clergymen = {
+		culture = russian
+		religion = catholic
+		size = 1
+	}
+	artisans = {
+		culture = russian
+		religion = catholic
+		size = 18
+	}
+	soldiers = {
+		culture = russian
+		religion = catholic
+		size = 40
+	}
+	farmers = {
+		culture = russian
+		religion = catholic
+		size = 329
+	}
+	
+	aristocrats = {
+		culture = ukrainian
+		religion = catholic
+		size = 0
+	}
+	bureaucrats = {
+		culture = ukrainian
+		religion = catholic
+		size = 0
+	}
+	officers = {
+		culture = ukrainian
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = ukrainian
+		religion = catholic
+		size = 0
+	}
+	artisans = {
+		culture = ukrainian
+		religion = catholic
+		size = 9
+	}
+	soldiers = {
+		culture = ukrainian
+		religion = catholic
+		size = 20
+	}
+	farmers = {
+		culture = ukrainian
+		religion = catholic
+		size = 184
+	}
+}
+#Kokchetav
+1184 = {
+	aristocrats = {
+		culture = kazak
+		religion = catholic
+		size = 52
+	}
+	bureaucrats = {
+		culture = kazak
+		religion = catholic
+		size = 52
+	}
+	officers = {
+		culture = kazak
+		religion = catholic
+		size = 52
+	}
+	clergymen = {
+		culture = kazak
+		religion = catholic
+		size = 52
+	}
+	artisans = {
+		culture = kazak
+		religion = catholic
+		size = 522
+	}
+	soldiers = {
+		culture = kazak
+		religion = catholic
+		size = 1252
+	}
+	farmers = {
+		culture = kazak
+		religion = catholic
+		size = 9402
+	}
+	
+	aristocrats = {
+		culture = russian
+		religion = catholic
+		size = 9
+	}
+	bureaucrats = {
+		culture = russian
+		religion = catholic
+		size = 9
+	}
+	officers = {
+		culture = russian
+		religion = catholic
+		size = 9
+	}
+	clergymen = {
+		culture = russian
+		religion = catholic
+		size = 9
+	}
+	artisans = {
+		culture = russian
+		religion = catholic
+		size = 95
+	}
+	soldiers = {
+		culture = russian
+		religion = catholic
+		size = 224
+	}
+	farmers = {
+		culture = russian
+		religion = catholic
+		size = 1720
+	}
+	
+	aristocrats = {
+		culture = ukrainian
+		religion = catholic
+		size = 3
+	}
+	bureaucrats = {
+		culture = ukrainian
+		religion = catholic
+		size = 3
+	}
+	officers = {
+		culture = ukrainian
+		religion = catholic
+		size = 3
+	}
+	clergymen = {
+		culture = ukrainian
+		religion = catholic
+		size = 3
+	}
+	artisans = {
+		culture = ukrainian
+		religion = catholic
+		size = 37
+	}
+	soldiers = {
+		culture = ukrainian
+		religion = catholic
+		size = 88
+	}
+	farmers = {
+		culture = ukrainian
+		religion = catholic
+		size = 688
+	}
+	
+	aristocrats = {
+		culture = tatar
+		religion = catholic
+		size = 1
+	}
+	bureaucrats = {
+		culture = tatar
+		religion = catholic
+		size = 1
+	}
+	officers = {
+		culture = tatar
+		religion = catholic
+		size = 1
+	}
+	clergymen = {
+		culture = tatar
+		religion = catholic
+		size = 1
+	}
+	artisans = {
+		culture = tatar
+		religion = catholic
+		size = 10
+	}
+	soldiers = {
+		culture = tatar
+		religion = catholic
+		size = 24
+	}
+	farmers = {
+		culture = tatar
+		religion = catholic
+		size = 185
+	}
+	
+	aristocrats = {
+		culture = volga_finns
+		religion = catholic
+		size = 4
+	}
+	bureaucrats = {
+		culture = volga_finns
+		religion = catholic
+		size = 4
+	}
+	officers = {
+		culture = volga_finns
+		religion = catholic
+		size = 4
+	}
+	clergymen = {
+		culture = volga_finns
+		religion = catholic
+		size = 4
+	}
+	artisans = {
+		culture = volga_finns
+		religion = catholic
+		size = 43
+	}
+	soldiers = {
+		culture = volga_finns
+		religion = catholic
+		size = 104
+	}
+	farmers = {
+		culture = volga_finns
+		religion = catholic
+		size = 796
+	}
+}
+#Atbasar
+3587 = {
+	aristocrats = {
+		culture = kazak
+		religion = catholic
+		size = 49
+	}
+	bureaucrats = {
+		culture = kazak
+		religion = catholic
+		size = 49
+	}
+	officers = {
+		culture = kazak
+		religion = catholic
+		size = 49
+	}
+	clergymen = {
+		culture = kazak
+		religion = catholic
+		size = 49
+	}
+	artisans = {
+		culture = kazak
+		religion = catholic
+		size = 494
+	}
+	soldiers = {
+		culture = kazak
+		religion = catholic
+		size = 1184
+	}
+	farmers = {
+		culture = kazak
+		religion = catholic
+		size = 8898
+	}
+	
+	aristocrats = {
+		culture = russian
+		religion = catholic
+		size = 1
+	}
+	bureaucrats = {
+		culture = russian
+		religion = catholic
+		size = 1
+	}
+	officers = {
+		culture = russian
+		religion = catholic
+		size = 1
+	}
+	clergymen = {
+		culture = russian
+		religion = catholic
+		size = 1
+	}
+	artisans = {
+		culture = russian
+		religion = catholic
+		size = 18
+	}
+	soldiers = {
+		culture = russian
+		religion = catholic
+		size = 40
+	}
+	farmers = {
+		culture = russian
+		religion = catholic
+		size = 326
+	}
+	
+	aristocrats = {
+		culture = ukrainian
+		religion = catholic
+		size = 0
+	}
+	bureaucrats = {
+		culture = ukrainian
+		religion = catholic
+		size = 0
+	}
+	officers = {
+		culture = ukrainian
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = ukrainian
+		religion = catholic
+		size = 0
+	}
+	artisans = {
+		culture = ukrainian
+		religion = catholic
+		size = 3
+	}
+	soldiers = {
+		culture = ukrainian
+		religion = catholic
+		size = 8
+	}
+	farmers = {
+		culture = ukrainian
+		religion = catholic
+		size = 67
+	}
+}
+#Petropavlovsk
+3588 = {
+	aristocrats = {
+		culture = kazak
+		religion = catholic
+		size = 46
+	}
+	bureaucrats = {
+		culture = kazak
+		religion = catholic
+		size = 46
+	}
+	officers = {
+		culture = kazak
+		religion = catholic
+		size = 46
+	}
+	clergymen = {
+		culture = kazak
+		religion = catholic
+		size = 46
+	}
+	artisans = {
+		culture = kazak
+		religion = catholic
+		size = 456
+	}
+	soldiers = {
+		culture = kazak
+		religion = catholic
+		size = 1092
+	}
+	farmers = {
+		culture = kazak
+		religion = catholic
+		size = 8218
+	}
+	
+	aristocrats = {
+		culture = russian
+		religion = catholic
+		size = 10
+	}
+	bureaucrats = {
+		culture = russian
+		religion = catholic
+		size = 10
+	}
+	officers = {
+		culture = russian
+		religion = catholic
+		size = 10
+	}
+	clergymen = {
+		culture = russian
+		religion = catholic
+		size = 10
+	}
+	artisans = {
+		culture = russian
+		religion = catholic
+		size = 112
+	}
+	soldiers = {
+		culture = russian
+		religion = catholic
+		size = 268
+	}
+	farmers = {
+		culture = russian
+		religion = catholic
+		size = 2033
+	}
+	
+	aristocrats = {
+		culture = ukrainian
+		religion = catholic
+		size = 3
+	}
+	bureaucrats = {
+		culture = ukrainian
+		religion = catholic
+		size = 3
+	}
+	officers = {
+		culture = ukrainian
+		religion = catholic
+		size = 3
+	}
+	clergymen = {
+		culture = ukrainian
+		religion = catholic
+		size = 3
+	}
+	artisans = {
+		culture = ukrainian
+		religion = catholic
+		size = 39
+	}
+	soldiers = {
+		culture = ukrainian
+		religion = catholic
+		size = 92
+	}
+	farmers = {
+		culture = ukrainian
+		religion = catholic
+		size = 725
+	}
+	
+	aristocrats = {
+		culture = tatar
+		religion = catholic
+		size = 4
+	}
+	bureaucrats = {
+		culture = tatar
+		religion = catholic
+		size = 4
+	}
+	officers = {
+		culture = tatar
+		religion = catholic
+		size = 4
+	}
+	clergymen = {
+		culture = tatar
+		religion = catholic
+		size = 4
+	}
+	artisans = {
+		culture = tatar
+		religion = catholic
+		size = 43
+	}
+	soldiers = {
+		culture = tatar
+		religion = catholic
+		size = 104
+	}
+	farmers = {
+		culture = tatar
+		religion = catholic
+		size = 793
+	}
+}
+#------Semipalatinsk Oblast------
+#Semipalatinsk
+1187 = {
+	aristocrats = {
+		culture = kazak
+		religion = catholic
+		size = 81
+	}
+	bureaucrats = {
+		culture = kazak
+		religion = catholic
+		size = 81
+	}
+	officers = {
+		culture = kazak
+		religion = catholic
+		size = 81
+	}
+	clergymen = {
+		culture = kazak
+		religion = catholic
+		size = 81
+	}
+	artisans = {
+		culture = kazak
+		religion = catholic
+		size = 808
+	}
+	soldiers = {
+		culture = kazak
+		religion = catholic
+		size = 1940
+	}
+	farmers = {
+		culture = kazak
+		religion = catholic
+		size = 14559
+	}
+	
+	aristocrats = {
+		culture = russian
+		religion = catholic
+		size = 4
+	}
+	bureaucrats = {
+		culture = russian
+		religion = catholic
+		size = 4
+	}
+	officers = {
+		culture = russian
+		religion = catholic
+		size = 4
+	}
+	clergymen = {
+		culture = russian
+		religion = catholic
+		size = 4
+	}
+	artisans = {
+		culture = russian
+		religion = catholic
+		size = 51
+	}
+	soldiers = {
+		culture = russian
+		religion = catholic
+		size = 124
+	}
+	farmers = {
+		culture = russian
+		religion = catholic
+		size = 928
+	}
+	
+	aristocrats = {
+		culture = tatar
+		religion = catholic
+		size = 4
+	}
+	bureaucrats = {
+		culture = tatar
+		religion = catholic
+		size = 4
+	}
+	officers = {
+		culture = tatar
+		religion = catholic
+		size = 4
+	}
+	clergymen = {
+		culture = tatar
+		religion = catholic
+		size = 4
+	}
+	artisans = {
+		culture = tatar
+		religion = catholic
+		size = 46
+	}
+	soldiers = {
+		culture = tatar
+		religion = catholic
+		size = 108
+	}
+	farmers = {
+		culture = tatar
+		religion = catholic
+		size = 821
+	}
+}
+#Karkaraly
+2606 = {
+	aristocrats = {
+		culture = kazak
+		religion = catholic
+		size = 112
+	}
+	bureaucrats = {
+		culture = kazak
+		religion = catholic
+		size = 112
+	}
+	officers = {
+		culture = kazak
+		religion = catholic
+		size = 112
+	}
+	clergymen = {
+		culture = kazak
+		religion = catholic
+		size = 112
+	}
+	artisans = {
+		culture = kazak
+		religion = catholic
+		size = 1121
+	}
+	soldiers = {
+		culture = kazak
+		religion = catholic
+		size = 2692
+	}
+	farmers = {
+		culture = kazak
+		religion = catholic
+		size = 20189
+	}
+}
+#Pavlodar
+2664 = {
+	aristocrats = {
+		culture = kazak
+		religion = catholic
+		size = 94
+	}
+	bureaucrats = {
+		culture = kazak
+		religion = catholic
+		size = 94
+	}
+	officers = {
+		culture = kazak
+		religion = catholic
+		size = 94
+	}
+	clergymen = {
+		culture = kazak
+		religion = catholic
+		size = 94
+	}
+	artisans = {
+		culture = kazak
+		religion = catholic
+		size = 942
+	}
+	soldiers = {
+		culture = kazak
+		religion = catholic
+		size = 2264
+	}
+	farmers = {
+		culture = kazak
+		religion = catholic
+		size = 16966
+	}
+	
+	aristocrats = {
+		culture = russian
+		religion = catholic
+		size = 2
+	}
+	bureaucrats = {
+		culture = russian
+		religion = catholic
+		size = 2
+	}
+	officers = {
+		culture = russian
+		religion = catholic
+		size = 2
+	}
+	clergymen = {
+		culture = russian
+		religion = catholic
+		size = 2
+	}
+	artisans = {
+		culture = russian
+		religion = catholic
+		size = 26
+	}
+	soldiers = {
+		culture = russian
+		religion = catholic
+		size = 64
+	}
+	farmers = {
+		culture = russian
+		religion = catholic
+		size = 494
+	}
+}
+#Ust-Kamenogorsk
+3589 = {
+	aristocrats = {
+		culture = kazak
+		religion = catholic
+		size = 53
+	}
+	bureaucrats = {
+		culture = kazak
+		religion = catholic
+		size = 53
+	}
+	officers = {
+		culture = kazak
+		religion = catholic
+		size = 53
+	}
+	clergymen = {
+		culture = kazak
+		religion = catholic
+		size = 53
+	}
+	artisans = {
+		culture = kazak
+		religion = catholic
+		size = 537
+	}
+	soldiers = {
+		culture = kazak
+		religion = catholic
+		size = 1288
+	}
+	farmers = {
+		culture = kazak
+		religion = catholic
+		size = 9666
+	}
+	
+	aristocrats = {
+		culture = russian
+		religion = catholic
+		size = 3
+	}
+	bureaucrats = {
+		culture = russian
+		religion = catholic
+		size = 3
+	}
+	officers = {
+		culture = russian
+		religion = catholic
+		size = 3
+	}
+	clergymen = {
+		culture = russian
+		religion = catholic
+		size = 3
+	}
+	artisans = {
+		culture = russian
+		religion = catholic
+		size = 36
+	}
+	soldiers = {
+		culture = russian
+		religion = catholic
+		size = 88
+	}
+	farmers = {
+		culture = russian
+		religion = catholic
+		size = 668
+	}
+	aristocrats = {
+		culture = ukrainian
+		religion = catholic
+		size = 0
+	}
+	bureaucrats = {
+		culture = ukrainian
+		religion = catholic
+		size = 0
+	}
+	officers = {
+		culture = ukrainian
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = ukrainian
+		religion = catholic
+		size = 0
+	}
+	artisans = {
+		culture = ukrainian
+		religion = catholic
+		size = 4
+	}
+	soldiers = {
+		culture = ukrainian
+		religion = catholic
+		size = 8
+	}
+	farmers = {
+		culture = ukrainian
+		religion = catholic
+		size = 81
+	}
+}
+#Zaisan
+3590 = {
+	aristocrats = {
+		culture = kazak
+		religion = catholic
+		size = 58
+	}
+	bureaucrats = {
+		culture = kazak
+		religion = catholic
+		size = 58
+	}
+	officers = {
+		culture = kazak
+		religion = catholic
+		size = 58
+	}
+	clergymen = {
+		culture = kazak
+		religion = catholic
+		size = 58
+	}
+	artisans = {
+		culture = kazak
+		religion = catholic
+		size = 587
+	}
+	soldiers = {
+		culture = kazak
+		religion = catholic
+		size = 1412
+	}
+	farmers = {
+		culture = kazak
+		religion = catholic
+		size = 10582
+	}
+	
+	aristocrats = {
+		culture = russian
+		religion = catholic
+		size = 0
+	}
+	bureaucrats = {
+		culture = russian
+		religion = catholic
+		size = 0
+	}
+	officers = {
+		culture = russian
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = russian
+		religion = catholic
+		size = 0
+	}
+	artisans = {
+		culture = russian
+		religion = catholic
+		size = 9
+	}
+	soldiers = {
+		culture = russian
+		religion = catholic
+		size = 20
+	}
+	farmers = {
+		culture = russian
+		religion = catholic
+		size = 182
+	}
+}
+#------Semirechye Oblast------
+#Verny
+1186 = {
+	aristocrats = {
+		culture = kazak
+		religion = catholic
+		size = 100
+	}
+	bureaucrats = {
+		culture = kazak
+		religion = catholic
+		size = 100
+	}
+	officers = {
+		culture = kazak
+		religion = catholic
+		size = 100
+	}
+	clergymen = {
+		culture = kazak
+		religion = catholic
+		size = 100
+	}
+	artisans = {
+		culture = kazak
+		religion = catholic
+		size = 1002
+	}
+	soldiers = {
+		culture = kazak
+		religion = catholic
+		size = 2404
+	}
+	farmers = {
+		culture = kazak
+		religion = catholic
+		size = 18043
+	}
+	aristocrats = {
+		culture = uighur
+		religion = catholic
+		size = 17
+	}
+	bureaucrats = {
+		culture = uighur
+		religion = catholic
+		size = 17
+	}
+	officers = {
+		culture = uighur
+		religion = catholic
+		size = 17
+	}
+	clergymen = {
+		culture = uighur
+		religion = catholic
+		size = 17
+	}
+	artisans = {
+		culture = uighur
+		religion = catholic
+		size = 170
+	}
+	soldiers = {
+		culture = uighur
+		religion = catholic
+		size = 404
+	}
+	farmers = {
+		culture = uighur
+		religion = catholic
+		size = 3065
+	}
+	aristocrats = {
+		culture = uighur
+		religion = catholic
+		size = 4
+	}
+	bureaucrats = {
+		culture = uighur
+		religion = catholic
+		size = 4
+	}
+	officers = {
+		culture = uighur
+		religion = catholic
+		size = 4
+	}
+	clergymen = {
+		culture = uighur
+		religion = catholic
+		size = 4
+	}
+	artisans = {
+		culture = uighur
+		religion = catholic
+		size = 38
+	}
+	soldiers = {
+		culture = uighur
+		religion = catholic
+		size = 92
+	}
+	farmers = {
+		culture = uighur
+		religion = catholic
+		size = 693
+	}
+}
+#Lepsinsk
+1188 = {
+	aristocrats = {
+		culture = kazak
+		religion = catholic
+		size = 102
+	}
+	bureaucrats = {
+		culture = kazak
+		religion = catholic
+		size = 102
+	}
+	officers = {
+		culture = kazak
+		religion = catholic
+		size = 102
+	}
+	clergymen = {
+		culture = kazak
+		religion = catholic
+		size = 102
+	}
+	artisans = {
+		culture = kazak
+		religion = catholic
+		size = 1032
+	}
+	soldiers = {
+		culture = kazak
+		religion = catholic
+		size = 2476
+	}
+	farmers = {
+		culture = kazak
+		religion = catholic
+		size = 18577
+	}
+	artisans = {
+		culture = uighur
+		religion = catholic
+		size = 2
+	}
+	soldiers = {
+		culture = uighur
+		religion = catholic
+		size = 4
+	}
+	farmers = {
+		culture = uighur
+		religion = catholic
+		size = 29
+	}
+	aristocrats = {
+		culture = tatar
+		religion = catholic
+		size = 1
+	}
+	bureaucrats = {
+		culture = tatar
+		religion = catholic
+		size = 1
+	}
+	officers = {
+		culture = tatar
+		religion = catholic
+		size = 1
+	}
+	clergymen = {
+		culture = tatar
+		religion = catholic
+		size = 1
+	}
+	artisans = {
+		culture = tatar
+		religion = catholic
+		size = 12
+	}
+	soldiers = {
+		culture = tatar
+		religion = catholic
+		size = 28
+	}
+	farmers = {
+		culture = tatar
+		religion = catholic
+		size = 236
+	}
+}
+#Dzharkent
+3591 = {
+	aristocrats = {
+		culture = kazak
+		religion = catholic
+		size = 53
+	}
+	bureaucrats = {
+		culture = kazak
+		religion = catholic
+		size = 53
+	}
+	officers = {
+		culture = kazak
+		religion = catholic
+		size = 53
+	}
+	clergymen = {
+		culture = kazak
+		religion = catholic
+		size = 53
+	}
+	artisans = {
+		culture = kazak
+		religion = catholic
+		size = 540
+	}
+	soldiers = {
+		culture = kazak
+		religion = catholic
+		size = 1296
+	}
+	farmers = {
+		culture = kazak
+		religion = catholic
+		size = 9723
+	}
+	aristocrats = {
+		culture = uighur
+		religion = catholic
+		size = 20
+	}
+	bureaucrats = {
+		culture = uighur
+		religion = catholic
+		size = 20
+	}
+	officers = {
+		culture = uighur
+		religion = catholic
+		size = 20
+	}
+	clergymen = {
+		culture = uighur
+		religion = catholic
+		size = 20
+	}
+	artisans = {
+		culture = uighur
+		religion = catholic
+		size = 199
+	}
+	soldiers = {
+		culture = uighur
+		religion = catholic
+		size = 476
+	}
+	farmers = {
+		culture = uighur
+		religion = catholic
+		size = 3590
+	}
+	aristocrats = {
+		culture = uighur
+		religion = catholic
+		size = 1
+	}
+	bureaucrats = {
+		culture = uighur
+		religion = catholic
+		size = 1
+	}
+	officers = {
+		culture = uighur
+		religion = catholic
+		size = 1
+	}
+	clergymen = {
+		culture = uighur
+		religion = catholic
+		size = 1
+	}
+	artisans = {
+		culture = uighur
+		religion = catholic
+		size = 6
+	}
+	soldiers = {
+		culture = uighur
+		religion = catholic
+		size = 16
+	}
+	farmers = {
+		culture = uighur
+		religion = catholic
+		size = 120
+	}
+	
+	aristocrats = {
+		culture = han
+		religion = catholic
+		size = 2
+	}
+	bureaucrats = {
+		culture = han
+		religion = catholic
+		size = 2
+	}
+	officers = {
+		culture = han
+		religion = catholic
+		size = 2
+	}
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 2
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 17
+	}
+	soldiers = {
+		culture = han
+		religion = catholic
+		size = 40
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 307
+	}
+}
+#Kopal
+3592 = {
+	aristocrats = {
+		culture = kazak
+		religion = catholic
+		size = 83
+	}
+	bureaucrats = {
+		culture = kazak
+		religion = catholic
+		size = 83
+	}
+	officers = {
+		culture = kazak
+		religion = catholic
+		size = 83
+	}
+	clergymen = {
+		culture = kazak
+		religion = catholic
+		size = 83
+	}
+	artisans = {
+		culture = kazak
+		religion = catholic
+		size = 831
+	}
+	soldiers = {
+		culture = kazak
+		religion = catholic
+		size = 1992
+	}
+	farmers = {
+		culture = kazak
+		religion = catholic
+		size = 14957
+	}
+	artisans = {
+		culture = uighur
+		religion = catholic
+		size = 2
+	}
+	soldiers = {
+		culture = uighur
+		religion = catholic
+		size = 4
+	}
+	farmers = {
+		culture = uighur
+		religion = catholic
+		size = 38
+	}
+	aristocrats = {
+		culture = tatar
+		religion = catholic
+		size = 1
+	}
+	bureaucrats = {
+		culture = tatar
+		religion = catholic
+		size = 1
+	}
+	officers = {
+		culture = tatar
+		religion = catholic
+		size = 1
+	}
+	clergymen = {
+		culture = tatar
+		religion = catholic
+		size = 1
+	}
+	artisans = {
+		culture = tatar
+		religion = catholic
+		size = 10
+	}
+	soldiers = {
+		culture = tatar
+		religion = catholic
+		size = 24
+	}
+	farmers = {
+		culture = tatar
+		religion = catholic
+		size = 194
+	}
+}
+#------Transcaspian Oblast------
+#Fort Alexandrovsky
+1194 = {
+	aristocrats = {		
+		culture = 	kazak
+		religion = 	catholic
+		size = 	119
+	}		
+	bureaucrats = {		
+		culture = 	kazak
+		religion = 	catholic
+		size = 	40
+	}		
+	officers = {		
+		culture = 	kazak
+		religion = 	catholic
+		size = 	8
+	}		
+	clergymen = {		
+		culture = 	kazak
+		religion = 	catholic
+		size = 	119
+	}		
+	artisans = {		
+		culture = 	kazak
+		religion = 	catholic
+		size = 	554
+	}		
+	soldiers = {		
+		culture = 	kazak
+		religion = 	catholic
+		size = 	632
+	}		
+	farmers = {		
+		culture = 	kazak
+		religion = 	catholic
+		size = 	6917
+	}		
+
+	aristocrats = {		
+		culture = 	turkmen
+		religion = 	catholic
+		size = 	5
+	}		
+	bureaucrats = {		
+		culture = 	turkmen
+		religion = 	catholic
+		size = 	2
+	}		
+	officers = {		
+		culture = 	turkmen
+		religion = 	catholic
+		size = 	0
+	}		
+	clergymen = {		
+		culture = 	turkmen
+		religion = 	catholic
+		size = 	5
+	}		
+	artisans = {		
+		culture = 	turkmen
+		religion = 	catholic
+		size = 	24
+	}		
+	soldiers = {		
+		culture = 	turkmen
+		religion = 	catholic
+		size = 	28
+	}		
+	farmers = {		
+		culture = 	turkmen
+		religion = 	catholic
+		size = 	297
+	}		
+}
+#------Syr Darya Oblast------
+#Aulie-Ata
+1185 = {
+	aristocrats = {
+		culture = kazak
+		religion = catholic
+		size = 165
+	}
+	bureaucrats = {
+		culture = kazak
+		religion = catholic
+		size = 165
+	}
+	officers = {
+		culture = kazak
+		religion = catholic
+		size = 165
+	}
+	clergymen = {
+		culture = kazak
+		religion = catholic
+		size = 165
+	}
+	artisans = {
+		culture = kazak
+		religion = catholic
+		size = 1660
+	}
+	soldiers = {
+		culture = kazak
+		religion = catholic
+		size = 3984
+	}
+	farmers = {
+		culture = kazak
+		religion = catholic
+		size = 29885
+	}
+	
+	aristocrats = {
+		culture = uzbek
+		religion = catholic
+		size = 1
+	}
+	bureaucrats = {
+		culture = uzbek
+		religion = catholic
+		size = 1
+	}
+	officers = {
+		culture = uzbek
+		religion = catholic
+		size = 1
+	}
+	clergymen = {
+		culture = uzbek
+		religion = catholic
+		size = 1
+	}
+	artisans = {
+		culture = uzbek
+		religion = catholic
+		size = 14
+	}
+	soldiers = {
+		culture = uzbek
+		religion = catholic
+		size = 32
+	}
+	farmers = {
+		culture = uzbek
+		religion = catholic
+		size = 263
+	}
+	artisans = {
+		culture = uzbek
+		religion = catholic
+		size = 2
+	}
+	soldiers = {
+		culture = uzbek
+		religion = catholic
+		size = 4
+	}
+	farmers = {
+		culture = uzbek
+		religion = catholic
+		size = 33
+	}
+	aristocrats = {
+		culture = uzbek
+		religion = catholic
+		size = 5
+	}
+	bureaucrats = {
+		culture = uzbek
+		religion = catholic
+		size = 5
+	}
+	officers = {
+		culture = uzbek
+		religion = catholic
+		size = 5
+	}
+	clergymen = {
+		culture = uzbek
+		religion = catholic
+		size = 5
+	}
+	artisans = {
+		culture = uzbek
+		religion = catholic
+		size = 56
+	}
+	soldiers = {
+		culture = uzbek
+		religion = catholic
+		size = 136
+	}
+	farmers = {
+		culture = uzbek
+		religion = catholic
+		size = 1019
+	}
+	artisans = {
+		culture = persian
+		religion = catholic
+		size = 2
+	}
+	soldiers = {
+		culture = persian
+		religion = catholic
+		size = 4
+	}
+	farmers = {
+		culture = persian
+		religion = catholic
+		size = 33
+	}
+	
+	artisans = {
+		culture = tatar
+		religion = catholic
+		size = 3
+	}
+	soldiers = {
+		culture = tatar
+		religion = catholic
+		size = 8
+	}
+	farmers = {
+		culture = tatar
+		religion = catholic
+		size = 65
+	}
+}
+#Perovsk
+1193 = {
+	aristocrats = {
+		culture = kazak
+		religion = catholic
+		size = 86
+	}
+	bureaucrats = {
+		culture = kazak
+		religion = catholic
+		size = 86
+	}
+	officers = {
+		culture = kazak
+		religion = catholic
+		size = 86
+	}
+	clergymen = {
+		culture = kazak
+		religion = catholic
+		size = 86
+	}
+	artisans = {
+		culture = kazak
+		religion = catholic
+		size = 862
+	}
+	soldiers = {
+		culture = kazak
+		religion = catholic
+		size = 2064
+	}
+	farmers = {
+		culture = kazak
+		religion = catholic
+		size = 15513
+	}
+	
+	artisans = {
+		culture = tatar
+		religion = catholic
+		size = 3
+	}
+	soldiers = {
+		culture = tatar
+		religion = catholic
+		size = 8
+	}
+	farmers = {
+		culture = tatar
+		religion = catholic
+		size = 63
+	}
+}
+#Chimkent 
+1197 = {
+	aristocrats = {
+		culture = kazak
+		religion = catholic
+		size = 148
+	}
+	bureaucrats = {
+		culture = kazak
+		religion = catholic
+		size = 148
+	}
+	officers = {
+		culture = kazak
+		religion = catholic
+		size = 148
+	}
+	clergymen = {
+		culture = kazak
+		religion = catholic
+		size = 148
+	}
+	artisans = {
+		culture = kazak
+		religion = catholic
+		size = 1485
+	}
+	soldiers = {
+		culture = kazak
+		religion = catholic
+		size = 3564
+	}
+	farmers = {
+		culture = kazak
+		religion = catholic
+		size = 26740
+	}
+	aristocrats = {
+		culture = uzbek
+		religion = catholic
+		size = 21
+	}
+	bureaucrats = {
+		culture = uzbek
+		religion = catholic
+		size = 21
+	}
+	officers = {
+		culture = uzbek
+		religion = catholic
+		size = 21
+	}
+	clergymen = {
+		culture = uzbek
+		religion = catholic
+		size = 21
+	}
+	artisans = {
+		culture = uzbek
+		religion = catholic
+		size = 210
+	}
+	soldiers = {
+		culture = uzbek
+		religion = catholic
+		size = 504
+	}
+	farmers = {
+		culture = uzbek
+		religion = catholic
+		size = 3800
+	}
+	aristocrats = {
+		culture = uzbek
+		religion = catholic
+		size = 13
+	}
+	bureaucrats = {
+		culture = uzbek
+		religion = catholic
+		size = 13
+	}
+	officers = {
+		culture = uzbek
+		religion = catholic
+		size = 13
+	}
+	clergymen = {
+		culture = uzbek
+		religion = catholic
+		size = 13
+	}
+	artisans = {
+		culture = uzbek
+		religion = catholic
+		size = 138
+	}
+	soldiers = {
+		culture = uzbek
+		religion = catholic
+		size = 328
+	}
+	farmers = {
+		culture = uzbek
+		religion = catholic
+		size = 2477
+	}
+	artisans = {
+		culture = tatar
+		religion = catholic
+		size = 4
+	}
+	soldiers = {
+		culture = tatar
+		religion = catholic
+		size = 8
+	}
+	farmers = {
+		culture = tatar
+		religion = catholic
+		size = 67
+	}
+}
+#Kazalinsk 
+3594 = {
+	aristocrats = {
+		culture = kazak
+		religion = catholic
+		size = 89
+	}
+	bureaucrats = {
+		culture = kazak
+		religion = catholic
+		size = 89
+	}
+	officers = {
+		culture = kazak
+		religion = catholic
+		size = 89
+	}
+	clergymen = {
+		culture = kazak
+		religion = catholic
+		size = 89
+	}
+	artisans = {
+		culture = kazak
+		religion = catholic
+		size = 898
+	}
+	soldiers = {
+		culture = kazak
+		religion = catholic
+		size = 2156
+	}
+	farmers = {
+		culture = kazak
+		religion = catholic
+		size = 16178
+	}
+	artisans = {
+		culture = uzbek
+		religion = catholic
+		size = 3
+	}
+	soldiers = {
+		culture = uzbek
+		religion = catholic
+		size = 8
+	}
+	farmers = {
+		culture = uzbek
+		religion = catholic
+		size = 50
+	}
+	artisans = {
+		culture = persian
+		religion = catholic
+		size = 3
+	}
+	soldiers = {
+		culture = persian
+		religion = catholic
+		size = 8
+	}
+	farmers = {
+		culture = persian
+		religion = catholic
+		size = 50
+	}
+	artisans = {
+		culture = tatar
+		religion = catholic
+		size = 4
+	}
+	soldiers = {
+		culture = tatar
+		religion = catholic
+		size = 12
+	}
+	farmers = {
+		culture = tatar
+		religion = catholic
+		size = 83
+	}
+}

@@ -1,0 +1,6 @@
+owner = CHL
+controller = CHL
+add_core = CHL
+trade_goods = fish
+life_rating = 42
+naval_base = 1

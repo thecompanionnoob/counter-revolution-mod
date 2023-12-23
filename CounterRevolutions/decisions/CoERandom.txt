@@ -1,0 +1,638 @@
+political_decisions = {
+	declare_neutrality = {
+		alert = no
+		potential = {
+			NOT = { has_country_modifier = neutrality }
+			NOT = { badboy = 0.2 }
+			is_greater_power = no
+			civilized = yes
+		}
+		
+		allow = {
+			NOT = {
+				num_of_vassals = 1
+				badboy = 0.04
+			}
+			can_create_vassals = no
+			is_independant = yes
+			war = no
+		}
+		
+		effect = {
+			add_country_modifier = {
+				name = neutrality
+				duration = -1
+			}
+			neutrality = yes
+		}
+		
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = {
+					tag = DEN
+					370 = {
+						OR = {
+							owner = { vassal_of = THIS }
+							owned_by = THIS
+						}
+					}
+					369 = {
+						OR = {
+							owner = { vassal_of = THIS }
+							owned_by = THIS
+						}
+					}
+				}
+			}
+		}
+	}
+	
+	end_neutrality = {
+		alert = no
+		potential = {
+			has_country_modifier = neutrality
+		}
+		
+		allow = {
+			
+		}
+		
+		effect = {
+			any_pop = {
+				scaled_militancy = {
+					factor = 5
+					ideology = conservative
+				}
+				scaled_militancy = {
+					factor = 10
+					ideology = reactionary
+				}
+			}
+			badboy = 20
+			prestige = -20
+			remove_country_modifier = neutrality
+		}
+		
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	
+	declare_isolationism = {
+		alert = no
+		potential = {
+			NOT = { has_country_modifier = isolationism }
+			NOT = { badboy = 0.2 }
+			is_greater_power = no
+			civilized = yes
+		}
+		
+		allow = {
+			NOT = {
+				num_of_vassals = 1
+				badboy = 0.04
+			}
+			can_create_vassals = no
+			is_independant = yes
+			war = no
+		}
+		
+		effect = {
+			add_country_modifier = {
+				name = isolationism
+				duration = -1
+			}
+			neutrality = yes
+		}
+		
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	
+	declare_unciv_isolationism = {
+		alert = no
+		potential = {
+			NOT = { has_country_modifier = uncivilized_isolationism }
+			NOT = { badboy = 0.2 }
+			civilized = no
+		}
+		
+		allow = {
+			NOT = {
+				num_of_vassals = 1
+				badboy = 0.04
+			}
+			can_create_vassals = no
+			is_independant = yes
+			war = no
+		}
+		
+		effect = {
+			add_country_modifier = {
+				name = uncivilized_isolationism
+				duration = -1
+			}
+			neutrality = yes
+		}
+		
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	
+	end_isolationism = {
+		alert = no
+		potential = {
+			OR = {
+				has_country_modifier = isolationism
+				has_country_modifier = uncivilized_isolationism
+			}
+		}
+		
+		allow = {
+			
+		}
+		
+		effect = {
+			any_pop = {
+				scaled_militancy = {
+					factor = 5
+					ideology = conservative
+				}
+				scaled_militancy = {
+					factor = 10
+					ideology = reactionary
+				}
+			}
+			prestige = -20
+			remove_country_modifier = isolationism
+			remove_country_modifier = uncivilized_isolationism
+		}
+		
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	
+	write_a_limited_constitution = {
+		alert = no
+		potential = {
+			civilized = yes
+			government = absolute_monarchy
+		}
+		
+		allow = {
+			NOT = { ruling_party_ideology = reactionary }
+		}
+		
+		effect = {
+			prestige = -50
+			government = prussian_constitutionalism
+			political_reform = appointed
+			political_reform = landed_voting
+			political_reform = yes_meeting
+			political_reform = state_controlled
+			political_reform = harassment
+			any_pop = {
+				scaled_militancy = {
+					factor = 5
+					ideology = reactionary
+				}
+				scaled_militancy = {
+					factor = 5
+					ideology = conservative
+				}
+				scaled_militancy = {
+					factor = -5
+					ideology = liberal
+				}
+				scaled_militancy = {
+					factor = 5
+					ideology = fascist
+				}
+				scaled_militancy = {
+					factor = -5
+					ideology = socialist
+				}
+				scaled_militancy = {
+					factor = 5
+					ideology = communist
+				}
+			}
+			any_country = {
+				limit = {
+					OR = {
+						government = absolute_monarchy
+						government = proletarian_dictatorship
+						government = presidential_dictatorship
+						government = fascist_dictatorship
+					}
+				}
+				relation = {
+					who = THIS
+					value = -25
+				}
+			}
+			any_country = {
+				limit = {
+					OR = {
+						government = hms_government
+						government = democracy
+					}
+				}
+				relation = {
+					who = THIS
+					value = 25
+				}
+			}
+			any_country = {
+				limit = {
+					government = prussian_constitutionalism
+				}
+				relation = {
+					who = THIS
+					value = 50
+				}
+			}
+		}
+		
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	
+	write_a_constitution = {
+		alert = no
+		potential = {
+			civilized = yes
+			government = absolute_monarchy
+		}
+		
+		allow = {
+			NOT = { ruling_party_ideology = reactionary }
+		}
+		
+		effect = {
+			prestige = -50
+			government = hms_government
+			political_reform = population_equal_weight
+			political_reform = universal_weighted_voting
+			political_reform = yes_meeting
+			political_reform = free_press
+			political_reform = non_socialist
+			political_reform = gerrymandering
+			any_pop = {
+				scaled_militancy = {
+					factor = 10
+					ideology = reactionary
+				}
+				scaled_militancy = {
+					factor = 5
+					ideology = conservative
+				}
+				scaled_militancy = {
+					factor = -10
+					ideology = liberal
+				}
+				scaled_militancy = {
+					factor = 5
+					ideology = fascist
+				}
+				scaled_militancy = {
+					factor = -5
+					ideology = socialist
+				}
+				scaled_militancy = {
+					factor = 5
+					ideology = communist
+				}
+			}
+			any_country = {
+				limit = {
+					OR = {
+						government = absolute_monarchy
+						government = proletarian_dictatorship
+						government = presidential_dictatorship
+						government = fascist_dictatorship
+					}
+				}
+				relation = {
+					who = THIS
+					value = -50
+				}
+			}
+			any_country = {
+				limit = {
+					government = prussian_constitutionalism
+				}
+				relation = {
+					who = THIS
+					value = -25
+				}
+			}
+			any_country = {
+				limit = {
+					government = democracy
+				}
+				relation = {
+					who = THIS
+					value = 25
+				}
+			}
+			any_country = {
+				limit = {
+					government = hms_government
+				}
+				relation = {
+					who = THIS
+					value = 50
+				}
+			}
+		}
+		
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	
+	give_the_power_to_the_people = {
+		alert = no
+		potential = {
+			civilized = yes
+			OR = {
+				government = absolute_monarchy
+				government = proletarian_dictatorship
+				government = presidential_dictatorship
+				government = fascist_dictatorship
+			}
+		}
+		
+		allow = {
+			NOT = { ruling_party_ideology = reactionary }
+		}
+		
+		effect = {
+			prestige = -50
+			government = democracy
+			political_reform = population_equal_weight
+			political_reform = universal_weighted_voting
+			political_reform = yes_meeting
+			political_reform = free_press
+			political_reform = non_socialist
+			political_reform = gerrymandering
+			any_pop = {
+				scaled_militancy = {
+					factor = 10
+					ideology = reactionary
+				}
+				scaled_militancy = {
+					factor = 5
+					ideology = conservative
+				}
+				scaled_militancy = {
+					factor = -10
+					ideology = liberal
+				}
+				scaled_militancy = {
+					factor = 5
+					ideology = fascist
+				}
+				scaled_militancy = {
+					factor = -5
+					ideology = socialist
+				}
+				scaled_militancy = {
+					factor = 5
+					ideology = communist
+				}
+			}
+			any_country = {
+				limit = {
+					OR = {
+						government = absolute_monarchy
+						government = prussian_constitutionalism
+					}
+				}
+				relation = {
+					who = THIS
+					value = -50
+				}
+			}
+			any_country = {
+				limit = {
+					OR = {
+						government = hms_government
+						government = proletarian_dictatorship
+						government = presidential_dictatorship
+						government = fascist_dictatorship
+					}
+				}
+				relation = {
+					who = THIS
+					value = -25
+				}
+			}
+			any_country = {
+				limit = {
+					government = democracy
+				}
+				relation = {
+					who = THIS
+					value = 50
+				}
+			}
+		}
+		
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	
+	establish_a_monarchy = {
+		alert = no
+		potential = {
+			civilized = yes
+			OR = {
+				government = proletarian_dictatorship
+				government = presidential_dictatorship
+				government = fascist_dictatorship
+			}
+		}
+		
+		allow = {
+			
+		}
+		
+		effect = {
+			prestige = -50
+			government = absolute_monarchy
+			political_reform = party_appointed
+			political_reform = none_voting
+			political_reform = no_meeting
+			political_reform = state_press
+			political_reform = no_trade_unions
+			political_reform = underground_parties
+			any_pop = {
+				scaled_militancy = {
+					factor = -10
+					ideology = reactionary
+				}
+				scaled_militancy = {
+					factor = 5
+					ideology = conservative
+				}
+				scaled_militancy = {
+					factor = 10
+					ideology = liberal
+				}
+				scaled_militancy = {
+					factor = 5
+					ideology = fascist
+				}
+				scaled_militancy = {
+					factor = 5
+					ideology = socialist
+				}
+				scaled_militancy = {
+					factor = 5
+					ideology = communist
+				}
+			}
+			any_country = {
+				limit = {
+					OR = {
+						government = hms_government
+						government = democracy
+					}
+				}
+				relation = {
+					who = THIS
+					value = -50
+				}
+			}
+			any_country = {
+				limit = {
+					OR = {
+						government = prussian_constitutionalism
+						government = proletarian_dictatorship
+						government = presidential_dictatorship
+						government = fascist_dictatorship
+					}
+				}
+				relation = {
+					who = THIS
+					value = -25
+				}
+			}
+			any_country = {
+				limit = {
+					government = absolute_monarchy
+				}
+				relation = {
+					who = THIS
+					value = 50
+				}
+			}
+		}
+		
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	
+	abolish_serfdom2 = {
+		potential = {
+			NOT = { tag = RUS }
+			any_owned_province = { has_province_modifier = serfdom }
+		}
+		
+		allow = {
+			OR = {
+				AND = {
+					upper_house = {
+						ideology = liberal
+						value = 0.3
+					}
+					average_consciousness = 3
+				}
+				AND = {
+					upper_house = {
+						ideology = socialist
+						value = 0.3
+					}
+					average_consciousness = 3
+				}
+				AND = {
+					ruling_party_ideology = socialist
+					average_consciousness = 3
+				}
+				AND = {
+					ruling_party_ideology = liberal
+					average_consciousness = 3
+				}
+				average_militancy = 4
+			}
+		}
+		
+		effect = {
+			years_of_research = 0.05
+			any_owned = { 
+				limit = { has_province_modifier = serfdom }
+				farmers = {
+					militancy = -2
+					consciousness = 1
+				}
+				labourers = {
+					militancy = -2
+					consciousness = 1
+				}
+				remove_province_modifier = serfdom
+			}
+		}
+	}
+	
+	move_capital_to_edo = {
+		potential = {
+			tag = JAP
+			owns = 1649 #Edo
+			NOT = { capital = 1649 }
+		}
+		
+		allow = {
+			owns = 1649 #Edo
+		}
+		
+		effect = {
+			capital = 1649
+			1649 = { change_province_name = "Tokyo" }
+			prestige = 5
+		}
+	}
+	
+	annexation_of_ryukyu = {
+		potential = {
+			tag = JAP
+			is_our_vassal = RYU
+		}
+		
+		allow = {
+			civilized = yes
+		}
+		
+		effect = {
+			RYU = {
+				all_core = {
+					remove_core = RYU
+					add_core = JAP
+				}
+				annex_to = JAP
+			}
+			prestige = 5
+		}
+	}
+}
+		
+	

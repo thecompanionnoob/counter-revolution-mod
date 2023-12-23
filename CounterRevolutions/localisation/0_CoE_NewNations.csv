@@ -1,0 +1,878 @@
+AHO;Ahom;;;;;;;;;;;;;x
+AHO_ADJ;Ahomi;;;;;;;;;;;;;x
+AHO_absolute_monarchy;Ahom kingdom;;;;;;;;;;;;;x
+AHO_prussian_constitutionalism;Ahom kingdom;;;;;;;;;;;;;x
+AHO_hms_government;Ahom kingdom;;;;;;;;;;;;;x
+ALW;Alwar;;;;;;;;;;;;;x
+ALW_ADJ;Alwar;;;;;;;;;;;;;x
+ALW_absolute_monarchy;Kingdom of Alwar;;;;;;;;;;;;;x
+ALW_prussian_constitutionalism;Kingdom of Alwar;;;;;;;;;;;;;x
+ALW_hms_government;Kingdom of Alwar;;;;;;;;;;;;;x
+ANK;Ankole;;;;;;;;;;;;;x
+ANK_ADJ;Ankole;;;;;;;;;;;;;x
+ANK_absolute_monarchy;Kingdom of Ankole;;;;;;;;;;;;;x
+ANK_prussian_constitutionalism;Kingdom of Ankole;;;;;;;;;;;;;x
+ANK_hms_government;Kingdom of Ankole;;;;;;;;;;;;;x
+ARO;Aro Confederacy;;;;;;;;;;;;;x
+ARO_ADJ;Aro;;;;;;;;;;;;;x
+ASH;Ashanti;;;;;;;;;;;;;x
+ASH_ADJ;Ashanti;;;;;;;;;;;;;x
+ASH_absolute_monarchy;Kingdom of Ashanti;;;;;;;;;;;;;x
+ASH_prussian_constitutionalism;Kingdom of Ashanti;;;;;;;;;;;;;x
+ASH_hms_government;Kingdom of Ashanti;;;;;;;;;;;;;x
+ASH_hms_government;Kingdom of Ashanti;;;;;;;;;;;;;x
+BAG;Bagirmi;;;;;;;;;;;;;x
+BAG_ADJ;Bagirmi;;;;;;;;;;;;;x
+BAG_absolute_monarchy;Sultanate of Bagirmi;;;;;;;;;;;;;x
+BAG_prussian_constitutionalism;Sultanate of Bagirmi;;;;;;;;;;;;;x
+BAG_hms_government;Sultanate of Bagirmi;;;;;;;;;;;;;x
+BAH;Bahrain;;;;;;;;;;;;;x
+BAH_ADJ;Bahraini;;;;;;;;;;;;;x
+BAH_absolute_monarchy;State of Bahrain;;;;;;;;;;;;;x
+BAH_prussian_constitutionalism;State of Bahrain;;;;;;;;;;;;;x
+BAH_hms_government;State of Bahrain;;;;;;;;;;;;;x
+BAM;Bamana;;;;;;;;;;;;;x
+BAM_ADJ;Bamana;;;;;;;;;;;;;x
+BAM_absolute_monarchy;Bamana Empire;;;;;;;;;;;;;x
+BAM_prussian_constitutionalism;Bamana Empire;;;;;;;;;;;;;x
+BAM_hms_government;Bamana Empire;;;;;;;;;;;;;x
+BNN;Benin;;;;;;;;;;;;;x
+BNN_ADJ;Benin;;;;;;;;;;;;;x
+BNN_absolute_monarchy;Kingdom of Benin;;;;;;;;;;;;;x
+BNN_prussian_constitutionalism;Kingdom of Benin;;;;;;;;;;;;;x
+BNN_hms_government;Kingdom of Benin;;;;;;;;;;;;;x
+BNY;Bunyoro;;;;;;;;;;;;;x
+BNY_ADJ;Bunyoro;;;;;;;;;;;;;x
+BNY_absolute_monarchy;Bunyoro-Kitara Kingdom;;;;;;;;;;;;;x
+BNY_prussian_constitutionalism;Bunyoro-Kitara Kingdom;;;;;;;;;;;;;x
+BNY_hms_government;Bunyoro-Kitara Kingdom;;;;;;;;;;;;;x
+BOR;Bornu;;;;;;;;;;;;;x
+BOR_ADJ;Bornu;;;;;;;;;;;;;x
+BOR_absolute_monarchy;Bornu Empire;;;;;;;;;;;;;x
+BOR_prussian_constitutionalism;Bornu Empire;;;;;;;;;;;;;x
+BOR_hms_government;Bornu Empire;;;;;;;;;;;;;x
+BRD;Burundi;;;;;;;;;;;;;x
+BRD_ADJ;Burundi;;;;;;;;;;;;;x
+BRD_absolute_monarchy;Kingdom of Burundi;;;;;;;;;;;;;x
+BRD_prussian_constitutionalism;Kingdom of Burundi;;;;;;;;;;;;;x
+BRD_hms_government;Kingdom of Burundi;;;;;;;;;;;;;x
+BRD_democracy;Republic of Burundi;;;;;;;;;;;;;x
+BRD_presidential_dictatorship;Republic of Burundi;;;;;;;;;;;;;x
+BTP;Bharatpur;;;;;;;;;;;;;x
+BTP_ADJ;Bharatpur;;;;;;;;;;;;;x
+BUG;Buganda;;;;;;;;;;;;;x
+BUG_ADJ;Buganda;;;;;;;;;;;;;x
+BUG_absolute_monarchy;Kingdom of Buganda;;;;;;;;;;;;;x
+BUG_prussian_constitutionalism;Kingdom of Buganda;;;;;;;;;;;;;x
+BUG_hms_government;Kingdom of Buganda;;;;;;;;;;;;;x
+BWP;Bahawalpur;;;;;;;;;;;;;x
+BWP_ADJ;Bahawalpur;;;;;;;;;;;;;x
+CAU;Caucasia;;;;;;;;;;;;;x
+CAU_ADJ;Caucasian;;;;;;;;;;;;;x
+CAU_absolute_monarchy;Caucasian Imamate;;;;;;;;;;;;;x
+CAU_prussian_constitutionalism;Caucasian Imamate;;;;;;;;;;;;;x
+CAU_hms_government;Caucasian Imamate;;;;;;;;;;;;;x
+CAU_democracy;The Mountainous Republic of the Northern Caucasus;;;;;;;;;;;;;x
+CAU_presidential_dictatorship;The Mountainous Republic of the Northern Caucasus;;;;;;;;;;;;;x
+CCS;Circassia;;;;;;;;;;;;;x
+CCS_ADJ;Circassian;;;;;;;;;;;;;x
+CCS_democracy;Circassian Confederation;;;;;;;;;;;;;x
+CCS_presidential_dictatorship;Circassian Confederation;;;;;;;;;;;;;x
+CFE;Confederation of the Equator;;;;;;;;;;;;;x
+CFE_ADJ;Confederation of the Equator;;;;;;;;;;;;;x
+CHB;Cooch Behar;;;;;;;;;;;;;x
+CHB_ADJ;Cooch Behar;;;;;;;;;;;;;x
+CHG;Chhattisgarh;;;;;;;;;;;;;x
+CHG_ADJ;Chhattisgarh;;;;;;;;;;;;;x
+COC;Cochin;;;;;;;;;;;;;x
+COC_ADJ;Cochin;;;;;;;;;;;;;x
+COC_absolute_monarchy;Kingdom of Cochin;;;;;;;;;;;;;x
+COC_prussian_constitutionalism;Kingdom of Cochin;;;;;;;;;;;;;x
+COC_hms_government;Kingdom of Cochin;;;;;;;;;;;;;x
+COO;Coorg;;;;;;;;;;;;;x
+COO_ADJ;Coorg;;;;;;;;;;;;;x
+COO_absolute_monarchy;Kingdom of Coorg;;;;;;;;;;;;;x
+COO_prussian_constitutionalism;Kingdom of Coorg;;;;;;;;;;;;;x
+COO_hms_government;Kingdom of Coorg;;;;;;;;;;;;;x
+CPS;Champasak;;;;;;;;;;;;;x
+CPS_ADJ;Champasak;;;;;;;;;;;;;x
+CPS_absolute_monarchy;Kingdom of Champasak;;;;;;;;;;;;;x
+CPS_prussian_constitutionalism;Kingdom of Champasak;;;;;;;;;;;;;x
+CPS_hms_government;Kingdom of Champasak;;;;;;;;;;;;;x
+DAH;Dahomey;;;;;;;;;;;;;x
+DAH_ADJ;Dahomey;;;;;;;;;;;;;x
+DAH_absolute_monarchy;Kingdom of Dahomey;;;;;;;;;;;;;x
+DAH_prussian_constitutionalism;Kingdom of Dahomey;;;;;;;;;;;;;x
+DAH_hms_government;Kingdom of Dahomey;;;;;;;;;;;;;x
+DAR;Darfur;;;;;;;;;;;;;x
+DAR_ADJ;Darfur;;;;;;;;;;;;;x
+DAR_absolute_monarchy;Sultanate of Darfur;;;;;;;;;;;;;x
+DAR_prussian_constitutionalism;Sultanate of Darfur;;;;;;;;;;;;;x
+DAR_hms_government;Sultanate of Darfur;;;;;;;;;;;;;x
+EIC;East India Company;;;;;;;;;;;;;x
+EIC_ADJ;East India Company;;;;;;;;;;;;;x
+FJA;Futa Jallon;;;;;;;;;;;;;x
+FJA_ADJ;Futa Jallon;;;;;;;;;;;;;x
+FJA_absolute_monarchy;Imamate of Futa Djallon;;;;;;;;;;;;;x
+FJA_prussian_constitutionalism;Imamate of Futa Djallon;;;;;;;;;;;;;x
+FJA_hms_government;Imamate of Futa Djallon;;;;;;;;;;;;;x
+FTO;Futa Toro;;;;;;;;;;;;;x
+FTO_ADJ;Futa Toro;;;;;;;;;;;;;x
+FTO_absolute_monarchy;Imamate of Futa Toro;;;;;;;;;;;;;x
+FTO_prussian_constitutionalism;Imamate of Futa Toro;;;;;;;;;;;;;x
+FTO_hms_government;Imamate of Futa Toro;;;;;;;;;;;;;x
+GAL;Galicia;;;;;;;;;;;;;x
+GAL_ADJ;Galician;;;;;;;;;;;;;x
+GAL_absolute_monarchy;Kingdom of Galicia;;;;;;;;;;;;;x
+GAL_prussian_constitutionalism;Kingdom of Galicia;;;;;;;;;;;;;x
+GAL_hms_government;Kingdom of Galicia;;;;;;;;;;;;;x
+GEL;Geledi;;;;;;;;;;;;;x
+GEL_ADJ;Geledi;;;;;;;;;;;;;x
+GEL_absolute_monarchy;Sultanate of the Geledi;;;;;;;;;;;;;x
+GEL_prussian_constitutionalism;Sultanate of the Geledi;;;;;;;;;;;;;x
+GEL_hms_government;Sultanate of the Geledi;;;;;;;;;;;;;x
+GRW;Tehri Garhwal;;;;;;;;;;;;;x
+GRW_ADJ;Tehri Garhwal;;;;;;;;;;;;;x
+HIL;Jabal Shammar;;;;;;;;;;;;;x
+HIL_ADJ;Jabal Shammar;;;;;;;;;;;;;x
+HIL_absolute_monarchy;Emirate of Jabal Shammar;;;;;;;;;;;;;x
+HIL_prussian_constitutionalism;Emirate of Jabal Shammar;;;;;;;;;;;;;x
+HIL_hms_government;Emirate of Jabal Shammar;;;;;;;;;;;;;x
+HOH;Hohenzollern;;;;;;;;;;;;;x
+HOH_ADJ;Hohenzollern;;;;;;;;;;;;;x
+IDE;Idel-Ural;;;;;;;;;;;;;x
+IDE_ADJ;Idel-Ural;;;;;;;;;;;;;x
+KAT;Kathiawar;;;;;;;;;;;;;x
+KAT_ADJ;Kathiawar;;;;;;;;;;;;;x
+KHA;Kharan;;;;;;;;;;;;;x
+KHA_ADJ;Kharan;;;;;;;;;;;;;x
+KHP;Khairpur;;;;;;;;;;;;;x
+KHP_ADJ;Khairpur;;;;;;;;;;;;;x
+KLP;Kolhapur;;;;;;;;;;;;;x
+KLP_ADJ;Kolhapur;;;;;;;;;;;;;x
+KNG;Kong;;;;;;;;;;;;;x
+KNG_ADJ;Kong;;;;;;;;;;;;;x
+KNG_absolute_monarchy;Kong Empire;;;;;;;;;;;;;x
+KNG_prussian_constitutionalism;Kong Empire;;;;;;;;;;;;;x
+KNG_hms_government;Kong Empire;;;;;;;;;;;;;x
+KON;Kongo;;;;;;;;;;;;;x
+KON_ADJ;Kongo;;;;;;;;;;;;;x
+KON_absolute_monarchy;Kingdom of Kongo;;;;;;;;;;;;;x
+KON_prussian_constitutionalism;Kingdom of Kongo;;;;;;;;;;;;;x
+KON_hms_government;Kingdom of Kongo;;;;;;;;;;;;;x
+KTH;Kotah;;;;;;;;;;;;;x
+KTH_ADJ;Kotah;;;;;;;;;;;;;x
+KUM;Kumul;;;;;;;;;;;;;x
+KUM_ADJ;Kumul;;;;;;;;;;;;;x
+KUM_absolute_monarchy;Kumul Khanate;;;;;;;;;;;;;x
+KUM_prussian_constitutionalism;Kumul Khanate;;;;;;;;;;;;;x
+KUM_hms_government;Kumul Khanate;;;;;;;;;;;;;x
+KUR;Kurdistan;;;;;;;;;;;;;x
+KUR_ADJ;Kurdish;;;;;;;;;;;;;x
+KUR_absolute_monarchy;Kingdom of Kurdistan;;;;;;;;;;;;;x
+KUR_prussian_constitutionalism;Kingdom of Kurdistan;;;;;;;;;;;;;x
+KUR_hms_government;Kingdom of Kurdistan;;;;;;;;;;;;;x
+KUW;Kuwait;;;;;;;;;;;;;x
+KUW_ADJ;Kuwaiti;;;;;;;;;;;;;x
+KUW_absolute_monarchy;Sheikhdom of Kuwait;;;;;;;;;;;;;x
+KUW_prussian_constitutionalism;Sheikhdom of Kuwait;;;;;;;;;;;;;x
+KUW_hms_government;Sheikhdom of Kuwait;;;;;;;;;;;;;x
+KZE;Kazembe;;;;;;;;;;;;;x
+KZE_ADJ;Kazembe;;;;;;;;;;;;;x
+KZE_absolute_monarchy;Kingdom of Kazembe;;;;;;;;;;;;;x
+KZE_prussian_constitutionalism;Kingdom of Kazembe;;;;;;;;;;;;;x
+KZE_hms_government;Kingdom of Kazembe;;;;;;;;;;;;;x
+KZK;Kazakhstan;;;;;;;;;;;;;x
+KZK_ADJ;Kazakh;;;;;;;;;;;;;x
+KZK_absolute_monarchy;Kazakh Khanate;;;;;;;;;;;;;x
+KZK_prussian_constitutionalism;Kazakh Khanate;;;;;;;;;;;;;x
+KZK_hms_government;Kazakh Khanate;;;;;;;;;;;;;x
+LBA;Luba;;;;;;;;;;;;;x
+LBA_ADJ;Luba;;;;;;;;;;;;;x
+LBA_absolute_monarchy;Kingdom of Luba;;;;;;;;;;;;;x
+LBA_prussian_constitutionalism;Kingdom of Luba;;;;;;;;;;;;;x
+LBA_hms_government;Kingdom of Luba;;;;;;;;;;;;;x
+LDA;Lunda;;;;;;;;;;;;;x
+LDA_ADJ;Lunda;;;;;;;;;;;;;x
+LDA_absolute_monarchy;Kingdom of Lunda;;;;;;;;;;;;;x
+LDA_prussian_constitutionalism;Kingdom of Lunda;;;;;;;;;;;;;x
+LDA_hms_government;Kingdom of Lunda;;;;;;;;;;;;;x
+LFN;Lanfang;;;;;;;;;;;;;x
+LFN_ADJ;Lanfang;;;;;;;;;;;;;x
+LFN_democracy;Lanfang Republic;;;;;;;;;;;;;x
+LFN_presidential_dictatorship;Lanfang Republic;;;;;;;;;;;;;x
+LOA;Loango;;;;;;;;;;;;;x
+LOA_ADJ;Loango;;;;;;;;;;;;;x
+LOA_absolute_monarchy;Kingdom of Loango;;;;;;;;;;;;;x
+LOA_prussian_constitutionalism;Kingdom of Loango;;;;;;;;;;;;;x
+LOA_hms_government;Kingdom of Loango;;;;;;;;;;;;;x
+LSB;Las Bela;;;;;;;;;;;;;x
+LSB_ADJ;Las Bela;;;;;;;;;;;;;x
+MAC;Massa;;;;;;;;;;;;;x
+MAC_ADJ;Massan;;;;;;;;;;;;;x
+MAC_absolute_monarchy;Duchy of Massa;;;;;;;;;;;;;x
+MAC_prussian_constitutionalism;Duchy of Massa;;;;;;;;;;;;;x
+MAC_hms_government;Duchy of Massa;;;;;;;;;;;;;x
+MAJ;Majeerteen;;;;;;;;;;;;;x
+MAJ_ADJ;Majeerteen;;;;;;;;;;;;;x
+MAJ_absolute_monarchy;Sultanate of Majeerteen;;;;;;;;;;;;;x
+MAJ_prussian_constitutionalism;Sultanate of Majeerteen;;;;;;;;;;;;;x
+MAJ_hms_government;Sultanate of Majeerteen;;;;;;;;;;;;;x
+MES;Mecklenburg-Strelitz;;;;;;;;;;;;;x
+MES_ADJ;Mecklenburg-Strelitz;;;;;;;;;;;;;x
+MES_absolute_monarchy;Grand Duchy of Mecklenburg-Strelitz;;;;;;;;;;;;;x
+MES_prussian_constitutionalism;Grand Duchy of Mecklenburg-Strelitz;;;;;;;;;;;;;x
+MES_hms_government;Grand Duchy of Mecklenburg-Strelitz;;;;;;;;;;;;;x
+MKH;Mahi Kantha;;;;;;;;;;;;;x
+MKH_ADJ;Mahi Kantha;;;;;;;;;;;;;x
+MLW;Malwa;;;;;;;;;;;;;x
+MLW_ADJ;Malwa;;;;;;;;;;;;;x
+MNP;Manipur;;;;;;;;;;;;;x
+MNP_ADJ;Manipur;;;;;;;;;;;;;x
+MRT;Pune;;;;;;;;;;;;;x
+MRT_ADJ;Pune;;;;;;;;;;;;;x
+NAV;Navarre;;;;;;;;;;;;;x
+NAV_ADJ;Navarran;;;;;;;;;;;;;x
+NAV_absolute_monarchy;Kingdom of Navarre;;;;;;;;;;;;;x
+NAV_prussian_constitutionalism;Kingdom of Navarre;;;;;;;;;;;;;x
+NAV_hms_government;Kingdom of Navarre;;;;;;;;;;;;;x
+OYO;Oyo;;;;;;;;;;;;;x
+OYO_ADJ;Oyo;;;;;;;;;;;;;x
+OYO_absolute_monarchy;Oyo Empire;;;;;;;;;;;;;x
+OYO_prussian_constitutionalism;Oyo Empire;;;;;;;;;;;;;x
+OYO_hms_government;Oyo Empire;;;;;;;;;;;;;x
+PLK;Phulkian;;;;;;;;;;;;;x
+PLK_ADJ;Phulkian;;;;;;;;;;;;;x
+PDK;Pudukkottai;;;;;;;;;;;;;x
+PDK_ADJ;Pudukkottai;;;;;;;;;;;;;x
+PDK_absolute_monarchy;Kingdom of Pudukkottai;;;;;;;;;;;;;x
+PDK_prussian_constitutionalism;Kingdom of Pudukkottai;;;;;;;;;;;;;x
+PDK_hms_government;Kingdom of Pudukkottai;;;;;;;;;;;;;x
+PIR;Rio Grande;;;;;;;;;;;;;x
+PIR_ADJ;Rio Grande;;;;;;;;;;;;;x
+PIR_democracy;Riograndense Republic;;;;;;;;;;;;;x
+PIR_presidential_dictatorship;Riograndense Republic;;;;;;;;;;;;;x
+PLP;Palanpur;;;;;;;;;;;;;x
+PLP_ADJ;Palanpur;;;;;;;;;;;;;x
+REW;Rewa;;;;;;;;;;;;;x
+REW_ADJ;Rewa;;;;;;;;;;;;;x
+RKH;Rewa Kantha;;;;;;;;;;;;;x
+RKH_ADJ;Rewa Kantha;;;;;;;;;;;;;x
+RMP;Rampur;;;;;;;;;;;;;x
+RMP_ADJ;Rampur;;;;;;;;;;;;;x
+RWA;Rwanda;;;;;;;;;;;;;x
+RWA_ADJ;Rwanda;;;;;;;;;;;;;x
+RWA_absolute_monarchy;Kingdom of Rwanda;;;;;;;;;;;;;x
+RWA_prussian_constitutionalism;Kingdom of Rwanda;;;;;;;;;;;;;x
+RWA_hms_government;Kingdom of Rwanda;;;;;;;;;;;;;x
+RWA_democracy;Republic of Rwanda;;;;;;;;;;;;;x
+RWA_presidential_dictatorship;Republic of Rwanda;;;;;;;;;;;;;x
+RYU;Ryukyu;;;;;;;;;;;;;x
+RYU_ADJ;Ryukyuan;;;;;;;;;;;;;x
+RYU_absolute_monarchy;Ryukyu Kingdom;;;;;;;;;;;;;x
+RYU_prussian_constitutionalism;Ryukyu Kingdom;;;;;;;;;;;;;x
+RYU_hms_government;Ryukyu Kingdom;;;;;;;;;;;;;x
+SAL;Saxe-Lauenburg;;;;;;;;;;;;;x
+SAL_ADJ;Saxe-Lauenburg;;;;;;;;;;;;;x
+SAL_absolute_monarchy;Duchy of Saxe-Lauenburg;;;;;;;;;;;;;x
+SAL_prussian_constitutionalism;Duchy of Saxe-Lauenburg;;;;;;;;;;;;;x
+SAL_hms_government;Duchy of Saxe-Lauenburg;;;;;;;;;;;;;x
+SCY;Sicily;;;;;;;;;;;;;x
+SCY_ADJ;Sicilian;;;;;;;;;;;;;x
+SCY_absolute_monarchy;Kingdom of Sicily;;;;;;;;;;;;;x
+SCY_prussian_constitutionalism;Kingdom of Sicily;;;;;;;;;;;;;x
+SCY_hms_government;Kingdom of Sicily;;;;;;;;;;;;;x
+SEN;Sennar;;;;;;;;;;;;;x
+SEN_ADJ;Sennar;;;;;;;;;;;;;x
+SEN_absolute_monarchy;Sultanate of Sennar;;;;;;;;;;;;;x
+SEN_prussian_constitutionalism;Sultanate of Sennar;;;;;;;;;;;;;x
+SEN_hms_government;Sultanate of Sennar;;;;;;;;;;;;;x
+SHL;Shilluk;;;;;;;;;;;;;x
+SHL_ADJ;Shilluk;;;;;;;;;;;;;x
+SHL_absolute_monarchy;Shilluk Kingdom;;;;;;;;;;;;;x
+SHL_prussian_constitutionalism;Shilluk Kingdom;;;;;;;;;;;;;x
+SHL_hms_government;Shilluk Kingdom;;;;;;;;;;;;;x
+SRT;Surat;;;;;;;;;;;;;x
+SRT_ADJ;Surat;;;;;;;;;;;;;x
+SSU;Siak;;;;;;;;;;;;;x
+SSU_ADJ;Siak;;;;;;;;;;;;;x
+SSU_absolute_monarchy;Sultanate of Siak Sri Indrapura;;;;;;;;;;;;;x
+SSU_prussian_constitutionalism;Sultanate of Siak Sri Indrapura;;;;;;;;;;;;;x
+SSU_hms_government;Sultanate of Siak Sri Indrapura;;;;;;;;;;;;;x
+SUL;Sulu;;;;;;;;;;;;;x
+SUL_ADJ;Sulu;;;;;;;;;;;;;x
+SUL_absolute_monarchy;Sultanate of Sulu;;;;;;;;;;;;;x
+SUL_prussian_constitutionalism;Sultanate of Sulu;;;;;;;;;;;;;x
+SUL_hms_government;Sultanate of Sulu;;;;;;;;;;;;;x
+SVV;Savantvari;;;;;;;;;;;;;x
+SVV_ADJ;Savantvari;;;;;;;;;;;;;x
+SYR;Syria;;;;;;;;;;;;;x
+SYR_ADJ;Syrian;;;;;;;;;;;;;x
+SYR_absolute_monarchy;Arab Kingdom of Syria;;;;;;;;;;;;;x
+SYR_prussian_constitutionalism;Arab Kingdom of Syria;;;;;;;;;;;;;x
+SYR_hms_government;Arab Kingdom of Syria;;;;;;;;;;;;;x
+SYR_democracy;Syrian Republic;;;;;;;;;;;;;x
+SYR_presidential_dictatorship;Syrian Republic;;;;;;;;;;;;;x
+TNK;Tonk;;;;;;;;;;;;;x
+TNK_ADJ;Tonk;;;;;;;;;;;;;x
+TRP;Tripura;;;;;;;;;;;;;x
+TRP_ADJ;Tripura;;;;;;;;;;;;;x
+TUV;Tannu Tuva;;;;;;;;;;;;;x
+TUV_ADJ;Tuvan;;;;;;;;;;;;;x
+TUV_democracy;Republic of Uryankhay;;;;;;;;;;;;;x
+TUV_presidential_dictatorship;Republic of Uryankhay;;;;;;;;;;;;;x
+TUV_proletarian_dictatorship;Tuvan People's Republic;;;;;;;;;;;;;x
+WAD;Wadai;;;;;;;;;;;;;x
+WAD_ADJ;Wadai;;;;;;;;;;;;;x
+WAD_absolute_monarchy;Sultanate of Wadai;;;;;;;;;;;;;x
+WAD_prussian_constitutionalism;Sultanate of Wadai;;;;;;;;;;;;;x
+WAD_hms_government;Sultanate of Wadai;;;;;;;;;;;;;x
+WLD;Waldeck and Pyrmont;;;;;;;;;;;;;x
+WLD_ADJ;Waldeck;;;;;;;;;;;;;x
+WLD_absolute_monarchy;Principality of Waldeck and Pyrmont;;;;;;;;;;;;;x
+WLD_prussian_constitutionalism;Principality of Waldeck and Pyrmont;;;;;;;;;;;;;x
+WLD_hms_government;Principality of Waldeck and Pyrmont;;;;;;;;;;;;;x
+WRS;Warsangali;;;;;;;;;;;;;x
+WRS_ADJ;Warsangali;;;;;;;;;;;;;x
+WRS_absolute_monarchy;Warsangali Sultanate;;;;;;;;;;;;;x
+WRS_prussian_constitutionalism;Warsangali Sultanate;;;;;;;;;;;;;x
+WRS_hms_government;Warsangali Sultanate;;;;;;;;;;;;;x
+TKG;Tokugawa;;;;;;;;;;;;;x
+TKG_ADJ;Tokugawan;;;;;;;;;;;;;x
+TKG_absolute_monarchy;Tokugawa Shogunate;;;;;;;;;;;;;x
+TKG_prussian_constitutionalism;Tokugawa Shogunate;;;;;;;;;;;;;x
+TKG_hms_government;Tokugawa Shogunate;;;;;;;;;;;;;x
+PBO;Peru-Bolivia;;;;;;;;;;;;;x
+PBO_ADJ;Peru-Bolivian;;;;;;;;;;;;;x
+PBO_democracy;Peru–Bolivian Confederation;;;;;;;;;;;;;x
+PBO_presidential_dictatorship;Peru–Bolivian Confederation;;;;;;;;;;;;;x
+QAT;Qatar;;;;;;;;;;;;;x
+QAT_ADJ;Qatari;;;;;;;;;;;;;x
+QAT_absolute_monarchy;State of Qatar;;;;;;;;;;;;;x
+QAT_prussian_constitutionalism;State of Qatar;;;;;;;;;;;;;x
+QAT_hms_government;State of Qatar;;;;;;;;;;;;;x
+SEL;Selangor;;;;;;;;;;;;;x
+SEL_ADJ;Selangor;;;;;;;;;;;;;x
+SEL_absolute_monarchy;Selangor Sultanate;;;;;;;;;;;;;x
+SEL_prussian_constitutionalism;Selangor Sultanate;;;;;;;;;;;;;x
+SEL_hms_government;Selangor Sultanate;;;;;;;;;;;;;x
+PRK;Perak;;;;;;;;;;;;;x
+PRK_ADJ;Perak;;;;;;;;;;;;;x
+PRK_absolute_monarchy;Perak Sultanate;;;;;;;;;;;;;x
+PRK_prussian_constitutionalism;Perak Sultanate;;;;;;;;;;;;;x
+PRK_hms_government;Perak Sultanate;;;;;;;;;;;;;x
+PHG;Pahang;;;;;;;;;;;;;x
+PHG_ADJ;Pahang;;;;;;;;;;;;;x
+PHG_absolute_monarchy;Pahang Sultanate;;;;;;;;;;;;;x
+PHG_prussian_constitutionalism;Pahang Sultanate;;;;;;;;;;;;;x
+PHG_hms_government;Pahang Sultanate;;;;;;;;;;;;;x
+PTN;Pattani;;;;;;;;;;;;;x
+PTN_ADJ;Pattani;;;;;;;;;;;;;x
+PTN_absolute_monarchy;The Sultanate of Patani Darussalam;;;;;;;;;;;;;x
+PTN_prussian_constitutionalism;The Sultanate of Patani Darussalam;;;;;;;;;;;;;x
+PTN_hms_government;The Sultanate of Patani Darussalam;;;;;;;;;;;;;x
+ASA;Aussa;;;;;;;;;;;;;x
+ASA_ADJ;Aussan;;;;;;;;;;;;;x
+ASA_absolute_monarchy;Sultanate of Aussa;;;;;;;;;;;;;x
+ASA_prussian_constitutionalism;Sultanate of Aussa;;;;;;;;;;;;;x
+ASA_hms_government;Sultanate of Aussa;;;;;;;;;;;;;x
+FOR;Formosa;;;;;;;;;;;;;x
+FOR_ADJ;Formosan;;;;;;;;;;;;;x
+FOR_democracy;Republic of Formosa;;;;;;;;;;;;;x
+FOR_presidential_dictatorship;Republic of Formosa;;;;;;;;;;;;;x
+SWA;Swaziland;;;;;;;;;;;;;x
+SWA_ADJ;Swazi;;;;;;;;;;;;;x
+SWA_absolute_monarchy;Kingdom of Swaziland;;;;;;;;;;;;;x
+SWA_prussian_constitutionalism;Kingdom of Swaziland;;;;;;;;;;;;;x
+SWA_hms_government;Kingdom of Swaziland;;;;;;;;;;;;;x
+MGD;Maguindanao;;;;;;;;;;;;;x
+MGD_ADJ;Maguindanao;;;;;;;;;;;;;x
+MGD_absolute_monarchy;Sultanate of Maguindanao;;;;;;;;;;;;;x
+MGD_prussian_constitutionalism;Sultanate of Maguindanao;;;;;;;;;;;;;x
+MGD_hms_government;Sultanate of Maguindanao;;;;;;;;;;;;;x
+EZO;Ezo;;;;;;;;;;;;;x
+EZO_ADJ;Ezo;;;;;;;;;;;;;x
+EZO_democracy;Republic of Ezo;;;;;;;;;;;;;x
+EZO_presidential_dictatorship;Republic of Ezo;;;;;;;;;;;;;x
+YUC;Yucatán;;;;;;;;;;;;;x
+YUC_ADJ;Yucatáni;;;;;;;;;;;;;x
+YUC_democracy;Republic of Yucatán;;;;;;;;;;;;;x
+YUC_presidential_dictatorship;Republic of Yucatán;;;;;;;;;;;;;x
+RGD;Rio Grande;;;;;;;;;;;;;x
+RGD_ADJ;Rio Grandese;;;;;;;;;;;;;x
+RGD_democracy;Republic of the Rio Grande;;;;;;;;;;;;;x
+RGD_presidential_dictatorship;Republic of the Rio Grande;;;;;;;;;;;;;x
+BSL;Basutoland;;;;;;;;;;;;;x
+BSL_ADJ;Basuto;;;;;;;;;;;;;x
+BSL_absolute_monarchy;Kingdom of Basutoland;;;;;;;;;;;;;x
+BSL_prussian_constitutionalism;Kingdom of Basutoland;;;;;;;;;;;;;x
+BSL_hms_government;Kingdom of Basutoland;;;;;;;;;;;;;x
+KDA;Kedah;;;;;;;;;;;;;x
+KDA_ADJ;Kedah;;;;;;;;;;;;;x
+KDA_absolute_monarchy;Sultanate of Kedah;;;;;;;;;;;;;x
+KDA_prussian_constitutionalism;Sultanate of Kedah;;;;;;;;;;;;;x
+KDA_hms_government;Sultanate of Kedah;;;;;;;;;;;;;x
+HAR;Harar;;;;;;;;;;;;;x
+HAR_ADJ;Harari;;;;;;;;;;;;;x
+HAR_absolute_monarchy;Emirate of Harar;;;;;;;;;;;;;x
+HAR_prussian_constitutionalism;Emirate of Harar;;;;;;;;;;;;;x
+HAR_hms_government;Emirate of Harar;;;;;;;;;;;;;x
+MBA;Medri Bahri;;;;;;;;;;;;;x
+MBA_ADJ;Medri Bahri;;;;;;;;;;;;;x
+MBA_absolute_monarchy;Kingdom of Medri Bahri;;;;;;;;;;;;;x
+MBA_prussian_constitutionalism;Kingdom of Medri Bahri;;;;;;;;;;;;;x
+MBA_hms_government;Kingdom of Medri Bahri;;;;;;;;;;;;;x
+KRG;Karagwe;;;;;;;;;;;;;x
+KRG_ADJ;Karagwe;;;;;;;;;;;;;x
+KRG_absolute_monarchy;Kingdom of Karagwe;;;;;;;;;;;;;x
+KRG_prussian_constitutionalism;Kingdom of Karagwe;;;;;;;;;;;;;x
+KRG_hms_government;Kingdom of Karagwe;;;;;;;;;;;;;x
+UNE;Unyanyembe;;;;;;;;;;;;;x
+UNE_ADJ;Unyanyembe;;;;;;;;;;;;;x
+UNE_absolute_monarchy;Kingdom of Unyanyembe;;;;;;;;;;;;;x
+UNE_prussian_constitutionalism;Kingdom of Unyanyembe;;;;;;;;;;;;;x
+UNE_hms_government;Kingdom of Unyanyembe;;;;;;;;;;;;;x
+SAM;Samos;;;;;;;;;;;;;x
+SAM_ADJ;Samos;;;;;;;;;;;;;x
+SAM_absolute_monarchy;Principality of Samos;;;;;;;;;;;;;x
+SAM_prussian_constitutionalism;Principality of Samos;;;;;;;;;;;;;x
+SAM_hms_government;Principality of Samos;;;;;;;;;;;;;x
+SVA;Svaneti;;;;;;;;;;;;;x
+SVA_ADJ;Svaneti;;;;;;;;;;;;;x
+SVA_absolute_monarchy;Principality of Svaneti;;;;;;;;;;;;;x
+SVA_prussian_constitutionalism;Principality of Svaneti;;;;;;;;;;;;;x
+SVA_hms_government;Principality of Svaneti;;;;;;;;;;;;;x
+MGR;Mingrelia;;;;;;;;;;;;;x
+MGR_ADJ;Mingrelian;;;;;;;;;;;;;x
+MGR_absolute_monarchy;Principality of Mingrelia;;;;;;;;;;;;;x
+MGR_prussian_constitutionalism;Principality of Mingrelia;;;;;;;;;;;;;x
+MGR_hms_government;Principality of Mingrelia;;;;;;;;;;;;;x
+ABK;Abkhazia;;;;;;;;;;;;;x
+ABK_ADJ;Abkhazian;;;;;;;;;;;;;x
+ABK_absolute_monarchy;Principality of Abkhazia;;;;;;;;;;;;;x
+ABK_prussian_constitutionalism;Principality of Abkhazia;;;;;;;;;;;;;x
+ABK_hms_government;Principality of Abkhazia;;;;;;;;;;;;;x
+GUR;Guria;;;;;;;;;;;;;x
+GUR_ADJ;Gurian;;;;;;;;;;;;;x
+GUR_absolute_monarchy;Principality of Guria;;;;;;;;;;;;;x
+GUR_prussian_constitutionalism;Principality of Guria;;;;;;;;;;;;;x
+GUR_hms_government;Principality of Guria;;;;;;;;;;;;;x
+GUR_democracy;Republic of Guria;;;;;;;;;;;;;x
+GUR_presidential_dictatorship;Republic of Guria;;;;;;;;;;;;;x
+ERI;Erivan;;;;;;;;;;;;;x
+ERI_ADJ;Erivan;;;;;;;;;;;;;x
+ERI_absolute_monarchy;Erivan Khanate;;;;;;;;;;;;;x
+ERI_prussian_constitutionalism;Erivan Khanate;;;;;;;;;;;;;x
+ERI_hms_government;Erivan Khanate;;;;;;;;;;;;;x
+NAK;Nakhichevan;;;;;;;;;;;;;x
+NAK_ADJ;Nakhichevan;;;;;;;;;;;;;x
+NAK_absolute_monarchy;Nakhichevan Khanate;;;;;;;;;;;;;x
+NAK_prussian_constitutionalism;Nakhichevan Khanate;;;;;;;;;;;;;x
+NAK_hms_government;Nakhichevan Khanate;;;;;;;;;;;;;x
+KRB;Karabakh;;;;;;;;;;;;;x
+KRB_ADJ;Karabakh;;;;;;;;;;;;;x
+KRB_absolute_monarchy;Karabakh Khanate;;;;;;;;;;;;;x
+KRB_prussian_constitutionalism;Karabakh Khanate;;;;;;;;;;;;;x
+KRB_hms_government;Karabakh Khanate;;;;;;;;;;;;;x
+AVA;Avar;;;;;;;;;;;;;x
+AVA_ADJ;Avar;;;;;;;;;;;;;x
+AVA_absolute_monarchy;Avar Khanate;;;;;;;;;;;;;x
+AVA_prussian_constitutionalism;Avar Khanate;;;;;;;;;;;;;x
+AVA_hms_government;Avar Khanate;;;;;;;;;;;;;x
+TLS;Talysh;;;;;;;;;;;;;x
+TLS_ADJ;Talysh;;;;;;;;;;;;;x
+TLS_absolute_monarchy;Talysh Khanate;;;;;;;;;;;;;x
+TLS_prussian_constitutionalism;Talysh Khanate;;;;;;;;;;;;;x
+TLS_hms_government;Talysh Khanate;;;;;;;;;;;;;x
+GZK;Gazikumukh;;;;;;;;;;;;;x
+GZK_ADJ;Gazikumukh;;;;;;;;;;;;;x
+GZK_absolute_monarchy;Gazikumukh Khanate;;;;;;;;;;;;;x
+GZK_prussian_constitutionalism;Gazikumukh Khanate;;;;;;;;;;;;;x
+GZK_hms_government;Gazikumukh Khanate;;;;;;;;;;;;;x
+TRK;Tarki;;;;;;;;;;;;;x
+TRK_ADJ;Tarki;;;;;;;;;;;;;x
+TRK_absolute_monarchy;Shamkhalate of Tarki;;;;;;;;;;;;;x
+TRK_prussian_constitutionalism;Shamkhalate of Tarki;;;;;;;;;;;;;x
+TRK_hms_government;Shamkhalate of Tarki;;;;;;;;;;;;;x
+SKI;Shaki;;;;;;;;;;;;;x
+SKI_ADJ;Shaki;;;;;;;;;;;;;x
+SKI_absolute_monarchy;Shaki Khanate;;;;;;;;;;;;;x
+SKI_prussian_constitutionalism;Shaki Khanate;;;;;;;;;;;;;x
+SKI_hms_government;Shaki Khanate;;;;;;;;;;;;;x
+SHR;Shirvan;;;;;;;;;;;;;x
+SHR_ADJ;Shirvan;;;;;;;;;;;;;x
+SHR_absolute_monarchy;Shirvan Khanate;;;;;;;;;;;;;x
+SHR_prussian_constitutionalism;Shirvan Khanate;;;;;;;;;;;;;x
+SHR_hms_government;Shirvan Khanate;;;;;;;;;;;;;x
+URM;Urmia;;;;;;;;;;;;;x
+URM_ADJ;Urmia;;;;;;;;;;;;;x
+URM_absolute_monarchy;Urmia Khanate;;;;;;;;;;;;;x
+URM_prussian_constitutionalism;Urmia Khanate;;;;;;;;;;;;;x
+URM_hms_government;Urmia Khanate;;;;;;;;;;;;;x
+MRD;Marand;;;;;;;;;;;;;x
+MRD_ADJ;Marand;;;;;;;;;;;;;x
+MRD_absolute_monarchy;Marand Khanate;;;;;;;;;;;;;x
+MRD_prussian_constitutionalism;Marand Khanate;;;;;;;;;;;;;x
+MRD_hms_government;Marand Khanate;;;;;;;;;;;;;x
+MKU;Maku;;;;;;;;;;;;;x
+MKU_ADJ;Maku;;;;;;;;;;;;;x
+MKU_absolute_monarchy;Maku Khanate;;;;;;;;;;;;;x
+MKU_prussian_constitutionalism;Maku Khanate;;;;;;;;;;;;;x
+MKU_hms_government;Maku Khanate;;;;;;;;;;;;;x
+MRG;Maragheh;;;;;;;;;;;;;x
+MRG_ADJ;Maragheh;;;;;;;;;;;;;x
+MRG_absolute_monarchy;Maragheh Khanate;;;;;;;;;;;;;x
+MRG_prussian_constitutionalism;Maragheh Khanate;;;;;;;;;;;;;x
+MRG_hms_government;Maragheh Khanate;;;;;;;;;;;;;x
+ARD;Ardalan;;;;;;;;;;;;;x
+ARD_ADJ;Ardalan;;;;;;;;;;;;;x
+ARD_absolute_monarchy;Ardalan Principality;;;;;;;;;;;;;x
+ARD_prussian_constitutionalism;Ardalan Principality;;;;;;;;;;;;;x
+ARD_hms_government;Ardalan Principality;;;;;;;;;;;;;x
+BBN;Baban;;;;;;;;;;;;;x
+BBN_ADJ;Baban;;;;;;;;;;;;;x
+BBN_absolute_monarchy;Baban Principality;;;;;;;;;;;;;x
+BBN_prussian_constitutionalism;Baban Principality;;;;;;;;;;;;;x
+BBN_hms_government;Baban Principality;;;;;;;;;;;;;x
+SRN;Soran;;;;;;;;;;;;;x
+SRN_ADJ;Soran;;;;;;;;;;;;;x
+SRN_absolute_monarchy;Soran Emirate;;;;;;;;;;;;;x
+SRN_prussian_constitutionalism;Soran Emirate;;;;;;;;;;;;;x
+SRN_hms_government;Soran Emirate;;;;;;;;;;;;;x
+HKI;Hakkari;;;;;;;;;;;;;x
+HKI_ADJ;Hakkari;;;;;;;;;;;;;x
+HKI_absolute_monarchy;Emirate of Hakkâri;;;;;;;;;;;;;x
+HKI_prussian_constitutionalism;Emirate of Hakkâri;;;;;;;;;;;;;x
+HKI_hms_government;Emirate of Hakkâri;;;;;;;;;;;;;x
+BTL;Bitlis;;;;;;;;;;;;;x
+BTL_ADJ;Bitlis;;;;;;;;;;;;;x
+BTL_absolute_monarchy;Principality of Bitlis;;;;;;;;;;;;;x
+BTL_prussian_constitutionalism;Principality of Bitlis;;;;;;;;;;;;;x
+BTL_hms_government;Principality of Bitlis;;;;;;;;;;;;;x
+BOT;Bohtan;;;;;;;;;;;;;x
+BOT_ADJ;Bohtan;;;;;;;;;;;;;x
+BOT_absolute_monarchy;Emirate of Bohtan;;;;;;;;;;;;;x
+BOT_prussian_constitutionalism;Emirate of Bohtan;;;;;;;;;;;;;x
+BOT_hms_government;Emirate of Bohtan;;;;;;;;;;;;;x
+CHT;Chitral;;;;;;;;;;;;;x
+CHT_ADJ;Chitrali;;;;;;;;;;;;;x
+CHT_absolute_monarchy;Chitral;;;;;;;;;;;;;x
+CHT_prussian_constitutionalism;Chitral;;;;;;;;;;;;;x
+CHT_hms_government;Chitral;;;;;;;;;;;;;x
+DIR;Dir;;;;;;;;;;;;;x
+DIR_ADJ;Dir;;;;;;;;;;;;;x
+DIR_absolute_monarchy;Dir;;;;;;;;;;;;;x
+DIR_prussian_constitutionalism;Dir;;;;;;;;;;;;;x
+DIR_hms_government;Dir;;;;;;;;;;;;;x
+YOG;Yogyakarta;;;;;;;;;;;;;x
+YOG_ADJ;Yogyakarta;;;;;;;;;;;;;x
+YOG_absolute_monarchy;Sultanate of Yogyakarta;;;;;;;;;;;;;x
+YOG_prussian_constitutionalism;Sultanate of Yogyakarta;;;;;;;;;;;;;x
+YOG_hms_government;Sultanate of Yogyakarta;;;;;;;;;;;;;x
+SUR;Surakarta;;;;;;;;;;;;;x
+SUR_ADJ;Surakarta;;;;;;;;;;;;;x
+SUR_absolute_monarchy;Surakarta Sunanate;;;;;;;;;;;;;x
+SUR_prussian_constitutionalism;Surakarta Sunanate;;;;;;;;;;;;;x
+SUR_hms_government;Surakarta Sunanate;;;;;;;;;;;;;x
+JBI;Jambi;;;;;;;;;;;;;x
+JBI_ADJ;Jambi;;;;;;;;;;;;;x
+JBI_absolute_monarchy;Jambi Sultanate;;;;;;;;;;;;;x
+JBI_prussian_constitutionalism;Jambi Sultanate;;;;;;;;;;;;;x
+JBI_hms_government;Jambi Sultanate;;;;;;;;;;;;;x
+CRB;Cirebon;;;;;;;;;;;;;x
+CRB_ADJ;Cirebon;;;;;;;;;;;;;x
+CRB_absolute_monarchy;Sultanate of Cirebon;;;;;;;;;;;;;x
+CRB_prussian_constitutionalism;Sultanate of Cirebon;;;;;;;;;;;;;x
+CRB_hms_government;Sultanate of Cirebon;;;;;;;;;;;;;x
+PLB;Palembang;;;;;;;;;;;;;x
+PLB_ADJ;Palembang;;;;;;;;;;;;;x
+PLB_absolute_monarchy;Palembang Darussalam;;;;;;;;;;;;;x
+PLB_prussian_constitutionalism;Palembang Darussalam;;;;;;;;;;;;;x
+PLB_hms_government;Palembang Darussalam;;;;;;;;;;;;;x
+PGY;Pagaruyung;;;;;;;;;;;;;x
+PGY_ADJ;Pagaruyung;;;;;;;;;;;;;x
+PGY_absolute_monarchy;Pagaruyung Kingdom;;;;;;;;;;;;;x
+PGY_prussian_constitutionalism;Pagaruyung Kingdom;;;;;;;;;;;;;x
+PGY_hms_government;Pagaruyung Kingdom;;;;;;;;;;;;;x
+RLI;Riau-Lingga;;;;;;;;;;;;;x
+RLI_ADJ;Riau-Lingga;;;;;;;;;;;;;x
+RLI_absolute_monarchy;Riau-Lingga Sultanate;;;;;;;;;;;;;x
+RLI_prussian_constitutionalism;Riau-Lingga Sultanate;;;;;;;;;;;;;x
+RLI_hms_government;Riau-Lingga Sultanate;;;;;;;;;;;;;x
+LRT;Larantuka;;;;;;;;;;;;;x
+LRT_ADJ;Larantuka;;;;;;;;;;;;;x
+LRT_absolute_monarchy;Kingdom of Larantuka;;;;;;;;;;;;;x
+LRT_prussian_constitutionalism;Kingdom of Larantuka;;;;;;;;;;;;;x
+LRT_hms_government;Kingdom of Larantuka;;;;;;;;;;;;;x
+NGS;Negeri Sembilan;;;;;;;;;;;;;x
+NGS_ADJ;Negeri Sembilan;;;;;;;;;;;;;x
+KDY;Kandy;;;;;;;;;;;;;x
+KDY_ADJ;Kandy;;;;;;;;;;;;;x
+KDY_absolute_monarchy;Kingdom of Kandy;;;;;;;;;;;;;x
+KDY_prussian_constitutionalism;Kingdom of Kandy;;;;;;;;;;;;;x
+KDY_hms_government;Kingdom of Kandy;;;;;;;;;;;;;x
+DMA;Dimasa;;;;;;;;;;;;;x
+DMA_ADJ;Dimasa;;;;;;;;;;;;;x
+DMA_absolute_monarchy;Dimasa Kingdom;;;;;;;;;;;;;x
+DMA_prussian_constitutionalism;Dimasa Kingdom;;;;;;;;;;;;;x
+DMA_hms_government;Dimasa Kingdom;;;;;;;;;;;;;x
+MAH;Mahra;;;;;;;;;;;;;x
+MAH_ADJ;Mahra;;;;;;;;;;;;;x
+MAH_absolute_monarchy;Mahra State of Qishn and Socotra;;;;;;;;;;;;;x
+MAH_prussian_constitutionalism;Mahra State of Qishn and Socotra;;;;;;;;;;;;;x
+MAH_hms_government;Mahra State of Qishn and Socotra;;;;;;;;;;;;;x
+KTR;Kathiri;;;;;;;;;;;;;x
+KTR_ADJ;Kathiri;;;;;;;;;;;;;x
+KTR_absolute_monarchy;Kathiri State of Seiyun in Hadhramaut;;;;;;;;;;;;;x
+KTR_prussian_constitutionalism;Kathiri State of Seiyun in Hadhramaut;;;;;;;;;;;;;x
+KTR_hms_government;Kathiri State of Seiyun in Hadhramaut;;;;;;;;;;;;;x
+FDL;Fadhli;;;;;;;;;;;;;x
+FDL_ADJ;Fadhli;;;;;;;;;;;;;x
+FDL_absolute_monarchy;Fadhli Sultanate;;;;;;;;;;;;;x
+FDL_prussian_constitutionalism;Fadhli Sultanate;;;;;;;;;;;;;x
+FDL_hms_government;Fadhli Sultanate;;;;;;;;;;;;;x
+LHJ;Lahej;;;;;;;;;;;;;x
+LHJ_ADJ;Lahej;;;;;;;;;;;;;x
+LHJ_absolute_monarchy;Sultanate of Lahej;;;;;;;;;;;;;x
+LHJ_prussian_constitutionalism;Sultanate of Lahej;;;;;;;;;;;;;x
+LHJ_hms_government;Sultanate of Lahej;;;;;;;;;;;;;x
+WHD;Wahidi;;;;;;;;;;;;;x
+WHD_ADJ;Wahidi;;;;;;;;;;;;;x
+WHD_absolute_monarchy;Wahidi Sultanate of Habban in Hadhramaut;;;;;;;;;;;;;x
+WHD_prussian_constitutionalism;Wahidi Sultanate of Habban in Hadhramaut;;;;;;;;;;;;;x
+WHD_hms_government;Wahidi Sultanate of Habban in Hadhramaut;;;;;;;;;;;;;x
+TAH;Tahiti;;;;;;;;;;;;;x
+TAH_ADJ;Tahitian;;;;;;;;;;;;;x
+TAH_absolute_monarchy;Kingdom of Tahiti;;;;;;;;;;;;;x
+TAH_prussian_constitutionalism;Kingdom of Tahiti;;;;;;;;;;;;;x
+TAH_hms_government;Kingdom of Tahiti;;;;;;;;;;;;;x
+TUG;Tuggurt;;;;;;;;;;;;;x
+TUG_ADJ;Tuggurt;;;;;;;;;;;;;x
+TUG_absolute_monarchy;Sultanate of Tuggurt;;;;;;;;;;;;;x
+TUG_prussian_constitutionalism;Sultanate of Tuggurt;;;;;;;;;;;;;x
+TUG_hms_government;Sultanate of Tuggurt;;;;;;;;;;;;;x
+BBS;Beni Abbas;;;;;;;;;;;;;x
+BBS_ADJ;Beni Abbas;;;;;;;;;;;;;x
+BBS_absolute_monarchy;Kingdom of Beni Abbas;;;;;;;;;;;;;x
+BBS_prussian_constitutionalism;Kingdom of Beni Abbas;;;;;;;;;;;;;x
+BBS_hms_government;Kingdom of Beni Abbas;;;;;;;;;;;;;x
+TRZ;Trarza;;;;;;;;;;;;;x
+TRZ_ADJ;Trarza;;;;;;;;;;;;;x
+TRZ_absolute_monarchy;Emirate of Trarza;;;;;;;;;;;;;x
+TRZ_prussian_constitutionalism;Emirate of Trarza;;;;;;;;;;;;;x
+TRZ_hms_government;Emirate of Trarza;;;;;;;;;;;;;x
+CAY;Cayor;;;;;;;;;;;;;x
+CAY_ADJ;Cayor;;;;;;;;;;;;;x
+CAY_absolute_monarchy;Kingdom of Cayor;;;;;;;;;;;;;x
+CAY_prussian_constitutionalism;Kingdom of Cayor;;;;;;;;;;;;;x
+CAY_hms_government;Kingdom of Cayor;;;;;;;;;;;;;x
+JOL;Jolof;;;;;;;;;;;;;x
+JOL_ADJ;Jolof;;;;;;;;;;;;;x
+JOL_absolute_monarchy;Jolof Kingdom;;;;;;;;;;;;;x
+JOL_prussian_constitutionalism;Jolof Kingdom;;;;;;;;;;;;;x
+JOL_hms_government;Jolof Kingdom;;;;;;;;;;;;;x
+SLM;Saloum;;;;;;;;;;;;;x
+SLM_ADJ;Saloum;;;;;;;;;;;;;x
+SLM_absolute_monarchy;Kingdom of Saloum;;;;;;;;;;;;;x
+SLM_prussian_constitutionalism;Kingdom of Saloum;;;;;;;;;;;;;x
+SLM_hms_government;Kingdom of Saloum;;;;;;;;;;;;;x
+BTE;Baté;;;;;;;;;;;;;x
+BTE_ADJ;Baté;;;;;;;;;;;;;x
+BTE_absolute_monarchy;Baté Empire;;;;;;;;;;;;;x
+BTE_prussian_constitutionalism;Baté Empire;;;;;;;;;;;;;x
+BTE_hms_government;Baté Empire;;;;;;;;;;;;;x
+KND;Kénédougou;;;;;;;;;;;;;x
+KND_ADJ;Kénédougou;;;;;;;;;;;;;x
+KND_absolute_monarchy;Kénédougou Kingdom;;;;;;;;;;;;;x
+KND_prussian_constitutionalism;Kénédougou Kingdom;;;;;;;;;;;;;x
+KND_hms_government;Kénédougou Kingdom;;;;;;;;;;;;;x
+MSI;Mossi;;;;;;;;;;;;;x
+MSI_ADJ;Mossi;;;;;;;;;;;;;x
+MSI_absolute_monarchy;Mossi Kingdoms;;;;;;;;;;;;;x
+MSI_prussian_constitutionalism;Mossi Kingdoms;;;;;;;;;;;;;x
+MSI_hms_government;Mossi Kingdoms;;;;;;;;;;;;;x
+KRT;Kaarta;;;;;;;;;;;;;x
+KRT_ADJ;Kaarta;;;;;;;;;;;;;x
+KRT_absolute_monarchy;Kingdom of Kaarta;;;;;;;;;;;;;x
+KRT_prussian_constitutionalism;Kingdom of Kaarta;;;;;;;;;;;;;x
+KRT_hms_government;Kingdom of Kaarta;;;;;;;;;;;;;x
+KBU;Kaabu;;;;;;;;;;;;;x
+KBU_ADJ;Kaabu;;;;;;;;;;;;;x
+KBU_absolute_monarchy;Kaabu Empire;;;;;;;;;;;;;x
+KBU_prussian_constitutionalism;Kaabu Empire;;;;;;;;;;;;;x
+KBU_hms_government;Kaabu Empire;;;;;;;;;;;;;x
+KBD;Kabadougou;;;;;;;;;;;;;x
+KBD_ADJ;Kabadougou;;;;;;;;;;;;;x
+KBD_absolute_monarchy;Kabadougou Kingdom;;;;;;;;;;;;;x
+KBD_prussian_constitutionalism;Kabadougou Kingdom;;;;;;;;;;;;;x
+KBD_hms_government;Kabadougou Kingdom;;;;;;;;;;;;;x
+AGD;Aïr;;;;;;;;;;;;;x
+AGD_ADJ;Aïr;;;;;;;;;;;;;x
+AGD_absolute_monarchy;Tenere Sultanate of Aïr;;;;;;;;;;;;;x
+AGD_prussian_constitutionalism;Tenere Sultanate of Aïr;;;;;;;;;;;;;x
+AGD_hms_government;Tenere Sultanate of Aïr;;;;;;;;;;;;;x
+KAF;Kaffa;;;;;;;;;;;;;x
+KAF_ADJ;Kaffa;;;;;;;;;;;;;x
+KAF_absolute_monarchy;Kingdom of Kaffa;;;;;;;;;;;;;x
+KAF_prussian_constitutionalism;Kingdom of Kaffa;;;;;;;;;;;;;x
+KAF_hms_government;Kingdom of Kaffa;;;;;;;;;;;;;x
+WUK;Wukari;;;;;;;;;;;;;x
+WUK_ADJ;Wukari;;;;;;;;;;;;;x
+WUK_absolute_monarchy;Wukari Federation;;;;;;;;;;;;;x
+WUK_prussian_constitutionalism;Wukari Federation;;;;;;;;;;;;;x
+WUK_hms_government;Wukari Federation;;;;;;;;;;;;;x
+DAG;Dagbon;;;;;;;;;;;;;x
+DAG_ADJ;Dagbon;;;;;;;;;;;;;x
+DAG_absolute_monarchy;Kingdom of Dagbon;;;;;;;;;;;;;x
+DAG_prussian_constitutionalism;Kingdom of Dagbon;;;;;;;;;;;;;x
+DAG_hms_government;Kingdom of Dagbon;;;;;;;;;;;;;x
+ANZ;Anziku;;;;;;;;;;;;;x
+ANZ_ADJ;Anziku;;;;;;;;;;;;;x
+ANZ_absolute_monarchy;Anziku Kingdom;;;;;;;;;;;;;x
+ANZ_prussian_constitutionalism;Anziku Kingdom;;;;;;;;;;;;;x
+ANZ_hms_government;Anziku Kingdom;;;;;;;;;;;;;x
+KUB;Kuba;;;;;;;;;;;;;x
+KUB_ADJ;Kuba;;;;;;;;;;;;;x
+KUB_absolute_monarchy;Kuba Kingdom;;;;;;;;;;;;;x
+KUB_prussian_constitutionalism;Kuba Kingdom;;;;;;;;;;;;;x
+KUB_hms_government;Kuba Kingdom;;;;;;;;;;;;;x
+MBU;Mbunda;;;;;;;;;;;;;x
+MBU_ADJ;Mbunda;;;;;;;;;;;;;x
+MBU_absolute_monarchy;Mbunda Kingdom;;;;;;;;;;;;;x
+MBU_prussian_constitutionalism;Mbunda Kingdom;;;;;;;;;;;;;x
+MBU_hms_government;Mbunda Kingdom;;;;;;;;;;;;;x
+RZV;Rozvi;;;;;;;;;;;;;x
+RZV_ADJ;Rozvi;;;;;;;;;;;;;x
+RZV_absolute_monarchy;Rozvi Empire;;;;;;;;;;;;;x
+RZV_prussian_constitutionalism;Rozvi Empire;;;;;;;;;;;;;x
+RZV_hms_government;Rozvi Empire;;;;;;;;;;;;;x
+SOL;Solimana;;;;;;;;;;;;;x
+SOL_ADJ;Solimana;;;;;;;;;;;;;x
+SOL_absolute_monarchy;Kingdom of Solimana;;;;;;;;;;;;;x
+SOL_prussian_constitutionalism;Kingdom of Solimana;;;;;;;;;;;;;x
+SOL_hms_government;Kingdom of Solimana;;;;;;;;;;;;;x
+BAO;Baol;;;;;;;;;;;;;x
+BAO_ADJ;Baol;;;;;;;;;;;;;x
+BAO_absolute_monarchy;Kingdom of Baol;;;;;;;;;;;;;x
+BAO_prussian_constitutionalism;Kingdom of Baol;;;;;;;;;;;;;x
+BAO_hms_government;Kingdom of Baol;;;;;;;;;;;;;x
+BRG;Borgu;;;;;;;;;;;;;x
+BRG_ADJ;Borgu;;;;;;;;;;;;;x
+BRG_absolute_monarchy;Borgu Sultanate;;;;;;;;;;;;;x
+BRG_prussian_constitutionalism;Borgu Sultanate;;;;;;;;;;;;;x
+BRG_hms_government;Borgu Sultanate;;;;;;;;;;;;;x
+IJE;Ijebu;;;;;;;;;;;;;x
+IJE_ADJ;Ijebu;;;;;;;;;;;;;x
+IJE_absolute_monarchy;Ijebu Kingdom;;;;;;;;;;;;;x
+IJE_prussian_constitutionalism;Ijebu Kingdom;;;;;;;;;;;;;x
+IJE_hms_government;Ijebu Kingdom;;;;;;;;;;;;;x
+BMU;Bamum;;;;;;;;;;;;;x
+BMU_ADJ;Bamum;;;;;;;;;;;;;x
+BMU_absolute_monarchy;Kingdom of Bamum;;;;;;;;;;;;;x
+BMU_prussian_constitutionalism;Kingdom of Bamum;;;;;;;;;;;;;x
+BMU_hms_government;Kingdom of Bamum;;;;;;;;;;;;;x
+NRI;Nri;;;;;;;;;;;;;x
+NRI_ADJ;Nri;;;;;;;;;;;;;x
+NRI_absolute_monarchy;Kingdom of Nri;;;;;;;;;;;;;x
+NRI_prussian_constitutionalism;Kingdom of Nri;;;;;;;;;;;;;x
+NRI_hms_government;Kingdom of Nri;;;;;;;;;;;;;x
+KOY;Koya;;;;;;;;;;;;;x
+KOY_ADJ;Koya;;;;;;;;;;;;;x
+KOY_absolute_monarchy;Kingdom of Koya;;;;;;;;;;;;;x
+KOY_prussian_constitutionalism;Kingdom of Koya;;;;;;;;;;;;;x
+KOY_hms_government;Kingdom of Koya;;;;;;;;;;;;;x
+BND;Futa Bundu;;;;;;;;;;;;;x
+BND_ADJ;Futa Bundu;;;;;;;;;;;;;x
+BND_absolute_monarchy;Imamate of Futa Bundu;;;;;;;;;;;;;x
+BND_prussian_constitutionalism;Imamate of Futa Bundu;;;;;;;;;;;;;x
+BND_hms_government;Imamate of Futa Bundu;;;;;;;;;;;;;x
+IGA;Igala;;;;;;;;;;;;;x
+IGA_ADJ;Igala;;;;;;;;;;;;;x
+IGA_absolute_monarchy;Igala Kingdom;;;;;;;;;;;;;x
+IGA_prussian_constitutionalism;Igala Kingdom;;;;;;;;;;;;;x
+IGA_hms_government;Igala Kingdom;;;;;;;;;;;;;x
+MRV;Maravi;;;;;;;;;;;;;x
+MRV_ADJ;Maravi;;;;;;;;;;;;;x
+MRV_absolute_monarchy;Kingdom of Maravi;;;;;;;;;;;;;x
+MRV_prussian_constitutionalism;Kingdom of Maravi;;;;;;;;;;;;;x
+MRV_hms_government;Kingdom of Maravi;;;;;;;;;;;;;x
+BRL;Barotseland;;;;;;;;;;;;;x
+BRL_ADJ;Barotseland;;;;;;;;;;;;;x
+BRL_absolute_monarchy;Kingdom of Barotseland;;;;;;;;;;;;;x
+BRL_prussian_constitutionalism;Kingdom of Barotseland;;;;;;;;;;;;;x
+BRL_hms_government;Kingdom of Barotseland;;;;;;;;;;;;;x
+BMB;Bemba;;;;;;;;;;;;;x
+BMB_ADJ;Bemba;;;;;;;;;;;;;x
+BMB_absolute_monarchy;Bemba kingdom;;;;;;;;;;;;;x
+BMB_prussian_constitutionalism;Bemba kingdom;;;;;;;;;;;;;x
+BMB_hms_government;Bemba kingdom;;;;;;;;;;;;;x
+HIR;Hiraab;;;;;;;;;;;;;x
+HIR_ADJ;Hiraab;;;;;;;;;;;;;x
+HIR_absolute_monarchy;Hiraab Imamate;;;;;;;;;;;;;x
+HIR_prussian_constitutionalism;Hiraab Imamate;;;;;;;;;;;;;x
+HIR_hms_government;Hiraab Imamate;;;;;;;;;;;;;x
+SNW;Sanwi;;;;;;;;;;;;;x
+SNW_ADJ;Sanwi;;;;;;;;;;;;;x
+SNW_absolute_monarchy;Kingdom of Sanwi;;;;;;;;;;;;;x
+SNW_prussian_constitutionalism;Kingdom of Sanwi;;;;;;;;;;;;;x
+SNW_hms_government;Kingdom of Sanwi;;;;;;;;;;;;;x
+BLE;Baoulé;;;;;;;;;;;;;x
+BLE_ADJ;Baoulé;;;;;;;;;;;;;x
+BLE_absolute_monarchy;Baoulé kingdom;;;;;;;;;;;;;x
+BLE_prussian_constitutionalism;Baoulé kingdom;;;;;;;;;;;;;x
+BLE_hms_government;Baoulé kingdom;;;;;;;;;;;;;x
+WRI;Warri;;;;;;;;;;;;;x
+WRI_ADJ;Warri;;;;;;;;;;;;;x
+WRI_absolute_monarchy;Kingdom of Warri;;;;;;;;;;;;;x
+WRI_prussian_constitutionalism;Kingdom of Warri;;;;;;;;;;;;;x
+WRI_hms_government;Kingdom of Warri;;;;;;;;;;;;;x
+NGO;Ngoyo;;;;;;;;;;;;;x
+NGO_ADJ;Ngoyo;;;;;;;;;;;;;x
+NGO_absolute_monarchy;Ngoyo kingdom;;;;;;;;;;;;;x
+NGO_prussian_constitutionalism;Ngoyo kingdom;;;;;;;;;;;;;x
+NGO_hms_government;Ngoyo kingdom;;;;;;;;;;;;;x
+NJR;Najran;;;;;;;;;;;;;x
+NJR_ADJ;Najran;;;;;;;;;;;;;x
+NJR_absolute_monarchy;Principality of Najran;;;;;;;;;;;;;x
+NJR_prussian_constitutionalism;Principality of Najran;;;;;;;;;;;;;x
+NJR_hms_government;Principality of Najran;;;;;;;;;;;;;x
+MLD;Maldives;;;;;;;;;;;;;x
+MLD_ADJ;Maldives;;;;;;;;;;;;;x
+MLD_absolute_monarchy;Sultanate of the Maldives;;;;;;;;;;;;;x
+MLD_prussian_constitutionalism;Sultanate of the Maldives;;;;;;;;;;;;;x
+MLD_hms_government;Sultanate of the Maldives;;;;;;;;;;;;;x
+MPO;Mpondo;;;;;;;;;;;;;x
+MPO_ADJ;Mpondo;;;;;;;;;;;;;x
+MPO_absolute_monarchy;Mpondo Kingdom;;;;;;;;;;;;;x
+MPO_prussian_constitutionalism;Mpondo Kingdom;;;;;;;;;;;;;x
+MPO_hms_government;Mpondo Kingdom;;;;;;;;;;;;;x
+XHO;Xhosa;;;;;;;;;;;;;x
+XHO_ADJ;Xhosa;;;;;;;;;;;;;x
+XHO_absolute_monarchy;Xhosa Kingdom;;;;;;;;;;;;;x
+XHO_prussian_constitutionalism;Xhosa Kingdom;;;;;;;;;;;;;x
+XHO_hms_government;Xhosa Kingdom;;;;;;;;;;;;;x
+CBA;Chamba;;;;;;;;;;;;;x
+CBA_ADJ;Chamba;;;;;;;;;;;;;x
+SMR;Sirmur;;;;;;;;;;;;;x
+SMR_ADJ;Sirmur;;;;;;;;;;;;;x
+BSR;Bushahr;;;;;;;;;;;;;x
+BSR_ADJ;Bushahr;;;;;;;;;;;;;x
+MND;Mandi;;;;;;;;;;;;;x
+MND_ADJ;Mandi;;;;;;;;;;;;;x
+SWT;Swat;;;;;;;;;;;;;x
+SWT_ADJ;Swat;;;;;;;;;;;;;x
+ALG;Algarve;;;;;;;;;;;;;x
+ALG_ADJ;Algarve;;;;;;;;;;;;;x
+ALG_absolute_monarchy;Kingdom of Algarve;;;;;;;;;;;;;x
+ALG_prussian_constitutionalism;Kingdom of Algarve;;;;;;;;;;;;;x
+ALG_hms_government;Kingdom of Algarve;;;;;;;;;;;;;x
+PHU;Phuan;;;;;;;;;;;;;x
+PHU_ADJ;Phuan;;;;;;;;;;;;;x
+PHU_absolute_monarchy;Principality of Phuan;;;;;;;;;;;;;x
+PHU_prussian_constitutionalism;Principality of Phuan;;;;;;;;;;;;;x
+PHU_hms_government;Principality of Phuan;;;;;;;;;;;;;x
+CHM;Chiang Mai;;;;;;;;;;;;;x
+CHM_ADJ;Chiang Mai;;;;;;;;;;;;;x
+CHM_absolute_monarchy;Kingdom of Chiang Mai;;;;;;;;;;;;;x
+CHM_prussian_constitutionalism;Kingdom of Chiang Mai;;;;;;;;;;;;;x
+CHM_hms_government;Kingdom of Chiang Mai;;;;;;;;;;;;;x

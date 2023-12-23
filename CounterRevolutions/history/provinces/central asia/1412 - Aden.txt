@@ -1,0 +1,5 @@
+owner = LHJ
+controller = LHJ
+add_core = LHJ
+trade_goods = fish
+life_rating = 32

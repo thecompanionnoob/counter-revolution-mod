@@ -1,0 +1,20 @@
+army = {
+	name = "1st Army"
+	location = 313
+	regiment = {
+		name= "1. Christiania Militia"
+		type = infantry
+		home = 313
+	}
+	regiment = {
+		name= "1. Christiansand Militia"
+		type = infantry
+		home = 310
+	}
+	regiment = {
+		name= "1. Bergen Militia"
+		type = infantry
+		home = 309
+	}
+}
+

@@ -1,0 +1,120 @@
+political_decisions = {
+	circassian_expulsion = {
+		potential = {
+			tag = RUS
+			CCS = { all_core = { owned_by = RUS } }
+			religious_policy = moralism
+			NOT = { citizenship_policy = full_citizenship }
+			RUS_1048 = { average_militancy = 2 }
+			NOT = { has_country_flag = circassian_expulsion }
+		}
+		allow = {
+		
+		}
+		effect = {
+			badboy = 4
+			CCS = {
+				all_core = {
+					add_province_modifier = {
+						name = settlement_push
+						duration = 3650
+					}
+					add_core = RUS
+					remove_core = CCS
+				}
+			}
+			any_pop = {
+				limit = {
+					has_pop_culture = north_caucasian
+					strata = poor
+					location = {
+						province_id = 1049
+					}
+				}
+				reduce_pop = 0.4
+				move_pop = 882
+			}
+			any_pop = {
+				limit = {
+					has_pop_culture = north_caucasian
+					strata = poor
+					OR = {
+						location = {
+							province_id = 1056
+						}
+						location = {
+							province_id = 3565
+						}
+					}
+				}
+				reduce_pop = 0.4
+				move_pop = 679
+			}
+			any_pop = {
+				limit = {
+					has_pop_culture = north_caucasian
+					strata = poor
+					OR = {
+						location = {
+							province_id = 3348
+						}
+						location = {
+							province_id = 3349
+						}
+					}
+				}
+				reduce_pop = 0.4
+				move_pop = 861
+			}
+			any_pop = {
+				limit = {
+					has_pop_culture = north_caucasian
+					strata = poor
+				}
+				reduce_pop = 0.4
+				move_pop = 860
+			}
+			any_pop = {
+				limit = {
+					has_pop_culture = north_caucasian
+					NOT = { strata = poor }
+				}
+				reduce_pop = 0.2
+			}
+			set_country_flag = circassian_expulsion
+		}
+	}
+	crimean_tatar_expulsion = {
+		potential = {
+			tag = RUS
+			CRI = { all_core = { owned_by = RUS } }
+			religious_policy = moralism
+			NOT = { citizenship_policy = full_citizenship }
+			RUS_964 = { average_militancy = 2 }
+			NOT = { has_country_flag = crimean_tatar_expulsion }
+		}
+		allow = {
+		
+		}
+		effect = {
+			badboy = 4
+			CRI = {
+				all_core = {
+					add_province_modifier = {
+						name = settlement_push
+						duration = 3650
+					}
+				}
+			}
+			RUS_964 = {
+				any_pop = {
+					limit = {
+						has_pop_culture = tatar
+					}
+					reduce_pop = 0.3
+				}
+			}
+			set_country_flag = crimean_tatar_expulsion
+		}
+	}
+}

@@ -1,0 +1,450 @@
+#Pogrom
+province_event = {
+	id = 7800
+	title = "EVTNAME7800"
+	desc = "EVTDESC7800"
+	
+	trigger = {
+		ai = yes
+		ai = no
+		owner = {
+			citizenship_policy = residency
+			religious_policy = moralism
+		}
+		any_pop = {
+			has_pop_religion = judaism
+			is_state_religion = no
+		}
+		any_pop = {
+			NOT = { has_pop_religion = judaism }
+			militancy = 6
+		}
+	}
+
+	mean_time_to_happen =  { months = 6 }
+
+	option = {
+		name = "EVTOPTA7800"
+		reduce_pop = 0.8
+		ai_chance = { factor = 80 }
+	}
+	
+	option = {
+		name = "EVTOPTB7800"
+		reduce_pop = 0.9
+		ai_chance = { factor = 20 }
+	}
+}
+
+#Adana Massacre
+province_event = {
+	id = 7801
+	title = "EVTNAME7801"
+	desc = "EVTDESC7801"
+	fire_only_once = yes
+	
+	trigger = {
+		ai = yes
+		ai = no
+		province_id = 894
+		year = 1909
+		month = 4
+		owner = {
+			citizenship_policy = residency
+			religious_policy = moralism
+		}
+		any_pop = {
+			has_pop_culture = armenian
+			is_state_religion = no
+			AND = {
+				is_primary_culture = no
+				is_accepted_culture = no
+			}
+		}
+	}
+
+	mean_time_to_happen =  { days = 15 }
+
+	option = {
+		name = "EVTOPTA7801"
+		any_pop = {
+			limit = { is_state_religion = no }
+			reduce_pop = 0.7
+			militancy = 6
+			consciousness = -4
+		}
+		
+		ai_chance = { factor = 80 }
+	}
+	
+	option = {
+		name = "EVTOPTB7801"
+		any_pop = {
+			limit = { is_state_religion = no }
+			reduce_pop = 0.9
+			militancy = 2
+			consciousness = -2
+		}
+		ai_chance = { factor = 20 }
+	}
+}
+
+#The Massacres of Badr Khan
+country_event = {
+	id = 7802
+	title = "EVTNAME7802"
+	desc = "EVTDESC7802"
+	fire_only_once = yes
+	
+	trigger = {
+		ai = yes
+		ai = no
+		tag = TUR
+		is_our_vassal = HKI
+		HKI = { owns = 892 }
+		year = 1843
+	}
+
+
+	mean_time_to_happen =  { months = 6 }
+
+	option = {
+		name = "EVTOPTA7802"
+		ai_chance = { factor = 80 }
+	}
+	
+	option = {
+		name = "EVTOPTB7802"
+		ai_chance = { factor = 20 }
+	}
+}
+
+#Diyarbakır Massacre
+province_event = {
+	id = 7803
+	title = "EVTNAME7803"
+	desc = "EVTDESC7803"
+	fire_only_once = yes
+	
+	trigger = {
+		ai = yes
+		ai = no
+		province_id = 893
+		year = 1894
+		owner = {
+			citizenship_policy = residency
+			religious_policy = moralism
+		}
+		any_pop = {
+			has_pop_culture = armenian
+			is_state_religion = no
+			AND = {
+				is_primary_culture = no
+				is_accepted_culture = no
+			}
+		}
+	}
+	
+	mean_time_to_happen =  { months = 12 }
+
+	option = {
+		name = "EVTOPTA7803"
+		any_pop = {
+			limit = { is_state_religion = no }
+			reduce_pop = 0.7
+			militancy = 6
+			consciousness = -4
+		}
+		
+		ai_chance = { factor = 80 }
+	}
+	
+	option = {
+		name = "EVTOPTB7803"
+		any_pop = {
+			limit = { is_state_religion = no }
+			reduce_pop = 0.9
+			militancy = 2
+			consciousness = -2
+		}
+		ai_chance = { factor = 20 }
+	}
+}
+
+#Australian Frontier Wars
+province_event = {
+	id = 7804
+	title = "EVTNAME7804"
+	desc = "EVTDESC7804"
+	
+	trigger = {
+		any_pop = { has_pop_culture = aborigine }
+		is_primary_culture = yes
+		NOT = { owner = { citizenship_policy = full_citizenship } }
+		NOT = { has_country_flag = australian_frontier_wars_ended }
+	}
+
+	mean_time_to_happen =  {
+		months = 1200
+	}
+	
+	option = {
+		name = "EVTOPTA7804"
+		any_pop = {
+			limit = { has_pop_culture = aborigine }
+			reduce_pop = 0.7
+			militancy = 6
+		}
+		any_pop = {
+			limit = { is_culture_group = THIS }
+			reduce_pop = 0.95
+			militancy = 2
+		}
+		
+		ai_chance = { factor = 90 }
+	}
+	
+	option = {
+		name = "EVTOPTB7804"
+		any_pop = {
+			limit = { has_pop_culture = aborigine }
+			reduce_pop = 0.9
+			militancy = 2
+		}
+		any_pop = {
+			limit = { is_culture_group = THIS }
+			reduce_pop = 0.9
+			militancy = 6
+		}
+		set_country_flag = australian_frontier_wars_ended
+		ai_chance = { factor = 10 }
+	}
+}
+
+#Pacification of Araucanía
+country_event = {
+	id = 7805
+	title = "EVTNAME7805"
+	desc = "EVTDESC7805"
+	fire_only_once = yes
+	
+	trigger = {
+		tag = CHL
+		year = 1861
+		owns = 3823
+		2309 = { empty = yes }
+		2245 = { empty = yes }
+		2329 = { empty = yes }
+	}
+
+	mean_time_to_happen =  { months = 6 }
+	
+	option = {
+		name = "EVTOPTA7805"
+		CHL_2332 = {
+			limit = {
+				OR = {
+					province_id = 2309
+					province_id = 2245
+					province_id = 2329
+				}
+			}
+			secede_province = THIS
+			any_pop = { 
+				limit = { culture = patagonian } 
+				reduce_pop = 0.6
+			}
+			life_rating = 4
+		}
+		ai_chance = { factor = 80 }
+	}
+	
+	option = {
+		name = "EVTOPTB7805"
+		ai_chance = { factor = 20 }
+	}
+}
+
+#Chios Massacre
+province_event = {
+	id = 7806
+	title = "EVTNAME7806"
+	desc = "EVTDESC7806"
+	fire_only_once = yes
+	
+	trigger = {
+		province_id = 843
+		has_global_flag = greek_war_of_independece
+		year = 1822
+		month = 4
+		owner = {
+			tag = TUR
+			war_with = GRE
+			citizenship_policy = residency
+			religious_policy = moralism
+		}
+		any_pop = {
+			has_pop_culture = greek
+			is_state_religion = no
+			AND = {
+				is_primary_culture = no
+				is_accepted_culture = no
+			}
+		}
+	}
+
+	mean_time_to_happen =  { days = 15 }
+
+	option = {
+		name = "EVTOPTA7806"
+		any_pop = {
+			limit = { is_state_religion = no }
+			reduce_pop = 0.3
+			militancy = 6
+			consciousness = -4
+		}
+		badboy = 1
+		any_greater_power = {
+			diplomatic_influence = {
+				who = GRE
+				value = 50
+			}
+			relation = {
+				who = TUR
+				value = 50
+			}
+			relation = {
+				who = TUR
+				value = -50
+			}
+		}
+		ai_chance = { factor = 80 }
+	}
+	
+	option = {
+		name = "EVTOPTB7806"
+		any_pop = {
+			limit = { is_state_religion = no }
+			reduce_pop = 0.9
+			militancy = 2
+			consciousness = -2
+		}
+		secede_province = GRE
+		ai_chance = { factor = 20 }
+	}
+}
+
+#Blagoveshchensk Massacre
+province_event = {
+	id = 7807
+	title = "EVTNAME7807"
+	desc = "EVTDESC7807"
+	fire_only_once = yes
+	
+	trigger = {
+		province_id = 1085
+		year = 1900
+		month = 7
+		owner = {
+			tag = RUS
+			citizenship_policy = residency
+			religious_policy = moralism
+		}
+		1553 = {
+			OR = {
+				owned_by = CHI
+				owned_by = MCK
+			}
+		}
+		any_pop = {
+			OR = {
+				has_pop_culture = han
+				has_pop_culture = manchu
+			}
+			AND = {
+				is_primary_culture = no
+				is_accepted_culture = no
+			}
+		}
+	}
+
+	mean_time_to_happen =  { days = 15 }
+
+	option = {
+		name = "EVTOPTA7807"
+		any_pop = {
+			limit = {
+				OR = {
+					has_pop_culture = han
+					has_pop_culture = manchu
+				}
+			}
+			reduce_pop = 0.4
+			move_pop = 1553
+			militancy = 6
+			consciousness = -4
+		}
+		badboy = 1
+		ai_chance = { factor = 80 }
+	}
+	
+	option = {
+		name = "EVTOPTB7807"
+		any_pop = {
+			limit = {
+				OR = {
+					has_pop_culture = han
+					has_pop_culture = manchu
+				}
+			}
+			reduce_pop = 0.9
+			militancy = 2
+			consciousness = -2
+		}
+		ai_chance = { factor = 20 }
+	}
+}
+
+#Conquest of the Desert
+country_event = {
+	id = 7808
+	title = "Conquest of the Desert"
+	desc = "EVTDESC7808"
+	
+	trigger = {
+		tag = ARG
+		year = 1878
+		any_owned_province = { 
+			has_empty_adjacent_province = yes
+			continent = south_america
+		}
+		NOT = { has_country_flag = refused_conquest_of_the_desert }
+	}
+
+	mean_time_to_happen =  { months = 6 }
+	
+	option = {
+		name = "Yes"
+		any_owned = {
+			limit = { continent = south_america }
+			random_empty_neighbor_province = {
+				secede_province = THIS
+				any_pop = {
+					limit = { is_culture_group = indigenous }
+					reduce_pop = 0.6
+				}
+				life_rating = 4
+			}
+		}
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "No"
+		prestige = 10
+		set_country_flag = refused_conquest_of_the_desert
+		
+		ai_chance = { factor = 5 }
+	}
+}

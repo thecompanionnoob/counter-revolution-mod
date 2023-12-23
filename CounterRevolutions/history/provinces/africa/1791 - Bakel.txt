@@ -1,0 +1,5 @@
+owner = BND
+controller = BND
+add_core = BND
+trade_goods = cattle
+life_rating = 35

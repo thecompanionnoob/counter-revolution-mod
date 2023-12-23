@@ -1,0 +1,239 @@
+#Sierra Leone Region 
+#uncolonized in 1836/Britain has trade post in 1836
+#Freetown 
+1884 = {
+	artisans = {
+		culture = afro_caribbean
+		religion = catholic
+		size = 164
+	}
+	soldiers = {
+		culture = afro_caribbean
+		religion = catholic
+		size = 128
+	}
+	farmers = {
+		culture = afro_caribbean
+		religion = catholic
+		size = 3091
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 443
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 230
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 1085
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 920
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 21029
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 575
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 295
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 1512
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 1180
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 27639
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 164
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 98
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 460
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 392
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 8385
+	}
+}
+#uncolonized in 1836
+#Bo 
+1886 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 591
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 312
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 1233
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 1248
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 23858
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 526
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 263
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 1315
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 1116
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 24581
+	}
+	slaves = {
+		culture = african_minor
+		religion = catholic
+		size = 4603
+	}
+}
+#Jallon Region #see Guinea
+#uncolonized in 1836
+#Falaba #now part of Sierra Leone 
+1885 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 608
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 312
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 1249
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 1248
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 23825
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 526
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 263
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 1085
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 1116
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 20865
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 82
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 49
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 263
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 260
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 4801
+	}
+	slaves = {
+		culture = african_minor
+		religion = catholic
+		size = 8550
+	}
+}

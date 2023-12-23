@@ -1,0 +1,437 @@
+#Expand the Canadian Confederation
+country_event = {
+	id = 7200
+	title = "Expand the Canadian Confederation"
+	desc = "EVTDESC7200"
+	
+	fire_only_once = yes
+	
+	trigger = {
+		year = 1870
+		tag = ENG
+		any_owned_province = {
+			OR = {
+				region = USA_1
+				region = ENG_36
+				region = ENG_30
+				region = ENG_22
+				region = ENG_9
+				region = ENG_46
+				region = ENG_58
+				region = ENG_6
+				region = ENG_68
+				region = ENG_71
+				region = ENG_4173
+				region = USA_118
+				region = USA_158
+				region = USA_78
+				region = USA_81
+				region = USA_91
+				region = USA_116
+				province_id = 18
+				province_id = 250
+			}
+		}
+		is_our_vassal = CAN
+		NOT = { has_country_flag = no_canadadian_expansion }
+	}
+	
+	mean_time_to_happen =  {
+		months = 6
+	}
+	
+	option = {
+		name = "Yes"
+		any_owned = {
+			limit = {
+				OR = {
+					region = USA_1
+					region = ENG_36
+					region = ENG_30
+					region = ENG_22
+					region = ENG_9
+					region = ENG_46
+					region = ENG_58
+					region = ENG_6
+					region = ENG_68
+					region = ENG_71
+					region = ENG_4173
+					region = USA_118
+					region = USA_158
+					region = USA_78
+					region = USA_81
+					region = USA_91
+					region = USA_116
+					province_id = 18
+					province_id = 250
+				}
+			}
+			add_core = CAN
+			secede_province = CAN
+		}
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "No"
+		set_country_flag = no_canadadian_expansion
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#Unite British Columbia with Canada
+country_event = {
+	id = 7201
+	title = "Unite British Columbia with Canada?"
+	desc = "EVTDESC7201"
+	
+	fire_only_once = yes
+	
+	trigger = {
+		year = 1871
+		tag = ENG
+		any_owned_province = {
+			OR = {
+				region = USA_78
+				region = USA_81
+				region = USA_91
+				region = ENG_13
+				province_id = 114
+				province_id = 4264
+				province_id = 4265
+			}
+		}
+		is_our_vassal = CAN
+		NOT = { has_country_flag = no_canadadian_expansion }
+	}
+	
+	mean_time_to_happen =  {
+		months = 6
+	}
+	
+	option = {
+		name = "Yes"
+		any_owned = {
+			limit = {
+				OR = {
+					region = USA_78
+					region = USA_81
+					region = USA_91
+					region = ENG_13
+					province_id = 114
+					province_id = 4264
+					province_id = 4265
+				}
+			}
+			add_core = CAN
+			secede_province = CAN
+		}
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "Create the dominion of Columbia"
+		any_owned = {
+			limit = {
+				OR = {
+					region = USA_78
+					region = USA_81
+					region = USA_91
+					region = ENG_13
+					province_id = 114
+					province_id = 4264
+					province_id = 4265
+				}
+			}
+			add_core = COL
+		}
+		release_vassal = COL
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#Princely State
+country_event = {
+	id = 7202
+	title = "Creation of a Princely State"
+	desc = "EVTDESC7202"
+	
+	is_triggered_only = yes
+	allow_multiple_instances = yes
+	
+	option = {
+		name = "It sounds like a good idea."
+		create_vassal = FROM
+		ai_chance = { factor = 90 }
+	}
+	
+	option = {
+		name = "I have another idea."
+		relation = {
+			who = FROM
+			value = -100
+		}
+		casus_belli = {
+			target = FROM
+			type = establish_protectorate_casus_belli
+			months = 36
+		}
+		casus_belli = {
+			target = FROM
+			type = establish_protectorate_casus_belli_2
+			months = 36
+		}
+		casus_belli = {
+			target = FROM
+			type = establish_protectorate_casus_belli_3
+			months = 36
+		}
+		badboy = 3
+		ai_chance = { factor = 5 }
+	}
+	
+	option = {
+		name = "And I should care, why?"
+		relation = {
+			who = FROM
+			value = -100
+		}
+		ai_chance = { factor = 5 }
+	}
+}
+
+#Inherit Vassal 1/3
+country_event = {
+	id = 7203
+	title = "Dangerous Times"
+	desc = "placeholder"
+
+	picture = "Rebellion"
+
+	trigger = {
+		is_substate = yes
+		overlord = {
+			OR = {
+				war_policy = jingoism
+				war_policy = pro_military
+			}
+			brigades_compare = 4
+		}
+		NOT = {
+			OR = {
+				is_culture_group = indo_aryan
+				is_culture_group = dravidian
+			}
+		}
+	}
+
+	mean_time_to_happen = {
+		months = 3600
+		modifier = {
+			factor = 0.9
+			average_militancy = 4
+		}
+		modifier = {
+			factor = 0.9
+			average_militancy = 5
+		}
+		modifier = {
+			factor = 0.9
+			NOT = {
+				prestige = 10
+			}
+		}
+		modifier = {
+			factor = 0.9
+			NOT = {
+				prestige = 5
+			}
+		}
+		modifier = {
+			factor = 0.1
+			NOT = {
+				government = absolute_monarchy
+			}
+		}
+		modifier = {
+			factor = 0.0025
+			tag = SKI
+			year = 1819
+			NOT = { has_country_flag = annexation_declined }
+		}
+		modifier = {
+			factor = 0.0025
+			tag = SHR
+			year = 1820
+			NOT = { has_country_flag = annexation_declined }
+		}
+		modifier = {
+			factor = 0.0025
+			tag = KRB
+			year = 1822
+			NOT = { has_country_flag = annexation_declined }
+		}
+		modifier = {
+			factor = 0.0025
+			tag = TLS
+			year = 1828
+			NOT = { has_country_flag = annexation_declined }
+		}
+		modifier = {
+			factor = 0.0025
+			tag = MRD
+			year = 1828
+			NOT = { has_country_flag = annexation_declined }
+		}
+		modifier = {
+			factor = 0.0025
+			tag = ERI
+			year = 1828
+			NOT = { has_country_flag = annexation_declined }
+		}
+		modifier = {
+			factor = 0.0025
+			tag = NAK
+			year = 1828
+			NOT = { has_country_flag = annexation_declined }
+		}
+		modifier = {
+			factor = 0.0025
+			tag = GUR
+			year = 1829
+			NOT = { has_country_flag = annexation_declined }
+		}
+		modifier = {
+			factor = 0.0025
+			tag = SVA
+			year = 1857
+			NOT = { has_country_flag = annexation_declined }
+		}
+		modifier = {
+			factor = 0.0025
+			tag = ABK
+			year = 1864
+			NOT = { has_country_flag = annexation_declined }
+		}
+		modifier = {
+			factor = 0.0025
+			tag = URM
+			year = 1865
+			NOT = { has_country_flag = annexation_declined }
+		}
+		modifier = {
+			factor = 0.0025
+			tag = ARD
+			year = 1867
+			NOT = { has_country_flag = annexation_declined }
+		}
+		modifier = {
+			factor = 0.0025
+			tag = MGR
+			year = 1867
+			NOT = { has_country_flag = annexation_declined }
+		}
+		modifier = {
+			factor = 0.0025
+			tag = LRT
+			year = 1904
+			NOT = { has_country_flag = annexation_declined }
+		}
+		modifier = {
+			factor = 0.0025
+			tag = CRB
+			year = 1906
+			NOT = { has_country_flag = annexation_declined }
+		}
+		modifier = {
+			factor = 0.0025
+			tag = MKU
+			year = 1922
+			NOT = { has_country_flag = annexation_declined }
+		}
+		modifier = {
+			factor = 0.0025
+			tag = MRG
+			year = 1925
+			NOT = { has_country_flag = annexation_declined }
+		}
+	}
+
+	option = {
+		name = "Let us hope for the best."
+		overlord = {
+			country_event = 7204
+		}
+	}
+}
+
+# Inherit Vassal 2/3
+country_event = {
+	id = 7204
+	title = "A Rare Opportunity!"
+	desc = "placeholder"
+
+	picture = "Rebellion"
+
+	is_triggered_only = yes
+
+	option = {
+		name = "Do it!"
+		FROM = {
+			country_event = 7205
+		}
+		
+		ai_chance = { factor = 95 }
+	}
+
+	option = {
+		name = "The status quo is sufficient."
+		FROM = {
+			set_country_flag = annexation_declined
+		}
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+# Inherit Vassal 3/3
+country_event = {
+	id = 7205
+	title = "Our Overlord Moves for Annexation"
+	desc = "placeholder"
+
+	picture = "Rebellion"
+
+	is_triggered_only = yes
+
+	option = {
+		name = "A sad day."
+		any_owned = {
+			any_pop = {
+				militancy = 3
+				consciousness = 1
+			}
+		}
+		annex_to = FROM
+		
+		ai_chance = { factor = 95 }
+	}
+
+	option = {
+		name = "Never!"
+		FROM = {
+			release_vassal = THIS
+			war = {
+				target = THIS
+				attacker_goal = { casus_belli = annex_core_country }
+				call_ally = no
+			}
+		}
+		
+		ai_chance = { factor = 5 }
+	}
+}

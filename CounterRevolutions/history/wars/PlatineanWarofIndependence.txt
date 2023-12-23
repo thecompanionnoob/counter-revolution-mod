@@ -1,0 +1,38 @@
+name = "Souther Campaing of Independence"
+
+1815.1.1 = {
+	add_attacker = SPA
+	add_attacker = VOP       
+	add_defender = ARG
+	add_defender = CHL
+	
+	war_goal = {
+		casus_belli = civil_war
+		actor = SPA
+		receiver = ARG
+	}
+	war_goal = {
+		casus_belli = civil_war                              
+		actor = SPA
+		receiver = CHL
+	}
+	war_goal = {
+		casus_belli = release_puppet
+		country = VOP
+		actor = ARG
+		receiver = SPA
+	}
+	war_goal = {
+		casus_belli = acquire_core_state
+		state_province_id = 2328
+		actor = CHL
+		receiver = SPA
+	}	
+}
+
+1821.1.1 = {
+	rem_attacker = SPA
+	rem_attacker = VOP
+	rem_defender = ARG
+	rem_defender = CHL
+}

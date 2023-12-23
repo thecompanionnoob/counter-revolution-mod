@@ -1,0 +1,634 @@
+#Entre-Douro-e-Minho
+#Oporto
+518 = {
+	aristocrats = {
+		culture = portuguese
+		religion = catholic
+		size = 578
+	}
+	officers = {
+		culture = portuguese
+		religion = catholic
+		size = 192
+	}
+	bureaucrats = {
+		culture = portuguese
+		religion = catholic
+		size = 308
+	}
+	clergymen = {
+		culture = portuguese
+		religion = catholic
+		size = 424
+	}
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 5982
+	}
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 3856
+	}
+	farmers = {
+		culture = portuguese
+		religion = catholic
+		size = 65694
+	}
+}
+#Braga
+3276 = {
+	aristocrats = {
+		culture = portuguese
+		religion = catholic
+		size = 454
+	}
+	officers = {
+		culture = portuguese
+		religion = catholic
+		size = 151
+	}
+	bureaucrats = {
+		culture = portuguese
+		religion = catholic
+		size = 242
+	}
+	clergymen = {
+		culture = portuguese
+		religion = catholic
+		size = 332
+	}
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 4687
+	}
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 3029
+	}
+	farmers = {
+		culture = portuguese
+		religion = catholic
+		size = 51498
+	}
+}
+#Viana do Castelo
+5006 = {
+	aristocrats = {
+		culture = portuguese
+		religion = catholic
+		size = 290
+	}
+	officers = {
+		culture = portuguese
+		religion = catholic
+		size = 96
+	}
+	bureaucrats = {
+		culture = portuguese
+		religion = catholic
+		size = 154
+	}
+	clergymen = {
+		culture = portuguese
+		religion = catholic
+		size = 212
+	}
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 2997
+	}
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 1937
+	}
+	farmers = {
+		culture = portuguese
+		religion = catholic
+		size = 32935
+	}
+}
+#Trás-os-Montes
+#Vila Real
+519 = {
+	aristocrats = {
+		culture = portuguese
+		religion = catholic
+		size = 414
+	}
+	clergymen = {
+		culture = portuguese
+		religion = catholic
+		size = 304
+	}
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 2071
+	}
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 2145
+	}
+	farmers = {
+		culture = portuguese
+		religion = catholic
+		size = 33772
+	}
+}
+#Bragança
+5007 = {
+	aristocrats = {
+		culture = portuguese
+		religion = catholic
+		size = 268
+	}
+	clergymen = {
+		culture = portuguese
+		religion = catholic
+		size = 197
+	}
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 1344
+	}
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 1391
+	}
+	farmers = {
+		culture = portuguese
+		religion = catholic
+		size = 21914
+	}
+}
+#Beira
+#Castelo Branco
+520 = {
+	aristocrats = {
+		culture = portuguese
+		religion = catholic
+		size = 226
+	}
+	clergymen = {
+		culture = portuguese
+		religion = catholic
+		size = 270
+	}
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 1313
+	}
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 1083
+	}
+	farmers = {
+		culture = portuguese
+		religion = catholic
+		size = 24437
+	}
+}
+#Coimbra
+522 = {
+	aristocrats = {
+		culture = portuguese
+		religion = catholic
+		size = 547
+	}
+	clergymen = {
+		culture = portuguese
+		religion = catholic
+		size = 547
+	}
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 2647
+	}
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 3650
+	}
+	farmers = {
+		culture = portuguese
+		religion = catholic
+		size = 44434
+	}
+}
+#Aveiro
+5009 = {
+	aristocrats = {
+		culture = portuguese
+		religion = catholic
+		size = 524
+	}
+	clergymen = {
+		culture = portuguese
+		religion = catholic
+		size = 524
+	}
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 2536
+	}
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 3497
+	}
+	farmers = {
+		culture = portuguese
+		religion = catholic
+		size = 42574
+	}
+}
+#Viseu
+524 = {
+	aristocrats = {
+		culture = portuguese
+		religion = catholic
+		size = 754
+	}
+	clergymen = {
+		culture = portuguese
+		religion = catholic
+		size = 565
+	}
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 5659
+	}
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 11319
+	}
+	farmers = {
+		culture = portuguese
+		religion = catholic
+		size = 43014
+	}
+}
+#Guarda
+5008 = {
+	aristocrats = {
+		culture = portuguese
+		religion = catholic
+		size = 515
+	}
+	clergymen = {
+		culture = portuguese
+		religion = catholic
+		size = 386
+	}
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 3865
+	}
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 7731
+	}
+	farmers = {
+		culture = portuguese
+		religion = catholic
+		size = 29378
+	}
+}
+#Estremadura
+#Lisbon
+521 = {
+	aristocrats = {
+		culture = portuguese
+		religion = catholic
+		size = 1296
+	}
+	officers = {
+		culture = portuguese
+		religion = catholic
+		size = 419
+	}
+	bureaucrats = {
+		culture = portuguese
+		religion = catholic
+		size = 762
+	}
+	clergymen = {
+		culture = portuguese
+		religion = catholic
+		size = 1296
+	}
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 11755
+	}
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 9090
+	}
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 9090
+	}
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 9090
+	}
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 9090
+	}
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 9090
+	}
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 14184
+	}
+	farmers = {
+		culture = portuguese
+		religion = catholic
+		size = 30356
+	}
+}
+#Santarém
+523 = {
+	aristocrats = {
+		culture = portuguese
+		religion = catholic
+		size = 363
+	}
+	clergymen = {
+		culture = portuguese
+		religion = catholic
+		size = 282
+	}
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 1817
+	}
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 1290
+	}
+	farmers = {
+		culture = portuguese
+		religion = catholic
+		size = 28726
+	}
+}
+#Leiria
+5010 = {
+	aristocrats = {
+		culture = portuguese
+		religion = catholic
+		size = 298
+	}
+	clergymen = {
+		culture = portuguese
+		religion = catholic
+		size = 298
+	}
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 1441
+	}
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 1987
+	}
+	farmers = {
+		culture = portuguese
+		religion = catholic
+		size = 24187
+	}
+}
+#Alentejo
+#Evora
+525 = {
+	aristocrats = {
+		culture = portuguese
+		religion = catholic
+		size = 345
+	}
+	officers = {
+		culture = portuguese
+		religion = catholic
+		size = 40
+	}
+	bureaucrats = {
+		culture = portuguese
+		religion = catholic
+		size = 60
+	}
+	clergymen = {
+		culture = portuguese
+		religion = catholic
+		size = 172
+	}
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 915
+	}
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 1790
+	}
+	farmers = {
+		culture = portuguese
+		religion = catholic
+		size = 14752
+	}
+}
+#Portalegre
+5011 = {
+	aristocrats = {
+		culture = portuguese
+		religion = catholic
+		size = 350
+	}
+	officers = {
+		culture = portuguese
+		religion = catholic
+		size = 40
+	}
+	bureaucrats = {
+		culture = portuguese
+		religion = catholic
+		size = 61
+	}
+	clergymen = {
+		culture = portuguese
+		religion = catholic
+		size = 174
+	}
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 926
+	}
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 1812
+	}
+	farmers = {
+		culture = portuguese
+		religion = catholic
+		size = 14934
+	}
+}
+#Beja
+526 = {
+	aristocrats = {
+		culture = portuguese
+		religion = catholic
+		size = 351
+	}
+	clergymen = {
+		culture = portuguese
+		religion = catholic
+		size = 175
+	}
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 880
+	}
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 702
+	}
+	farmers = {
+		culture = portuguese
+		religion = catholic
+		size = 20264
+	}
+}
+#Algarve
+#Faro
+527 = {
+	aristocrats = {
+		culture = portuguese
+		religion = catholic
+		size = 446
+	}
+	clergymen = {
+		culture = portuguese
+		religion = catholic
+		size = 263
+	}
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 1421
+	}
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 1134
+	}
+	farmers = {
+		culture = portuguese
+		religion = catholic
+		size = 24386
+	}
+}
+#Azores & Madeira Region
+#Azores
+2134 = {
+	aristocrats = {
+		culture = portuguese
+		religion = catholic
+		size = 402
+	}
+	officers = {
+		culture = portuguese
+		religion = catholic
+		size = 39
+	}
+	bureaucrats = {
+		culture = portuguese
+		religion = catholic
+		size = 79
+	}
+	clergymen = {
+		culture = portuguese
+		religion = catholic
+		size = 301
+	}
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 2418
+	}
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 3548
+	}
+	farmers = {
+		culture = portuguese
+		religion = catholic
+		size = 38685
+	}
+}
+#Madeira
+2135 = {
+	aristocrats = {
+		culture = portuguese
+		religion = catholic
+		size = 206
+	}
+	clergymen = {
+		culture = portuguese
+		religion = catholic
+		size = 144
+	}
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 1244
+	}
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 826
+	}
+	farmers = {
+		culture = portuguese
+		religion = catholic
+		size = 22260
+	}
+}

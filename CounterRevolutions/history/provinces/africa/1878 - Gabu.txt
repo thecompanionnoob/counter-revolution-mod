@@ -1,0 +1,5 @@
+owner = KBU
+controller = KBU
+add_core = KBU
+trade_goods = grain
+life_rating = 35

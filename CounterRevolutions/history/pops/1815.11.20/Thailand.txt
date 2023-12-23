@@ -1,0 +1,942 @@
+#Siam Region
+#under the rule of Siam in 1836
+#Bangkok
+1346 = {
+	aristocrats = {
+		culture = thai
+		religion = catholic
+		size = 4993
+	}
+	bureaucrats = {
+		culture = thai
+		religion = catholic
+		size = 416
+	}
+	officers = {
+		culture = thai
+		religion = catholic
+		size = 527
+	}
+	clergymen = {
+		culture = thai
+		religion = catholic
+		size = 2635
+	}
+	artisans = {
+		culture = thai
+		religion = catholic
+		size = 11096
+	}
+	artisans = {
+		culture = thai
+		religion = catholic
+		size = 1220
+	}
+	soldiers = {
+		culture = thai
+		religion = catholic
+		size = 9984
+	}
+	farmers = {
+		culture = thai
+		religion = catholic
+		size = 214182
+	}
+	slaves = {
+		culture = thai
+		religion = catholic
+		size = 6657
+	}
+	aristocrats = {
+		culture = han
+		religion = catholic
+		size = 832
+	}
+	bureaucrats = {
+		culture = han
+		religion = catholic
+		size = 221
+	}
+	officers = {
+		culture = han
+		religion = catholic
+		size = 83
+	}
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 582
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 11096
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 11096
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 11096
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 3328
+	}
+	soldiers = {
+		culture = han
+		religion = catholic
+		size = 2552
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 24272
+	}
+}
+#Lopburi
+1347 = {
+	aristocrats = {
+		culture = thai
+		religion = catholic
+		size = 1747
+	}
+	clergymen = {
+		culture = thai
+		religion = catholic
+		size = 915
+	}
+	artisans = {
+		culture = thai
+		religion = catholic
+		size = 4438
+	}
+	soldiers = {
+		culture = thai
+		religion = catholic
+		size = 4880
+	}
+	farmers = {
+		culture = thai
+		religion = catholic
+		size = 78338
+	}
+	slaves = {
+		culture = thai
+		religion = catholic
+		size = 3328
+	}
+}
+#Nakhon Sawan
+1348 = {
+	aristocrats = {
+		culture = thai
+		religion = catholic
+		size = 887
+	}
+	clergymen = {
+		culture = thai
+		religion = catholic
+		size = 443
+	}
+	artisans = {
+		culture = thai
+		religion = catholic
+		size = 1664
+	}
+	soldiers = {
+		culture = thai
+		religion = catholic
+		size = 4880
+	}
+	farmers = {
+		culture = thai
+		religion = catholic
+		size = 41388
+	}
+	slaves = {
+		culture = thai
+		religion = catholic
+		size = 3328
+	}
+	aristocrats = {
+		culture = han
+		religion = catholic
+		size = 27
+	}
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 55
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 1387
+	}
+	soldiers = {
+		culture = han
+		religion = catholic
+		size = 108
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 1830
+	}
+}
+#Sukothai
+1349 = {
+	aristocrats = {
+		culture = thai
+		religion = catholic
+		size = 721
+	}
+	clergymen = {
+		culture = thai
+		religion = catholic
+		size = 388
+	}
+	artisans = {
+		culture = thai
+		religion = catholic
+		size = 1886
+	}
+	soldiers = {
+		culture = thai
+		religion = catholic
+		size = 4880
+	}
+	farmers = {
+		culture = thai
+		religion = catholic
+		size = 33177
+	}
+}
+#Nakhon Ratchasima
+1350 = {
+	aristocrats = {
+		culture = thai
+		religion = catholic
+		size = 887
+	}
+	clergymen = {
+		culture = thai
+		religion = catholic
+		size = 471
+	}
+	artisans = {
+		culture = thai
+		religion = catholic
+		size = 2219
+	}
+	soldiers = {
+		culture = thai
+		religion = catholic
+		size = 4880
+	}
+	farmers = {
+		culture = thai
+		religion = catholic
+		size = 39696
+	}
+}
+#Prachin Buri
+1351 = {
+	aristocrats = {
+		culture = thai
+		religion = catholic
+		size = 638
+	}
+	clergymen = {
+		culture = thai
+		religion = catholic
+		size = 332
+	}
+	artisans = {
+		culture = thai
+		religion = catholic
+		size = 1553
+	}
+	soldiers = {
+		culture = thai
+		religion = catholic
+		size = 4880
+	}
+	farmers = {
+		culture = thai
+		religion = catholic
+		size = 30763
+	}
+	slaves = {
+		culture = thai
+		religion = catholic
+		size = 1220
+	}
+	aristocrats = {
+		culture = han
+		religion = catholic
+		size = 110
+	}
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 83
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 2219
+	}
+	soldiers = {
+		culture = han
+		religion = catholic
+		size = 440
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 7462
+	}
+}
+#Kra Region
+#under the rule of Siam in 1836
+#Phuket
+1352 = {
+	aristocrats = {
+		culture = thai
+		religion = catholic
+		size = 499
+	}
+	bureaucrats = {
+		culture = thai
+		religion = catholic
+		size = 110
+	}
+	officers = {
+		culture = thai
+		religion = catholic
+		size = 110
+	}
+	clergymen = {
+		culture = thai
+		religion = catholic
+		size = 249
+	}
+	artisans = {
+		culture = thai
+		religion = catholic
+		size = 1165
+	}
+	soldiers = {
+		culture = thai
+		religion = catholic
+		size = 4880
+	}
+	farmers = {
+		culture = thai
+		religion = catholic
+		size = 22219
+	}
+	aristocrats = {
+		culture = han
+		religion = catholic
+		size = 83
+	}
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 55
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 1220
+	}
+	soldiers = {
+		culture = han
+		religion = catholic
+		size = 220
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 4244
+	}
+	aristocrats = {
+		culture = malay
+		religion = catholic
+		size = 27
+	}
+	clergymen = {
+		culture = malay
+		religion = catholic
+		size = 55
+	}
+	artisans = {
+		culture = malay
+		religion = catholic
+		size = 166
+	}
+	soldiers = {
+		culture = malay
+		religion = catholic
+		size = 108
+	}
+	farmers = {
+		culture = malay
+		religion = catholic
+		size = 3051
+	}
+}
+#Ratchaburi
+1353 = {
+	aristocrats = {
+		culture = thai
+		religion = catholic
+		size = 776
+	}
+	clergymen = {
+		culture = thai
+		religion = catholic
+		size = 388
+	}
+	artisans = {
+		culture = thai
+		religion = catholic
+		size = 1997
+	}
+	soldiers = {
+		culture = thai
+		religion = catholic
+		size = 4880
+	}
+	farmers = {
+		culture = thai
+		religion = catholic
+		size = 36783
+	}
+	aristocrats = {
+		culture = han
+		religion = catholic
+		size = 138
+	}
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 83
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 1664
+	}
+	soldiers = {
+		culture = han
+		religion = catholic
+		size = 332
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 5797
+	}
+}
+#Nakhon Si Thammanet
+1354 = {
+	aristocrats = {
+		culture = thai
+		religion = catholic
+		size = 693
+	}
+	clergymen = {
+		culture = thai
+		religion = catholic
+		size = 360
+	}
+	artisans = {
+		culture = thai
+		religion = catholic
+		size = 1442
+	}
+	soldiers = {
+		culture = thai
+		religion = catholic
+		size = 4880
+	}
+	farmers = {
+		culture = thai
+		religion = catholic
+		size = 31956
+	}
+	aristocrats = {
+		culture = han
+		religion = catholic
+		size = 83
+	}
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 55
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 1414
+	}
+	soldiers = {
+		culture = han
+		religion = catholic
+		size = 220
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 3939
+	}
+	aristocrats = {
+		culture = malay
+		religion = catholic
+		size = 221
+	}
+	clergymen = {
+		culture = malay
+		religion = catholic
+		size = 138
+	}
+	artisans = {
+		culture = malay
+		religion = catholic
+		size = 665
+	}
+	soldiers = {
+		culture = malay
+		religion = catholic
+		size = 440
+	}
+	farmers = {
+		culture = malay
+		religion = catholic
+		size = 12177
+	}
+}
+#Shan Region
+#under the rule of Siam in 1836
+#Chiang Mai
+1355 = {
+	aristocrats = {
+		culture = thai
+		religion = catholic
+		size = 610
+	}
+	bureaucrats = {
+		culture = thai
+		religion = catholic
+		size = 138
+	}
+	officers = {
+		culture = thai
+		religion = catholic
+		size = 83
+	}
+	clergymen = {
+		culture = thai
+		religion = catholic
+		size = 360
+	}
+	artisans = {
+		culture = thai
+		religion = catholic
+		size = 1775
+	}
+	soldiers = {
+		culture = thai
+		religion = catholic
+		size = 1440
+	}
+	farmers = {
+		culture = thai
+		religion = catholic
+		size = 31873
+	}
+	aristocrats = {
+		culture = shan
+		religion = catholic
+		size = 1581
+	}
+	officers = {
+		culture = shan
+		religion = catholic
+		size = 83
+	}
+	clergymen = {
+		culture = shan
+		religion = catholic
+		size = 554
+	}
+	artisans = {
+		culture = shan
+		religion = catholic
+		size = 2829
+	}
+	soldiers = {
+		culture = shan
+		religion = catholic
+		size = 2328
+	}
+	farmers = {
+		culture = shan
+		religion = catholic
+		size = 51319
+	}
+}
+#Nan
+2572 = {
+	aristocrats = {
+		culture = thai
+		religion = catholic
+		size = 443
+	}
+	clergymen = {
+		culture = thai
+		religion = catholic
+		size = 249
+	}
+	artisans = {
+		culture = thai
+		religion = catholic
+		size = 1220
+	}
+	soldiers = {
+		culture = thai
+		religion = catholic
+		size = 996
+	}
+	farmers = {
+		culture = thai
+		religion = catholic
+		size = 22247
+	}
+	aristocrats = {
+		culture = shan
+		religion = catholic
+		size = 471
+	}
+	clergymen = {
+		culture = shan
+		religion = catholic
+		size = 221
+	}
+	artisans = {
+		culture = shan
+		religion = catholic
+		size = 1276
+	}
+	soldiers = {
+		culture = shan
+		religion = catholic
+		size = 1108
+	}
+	farmers = {
+		culture = shan
+		religion = catholic
+		size = 23385
+	}
+	aristocrats = {
+		culture = lao
+		religion = catholic
+		size = 416
+	}
+	clergymen = {
+		culture = lao
+		religion = catholic
+		size = 221
+	}
+	artisans = {
+		culture = lao
+		religion = catholic
+		size = 1220
+	}
+	soldiers = {
+		culture = lao
+		religion = catholic
+		size = 996
+	}
+	farmers = {
+		culture = lao
+		religion = catholic
+		size = 22414
+	}
+}
+#Laos Region
+#under the rule of Siam in 1836
+#Udon Thani #now part of Thailand    
+1358 = {
+	aristocrats = {
+		culture = thai
+		religion = catholic
+		size = 443
+	}
+	bureaucrats = {
+		culture = thai
+		religion = catholic
+		size = 166
+	}
+	officers = {
+		culture = thai
+		religion = catholic
+		size = 221
+	}
+	clergymen = {
+		culture = thai
+		religion = catholic
+		size = 249
+	}
+	artisans = {
+		culture = thai
+		religion = catholic
+		size = 1165
+	}
+	soldiers = {
+		culture = thai
+		religion = catholic
+		size = 996
+	}
+	farmers = {
+		culture = thai
+		religion = catholic
+		size = 23329
+	}
+	aristocrats = {
+		culture = lao
+		religion = catholic
+		size = 2774
+	}
+	clergymen = {
+		culture = lao
+		religion = catholic
+		size = 1442
+	}
+	artisans = {
+		culture = lao
+		religion = catholic
+		size = 7101
+	}
+	soldiers = {
+		culture = lao
+		religion = catholic
+		size = 5324
+	}
+	farmers = {
+		culture = lao
+		religion = catholic
+		size = 129380
+	}
+}
+#Sisaket #now part of Thailand  
+1359 = {
+	aristocrats = {
+		culture = thai
+		religion = catholic
+		size = 471
+	}
+	clergymen = {
+		culture = thai
+		religion = catholic
+		size = 249
+	}
+	artisans = {
+		culture = thai
+		religion = catholic
+		size = 1276
+	}
+	soldiers = {
+		culture = thai
+		religion = catholic
+		size = 1108
+	}
+	farmers = {
+		culture = thai
+		religion = catholic
+		size = 23246
+	}
+	aristocrats = {
+		culture = lao
+		religion = catholic
+		size = 360
+	}
+	clergymen = {
+		culture = lao
+		religion = catholic
+		size = 194
+	}
+	artisans = {
+		culture = lao
+		religion = catholic
+		size = 970
+	}
+	soldiers = {
+		culture = lao
+		religion = catholic
+		size = 776
+	}
+	farmers = {
+		culture = lao
+		religion = catholic
+		size = 19362
+	}
+	aristocrats = {
+		culture = khmer
+		religion = catholic
+		size = 27
+	}
+	clergymen = {
+		culture = khmer
+		religion = catholic
+		size = 55
+	}
+	artisans = {
+		culture = khmer
+		religion = catholic
+		size = 166
+	}
+	soldiers = {
+		culture = khmer
+		religion = catholic
+		size = 108
+	}
+	farmers = {
+		culture = khmer
+		religion = catholic
+		size = 3051
+	}
+}
+#Cambodia Region
+#under the rule of Siam in 1836
+#Chanthaburi #now part of Thailand   
+1365 = {
+	aristocrats = {
+		culture = thai
+		religion = catholic
+		size = 83
+	}
+	clergymen = {
+		culture = thai
+		religion = catholic
+		size = 55
+	}
+	artisans = {
+		culture = thai
+		religion = catholic
+		size = 249
+	}
+	soldiers = {
+		culture = thai
+		religion = catholic
+		size = 220
+	}
+	farmers = {
+		culture = thai
+		religion = catholic
+		size = 5104
+	}
+	aristocrats = {
+		culture = khmer
+		religion = catholic
+		size = 166
+	}
+	clergymen = {
+		culture = khmer
+		religion = catholic
+		size = 110
+	}
+	artisans = {
+		culture = khmer
+		religion = catholic
+		size = 554
+	}
+	soldiers = {
+		culture = khmer
+		religion = catholic
+		size = 440
+	}
+	farmers = {
+		culture = khmer
+		religion = catholic
+		size = 10152
+	}
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 55
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 832
+	}
+	soldiers = {
+		culture = han
+		religion = catholic
+		size = 220
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 2385
+	}
+}
+#Malaya Region #see Malaysia
+#under the rule of Siam in 1836
+#Patani #now part of Thailand   
+1392 = {
+	aristocrats = {
+		culture = malay
+		religion = catholic
+		size = 610
+	}
+	clergymen = {
+		culture = malay
+		religion = catholic
+		size = 332
+	}
+	artisans = {
+		culture = malay
+		religion = catholic
+		size = 1664
+	}
+	soldiers = {
+		culture = malay
+		religion = catholic
+		size = 1328
+	}
+	farmers = {
+		culture = malay
+		religion = catholic
+		size = 31568
+	}
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 55
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 721
+	}
+	soldiers = {
+		culture = han
+		religion = catholic
+		size = 108
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 1414
+	}
+}

@@ -1,0 +1,231 @@
+#Guyana
+#Georgetown
+2239 = {
+	aristocrats = {
+		culture = british
+		religion = catholic
+		size = 155
+	}
+	bureaucrats = {
+		culture = british
+		religion = catholic
+		size = 77
+	}
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 38
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 545
+	}
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 152
+	}
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 155
+	}
+	clergymen = {
+		culture = afro_caribbean
+		religion = catholic
+		size = 116
+	}
+	artisans = {
+		culture = afro_caribbean
+		religion = catholic
+		size = 1091
+	}
+	soldiers = {
+		culture = afro_caribbean
+		religion = catholic
+		size = 932
+	}
+	slaves = {
+		culture = afro_caribbean
+		religion = catholic
+		size = 20407
+	}
+	aristocrats = {
+		culture = amazonian
+		religion = catholic
+		size = 15
+	}
+	clergymen = {
+		culture = amazonian
+		religion = catholic
+		size = 38
+	}
+	artisans = {
+		culture = amazonian
+		religion = catholic
+		size = 77
+	}
+	soldiers = {
+		culture = amazonian
+		religion = catholic
+		size = 88
+	}
+	farmers = {
+		culture = amazonian
+		religion = catholic
+		size = 1403
+	}
+}
+#Essequibo
+2243 = {
+	aristocrats = {
+		culture = british
+		religion = catholic
+		size = 31
+	}
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 15
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 63
+	}
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 60
+	}
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 31
+	}
+	clergymen = {
+		culture = afro_caribbean
+		religion = catholic
+		size = 47
+	}
+	artisans = {
+		culture = afro_caribbean
+		religion = catholic
+		size = 190
+	}
+	soldiers = {
+		culture = afro_caribbean
+		religion = catholic
+		size = 188
+	}
+	slaves = {
+		culture = afro_caribbean
+		religion = catholic
+		size = 5441
+	}
+	aristocrats = {
+		culture = amazonian
+		religion = catholic
+		size = 6
+	}
+	clergymen = {
+		culture = amazonian
+		religion = catholic
+		size = 15
+	}
+	artisans = {
+		culture = amazonian
+		religion = catholic
+		size = 31
+	}
+	soldiers = {
+		culture = amazonian
+		religion = catholic
+		size = 36
+	}
+	farmers = {
+		culture = amazonian
+		religion = catholic
+		size = 572
+	}
+}
+
+#New Amsterdam
+1979 = {
+	aristocrats = {
+		culture = british
+		religion = catholic
+		size = 67
+	}
+	bureaucrats = {
+		culture = british
+		religion = catholic
+		size = 33
+	}
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 16
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 238
+	}
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 64
+	}
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 67
+	}
+	clergymen = {
+		culture = afro_caribbean
+		religion = catholic
+		size = 50
+	}
+	artisans = {
+		culture = afro_caribbean
+		religion = catholic
+		size = 477
+	}
+	soldiers = {
+		culture = afro_caribbean
+		religion = catholic
+		size = 408
+	}
+	slaves = {
+		culture = afro_caribbean
+		religion = catholic
+		size = 8915
+	}
+	aristocrats = {
+		culture = amazonian
+		religion = catholic
+		size = 6
+	}
+	clergymen = {
+		culture = amazonian
+		religion = catholic
+		size = 16
+	}
+	artisans = {
+		culture = amazonian
+		religion = catholic
+		size = 33
+	}
+	soldiers = {
+		culture = amazonian
+		religion = catholic
+		size = 36
+	}
+	farmers = {
+		culture = amazonian
+		religion = catholic
+		size = 613
+	}
+}

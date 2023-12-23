@@ -1,0 +1,201 @@
+#Nyasaland Region  
+#uncolonized in 1836/dohanated by the african_minor
+#Blantyre 
+2066 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 902
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 492
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 2378
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 1968
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 43296
+	}
+	slaves = {
+		culture = african_minor
+		religion = catholic
+		size = 4920
+	}
+	aristocrats = {
+		culture = lomwe
+		religion = catholic
+		size = 451
+	}
+	clergymen = {
+		culture = lomwe
+		religion = catholic
+		size = 246
+	}
+	artisans = {
+		culture = lomwe
+		religion = catholic
+		size = 1230
+	}
+	soldiers = {
+		culture = lomwe
+		religion = catholic
+		size = 984
+	}
+	farmers = {
+		culture = lomwe
+		religion = catholic
+		size = 22427
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 205
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 123
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 656
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 656
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 7011
+	}
+}
+#Lilongwe/dohanated by Kazembe 
+2067 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 560
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 320
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 1520
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 1280
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 27680
+	}
+	slaves = {
+		culture = african_minor
+		religion = catholic
+		size = 6400
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 640
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 320
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 1360
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 1440
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 24200
+	}
+}
+#Mzuzu
+1944 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 217
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 124
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 589
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 496
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 10726
+	}
+	slaves = {
+		culture = african_minor
+		religion = catholic
+		size = 2480
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 248
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 124
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 527
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 556
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 9377
+	}
+}

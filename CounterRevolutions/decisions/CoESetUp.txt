@@ -1,0 +1,447 @@
+political_decisions = {
+	setup = {
+		potential = {
+			NOT = { has_global_flag = setup }
+			ai = yes
+		}
+		
+		allow = {
+			
+		}
+		
+		effect = {
+			enable_canal = 4
+			enable_canal = 5
+			enable_canal = 6
+			enable_canal = 7
+			any_country = {
+				any_pop = {
+					limit = {
+						type = bureaucrats
+						is_primary_culture = no
+						is_accepted_culture = no
+					}
+					pop_type = farmers
+				}
+			}
+			any_country = {
+				any_pop = {
+					limit = {
+						type = clergymen
+						is_state_religion = no
+					}
+					pop_type = farmers
+				}
+			}
+			POR = {
+				any_pop = {
+					scaled_militancy = {
+						factor = 10
+						ideology = liberal
+					}
+					scaled_militancy = {
+						factor = 5
+						ideology = conservative
+					}
+				}
+			}
+			SPA = {
+				any_pop = {
+					scaled_militancy = {
+						factor = 10
+						ideology = liberal
+					}
+					scaled_militancy = {
+						factor = 5
+						ideology = conservative
+					}
+				}
+				any_pop = {
+					limit = {
+						OR = {
+							continent = north_america
+							continent = south_america
+						}
+					}
+					militancy = 10
+				}
+			}
+			BUR = {
+				casus_belli = {
+					target = AHO
+					type = conquest
+					months = 240
+				}
+				casus_belli = {
+					target = DMA
+					type = conquest_2
+					months = 240
+				}
+			}
+			SIA = {
+				casus_belli = {
+					target = KDA
+					type = conquest_2
+					months = 240
+				}
+			}
+			EGY = {
+				casus_belli = {
+					target = SEN
+					type = conquest_2
+					months = 240
+				}
+			}
+			FRA = {
+				badboy = 20
+				add_country_modifier = {
+					name = post_war_france
+					duration = 1825
+				}
+			}
+			PEU = {
+				all_core = {
+					add_core = VOP
+				}
+			}
+			BOL = {
+				all_core = {
+					add_core = VOP
+				}
+			}
+			DOM = {
+				all_core = {
+					add_core = HAI
+				}
+			}			
+			PNM = {
+				all_core = {
+					add_core = GCO
+				}
+			}	
+			ECU = {
+				all_core = {
+					add_core = GCO
+				}
+			}				
+			SPA = { military_access = VOP }
+			VOP = { military_access = SPA }			
+			RUS = { military_access = FRA }
+			PRU = { military_access = FRA }
+			AUS = { military_access = FRA }
+			SWI = {
+				military_access = FRA
+				add_country_modifier = {
+					name = neutrality
+					duration = -1
+				}
+			}
+			SWE = {
+				add_country_modifier = {
+					name = neutrality
+					duration = -1
+				}
+			}
+			any_country = {
+				limit = { primary_culture = german }
+				military_access = ANH
+				military_access = BRA
+				military_access = BRE
+				military_access = COB
+				military_access = FRM
+				military_access = HAM
+				military_access = HAN
+				military_access = HEK
+				military_access = HOL
+				military_access = LIP
+				military_access = LUB
+				military_access = LUX
+				military_access = MEC
+				military_access = MES
+				military_access = MEI
+				military_access = NAS
+				military_access = OLD
+				military_access = PRU
+				military_access = SAX
+				military_access = SAL
+				military_access = WEI
+				military_access = WLD
+				military_access = SCH
+				military_access = BAD
+				military_access = WUR
+				military_access = BAV
+				military_access = HOH
+				military_access = AUS
+				military_access = HES
+			}
+			any_country = {
+				limit = {
+					primary_culture = german
+					in_sphere = PRU
+				}
+				create_alliance = PRU
+			}
+			any_country = {
+				limit = {
+					primary_culture = german
+					in_sphere = AUS
+				}
+				create_alliance = AUS
+			}
+			any_country = {
+				any_pop = {
+					limit = { strata = rich }
+					money = 500
+				}
+			}
+			any_country = {
+				any_pop = {
+					limit = { strata = middle }
+					money = 200
+				}
+			}
+			any_country = {
+				any_pop = {
+					limit = { strata = poor }
+					money = 50
+				}
+			}
+			ARG = {
+				add_country_modifier = {
+					name = war_of_independence_mobilization
+					duration = 1525
+				}
+			}
+			GCO = {
+				add_country_modifier = {
+					name = war_of_independence_mobilization
+					duration = 1525
+				}
+			}
+			MEX = {
+				add_country_modifier = {
+					name = war_of_independence_mobilization
+					duration = 1525
+				}
+			}
+			CHL = {
+				add_country_modifier = {
+					name = war_of_independence_mobilization
+					duration = 1525
+				}
+			}
+			PRG = {
+				add_country_modifier = {
+					name = war_of_independence_mobilization
+					duration = 1525
+				}
+			}			
+			VOP = {
+				add_country_modifier = {
+					name = realist_Movilization
+					duration = 1525
+				}
+			}			
+			ENG = {
+				military_access = FRA
+				add_country_modifier = {
+					name = penal_colonies
+					duration = -1
+				}
+				any_owned = {
+					limit = {
+						OR = {
+							province_id = 2468
+							province_id = 2483
+							province_id = 2482
+							province_id = 3790
+						}
+					}
+					add_province_modifier = {
+						name = penal_colony
+						duration = 14600
+					}
+				}
+				casus_belli = {
+					target = HND
+					type = establish_protectorate_casus_belli
+					months = 240
+				}
+			}
+			TKG = {
+				add_country_modifier = {
+					name = "uncivilized_isolationism"
+					duration = -1
+				}
+			}
+			CHI = {
+				add_country_modifier = {
+					name = "uncivilized_isolationism"
+					duration = -1
+				}
+			}
+			KOR = {
+				add_country_modifier = {
+					name = "uncivilized_isolationism"
+					duration = -1
+				}
+			}
+			PRG = {
+				add_country_modifier = {
+					name = "isolationism"
+					duration = -1
+				}
+			}
+			AUS = {
+				any_owned = {
+					limit = {
+						OR = {
+							region = AUS_633
+							region = AUS_623
+							region = AUS_641
+							region = AUS_652
+							region = AUS_647
+							region = AUS_950
+							region = AUS_654
+							region = AUS_702
+							region = MOL_662
+						}
+					}
+					add_province_modifier = {
+						name = "serfdom"
+						duration = -1
+					}
+				}
+			}
+			TUR = {
+				any_owned = {
+					limit = {
+						OR = {
+							region = TUR_788
+							region = TUR_674
+							region = TUR_810
+						}
+					}
+					add_province_modifier = {
+						name = "serfdom"
+						duration = -1
+					}
+				}
+			}
+			any_country = {
+				limit = {
+					OR = {
+						tag = TIB
+						tag = BHU
+						tag = AFG
+						tag = POL
+						tag = HAW
+						tag = RUS
+						tag = SAX
+						tag = HAN
+						tag = WUR
+					}
+				}
+				any_owned = {
+					limit = {
+						NOT = {
+							OR = {
+								region = RUS_349
+								region = RUS_354
+								region = RUS_357
+								province_id = 3593
+								is_colonial = yes
+							}
+						}
+					}
+					add_province_modifier = {
+						name = "serfdom"
+						duration = -1
+					}
+				}
+			}
+			any_country = { any_pop = { literacy = -1 } }
+			any_country = { any_pop = { limit = { has_pop_culture = french } literacy = 0.37 } }
+			any_country = { any_pop = { limit = { has_pop_culture = occitan } literacy = 0.37 } }
+			any_country = { any_pop = { limit = { has_pop_culture = jewish } literacy = 0.39 } }
+			any_country = { any_pop = { limit = { has_pop_culture = boer } literacy = 0.24 } }
+			any_country = { any_pop = { limit = { has_pop_culture = swedish } literacy = 0.74 } }
+			any_country = { any_pop = { limit = { has_pop_culture = danish } literacy = 0.74 } }
+			any_country = { any_pop = { limit = { has_pop_culture = faroese } literacy = 0.74 } }
+			any_country = { any_pop = { limit = { has_pop_culture = norwegian } literacy = 0.74 } }
+			any_country = { any_pop = { limit = { has_pop_culture = icelandic } literacy = 0.74 } }
+			any_country = { any_pop = { limit = { has_pop_culture = british } literacy = 0.52 } }
+			any_country = { any_pop = { limit = { has_pop_culture = irish } literacy = 0.32 } }
+			any_country = { any_pop = { limit = { has_pop_culture = italian } literacy = 0.29 } }
+			any_country = { any_pop = { limit = { has_pop_culture = sardinian } literacy = 0.29 } }
+			any_country = { any_pop = { limit = { has_pop_culture = romansh } literacy = 0.29 } }
+			any_country = { any_pop = { limit = { has_pop_culture = friulian } literacy = 0.29 } }
+			any_country = { any_pop = { limit = { has_pop_culture = ladin } literacy = 0.29 } }
+			any_country = { any_pop = { limit = { has_pop_culture = maltese } literacy = 0.14 } }
+			any_country = { any_pop = { limit = { has_pop_culture = basque } literacy = 0.12 } }
+			any_country = { any_pop = { limit = { has_pop_culture = spanish } literacy = 0.19 } }
+			any_country = { any_pop = { limit = { has_pop_culture = catalan } literacy = 0.19 } }
+			any_country = { any_pop = { limit = { has_pop_culture = portuguese } literacy = 0.12 } }
+			any_country = { any_pop = { limit = { has_pop_culture = breton } literacy = 0.37 } }
+			any_country = { any_pop = { limit = { has_pop_culture = croat } literacy = 0.19 } }
+			any_country = { any_pop = { limit = { has_pop_culture = serb } literacy = 0.14 } }
+			any_country = { any_pop = { limit = { has_pop_culture = bulgarian } literacy = 0.14 } }
+			any_country = { any_pop = { limit = { has_pop_culture = albanian } literacy = 0.14 } }
+			any_country = { any_pop = { limit = { has_pop_culture = slovene } literacy = 0.34 } }
+			any_country = { any_pop = { limit = { has_pop_culture = bosniak } literacy = 0.09 } }
+			any_country = { any_pop = { limit = { has_pop_culture = romanian } literacy = 0.09 } }
+			any_country = { any_pop = { limit = { has_pop_culture = hungarian } literacy = 0.24 } }
+			any_country = { any_pop = { limit = { has_pop_culture = polish } literacy = 0.29 } }
+			any_country = { any_pop = { limit = { has_pop_culture = sorb } literacy = 0.29 } }
+			any_country = { any_pop = { limit = { has_pop_culture = lithuanian } literacy = 0.29 } }
+			any_country = { any_pop = { limit = { has_pop_culture = czech } literacy = 0.29 } }
+			any_country = { any_pop = { limit = { has_pop_culture = slovak } literacy = 0.24 } }
+			any_country = { any_pop = { limit = { has_pop_culture = russian } literacy = 0.04 } }
+			any_country = { any_pop = { limit = { has_pop_culture = byelorussian } literacy = 0.04 } }
+			any_country = { any_pop = { limit = { has_pop_culture = ukrainian } literacy = 0.04 } }
+			any_country = { any_pop = { limit = { has_pop_culture = latvian } literacy = 0.29 } }
+			any_country = { any_pop = { limit = { has_pop_culture = estonian } literacy = 0.59 } }
+			any_country = { any_pop = { limit = { has_pop_culture = greek } literacy = 0.21 } }
+			any_country = { any_pop = { limit = { has_pop_culture = georgian } literacy = 0.09 } }
+			any_country = { any_pop = { limit = { has_pop_culture = armenian } literacy = 0.09 } }
+			any_country = { any_pop = { limit = { has_pop_culture = north_caucasian } literacy = 0.09 } }
+			HAW = { any_pop = { limit = { has_pop_culture = polynesian } literacy = 0.69 } }
+			any_country = { any_pop = { limit = { has_pop_culture = assyrian } literacy = 0.09 } }
+			any_country = { any_pop = { limit = { has_pop_culture = berber } literacy = 0.03 } }
+			any_country = { any_pop = { limit = { has_pop_culture = persian } literacy = 0.06 } }
+			any_country = { any_pop = { limit = { has_pop_culture = ossetian } literacy = 0.09 } }
+			any_country = { any_pop = { limit = { has_pop_culture = pashtun } literacy = 0.09 } }
+			any_country = { any_pop = { limit = { has_pop_culture = hazara } literacy = 0.09 } }
+			any_country = { any_pop = { limit = { has_pop_culture = kurdish } literacy = 0.06 } }
+			any_country = { any_pop = { limit = { has_pop_culture = turkish } literacy = 0.03 } }
+			any_country = { any_pop = { limit = { has_pop_culture = azerbaijani } literacy = 0.09 } }
+			any_country = { any_pop = { limit = { has_pop_culture = uzbek } literacy = 0.02 } }
+			any_country = { any_pop = { limit = { has_pop_culture = kazak } literacy = 0.02 } }
+			any_country = { any_pop = { limit = { has_pop_culture = kirgiz } literacy = 0.02 } }
+			any_country = { any_pop = { limit = { has_pop_culture = uighur } literacy = 0.03 } }
+			any_country = { any_pop = { limit = { has_pop_culture = tatar } literacy = 0.04 } }
+			any_country = { any_pop = { limit = { has_pop_culture = turkmen } literacy = 0.02 } }
+			any_country = { any_pop = { limit = { is_culture_group = sino_tibetan } literacy = 0.03 } }
+			any_country = { any_pop = { limit = { has_pop_culture = japanese } literacy = 0.34 } }
+			any_country = { any_pop = { limit = { has_pop_culture = korean } literacy = 0.05 } }
+			###SIC = { any_pop = { limit = { has_pop_culture = } literacy = 0.14 } } TODO what is this supposed to be???
+			any_country = { any_pop = { limit = { has_pop_culture = american } literacy = 0.49 } }
+			any_country = { any_pop = { limit = { has_pop_culture = platinean } literacy = 0.21 } }
+			any_country = { any_pop = { limit = { has_pop_culture = brazilian } literacy = 0.07 } }
+			any_country = { any_pop = { limit = { has_pop_culture = mexican } literacy = 0.14 } }
+			any_country = { any_pop = { limit = { has_pop_culture = central_american } literacy = 0.08 } }
+			any_country = { any_pop = { limit = { has_pop_culture = caribeno } literacy = 0.16 } }
+			any_country = { any_pop = { limit = { has_pop_culture = north_andean } literacy = 0.18 } }
+			any_country = { any_pop = { limit = { has_pop_culture = south_andean } literacy = 0.16 } }	
+			any_country = { any_pop = { limit = { has_pop_culture = finnish } literacy = 0.69 } }
+			any_country = { any_pop = { limit = { has_pop_culture = dutch } literacy = 0.84 } }
+			any_country = { any_pop = { limit = { has_pop_culture = frisian } literacy = 0.84 } }
+			any_country = { any_pop = { limit = { has_pop_culture = german } literacy = 0.42 } }
+			any_country = { limit = { OR = { civilization_progress = 0.2 civilized = yes } } any_pop = { limit = { strata = middle } literacy = 0.1 } }
+			any_country = { limit = { OR = { civilization_progress = 0.2 civilized = yes } } any_pop = { limit = { strata = rich } literacy = 0.3 } }
+			set_global_flag = setup
+		}
+		
+		ai_will_do = { factor = 1 }
+	}
+}

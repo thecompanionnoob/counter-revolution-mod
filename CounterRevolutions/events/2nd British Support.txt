@@ -1,0 +1,31 @@
+#British Support for Latinoamericans
+country_event = {
+	id = 194719888
+	title = "The United Kingdom support our fight"
+	desc = "The United Kingdom has sent us supplies so that we can continue our fight against Spain."
+	picture = "tearace"
+
+	trigger = {
+	    year = 1820
+		has_country_modifier = war_of_independence_mobilization
+		NOT = { tag = MEX }
+		is_vassal = no
+		NOT = {
+			has_country_flag = suplementos_recibidos2
+		}
+	}
+
+	option = {
+		name = "Long live Great Britain!"
+	    set_country_flag = suplementos_recibidos2
+		money = 50000
+		small_arms = 60
+                ammunition = 100
+		artillery = 30
+		canned_food = 80
+		liquor = 75
+		wine = 75
+        clipper_convoy = 10	
+
+	}
+}

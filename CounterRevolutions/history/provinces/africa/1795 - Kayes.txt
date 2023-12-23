@@ -1,0 +1,5 @@
+owner = KRT
+controller = KRT
+add_core = KRT
+trade_goods = wool
+life_rating = 37

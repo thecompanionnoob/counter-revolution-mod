@@ -1,0 +1,109 @@
+political_decisions = {
+	secure_the_naval_dominance_in_the_mediterranean = {
+		potential = {
+			tag = SAR
+			year = 1820
+			NOT = {
+				has_country_flag = the_lord_of_the_mediterranean
+			}
+		}
+		allow = {
+			NOT = {
+				num_of_revolts = 1
+			}
+			OR = {
+				average_militancy = 3
+				average_consciousness = 4
+			}
+		}
+		effect = {
+					any_pop = {
+				militancy = -10
+				consciousness = -10
+			}
+			add_country_modifier = {
+				name = mare_nostrum
+				duration = -1
+			}
+			set_country_flag = the_lord_of_the_mediterranean
+			}
+		}
+	
+	claim_our_dominance_in_the_provinces_of_lombardo_veneto = {
+		potential = {
+			tag = SAR
+			year = 1828
+			NOT = { has_country_flag = claim_lombardy_veneto }
+			}
+		allow = {
+			war = no
+			
+		}
+		effect = {
+		
+		LOM = {
+			add_country_modifier = {
+				name = war_of_independence_mobilization
+				duration = 136
+			}
+		}
+		SAR = {
+			add_country_modifier = {
+				name = war_of_independence_mobilization
+				duration = 136
+					}
+				}
+		AUS = { country_event = 99899920 }
+		set_country_flag = claim_lombardy_veneto
+		}
+	}
+	
+	independence_or_death = {
+		potential = {
+			exists = LOM
+			tag = SAR
+			has_country_flag = claim_lombardy_veneto
+			NOT = { has_country_flag = successful_coup }
+			}
+		allow = {
+			war = yes
+			
+		}
+		effect = {
+		create_vassal = LOM
+		set_country_flag = successful_coup
+		}
+	}
+	
+	integrate_lombardy_and_venetia = {
+		potential = {
+			tag = SAR
+			has_country_flag = successful_coup
+			}
+		allow = {
+			war = no
+		}
+		effect = {
+		inherit = LOM
+		}
+	}
+	
+		the_mare_is_nostrumed = {
+		potential = {
+			tag = SAR
+			year = 1830
+			has_country_flag = the_lord_of_the_mediterranean
+			}
+		allow = {
+			war = no
+			
+		}
+		effect = {
+		
+		change_tag = MRE
+			any_owned = {
+			add_core = THIS
+			}
+		}
+	}
+}	

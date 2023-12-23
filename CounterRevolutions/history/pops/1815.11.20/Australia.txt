@@ -1,0 +1,1809 @@
+#New South Wales Region
+#Sydney
+2468 = {
+	bureaucrats = {
+		culture = british
+		religion = catholic
+		size = 8
+	}
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 15
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 854
+	}
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 1072
+	}
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 1073
+	}
+	clergymen = {
+		culture = gaels
+		religion = catholic
+		size = 6
+	}
+	artisans = {
+		culture = gaels
+		religion = catholic
+		size = 122
+	}
+	farmers = {
+		culture = gaels
+		religion = catholic
+		size = 603
+	}
+	clergymen = {
+		culture = aborigine
+		religion = catholic
+		size = 21
+	}
+	artisans = {
+		culture = aborigine
+		religion = catholic
+		size = 129
+	}
+	soldiers = {
+		culture = aborigine
+		religion = catholic
+		size = 84
+	}
+	farmers = {
+		culture = aborigine
+		religion = catholic
+		size = 2419
+	}
+}
+#Newcastle
+2469 = {
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 6
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 61
+	}
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 48
+	}
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 407
+	}
+	clergymen = {
+		culture = gaels
+		religion = catholic
+		size = 2
+	}
+	artisans = {
+		culture = gaels
+		religion = catholic
+		size = 12
+	}
+	farmers = {
+		culture = gaels
+		religion = catholic
+		size = 234
+	}
+	clergymen = {
+		culture = aborigine
+		religion = catholic
+		size = 8
+	}
+	artisans = {
+		culture = aborigine
+		religion = catholic
+		size = 43
+	}
+	soldiers = {
+		culture = aborigine
+		religion = catholic
+		size = 48
+	}
+	farmers = {
+		culture = aborigine
+		religion = catholic
+		size = 799
+	}
+}
+#Port Macquarie
+2470 = {
+	aristocrats = {
+		culture = aborigine
+		religion = catholic
+		size = 21
+	}
+	clergymen = {
+		culture = aborigine
+		religion = catholic
+		size = 43
+	}
+	artisans = {
+		culture = aborigine
+		religion = catholic
+		size = 86
+	}
+	soldiers = {
+		culture = aborigine
+		religion = catholic
+		size = 84
+	}
+	farmers = {
+		culture = aborigine
+		religion = catholic
+		size = 1512
+	}
+}
+#Goulburn
+2472 = {
+	aristocrats = {
+		culture = aborigine
+		religion = catholic
+		size = 8
+	}
+	clergymen = {
+		culture = aborigine
+		religion = catholic
+		size = 21
+	}
+	artisans = {
+		culture = aborigine
+		religion = catholic
+		size = 43
+	}
+	soldiers = {
+		culture = aborigine
+		religion = catholic
+		size = 48
+	}
+	farmers = {
+		culture = aborigine
+		religion = catholic
+		size = 777
+	}
+}
+#Wagga Wagga
+2473 = {
+	aristocrats = {
+		culture = aborigine
+		religion = catholic
+		size = 21
+	}
+	clergymen = {
+		culture = aborigine
+		religion = catholic
+		size = 43
+	}
+	artisans = {
+		culture = aborigine
+		religion = catholic
+		size = 86
+	}
+	soldiers = {
+		culture = aborigine
+		religion = catholic
+		size = 84
+	}
+	farmers = {
+		culture = aborigine
+		religion = catholic
+		size = 1512
+	}
+}
+#Bathurst
+2471 = {
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 6
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 12
+	}
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 24
+	}
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 219
+	}
+	aristocrats = {
+		culture = aborigine
+		religion = catholic
+		size = 21
+	}
+	clergymen = {
+		culture = aborigine
+		religion = catholic
+		size = 43
+	}
+	artisans = {
+		culture = aborigine
+		religion = catholic
+		size = 86
+	}
+	soldiers = {
+		culture = aborigine
+		religion = catholic
+		size = 84
+	}
+	farmers = {
+		culture = aborigine
+		religion = catholic
+		size = 1512
+	}
+}
+#Tamworth
+2474 = {
+	aristocrats = {
+		culture = aborigine
+		religion = catholic
+		size = 21
+	}
+	clergymen = {
+		culture = aborigine
+		religion = catholic
+		size = 43
+	}
+	artisans = {
+		culture = aborigine
+		religion = catholic
+		size = 86
+	}
+	soldiers = {
+		culture = aborigine
+		religion = catholic
+		size = 84
+	}
+	farmers = {
+		culture = aborigine
+		religion = catholic
+		size = 1512
+	}
+}
+#Broken Hill
+2475 = {
+	aristocrats = {
+		culture = aborigine
+		religion = catholic
+		size = 43
+	}
+	clergymen = {
+		culture = aborigine
+		religion = catholic
+		size = 64
+	}
+	artisans = {
+		culture = aborigine
+		religion = catholic
+		size = 129
+	}
+	soldiers = {
+		culture = aborigine
+		religion = catholic
+		size = 84
+	}
+	farmers = {
+		culture = aborigine
+		religion = catholic
+		size = 2332
+	}
+}
+#Dubbo
+3782 = {
+	aristocrats = {
+		culture = aborigine
+		religion = catholic
+		size = 43
+	}
+	clergymen = {
+		culture = aborigine
+		religion = catholic
+		size = 64
+	}
+	artisans = {
+		culture = aborigine
+		religion = catholic
+		size = 129
+	}
+	soldiers = {
+		culture = aborigine
+		religion = catholic
+		size = 84
+	}
+	farmers = {
+		culture = aborigine
+		religion = catholic
+		size = 2332
+	}
+}
+#Albury
+3783 = {
+	aristocrats = {
+		culture = aborigine
+		religion = catholic
+		size = 43
+	}
+	clergymen = {
+		culture = aborigine
+		religion = catholic
+		size = 64
+	}
+	artisans = {
+		culture = aborigine
+		religion = catholic
+		size = 129
+	}
+	soldiers = {
+		culture = aborigine
+		religion = catholic
+		size = 84
+	}
+	farmers = {
+		culture = aborigine
+		religion = catholic
+		size = 2332
+	}
+}
+#Hawkesbury
+3784 = {
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 6
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 12
+	}
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 24
+	}
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 219
+	}
+	aristocrats = {
+		culture = aborigine
+		religion = catholic
+		size = 43
+	}
+	clergymen = {
+		culture = aborigine
+		religion = catholic
+		size = 64
+	}
+	artisans = {
+		culture = aborigine
+		religion = catholic
+		size = 129
+	}
+	soldiers = {
+		culture = aborigine
+		religion = catholic
+		size = 84
+	}
+	farmers = {
+		culture = aborigine
+		religion = catholic
+		size = 2332
+	}
+}
+#Wollongong
+3785 = {
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 6
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 12
+	}
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 24
+	}
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 219
+	}
+	aristocrats = {
+		culture = aborigine
+		religion = catholic
+		size = 43
+	}
+	clergymen = {
+		culture = aborigine
+		religion = catholic
+		size = 64
+	}
+	artisans = {
+		culture = aborigine
+		religion = catholic
+		size = 129
+	}
+	soldiers = {
+		culture = aborigine
+		religion = catholic
+		size = 84
+	}
+	farmers = {
+		culture = aborigine
+		religion = catholic
+		size = 2332
+	}
+}
+#Lismore
+3793 = {
+	aristocrats = {
+		culture = aborigine
+		religion = catholic
+		size = 43
+	}
+	clergymen = {
+		culture = aborigine
+		religion = catholic
+		size = 64
+	}
+	artisans = {
+		culture = aborigine
+		religion = catholic
+		size = 129
+	}
+	soldiers = {
+		culture = aborigine
+		religion = catholic
+		size = 84
+	}
+	farmers = {
+		culture = aborigine
+		religion = catholic
+		size = 2332
+	}
+}
+#Canberra
+3786 = {
+	aristocrats = {
+		culture = aborigine
+		religion = catholic
+		size = 12
+	}
+	clergymen = {
+		culture = aborigine
+		religion = catholic
+		size = 19
+	}
+	artisans = {
+		culture = aborigine
+		religion = catholic
+		size = 38
+	}
+	soldiers = {
+		culture = aborigine
+		religion = catholic
+		size = 24
+	}
+	farmers = {
+		culture = aborigine
+		religion = catholic
+		size = 693
+	}
+}
+#Victoria Region
+#Melbourne
+2476 = {
+	aristocrats = {
+		culture = aborigine
+		religion = catholic
+		size = 21
+	}
+	clergymen = {
+		culture = aborigine
+		religion = catholic
+		size = 32
+	}
+	artisans = {
+		culture = aborigine
+		religion = catholic
+		size = 64
+	}
+	soldiers = {
+		culture = aborigine
+		religion = catholic
+		size = 40
+	}
+	farmers = {
+		culture = aborigine
+		religion = catholic
+		size = 655
+	}
+}
+#Warrnambool
+2477 = {
+	aristocrats = {
+		culture = aborigine
+		religion = catholic
+		size = 10
+	}
+	clergymen = {
+		culture = aborigine
+		religion = catholic
+		size = 21
+	}
+	artisans = {
+		culture = aborigine
+		religion = catholic
+		size = 42
+	}
+	soldiers = {
+		culture = aborigine
+		religion = catholic
+		size = 40
+	}
+	farmers = {
+		culture = aborigine
+		religion = catholic
+		size = 749
+	}
+}
+#Ballarat
+2478 = {
+	aristocrats = {
+		culture = aborigine
+		religion = catholic
+		size = 10
+	}
+	clergymen = {
+		culture = aborigine
+		religion = catholic
+		size = 21
+	}
+	artisans = {
+		culture = aborigine
+		religion = catholic
+		size = 42
+	}
+	soldiers = {
+		culture = aborigine
+		religion = catholic
+		size = 40
+	}
+	farmers = {
+		culture = aborigine
+		religion = catholic
+		size = 749
+	}
+}
+#Sale
+2479 = {
+	aristocrats = {
+		culture = aborigine
+		religion = catholic
+		size = 10
+	}
+	clergymen = {
+		culture = aborigine
+		religion = catholic
+		size = 21
+	}
+	artisans = {
+		culture = aborigine
+		religion = catholic
+		size = 42
+	}
+	soldiers = {
+		culture = aborigine
+		religion = catholic
+		size = 40
+	}
+	farmers = {
+		culture = aborigine
+		religion = catholic
+		size = 749
+	}
+}
+#Wodonga
+2480 = {
+	aristocrats = {
+		culture = aborigine
+		religion = catholic
+		size = 4
+	}
+	clergymen = {
+		culture = aborigine
+		religion = catholic
+		size = 10
+	}
+	artisans = {
+		culture = aborigine
+		religion = catholic
+		size = 21
+	}
+	soldiers = {
+		culture = aborigine
+		religion = catholic
+		size = 24
+	}
+	farmers = {
+		culture = aborigine
+		religion = catholic
+		size = 485
+	}
+}
+#Mildura
+2481 = {
+	aristocrats = {
+		culture = aborigine
+		religion = catholic
+		size = 4
+	}
+	clergymen = {
+		culture = aborigine
+		religion = catholic
+		size = 10
+	}
+	artisans = {
+		culture = aborigine
+		religion = catholic
+		size = 21
+	}
+	soldiers = {
+		culture = aborigine
+		religion = catholic
+		size = 24
+	}
+	farmers = {
+		culture = aborigine
+		religion = catholic
+		size = 485
+	}
+}
+#Geelong
+2508 = {
+	aristocrats = {
+		culture = aborigine
+		religion = catholic
+		size = 4
+	}
+	clergymen = {
+		culture = aborigine
+		religion = catholic
+		size = 10
+	}
+	artisans = {
+		culture = aborigine
+		religion = catholic
+		size = 21
+	}
+	soldiers = {
+		culture = aborigine
+		religion = catholic
+		size = 24
+	}
+	farmers = {
+		culture = aborigine
+		religion = catholic
+		size = 485
+	}
+}
+#Shepparton
+3787 = {
+	aristocrats = {
+		culture = aborigine
+		religion = catholic
+		size = 4
+	}
+	clergymen = {
+		culture = aborigine
+		religion = catholic
+		size = 10
+	}
+	artisans = {
+		culture = aborigine
+		religion = catholic
+		size = 21
+	}
+	soldiers = {
+		culture = aborigine
+		religion = catholic
+		size = 24
+	}
+	farmers = {
+		culture = aborigine
+		religion = catholic
+		size = 485
+	}
+}
+#Horsham
+3788 = {
+	aristocrats = {
+		culture = aborigine
+		religion = catholic
+		size = 4
+	}
+	clergymen = {
+		culture = aborigine
+		religion = catholic
+		size = 10
+	}
+	artisans = {
+		culture = aborigine
+		religion = catholic
+		size = 21
+	}
+	soldiers = {
+		culture = aborigine
+		religion = catholic
+		size = 24
+	}
+	farmers = {
+		culture = aborigine
+		religion = catholic
+		size = 485
+	}
+}
+#Tasmania Region
+#Hobart
+2482 = {
+	bureaucrats = {
+		culture = british
+		religion = catholic
+		size = 2
+	}
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 9
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 194
+	}
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 36
+	}
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 658
+	}
+	aristocrats = {
+		culture = aborigine
+		religion = catholic
+		size = 5
+	}
+	clergymen = {
+		culture = aborigine
+		religion = catholic
+		size = 14
+	}
+	artisans = {
+		culture = aborigine
+		religion = catholic
+		size = 29
+	}
+	soldiers = {
+		culture = aborigine
+		religion = catholic
+		size = 32
+	}
+	farmers = {
+		culture = aborigine
+		religion = catholic
+		size = 527
+	}
+}
+#Launceston
+3789 = {
+	aristocrats = {
+		culture = aborigine
+		religion = catholic
+		size = 5
+	}
+	clergymen = {
+		culture = aborigine
+		religion = catholic
+		size = 14
+	}
+	artisans = {
+		culture = aborigine
+		religion = catholic
+		size = 29
+	}
+	soldiers = {
+		culture = aborigine
+		religion = catholic
+		size = 32
+	}
+	farmers = {
+		culture = aborigine
+		religion = catholic
+		size = 527
+	}
+}
+#Devonport
+3790 = {
+	aristocrats = {
+		culture = aborigine
+		religion = catholic
+		size = 5
+	}
+	clergymen = {
+		culture = aborigine
+		religion = catholic
+		size = 14
+	}
+	artisans = {
+		culture = aborigine
+		religion = catholic
+		size = 29
+	}
+	soldiers = {
+		culture = aborigine
+		religion = catholic
+		size = 32
+	}
+	farmers = {
+		culture = aborigine
+		religion = catholic
+		size = 527
+	}
+}
+#Scottsdale
+3791 = {
+	aristocrats = {
+		culture = aborigine
+		religion = catholic
+		size = 5
+	}
+	clergymen = {
+		culture = aborigine
+		religion = catholic
+		size = 14
+	}
+	artisans = {
+		culture = aborigine
+		religion = catholic
+		size = 29
+	}
+	soldiers = {
+		culture = aborigine
+		religion = catholic
+		size = 32
+	}
+	farmers = {
+		culture = aborigine
+		religion = catholic
+		size = 527
+	}
+}
+#Longford
+3792 = {
+	aristocrats = {
+		culture = aborigine
+		religion = catholic
+		size = 5
+	}
+	clergymen = {
+		culture = aborigine
+		religion = catholic
+		size = 14
+	}
+	artisans = {
+		culture = aborigine
+		religion = catholic
+		size = 29
+	}
+	soldiers = {
+		culture = aborigine
+		religion = catholic
+		size = 32
+	}
+	farmers = {
+		culture = aborigine
+		religion = catholic
+		size = 527
+	}
+}
+#Queensland Region
+#Brisbane
+2483 = {
+	aristocrats = {
+		culture = aborigine
+		religion = catholic
+		size = 38
+	}
+	clergymen = {
+		culture = aborigine
+		religion = catholic
+		size = 76
+	}
+	artisans = {
+		culture = aborigine
+		religion = catholic
+		size = 153
+	}
+	soldiers = {
+		culture = aborigine
+		religion = catholic
+		size = 152
+	}
+	farmers = {
+		culture = aborigine
+		religion = catholic
+		size = 2686
+	}
+}
+#Bundaberg
+2484 = {
+	aristocrats = {
+		culture = aborigine
+		religion = catholic
+		size = 38
+	}
+	clergymen = {
+		culture = aborigine
+		religion = catholic
+		size = 76
+	}
+	artisans = {
+		culture = aborigine
+		religion = catholic
+		size = 153
+	}
+	soldiers = {
+		culture = aborigine
+		religion = catholic
+		size = 152
+	}
+	farmers = {
+		culture = aborigine
+		religion = catholic
+		size = 2686
+	}
+}
+#Rockhampton
+2485 = {
+	aristocrats = {
+		culture = aborigine
+		religion = catholic
+		size = 15
+	}
+	clergymen = {
+		culture = aborigine
+		religion = catholic
+		size = 38
+	}
+	artisans = {
+		culture = aborigine
+		religion = catholic
+		size = 76
+	}
+	soldiers = {
+		culture = aborigine
+		religion = catholic
+		size = 92
+	}
+	farmers = {
+		culture = aborigine
+		religion = catholic
+		size = 1381
+	}
+}
+#Toowoomba
+2486 = {
+	aristocrats = {
+		culture = aborigine
+		religion = catholic
+		size = 38
+	}
+	clergymen = {
+		culture = aborigine
+		religion = catholic
+		size = 76
+	}
+	artisans = {
+		culture = aborigine
+		religion = catholic
+		size = 153
+	}
+	soldiers = {
+		culture = aborigine
+		religion = catholic
+		size = 152
+	}
+	farmers = {
+		culture = aborigine
+		religion = catholic
+		size = 2686
+	}
+}
+#Townsville
+2487 = {
+	aristocrats = {
+		culture = aborigine
+		religion = catholic
+		size = 38
+	}
+	clergymen = {
+		culture = aborigine
+		religion = catholic
+		size = 76
+	}
+	artisans = {
+		culture = aborigine
+		religion = catholic
+		size = 153
+	}
+	soldiers = {
+		culture = aborigine
+		religion = catholic
+		size = 152
+	}
+	farmers = {
+		culture = aborigine
+		religion = catholic
+		size = 2686
+	}
+}
+#Cairns
+2488 = {
+	aristocrats = {
+		culture = aborigine
+		religion = catholic
+		size = 38
+	}
+	clergymen = {
+		culture = aborigine
+		religion = catholic
+		size = 76
+	}
+	artisans = {
+		culture = aborigine
+		religion = catholic
+		size = 191
+	}
+	soldiers = {
+		culture = aborigine
+		religion = catholic
+		size = 152
+	}
+	farmers = {
+		culture = aborigine
+		religion = catholic
+		size = 3492
+	}
+}
+#Longreach
+2489 = {
+	aristocrats = {
+		culture = aborigine
+		religion = catholic
+		size = 15
+	}
+	clergymen = {
+		culture = aborigine
+		religion = catholic
+		size = 38
+	}
+	artisans = {
+		culture = aborigine
+		religion = catholic
+		size = 76
+	}
+	soldiers = {
+		culture = aborigine
+		religion = catholic
+		size = 92
+	}
+	farmers = {
+		culture = aborigine
+		religion = catholic
+		size = 1381
+	}
+}
+#Charleville
+2490 = {
+	aristocrats = {
+		culture = aborigine
+		religion = catholic
+		size = 15
+	}
+	clergymen = {
+		culture = aborigine
+		religion = catholic
+		size = 38
+	}
+	artisans = {
+		culture = aborigine
+		religion = catholic
+		size = 76
+	}
+	soldiers = {
+		culture = aborigine
+		religion = catholic
+		size = 92
+	}
+	farmers = {
+		culture = aborigine
+		religion = catholic
+		size = 1381
+	}
+}
+#Normanton
+2604 = {
+	aristocrats = {
+		culture = aborigine
+		religion = catholic
+		size = 23
+	}
+	clergymen = {
+		culture = aborigine
+		religion = catholic
+		size = 38
+	}
+	artisans = {
+		culture = aborigine
+		religion = catholic
+		size = 115
+	}
+	soldiers = {
+		culture = aborigine
+		religion = catholic
+		size = 92
+	}
+	farmers = {
+		culture = aborigine
+		religion = catholic
+		size = 2102
+	}
+}
+#South Australia Region
+#Adelaide
+2491 = {
+	aristocrats = {
+		culture = aborigine
+		religion = catholic
+		size = 25
+	}
+	clergymen = {
+		culture = aborigine
+		religion = catholic
+		size = 38
+	}
+	artisans = {
+		culture = aborigine
+		religion = catholic
+		size = 76
+	}
+	soldiers = {
+		culture = aborigine
+		religion = catholic
+		size = 48
+	}
+	farmers = {
+		culture = aborigine
+		religion = catholic
+		size = 1379
+	}
+}
+#Port Lincoln
+2492 = {
+	aristocrats = {
+		culture = aborigine
+		religion = catholic
+		size = 5
+	}
+	clergymen = {
+		culture = aborigine
+		religion = catholic
+		size = 12
+	}
+	artisans = {
+		culture = aborigine
+		religion = catholic
+		size = 25
+	}
+	soldiers = {
+		culture = aborigine
+		religion = catholic
+		size = 28
+	}
+	farmers = {
+		culture = aborigine
+		religion = catholic
+		size = 459
+	}
+}
+#Mount Gambier
+2493 = {
+	aristocrats = {
+		culture = aborigine
+		religion = catholic
+		size = 5
+	}
+	clergymen = {
+		culture = aborigine
+		religion = catholic
+		size = 12
+	}
+	artisans = {
+		culture = aborigine
+		religion = catholic
+		size = 25
+	}
+	soldiers = {
+		culture = aborigine
+		religion = catholic
+		size = 28
+	}
+	farmers = {
+		culture = aborigine
+		religion = catholic
+		size = 459
+	}
+}
+#Port Augusta
+2494 = {
+	aristocrats = {
+		culture = aborigine
+		religion = catholic
+		size = 5
+	}
+	clergymen = {
+		culture = aborigine
+		religion = catholic
+		size = 12
+	}
+	artisans = {
+		culture = aborigine
+		religion = catholic
+		size = 25
+	}
+	soldiers = {
+		culture = aborigine
+		religion = catholic
+		size = 28
+	}
+	farmers = {
+		culture = aborigine
+		religion = catholic
+		size = 459
+	}
+}
+#Murray Bridge
+2495 = {
+	aristocrats = {
+		culture = aborigine
+		religion = catholic
+		size = 5
+	}
+	clergymen = {
+		culture = aborigine
+		religion = catholic
+		size = 12
+	}
+	artisans = {
+		culture = aborigine
+		religion = catholic
+		size = 25
+	}
+	soldiers = {
+		culture = aborigine
+		religion = catholic
+		size = 28
+	}
+	farmers = {
+		culture = aborigine
+		religion = catholic
+		size = 459
+	}
+}
+#Port Pirie
+2496 = {
+	aristocrats = {
+		culture = aborigine
+		religion = catholic
+		size = 5
+	}
+	clergymen = {
+		culture = aborigine
+		religion = catholic
+		size = 12
+	}
+	artisans = {
+		culture = aborigine
+		religion = catholic
+		size = 25
+	}
+	soldiers = {
+		culture = aborigine
+		religion = catholic
+		size = 28
+	}
+	farmers = {
+		culture = aborigine
+		religion = catholic
+		size = 459
+	}
+}
+#Mount Barker
+2601 = {
+	aristocrats = {
+		culture = aborigine
+		religion = catholic
+		size = 2
+	}
+	clergymen = {
+		culture = aborigine
+		religion = catholic
+		size = 5
+	}
+	artisans = {
+		culture = aborigine
+		religion = catholic
+		size = 12
+	}
+	soldiers = {
+		culture = aborigine
+		religion = catholic
+		size = 8
+	}
+	farmers = {
+		culture = aborigine
+		religion = catholic
+		size = 229
+	}
+}
+#Western Australia Region
+#Perth
+2497 = {
+	aristocrats = {
+		culture = aborigine
+		religion = catholic
+		size = 47
+	}
+	clergymen = {
+		culture = aborigine
+		religion = catholic
+		size = 78
+	}
+	artisans = {
+		culture = aborigine
+		religion = catholic
+		size = 157
+	}
+	soldiers = {
+		culture = aborigine
+		religion = catholic
+		size = 124
+	}
+	farmers = {
+		culture = aborigine
+		religion = catholic
+		size = 1330
+	}
+}
+#Albany
+2498 = {
+	aristocrats = {
+		culture = aborigine
+		religion = catholic
+		size = 31
+	}
+	clergymen = {
+		culture = aborigine
+		religion = catholic
+		size = 47
+	}
+	artisans = {
+		culture = aborigine
+		religion = catholic
+		size = 94
+	}
+	soldiers = {
+		culture = aborigine
+		religion = catholic
+		size = 60
+	}
+	farmers = {
+		culture = aborigine
+		religion = catholic
+		size = 1398
+	}
+}
+#Geraldton
+2499 = {
+	aristocrats = {
+		culture = aborigine
+		religion = catholic
+		size = 15
+	}
+	clergymen = {
+		culture = aborigine
+		religion = catholic
+		size = 31
+	}
+	artisans = {
+		culture = aborigine
+		religion = catholic
+		size = 62
+	}
+	soldiers = {
+		culture = aborigine
+		religion = catholic
+		size = 60
+	}
+	farmers = {
+		culture = aborigine
+		religion = catholic
+		size = 1100
+	}
+}
+#Kalgoorlie
+2500 = {
+	aristocrats = {
+		culture = aborigine
+		religion = catholic
+		size = 6
+	}
+	clergymen = {
+		culture = aborigine
+		religion = catholic
+		size = 15
+	}
+	artisans = {
+		culture = aborigine
+		religion = catholic
+		size = 31
+	}
+	soldiers = {
+		culture = aborigine
+		religion = catholic
+		size = 36
+	}
+	farmers = {
+		culture = aborigine
+		religion = catholic
+		size = 1066
+	}
+}
+#Broome
+2501 = {
+	aristocrats = {
+		culture = aborigine
+		religion = catholic
+		size = 15
+	}
+	clergymen = {
+		culture = aborigine
+		religion = catholic
+		size = 31
+	}
+	artisans = {
+		culture = aborigine
+		religion = catholic
+		size = 62
+	}
+	soldiers = {
+		culture = aborigine
+		religion = catholic
+		size = 60
+	}
+	farmers = {
+		culture = aborigine
+		religion = catholic
+		size = 1100
+	}
+}
+#Carnarvon
+2502 = {
+	aristocrats = {
+		culture = aborigine
+		religion = catholic
+		size = 3
+	}
+	clergymen = {
+		culture = aborigine
+		religion = catholic
+		size = 6
+	}
+	artisans = {
+		culture = aborigine
+		religion = catholic
+		size = 15
+	}
+	soldiers = {
+		culture = aborigine
+		religion = catholic
+		size = 24
+	}
+	farmers = {
+		culture = aborigine
+		religion = catholic
+		size = 783
+	}
+}
+#Mandurah
+2503 = {
+	aristocrats = {
+		culture = aborigine
+		religion = catholic
+		size = 6
+	}
+	clergymen = {
+		culture = aborigine
+		religion = catholic
+		size = 9
+	}
+	artisans = {
+		culture = aborigine
+		religion = catholic
+		size = 22
+	}
+	soldiers = {
+		culture = aborigine
+		religion = catholic
+		size = 24
+	}
+	farmers = {
+		culture = aborigine
+		religion = catholic
+		size = 896
+	}
+}
+#Bunbury
+2504 = {
+	aristocrats = {
+		culture = aborigine
+		religion = catholic
+		size = 6
+	}
+	clergymen = {
+		culture = aborigine
+		religion = catholic
+		size = 15
+	}
+	artisans = {
+		culture = aborigine
+		religion = catholic
+		size = 31
+	}
+	soldiers = {
+		culture = aborigine
+		religion = catholic
+		size = 36
+	}
+	farmers = {
+		culture = aborigine
+		religion = catholic
+		size = 866
+	}
+}
+#Port Hedland
+2602 = {
+	aristocrats = {
+		culture = aborigine
+		religion = catholic
+		size = 3
+	}
+	clergymen = {
+		culture = aborigine
+		religion = catholic
+		size = 9
+	}
+	artisans = {
+		culture = aborigine
+		religion = catholic
+		size = 15
+	}
+	soldiers = {
+		culture = aborigine
+		religion = catholic
+		size = 12
+	}
+	farmers = {
+		culture = aborigine
+		religion = catholic
+		size = 283
+	}
+}
+#Northam
+2605 = {
+	aristocrats = {
+		culture = aborigine
+		religion = catholic
+		size = 6
+	}
+	clergymen = {
+		culture = aborigine
+		religion = catholic
+		size = 9
+	}
+	artisans = {
+		culture = aborigine
+		religion = catholic
+		size = 25
+	}
+	soldiers = {
+		culture = aborigine
+		religion = catholic
+		size = 24
+	}
+	farmers = {
+		culture = aborigine
+		religion = catholic
+		size = 456
+	}
+}
+#Northern Australia Region
+#Darwin
+2505 = {
+	aristocrats = {
+		culture = aborigine
+		religion = catholic
+		size = 69
+	}
+	clergymen = {
+		culture = aborigine
+		religion = catholic
+		size = 116
+	}
+	artisans = {
+		culture = aborigine
+		religion = catholic
+		size = 232
+	}
+	soldiers = {
+		culture = aborigine
+		religion = catholic
+		size = 184
+	}
+	farmers = {
+		culture = aborigine
+		religion = catholic
+		size = 4176
+	}
+}
+#Tennant Creek
+2506 = {
+	aristocrats = {
+		culture = aborigine
+		religion = catholic
+		size = 23
+	}
+	clergymen = {
+		culture = aborigine
+		religion = catholic
+		size = 46
+	}
+	artisans = {
+		culture = aborigine
+		religion = catholic
+		size = 92
+	}
+	soldiers = {
+		culture = aborigine
+		religion = catholic
+		size = 92
+	}
+	farmers = {
+		culture = aborigine
+		religion = catholic
+		size = 1624
+	}
+}
+#Alice Springs
+2507 = {
+	aristocrats = {
+		culture = aborigine
+		religion = catholic
+		size = 9
+	}
+	clergymen = {
+		culture = aborigine
+		religion = catholic
+		size = 13
+	}
+	artisans = {
+		culture = aborigine
+		religion = catholic
+		size = 32
+	}
+	soldiers = {
+		culture = aborigine
+		religion = catholic
+		size = 36
+	}
+	farmers = {
+		culture = aborigine
+		religion = catholic
+		size = 584
+	}
+}
+#Katherine
+2603 = {
+	aristocrats = {
+		culture = aborigine
+		religion = catholic
+		size = 1
+	}
+	clergymen = {
+		culture = aborigine
+		religion = catholic
+		size = 2
+	}
+	artisans = {
+		culture = aborigine
+		religion = catholic
+		size = 13
+	}
+	soldiers = {
+		culture = aborigine
+		religion = catholic
+		size = 16
+	}
+	farmers = {
+		culture = aborigine
+		religion = catholic
+		size = 255
+	}
+}
+#Arnhem Land
+3794 = {
+	aristocrats = {
+		culture = aborigine
+		religion = catholic
+		size = 1
+	}
+	clergymen = {
+		culture = aborigine
+		religion = catholic
+		size = 2
+	}
+	artisans = {
+		culture = aborigine
+		religion = catholic
+		size = 13
+	}
+	soldiers = {
+		culture = aborigine
+		religion = catholic
+		size = 16
+	}
+	farmers = {
+		culture = aborigine
+		religion = catholic
+		size = 255
+	}
+}

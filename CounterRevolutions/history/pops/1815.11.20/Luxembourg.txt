@@ -1,0 +1,69 @@
+#Arden-Malmedy Region
+#Luxembourg
+397 = {
+	aristocrats = {
+		culture = german
+		religion = catholic
+		size = 118
+	}
+	bureaucrats = {
+		culture = german
+		religion = catholic
+		size = 17
+	}
+	clergymen = {
+		culture = german
+		religion = catholic
+		size = 101
+	}
+	artisans = {
+		culture = german
+		religion = catholic
+		size = 508
+	}
+	soldiers = {
+		culture = german
+		religion = catholic
+		size = 5424
+	}
+	farmers = {
+		culture = german
+		religion = catholic
+		size = 20104
+	}
+	aristocrats = {
+		culture = french
+		religion = catholic
+		size = 169
+	}
+	officers = {
+		culture = french
+		religion = catholic
+		size = 33
+	}
+	bureaucrats = {
+		culture = french
+		religion = catholic
+		size = 33
+	}
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 186
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 1186
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 676
+	}
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 5852
+	}
+}

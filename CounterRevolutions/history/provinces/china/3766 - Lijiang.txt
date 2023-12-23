@@ -1,0 +1,4 @@
+owner = CHI
+controller = CHI
+trade_goods = timber
+life_rating = 32

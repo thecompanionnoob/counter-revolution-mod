@@ -1,0 +1,16 @@
+owner = ENG
+controller = ENG
+add_core = ENG
+trade_goods = iron
+life_rating = 44
+naval_base = 1
+state_building = {
+	level = 1
+	building = fabric_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = regular_clothes_factory
+	upgrade = yes
+}

@@ -1,0 +1,206 @@
+#Basra
+#Kuwait
+935 = {
+	aristocrats = {
+		culture = arab
+		religion = catholic
+		size = 338
+	}
+	clergymen = {
+		culture = arab
+		religion = catholic
+		size = 338
+	}
+	artisans = {
+		culture = arab
+		religion = catholic
+		size = 1015
+	}
+	soldiers = {
+		culture = arab
+		religion = catholic
+		size = 676
+	}
+	farmers = {
+		culture = arab
+		religion = catholic
+		size = 18456
+	}
+}
+#Bahrain
+#Bahrain
+1162 = {
+	aristocrats = {
+		culture = arab
+		religion = catholic
+		size = 78
+	}
+	bureaucrats = {
+		culture = arab
+		religion = catholic
+		size = 47
+	}
+	officers = {
+		culture = arab
+		religion = catholic
+		size = 31
+	}
+	clergymen = {
+		culture = arab
+		religion = catholic
+		size = 157
+	}
+	artisans = {
+		culture = arab
+		religion = catholic
+		size = 314
+	}
+	soldiers = {
+		culture = arab
+		religion = catholic
+		size = 628
+	}
+	farmers = {
+		culture = arab
+		religion = catholic
+		size = 5824
+	}
+	clergymen = {
+		culture = arab
+		religion = catholic
+		size = 157
+	}
+	artisans = {
+		culture = arab
+		religion = catholic
+		size = 472
+	}
+	farmers = {
+		culture = arab
+		religion = catholic
+		size = 8815
+	}
+}
+#Doha
+1165 = {
+	aristocrats = {
+		culture = arab
+		religion = catholic
+		size = 44
+	}
+	clergymen = {
+		culture = arab
+		religion = catholic
+		size = 44
+	}
+	artisans = {
+		culture = arab
+		religion = catholic
+		size = 178
+	}
+	soldiers = {
+		culture = arab
+		religion = catholic
+		size = 176
+	}
+	farmers = {
+		culture = arab
+		religion = catholic
+		size = 3260
+	}
+}
+#Uman
+#Abu Dhabi
+1167 = {
+	aristocrats = {
+		culture = arab
+		religion = catholic
+		size = 12
+	}
+	bureaucrats = {
+		culture = arab
+		religion = catholic
+		size = 7
+	}
+	officers = {
+		culture = arab
+		religion = catholic
+		size = 4
+	}
+	clergymen = {
+		culture = arab
+		religion = catholic
+		size = 24
+	}
+	artisans = {
+		culture = arab
+		religion = catholic
+		size = 124
+	}
+	soldiers = {
+		culture = arab
+		religion = catholic
+		size = 2196
+	}
+	farmers = {
+		culture = arab
+		religion = catholic
+		size = 1822
+	}
+}
+#Dubai 
+1168 = {
+	aristocrats = {
+		culture = arab
+		religion = catholic
+		size = 65
+	}
+	clergymen = {
+		culture = arab
+		religion = catholic
+		size = 98
+	}
+	artisans = {
+		culture = arab
+		religion = catholic
+		size = 197
+	}
+	soldiers = {
+		culture = arab
+		religion = catholic
+		size = 260
+	}
+	farmers = {
+		culture = arab
+		religion = catholic
+		size = 4784
+	}
+}
+#Ras al-Khaimah
+920 = {
+	aristocrats = {
+		culture = arab
+		religion = catholic
+		size = 26
+	}
+	clergymen = {
+		culture = arab
+		religion = catholic
+		size = 39
+	}
+	artisans = {
+		culture = arab
+		religion = catholic
+		size = 79
+	}
+	soldiers = {
+		culture = arab
+		religion = catholic
+		size = 104
+	}
+	farmers = {
+		culture = arab
+		religion = catholic
+		size = 1930
+	}
+}

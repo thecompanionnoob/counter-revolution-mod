@@ -1,0 +1,30 @@
+army = {
+	name = "1st Army"
+	location = 706
+	regiment = {
+		name= "1. Suwalki Infantry"
+		type = infantry
+		home = 707
+	}
+	regiment = {
+		name= "1. Skierniewice Infantry"
+		type = infantry
+		home = 710
+	}
+	regiment = {
+		name= "2. Skierniewice Infantry"
+		type = infantry
+		home = 710
+	}
+	regiment = {
+		name= "1. Radom Infantry"
+		type = infantry
+		home = 713
+	}
+	regiment = {
+		name= "2. Radom Infantry"
+		type = infantry
+		home = 713
+	}
+}
+

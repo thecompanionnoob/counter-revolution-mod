@@ -1,0 +1,5 @@
+owner = NJR
+controller = NJR
+add_core = NJR
+trade_goods = wool
+life_rating = 32

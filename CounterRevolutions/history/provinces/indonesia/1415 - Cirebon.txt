@@ -1,0 +1,5 @@
+owner = CRB
+controller = CRB
+add_core = CRB
+trade_goods = dye
+life_rating = 38

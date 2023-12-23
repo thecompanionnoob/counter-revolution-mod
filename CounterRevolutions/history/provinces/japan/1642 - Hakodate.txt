@@ -1,0 +1,4 @@
+owner = TKG
+controller = TKG
+trade_goods = iron
+life_rating = 34

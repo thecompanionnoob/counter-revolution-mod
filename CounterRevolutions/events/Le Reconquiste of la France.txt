@@ -1,0 +1,258 @@
+country_event = {
+
+	id = 629010200
+	allow_multiple_instances = no
+	trigger = {
+		tag = FRA
+		owns = 423
+		not = { has_country_flag = recuperatione_bretagne }
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	title = "Victory in Bretagne"
+	desc = "Whether diplomatically or bellicosely we have recovered our rights in Brittany and now its populations see all non-French foreigners as hostile."
+	immediate = {
+		money = 100000
+		set_country_flag = recuperatione_bretagne
+		
+		leadership = 100
+		ammunition = 10
+		small_arms = 10
+		artillery = 10
+		canned_food = 10
+		wine = 250
+		liquor = 250
+		FRA_420 = { add_core = FRA }
+		add_core = 423
+		add_core = 419
+	}
+	option = {
+		name = "OK"
+	}
+}
+
+	country_event = {
+	id = 628010100
+	allow_multiple_instances = no
+	trigger = {
+		tag = ENG
+		not = { owns = 423 }
+		not = { has_country_flag = lost_of_little_brittany }
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	title = "Defeat in little brittany"
+	desc = "With the delivery of Nantes to France, the French populations began to be hostile and began to loot us."
+	immediate = {
+		money = -100000
+		set_country_flag = lost_of_little_brittany
+		
+		leadership = -100
+		ammunition = -10
+		small_arms = -10
+		artillery = -10
+		canned_food = -10
+		wine = -250
+		liquor = -250
+		FRA_420 = { remove_core = ENG }
+		remove_core = 423
+	}
+	option = {
+		name = "OK"
+	}
+}
+
+country_event = {
+	id = 629020000
+	allow_multiple_instances = no
+	trigger = {
+		tag = FRA
+		owns = 414
+		not = { has_country_flag = recuperatione_de_nancy }
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	title = "Victory in Verdun"
+	desc = "Whether diplomatically or bellicosely we have recovered our rights in Nancy and now its populations see all non-French foreigners as hostile."
+	immediate = {
+		money = 100000
+		set_country_flag = recuperatione_de_nancy
+		
+		leadership = 100
+		ammunition = 10
+		small_arms = 10
+		artillery = 10
+		canned_food = 10
+		wine = 250
+		liquor = 250
+		FRA_414 = { add_core = FRA }
+	}
+	option = {
+		name = "OK"
+	}
+}
+
+country_event = {
+	id = 628030200
+	allow_multiple_instances = no
+	trigger = {
+		tag = PRU
+		not = { owns = 414 }
+		not = { has_country_flag = lost_of_nancy }
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	title = "Defeat in nancy"
+	desc = "With the delivery of Verdun to France, the French populations began to be hostile and began to loot us."
+	immediate = {
+		money = -100000
+		set_country_flag = lost_of_nancy
+		leadership = -100
+		ammunition = -10
+		small_arms = -10
+		artillery = -10
+		canned_food = -10
+		wine = -250
+		liquor = -250
+		FRA_414 = { remove_core = PRU }
+	}
+	option = {
+		name = "OK"
+	}
+}
+
+country_event = {
+	id = 62909800
+	allow_multiple_instances = no
+	trigger = {
+		tag = FRA
+		owns = 402
+		not = { has_country_flag = recuperatione_de_amiens }
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	title = "Victory in Amiens"
+	desc = "Whether diplomatically or bellicosely we have recovered our rights in the south of calais and now its populations see all non-French foreigners as hostile."
+	immediate = {
+		money = 100000
+		set_country_flag = recuperatione_de_amiens
+		
+		leadership = 100
+		ammunition = 10
+		small_arms = 10
+		artillery = 10
+		canned_food = 10
+		wine = 250
+		liquor = 250
+		add_core = 402
+		add_core = 403
+		add_core = 405
+	}
+	option = {
+		name = "OK"
+	}
+}
+
+country_event = {
+	id = 62987090
+	allow_multiple_instances = no
+	trigger = {
+		tag = NET
+		not = { owns = 402 }
+		not = { has_country_flag = lost_of_amiens }
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	title = "Defeat in Amiens"
+	desc = "With the delivery of the south of Calais to France, the French populations begin to be hostile and have begun to loot us"
+	immediate = {
+		money = -100000
+		set_country_flag = lost_de_amiens
+		leadership = -100
+		ammunition = -10
+		small_arms = -10
+		artillery = -10
+		canned_food = -10
+		wine = -250
+		liquor = -250
+		remove_core = 402
+		remove_core = 403
+		remove_core = 405
+	}
+	option = {
+		name = "OK"
+	}
+}
+
+country_event = {
+	id = 62904790
+	allow_multiple_instances = no
+	trigger = {
+		tag = FRA
+		owns = 467
+		owns = 453
+		not = { has_country_flag = recuperatione_de_grande_provence }
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	title = "Victory in Marseille"
+	desc = "Whether Diplomatically or Warfully we have recovered our rights in the south of France and now its populations see all non-French foreigners as hostile."
+	immediate = {
+		money = 100000
+		set_country_flag = recuperatione_de_grande_provence
+		
+		leadership = 100
+		ammunition = 10
+		small_arms = 10
+		artillery = 10
+		canned_food = 10
+		wine = 250
+		liquor = 250
+		FRA_451 = { add_core = FRA }
+		FRA_467 = { add_core = FRA }
+	}
+	option = {
+		name = "OK"
+	}
+}
+
+country_event = {
+	id = 628049090
+	allow_multiple_instances = no
+	trigger = {
+		tag = SAR
+		not = { 
+		owns = 467
+		owns = 453
+		}
+		not = { has_country_flag = lost_of_the_great_savoy }
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	title = "Defeat in Marseille"
+	desc = "With the delivery of Grand Savoy to France, the French populations began to be hostile and began to loot us."
+	immediate = {
+		money = -100000
+		set_country_flag = lost_of_the_great_savoy
+		leadership = -100
+		ammunition = -10
+		small_arms = -10
+		artillery = -10
+		canned_food = -10
+		wine = -250
+		liquor = -250
+		FRA_451 = { remove_core = SAR }
+		FRA_467 = { remove_core = SAR }
+	}
+	option = {
+		name = "OK"
+	}
+}

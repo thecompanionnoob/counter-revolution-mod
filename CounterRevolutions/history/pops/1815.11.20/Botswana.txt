@@ -1,0 +1,218 @@
+#Bechuanaland Region #see South Africa
+#uncolonized in 1836/dohanated by the african_minor in 1836
+#Gaborone 
+2074 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 199
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 119
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 557
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 476
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 10149
+	}
+}
+#Nokaneng 
+2076 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 23
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 39
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 79
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 60
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 1432
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 39
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 79
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 159
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 156
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 2865
+	}
+}
+#Tshabong 
+2077 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 39
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 79
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 159
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 156
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 2865
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 23
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 39
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 79
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 60
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 1432
+	}
+}
+#Mochidi 
+2574 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 79
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 79
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 318
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 316
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 5810
+	}
+}
+#uncolonized in 1836/dohanated by the Ndebele in 1836
+#Serowe 
+2075 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 23
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 23
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 79
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 124
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 1432
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 23
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 39
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 79
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 60
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 1432
+	}
+}

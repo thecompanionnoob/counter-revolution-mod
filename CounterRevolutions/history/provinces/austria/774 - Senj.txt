@@ -1,0 +1,7 @@
+owner = SIC
+controller = SIC
+add_core = SIC
+add_core = CRO
+add_core = HUN
+trade_goods = fish
+life_rating = 37

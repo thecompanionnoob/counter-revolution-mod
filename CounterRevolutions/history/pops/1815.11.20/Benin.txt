@@ -1,0 +1,311 @@
+#Dahomey Region
+#uncolonized in 1836/ruled by Dahomey
+#Cotonou
+1919 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 955
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 489
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 2008
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 1956
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 29371
+	}
+	slaves = {
+		culture = african_minor
+		religion = catholic
+		size = 1959
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 269
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 146
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 734
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 584
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 13399
+	}
+	slaves = {
+		culture = african_minor
+		religion = catholic
+		size = 12738
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 24
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 48
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 97
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 96
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 1763
+	}
+	slaves = {
+		culture = african_minor
+		religion = catholic
+		size = 1959
+	}
+}
+#Abomey
+1920 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 1028
+	}
+	bureaucrats = {
+		culture = african_minor
+		religion = catholic
+		size = 48
+	}
+	officers = {
+		culture = african_minor
+		religion = catholic
+		size = 97
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 489
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 2082
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 2152
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 41766
+	}
+	slaves = {
+		culture = african_minor
+		religion = catholic
+		size = 3919
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 48
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 48
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 195
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 192
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 3576
+	}
+	slaves = {
+		culture = african_minor
+		religion = catholic
+		size = 1077
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 48
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 73
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 146
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 96
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 2645
+	}
+	slaves = {
+		culture = african_minor
+		religion = catholic
+		size = 1077
+	}
+}
+#Borgu Region #see Nigeria
+#ruled by Sokoto in 1836
+#Nikki
+1921 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 48
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 73
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 146
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 96
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 2645
+	}
+	slaves = {
+		culture = african_minor
+		religion = catholic
+		size = 1077
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 171
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 97
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 367
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 388
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 7103
+	}
+}
+#Jugu
+1922 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 73
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 48
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 244
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 192
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 4482
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 24
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 48
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 97
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 96
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 1763
+	}
+}

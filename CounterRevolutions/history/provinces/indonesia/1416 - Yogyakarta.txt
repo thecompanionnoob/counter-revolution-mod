@@ -1,0 +1,5 @@
+owner = YOG
+controller = YOG
+add_core = YOG
+trade_goods = grain
+life_rating = 38

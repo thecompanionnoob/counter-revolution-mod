@@ -1,0 +1,101 @@
+leader = {
+	name = "José de San Martín"
+	picture = chl_gen_martin
+	date = 1816.1.1
+	type = land
+	personality = implacable
+	background = school_of_firepower
+	prestige = 0.6
+}
+
+leader = {
+	name = "Manuel Belgrano"
+	picture = arg_gen_manu
+	date = 1794.1.1
+	type = land
+	personality = coolminded
+	background = natural_born_leader
+	prestige = 0.4
+}
+
+leader = {
+	name = "Guillermo Brown"
+	picture = chl_gen_brown
+	date = 1813.1.1
+	type = sea
+	personality = merciless
+	background = artillerist
+	prestige = 0.3
+}
+
+navy = {
+	name = "Armada de Argentina"
+	location = 2325
+	ship = {
+		name= "Hércules"
+		type = frigate
+	}
+
+	ship = {
+		name= "Buenos Aires"
+		type = frigate
+	}	
+	
+	ship = {
+		name= "2a Flotilla de Transporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3a Flotilla de Transporte"
+		type = clipper_transport
+	}	
+
+}
+
+army = {
+	name = "Ejército de Buenos Aires"
+	location = 2324
+	regiment = {
+		name= "1. División de Infantería"
+		type = infantry
+		home = 2348
+	}
+
+	regiment = {
+		name= "1. Brigada de Artillería"
+		type = artillery
+		home = 2356
+	}
+
+	regiment = {
+		name= "1. Brigada de Caballería"
+		type = cuirassier
+		home = 2349
+	}
+
+}
+
+army = {
+	name = "Ejército del Norte"
+	location = 2369
+	regiment = {
+		name= "1. División de Infantería"
+		type = infantry
+		home = 2373
+	}
+
+	regiment = {
+		name= "1. Brigada de Caballería"
+		type = cuirassier
+		home = 2348
+	}
+	
+	regiment = {
+		name= "2. División de Infantería"
+		type = infantry
+		home = 2379
+	}	
+
+}
+

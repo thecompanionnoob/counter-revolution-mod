@@ -1,0 +1,105 @@
+political_decisions = {
+	the_revolution_not_end = {
+		potential = {
+			tag = SIC
+			year = 1819
+			NOT = {
+				has_country_flag = guardia_civil_established
+				has_country_flag = is_only_starting
+				has_country_flag = counterrevolution
+			}
+		}
+		allow = {
+			NOT = {
+				num_of_revolts = 1
+			}
+			OR = {
+				average_militancy = 3
+				average_consciousness = 4
+			}
+		}
+		effect = {
+			badboy = 30
+					any_pop = {
+				militancy = -10
+				consciousness = -10
+			}
+			add_country_modifier = {
+				name = la_guardia_civil
+				duration = -1
+			}
+			add_country_modifier = {
+				name = revolutionary_fervor
+				duration = -1
+			}
+			set_country_flag = guardia_civil_established
+			set_country_flag = is_only_starting
+		}
+	}
+		
+	proclaim_the_revolution_of_napoleon = {
+		potential = {
+			tag = SIC
+			year = 1825
+			has_country_flag = is_only_starting
+			}
+		allow = {
+			war = no
+			NOT = {
+				num_of_revolts = 1
+			}
+		}
+		effect = {
+		all_core = {
+				add_core = NSI
+				remove_core = THIS
+			}
+		change_tag = NSI
+		badboy = 20
+		prestige = -10
+		add_accepted_culture = greek
+		add_accepted_culture = maltese
+			any_pop = {
+				militancy = -10
+				consciousness = -10
+			}
+		}
+	}
+	
+	proclaim_the_napoleonic_italy = {
+		potential = {
+			tag = NSI
+			year = 1830
+			has_country_flag = is_only_starting
+			}
+		allow = {
+			war = no
+				ITA = {
+					all_core = { owned_by = THIS }
+				}
+			NOT = {
+				num_of_revolts = 1
+			}
+		}
+		effect = {
+		all_core = {
+				add_core = NIT
+				remove_core = THIS
+			}
+		change_tag = NIT
+		prestige = 100
+		add_accepted_culture = greek
+		add_accepted_culture = maltese
+		add_accepted_culture = ladin
+		add_accepted_culture = friulian
+		add_accepted_culture = romansh
+		add_accepted_culture = sardinian
+			any_pop = {
+				militancy = -10
+				consciousness = -10
+			}
+		}
+	}
+}
+	
+	

@@ -1,0 +1,5 @@
+owner = BSL
+controller = BSL
+add_core = BSL
+trade_goods = grain
+life_rating = 38

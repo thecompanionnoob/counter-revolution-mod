@@ -1,0 +1,21 @@
+country_event = {
+	id = 721453
+	title = "San Martin el primer gobernador del congreso hispanico"
+	desc = "El Rey de españa ha aceptado renunciar a la mayoria de sus poderes y volverse una figura publica a cambio de que san martin acabe con su revolucion incluso aceptando volverlo el primer congresista de todo el imperio hispanico"
+	
+	trigger = {
+		tag = ARG
+		
+	}
+
+	mean_time_to_happen =  {
+		day = 1
+	}
+	
+	option = {
+		name = "Victoria Hispano-Republicana"
+		SPA = {
+        inherit = ARG
+		}
+	}
+}

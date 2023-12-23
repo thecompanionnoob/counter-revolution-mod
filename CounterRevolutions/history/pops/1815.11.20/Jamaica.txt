@@ -1,0 +1,97 @@
+#Jamaica Region - 384000
+#Ruled by Britain 1836
+#Jamaica
+2217 = {
+	aristocrats = {
+		culture = british
+		religion = catholic
+		size = 107
+	}
+	bureaucrats = {
+		culture = british
+		religion = catholic
+		size = 91
+	}
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 80
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 2696
+	}
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 212
+	}
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 2362
+	}
+	clergymen = {
+		culture = afro_caribbean
+		religion = catholic
+		size = 674
+	}
+	artisans = {
+		culture = afro_caribbean
+		religion = catholic
+		size = 2157
+	}
+	soldiers = {
+		culture = afro_caribbean
+		religion = catholic
+		size = 4744
+	}
+	slaves = {
+		culture = afro_caribbean
+		religion = catholic
+		size = 91005
+	}
+	
+	
+	
+	clergymen = {
+		culture = afro_caribbean
+		religion = catholic
+		size = 5
+	}
+	artisans = {
+		culture = afro_caribbean
+		religion = catholic
+		size = 16
+	}
+	slaves = {
+		culture = afro_caribbean
+		religion = catholic
+		size = 302
+	}
+	
+	
+	
+	
+	clergymen = {
+		culture = afro_caribbean
+		religion = catholic
+		size = 59
+	}
+	artisans = {
+		culture = afro_caribbean
+		religion = catholic
+		size = 118
+	}
+	soldiers = {
+		culture = afro_caribbean
+		religion = catholic
+		size = 236
+	}
+	slaves = {
+		culture = afro_caribbean
+		religion = catholic
+		size = 653
+	}
+}

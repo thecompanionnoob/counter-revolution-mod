@@ -1,0 +1,478 @@
+#Taiwan Region
+#under the rule of China in 1836  
+#Taipei #now part of Taiwan   
+1485 = {
+	aristocrats = {
+		culture = han
+		religion = catholic
+		size = 439
+	}
+	bureaucrats = {
+		culture = han
+		religion = catholic
+		size = 116
+	}
+	officers = {
+		culture = han
+		religion = catholic
+		size = 212
+	}
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 358
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 1799
+	}
+	soldiers = {
+		culture = han
+		religion = catholic
+		size = 1460
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 32380
+	}
+	aristocrats = {
+		culture = han
+		religion = catholic
+		size = 878
+	}
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 702
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 2926
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 585
+	}
+	soldiers = {
+		culture = han
+		religion = catholic
+		size = 2808
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 64452
+	}
+	bureaucrats = {
+		culture = manchu
+		religion = catholic
+		size = 14
+	}
+	officers = {
+		culture = manchu
+		religion = catholic
+		size = 7
+	}
+	soldiers = {
+		culture = manchu
+		religion = catholic
+		size = 56
+	}
+}
+#Tainan #now part of Taiwan  
+2562 = {
+	aristocrats = {
+		culture = han
+		religion = catholic
+		size = 551
+	}
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 479
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 2389
+	}
+	soldiers = {
+		culture = han
+		religion = catholic
+		size = 1916
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 43892
+	}
+	aristocrats = {
+		culture = han
+		religion = catholic
+		size = 1266
+	}
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 904
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 3620
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 904
+	}
+	soldiers = {
+		culture = han
+		religion = catholic
+		size = 3616
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 82916
+	}
+}
+#Hsinchu
+1623 = {
+	aristocrats = {
+		culture = han
+		religion = catholic
+		size = 302
+	}
+	bureaucrats = {
+		culture = han
+		religion = catholic
+		size = 80
+	}
+	officers = {
+		culture = han
+		religion = catholic
+		size = 146
+	}
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 246
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 1239
+	}
+	soldiers = {
+		culture = han
+		religion = catholic
+		size = 1004
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 22293
+	}
+	aristocrats = {
+		culture = han
+		religion = catholic
+		size = 604
+	}
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 483
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 2015
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 402
+	}
+	soldiers = {
+		culture = han
+		religion = catholic
+		size = 1932
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 44375
+	}
+	bureaucrats = {
+		culture = manchu
+		religion = catholic
+		size = 10
+	}
+	officers = {
+		culture = manchu
+		religion = catholic
+		size = 4
+	}
+	soldiers = {
+		culture = manchu
+		religion = catholic
+		size = 40
+	}
+}
+#Taichung
+1627 = {
+	aristocrats = {
+		culture = han
+		religion = catholic
+		size = 483
+	}
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 420
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 2092
+	}
+	soldiers = {
+		culture = han
+		religion = catholic
+		size = 1680
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 38446
+	}
+	aristocrats = {
+		culture = han
+		religion = catholic
+		size = 1109
+	}
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 792
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 3171
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 792
+	}
+	soldiers = {
+		culture = han
+		religion = catholic
+		size = 3168
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 72627
+	}
+}
+#Kaohsiung
+1630 = {
+	aristocrats = {
+		culture = han
+		religion = catholic
+		size = 317
+	}
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 275
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 1373
+	}
+	soldiers = {
+		culture = han
+		religion = catholic
+		size = 1100
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 25230
+	}
+	aristocrats = {
+		culture = han
+		religion = catholic
+		size = 728
+	}
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 520
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 2081
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 520
+	}
+	soldiers = {
+		culture = han
+		religion = catholic
+		size = 2080
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 47661
+	}
+}
+#Hualien
+1634 = {
+	aristocrats = {
+		culture = han
+		religion = catholic
+		size = 56
+	}
+	bureaucrats = {
+		culture = han
+		religion = catholic
+		size = 15
+	}
+	officers = {
+		culture = han
+		religion = catholic
+		size = 27
+	}
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 46
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 231
+	}
+	soldiers = {
+		culture = han
+		religion = catholic
+		size = 188
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 4166
+	}
+	aristocrats = {
+		culture = han
+		religion = catholic
+		size = 112
+	}
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 90
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 376
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 75
+	}
+	soldiers = {
+		culture = han
+		religion = catholic
+		size = 360
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 8293
+	}
+	bureaucrats = {
+		culture = manchu
+		religion = catholic
+		size = 1
+	}
+	soldiers = {
+		culture = manchu
+		religion = catholic
+		size = 4
+	}
+}
+#Taitung
+1637 = {
+	aristocrats = {
+		culture = han
+		religion = catholic
+		size = 32
+	}
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 28
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 139
+	}
+	soldiers = {
+		culture = han
+		religion = catholic
+		size = 112
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 2563
+	}
+	aristocrats = {
+		culture = han
+		religion = catholic
+		size = 73
+	}
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 52
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 211
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 52
+	}
+	soldiers = {
+		culture = han
+		religion = catholic
+		size = 208
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 4841
+	}
+}

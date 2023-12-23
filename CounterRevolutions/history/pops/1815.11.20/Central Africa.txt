@@ -1,0 +1,327 @@
+#Ubangi-Shari Region
+#uncolonized in 1836
+#Bangui
+1965 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 653
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 326
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 1698
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 1436
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 30933
+	}
+}
+#Nola
+1966 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 97
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 130
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 653
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 520
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 11922
+	}
+}
+#uncolonized in 1836/under influence of Baguirmi
+#Bouar
+1967 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 163
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 97
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 457
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 388
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 8329
+	}
+}
+#Bossangoa
+1968 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 97
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 130
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 653
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 520
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 11922
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 13
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 32
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 65
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 76
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 1175
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 65
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 97
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 195
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 128
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 3527
+	}
+}
+#Dar Banda Region
+#uncolonized in 1836/under influence of Azande
+#Zemio
+1969 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 130
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 65
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 391
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 388
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 7153
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 97
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 65
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 326
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 260
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 5977
+	}
+}
+#Bangassou
+1970 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 13
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 32
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 65
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 76
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 1175
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 293
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 195
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 849
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 780
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 15515
+	}
+}
+#uncolonized in 1836/under influence of Wadai
+#Ndele
+1971 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 13
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 32
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 65
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 76
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 1175
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 130
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 65
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 391
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 388
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 7153
+	}
+}

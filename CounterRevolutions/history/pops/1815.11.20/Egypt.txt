@@ -1,0 +1,1147 @@
+#Lower Egypt
+#Cairo
+1745 = {
+	aristocrats = {
+		culture = north_caucasian
+		religion = catholic
+		size = 189
+	}
+	bureaucrats = {
+		culture = north_caucasian
+		religion = catholic
+		size = 113
+	}
+	officers = {
+		culture = north_caucasian
+		religion = catholic
+		size = 113
+	}
+	artisans = {
+		culture = north_caucasian
+		religion = catholic
+		size = 316
+	}
+	soldiers = {
+		culture = north_caucasian
+		religion = catholic
+		size = 1264
+	}
+	aristocrats = {
+		culture = arab
+		religion = catholic
+		size = 657
+	}
+	bureaucrats = {
+		culture = arab
+		religion = catholic
+		size = 31
+	}
+	officers = {
+		culture = arab
+		religion = catholic
+		size = 50
+	}
+	clergymen = {
+		culture = arab
+		religion = catholic
+		size = 537
+	}
+	artisans = {
+		culture = arab
+		religion = catholic
+		size = 2530
+	}
+	artisans = {
+		culture = arab
+		religion = catholic
+		size = 2530
+	}
+	artisans = {
+		culture = arab
+		religion = catholic
+		size = 2530
+	}
+	artisans = {
+		culture = arab
+		religion = catholic
+		size = 2530
+	}
+	artisans = {
+		culture = arab
+		religion = catholic
+		size = 1138
+	}
+	soldiers = {
+		culture = arab
+		religion = catholic
+		size = 16192
+	}
+	farmers = {
+		culture = arab
+		religion = catholic
+		size = 33708
+	}
+	bureaucrats = {
+		culture = arab
+		religion = catholic
+		size = 6
+	}
+	clergymen = {
+		culture = arab
+		religion = catholic
+		size = 88
+	}
+	artisans = {
+		culture = arab
+		religion = catholic
+		size = 2024
+	}
+	farmers = {
+		culture = arab
+		religion = catholic
+		size = 6737
+	}
+	clergymen = {
+		culture = greek
+		religion = catholic
+		size = 12
+	}
+	artisans = {
+		culture = greek
+		religion = catholic
+		size = 2746
+	}
+	clergymen = {
+		culture = jewish
+		religion = catholic
+		size = 6
+	}
+	artisans = {
+		culture = jewish
+		religion = catholic
+		size = 309
+	}
+	slaves = {
+		culture = african_minor
+		religion = catholic
+		size = 2277
+	}
+	
+#from the Napoleonic campaign in Egypt and Syria
+	
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 4000
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 4000
+	}
+	clerks = {
+		culture = french
+		religion = catholic
+		size = 4000
+	}
+}
+#Dumyat
+1746 = {
+	aristocrats = {
+		culture = north_caucasian
+		religion = catholic
+		size = 13
+	}
+	artisans = {
+		culture = north_caucasian
+		religion = catholic
+		size = 15
+	}
+	soldiers = {
+		culture = north_caucasian
+		religion = catholic
+		size = 4
+	}
+	aristocrats = {
+		culture = arab
+		religion = catholic
+		size = 39
+	}
+	clergymen = {
+		culture = arab
+		religion = catholic
+		size = 24
+	}
+	artisans = {
+		culture = arab
+		religion = catholic
+		size = 125
+	}
+	soldiers = {
+		culture = arab
+		religion = catholic
+		size = 112
+	}
+	farmers = {
+		culture = arab
+		religion = catholic
+		size = 2297
+	}
+	clergymen = {
+		culture = arab
+		religion = catholic
+		size = 1
+	}
+	artisans = {
+		culture = arab
+		religion = catholic
+		size = 3
+	}
+	farmers = {
+		culture = arab
+		religion = catholic
+		size = 73
+	}
+}
+#Tanta
+1747 = {
+	aristocrats = {
+		culture = north_caucasian
+		religion = catholic
+		size = 699
+	}
+	artisans = {
+		culture = north_caucasian
+		religion = catholic
+		size = 536
+	}
+	soldiers = {
+		culture = north_caucasian
+		religion = catholic
+		size = 272
+	}
+	aristocrats = {
+		culture = arab
+		religion = catholic
+		size = 791
+	}
+	clergymen = {
+		culture = arab
+		religion = catholic
+		size = 769
+	}
+	artisans = {
+		culture = arab
+		religion = catholic
+		size = 3827
+	}
+	soldiers = {
+		culture = arab
+		religion = catholic
+		size = 4104
+	}
+	farmers = {
+		culture = arab
+		religion = catholic
+		size = 70239
+	}
+	clergymen = {
+		culture = arab
+		religion = catholic
+		size = 46
+	}
+	artisans = {
+		culture = arab
+		religion = catholic
+		size = 92
+	}
+	farmers = {
+		culture = arab
+		religion = catholic
+		size = 1725
+	}
+}
+#Mansura
+1748 = {
+	aristocrats = {
+		culture = north_caucasian
+		religion = catholic
+		size = 768
+	}
+	artisans = {
+		culture = north_caucasian
+		religion = catholic
+		size = 511
+	}
+	soldiers = {
+		culture = north_caucasian
+		religion = catholic
+		size = 252
+	}
+	aristocrats = {
+		culture = arab
+		religion = catholic
+		size = 896
+	}
+	clergymen = {
+		culture = arab
+		religion = catholic
+		size = 768
+	}
+	artisans = {
+		culture = arab
+		religion = catholic
+		size = 3911
+	}
+	soldiers = {
+		culture = arab
+		religion = catholic
+		size = 5636
+	}
+	farmers = {
+		culture = arab
+		religion = catholic
+		size = 71065
+	}
+	clergymen = {
+		culture = arab
+		religion = catholic
+		size = 63
+	}
+	artisans = {
+		culture = arab
+		religion = catholic
+		size = 126
+	}
+	farmers = {
+		culture = arab
+		religion = catholic
+		size = 2371
+	}
+	clergymen = {
+		culture = jewish
+		religion = catholic
+		size = 4
+	}
+	artisans = {
+		culture = jewish
+		religion = catholic
+		size = 313
+	}
+}
+#Ziqaziq
+1749 = {
+	aristocrats = {
+		culture = north_caucasian
+		religion = catholic
+		size = 1318
+	}
+	artisans = {
+		culture = north_caucasian
+		religion = catholic
+		size = 859
+	}
+	soldiers = {
+		culture = north_caucasian
+		religion = catholic
+		size = 596
+	}
+	aristocrats = {
+		culture = arab
+		religion = catholic
+		size = 1421
+	}
+	clergymen = {
+		culture = arab
+		religion = catholic
+		size = 1318
+	}
+	artisans = {
+		culture = arab
+		religion = catholic
+		size = 6605
+	}
+	soldiers = {
+		culture = arab
+		religion = catholic
+		size = 8936
+	}
+	farmers = {
+		culture = arab
+		religion = catholic
+		size = 120570
+	}
+	clergymen = {
+		culture = arab
+		religion = catholic
+		size = 100
+	}
+	artisans = {
+		culture = arab
+		religion = catholic
+		size = 200
+	}
+	farmers = {
+		culture = arab
+		religion = catholic
+		size = 3758
+	}
+}
+#Giza
+1750 = {
+	aristocrats = {
+		culture = north_caucasian
+		religion = catholic
+		size = 480
+	}
+	artisans = {
+		culture = north_caucasian
+		religion = catholic
+		size = 277
+	}
+	soldiers = {
+		culture = north_caucasian
+		religion = catholic
+		size = 196
+	}
+	aristocrats = {
+		culture = arab
+		religion = catholic
+		size = 556
+	}
+	clergymen = {
+		culture = arab
+		religion = catholic
+		size = 404
+	}
+	artisans = {
+		culture = arab
+		religion = catholic
+		size = 2049
+	}
+	soldiers = {
+		culture = arab
+		religion = catholic
+		size = 2224
+	}
+	farmers = {
+		culture = arab
+		religion = catholic
+		size = 37666
+	}
+	clergymen = {
+		culture = arab
+		religion = catholic
+		size = 24
+	}
+	artisans = {
+		culture = arab
+		religion = catholic
+		size = 75
+	}
+	farmers = {
+		culture = arab
+		religion = catholic
+		size = 1416
+	}
+}
+#Alexandria
+1751 = {
+	aristocrats = {
+		culture = arab
+		religion = catholic
+		size = 623
+	}
+	bureaucrats = {
+		culture = arab
+		religion = catholic
+		size = 33
+	}
+	officers = {
+		culture = arab
+		religion = catholic
+		size = 45
+	}
+	clergymen = {
+		culture = arab
+		religion = catholic
+		size = 322
+	}
+	artisans = {
+		culture = arab
+		religion = catholic
+		size = 1985
+	}
+	soldiers = {
+		culture = arab
+		religion = catholic
+		size = 6348
+	}
+	farmers = {
+		culture = arab
+		religion = catholic
+		size = 26937
+	}
+	bureaucrats = {
+		culture = arab
+		religion = catholic
+		size = 5
+	}
+	clergymen = {
+		culture = arab
+		religion = catholic
+		size = 28
+	}
+	artisans = {
+		culture = arab
+		religion = catholic
+		size = 170
+	}
+	farmers = {
+		culture = arab
+		religion = catholic
+		size = 2750
+	}
+	clergymen = {
+		culture = jewish
+		religion = catholic
+		size = 2
+	}
+	artisans = {
+		culture = jewish
+		religion = catholic
+		size = 224
+	}
+	clergymen = {
+		culture = greek
+		religion = catholic
+		size = 11
+	}
+	artisans = {
+		culture = greek
+		religion = catholic
+		size = 3395
+	}
+	slaves = {
+		culture = african_minor
+		religion = catholic
+		size = 1361
+	}
+}
+#Matruh
+1752 = {
+	aristocrats = {
+		culture = arab
+		religion = catholic
+		size = 13
+	}
+	clergymen = {
+		culture = arab
+		religion = catholic
+		size = 7
+	}
+	artisans = {
+		culture = arab
+		religion = catholic
+		size = 36
+	}
+	soldiers = {
+		culture = arab
+		religion = catholic
+		size = 268
+	}
+	farmers = {
+		culture = arab
+		religion = catholic
+		size = 619
+	}
+	aristocrats = {
+		culture = arab
+		religion = catholic
+		size = 3
+	}
+	clergymen = {
+		culture = arab
+		religion = catholic
+		size = 4
+	}
+	artisans = {
+		culture = arab
+		religion = catholic
+		size = 9
+	}
+	soldiers = {
+		culture = arab
+		religion = catholic
+		size = 4
+	}
+	farmers = {
+		culture = arab
+		religion = catholic
+		size = 164
+	}
+}
+#Sidi Barrani
+1753 = {
+	aristocrats = {
+		culture = arab
+		religion = catholic
+		size = 1095
+	}
+	clergymen = {
+		culture = arab
+		religion = catholic
+		size = 736
+	}
+	artisans = {
+		culture = arab
+		religion = catholic
+		size = 3715
+	}
+	soldiers = {
+		culture = arab
+		religion = catholic
+		size = 2944
+	}
+	farmers = {
+		culture = arab
+		religion = catholic
+		size = 68325
+	}
+}
+#Suez
+1755 = {
+	aristocrats = {
+		culture = arab
+		religion = catholic
+		size = 195
+	}
+	bureaucrats = {
+		culture = arab
+		religion = catholic
+		size = 4
+	}
+	officers = {
+		culture = arab
+		religion = catholic
+		size = 12
+	}
+	clergymen = {
+		culture = arab
+		religion = catholic
+		size = 97
+	}
+	artisans = {
+		culture = arab
+		religion = catholic
+		size = 509
+	}
+	soldiers = {
+		culture = arab
+		religion = catholic
+		size = 440
+	}
+	farmers = {
+		culture = arab
+		religion = catholic
+		size = 9297
+	}
+}
+#Al Arish
+1756 = {
+	aristocrats = {
+		culture = arab
+		religion = catholic
+		size = 2
+	}
+	clergymen = {
+		culture = arab
+		religion = catholic
+		size = 5
+	}
+	artisans = {
+		culture = arab
+		religion = catholic
+		size = 11
+	}
+	soldiers = {
+		culture = arab
+		religion = catholic
+		size = 8
+	}
+	farmers = {
+		culture = arab
+		religion = catholic
+		size = 204
+	}
+	aristocrats = {
+		culture = arab
+		religion = catholic
+		size = 2
+	}
+	clergymen = {
+		culture = arab
+		religion = catholic
+		size = 5
+	}
+	artisans = {
+		culture = arab
+		religion = catholic
+		size = 11
+	}
+	soldiers = {
+		culture = arab
+		religion = catholic
+		size = 8
+	}
+	farmers = {
+		culture = arab
+		religion = catholic
+		size = 204
+	}
+}
+#Farafra
+1758 = {
+	aristocrats = {
+		culture = arab
+		religion = catholic
+		size = 26
+	}
+	clergymen = {
+		culture = arab
+		religion = catholic
+		size = 53
+	}
+	artisans = {
+		culture = arab
+		religion = catholic
+		size = 106
+	}
+	soldiers = {
+		culture = arab
+		religion = catholic
+		size = 104
+	}
+	farmers = {
+		culture = arab
+		religion = catholic
+		size = 1946
+	}
+}
+#Asyut
+1762 = {
+	aristocrats = {
+		culture = arab
+		religion = catholic
+		size = 1046
+	}
+	bureaucrats = {
+		culture = arab
+		religion = catholic
+		size = 182
+	}
+	officers = {
+		culture = arab
+		religion = catholic
+		size = 291
+	}
+	clergymen = {
+		culture = arab
+		religion = catholic
+		size = 501
+	}
+	artisans = {
+		culture = arab
+		religion = catholic
+		size = 2593
+	}
+	soldiers = {
+		culture = arab
+		religion = catholic
+		size = 7364
+	}
+	farmers = {
+		culture = arab
+		religion = catholic
+		size = 45638
+	}
+	bureaucrats = {
+		culture = arab
+		religion = catholic
+		size = 23
+	}
+	clergymen = {
+		culture = arab
+		religion = catholic
+		size = 249
+	}
+	artisans = {
+		culture = arab
+		religion = catholic
+		size = 1507
+	}
+	farmers = {
+		culture = arab
+		religion = catholic
+		size = 28371
+	}
+}
+#Bani Suwayf
+1763 = {
+	aristocrats = {
+		culture = arab
+		religion = catholic
+		size = 544
+	}
+	clergymen = {
+		culture = arab
+		religion = catholic
+		size = 296
+	}
+	artisans = {
+		culture = arab
+		religion = catholic
+		size = 1589
+	}
+	soldiers = {
+		culture = arab
+		religion = catholic
+		size = 1584
+	}
+	farmers = {
+		culture = arab
+		religion = catholic
+		size = 28997
+	}
+	clergymen = {
+		culture = arab
+		religion = catholic
+		size = 98
+	}
+	artisans = {
+		culture = arab
+		religion = catholic
+		size = 296
+	}
+	farmers = {
+		culture = arab
+		religion = catholic
+		size = 5567
+	}
+}
+#hanya
+1764 = {
+	aristocrats = {
+		culture = arab
+		religion = catholic
+		size = 916
+	}
+	clergymen = {
+		culture = arab
+		religion = catholic
+		size = 488
+	}
+	artisans = {
+		culture = arab
+		religion = catholic
+		size = 2571
+	}
+	soldiers = {
+		culture = arab
+		religion = catholic
+		size = 10776
+	}
+	farmers = {
+		culture = arab
+		religion = catholic
+		size = 44934
+	}
+	clergymen = {
+		culture = arab
+		religion = catholic
+		size = 120
+	}
+	artisans = {
+		culture = arab
+		religion = catholic
+		size = 609
+	}
+	farmers = {
+		culture = arab
+		religion = catholic
+		size = 11521
+	}
+}
+#Fayyum
+1765 = {
+	aristocrats = {
+		culture = arab
+		religion = catholic
+		size = 703
+	}
+	clergymen = {
+		culture = arab
+		religion = catholic
+		size = 372
+	}
+	artisans = {
+		culture = arab
+		religion = catholic
+		size = 1849
+	}
+	soldiers = {
+		culture = arab
+		religion = catholic
+		size = 3872
+	}
+	farmers = {
+		culture = arab
+		religion = catholic
+		size = 33204
+	}
+	clergymen = {
+		culture = arab
+		religion = catholic
+		size = 43
+	}
+	artisans = {
+		culture = arab
+		religion = catholic
+		size = 263
+	}
+	farmers = {
+		culture = arab
+		religion = catholic
+		size = 4979
+	}
+}
+#Suhaj
+2559 = {
+	aristocrats = {
+		culture = arab
+		religion = catholic
+		size = 1197
+	}
+	clergymen = {
+		culture = arab
+		religion = catholic
+		size = 670
+	}
+	artisans = {
+		culture = arab
+		religion = catholic
+		size = 3298
+	}
+	soldiers = {
+		culture = arab
+		religion = catholic
+		size = 2984
+	}
+	farmers = {
+		culture = arab
+		religion = catholic
+		size = 60107
+	}
+	clergymen = {
+		culture = arab
+		religion = catholic
+		size = 147
+	}
+	artisans = {
+		culture = arab
+		religion = catholic
+		size = 295
+	}
+	farmers = {
+		culture = arab
+		religion = catholic
+		size = 5548
+	}
+}
+#Aswan
+1766 = {
+	aristocrats = {
+		culture = arab
+		religion = catholic
+		size = 308
+	}
+	bureaucrats = {
+		culture = arab
+		religion = catholic
+		size = 77
+	}
+	officers = {
+		culture = arab
+		religion = catholic
+		size = 129
+	}
+	clergymen = {
+		culture = arab
+		religion = catholic
+		size = 174
+	}
+	artisans = {
+		culture = arab
+		religion = catholic
+		size = 883
+	}
+	soldiers = {
+		culture = arab
+		religion = catholic
+		size = 876
+	}
+	farmers = {
+		culture = arab
+		religion = catholic
+		size = 15907
+	}
+	bureaucrats = {
+		culture = arab
+		religion = catholic
+		size = 6
+	}
+	clergymen = {
+		culture = arab
+		religion = catholic
+		size = 87
+	}
+	artisans = {
+		culture = arab
+		religion = catholic
+		size = 174
+	}
+	farmers = {
+		culture = arab
+		religion = catholic
+		size = 3274
+	}
+}
+#Qina
+1769 = {
+	aristocrats = {
+		culture = arab
+		religion = catholic
+		size = 1077
+	}
+	clergymen = {
+		culture = arab
+		religion = catholic
+		size = 532
+	}
+	artisans = {
+		culture = arab
+		religion = catholic
+		size = 2965
+	}
+	soldiers = {
+		culture = arab
+		religion = catholic
+		size = 3216
+	}
+	farmers = {
+		culture = arab
+		religion = catholic
+		size = 54007
+	}
+	clergymen = {
+		culture = arab
+		religion = catholic
+		size = 266
+	}
+	artisans = {
+		culture = arab
+		religion = catholic
+		size = 532
+	}
+	farmers = {
+		culture = arab
+		religion = catholic
+		size = 9984
+	}
+}
+#Qusayr
+1770 = {
+	aristocrats = {
+		culture = arab
+		religion = catholic
+		size = 6
+	}
+	clergymen = {
+		culture = arab
+		religion = catholic
+		size = 9
+	}
+	artisans = {
+		culture = arab
+		religion = catholic
+		size = 19
+	}
+	soldiers = {
+		culture = arab
+		religion = catholic
+		size = 12
+	}
+	farmers = {
+		culture = arab
+		religion = catholic
+		size = 353
+	}
+}
+#Ras Gharib
+1772 = {
+	aristocrats = {
+		culture = north_caucasian
+		religion = catholic
+		size = 1169
+	}
+	artisans = {
+		culture = north_caucasian
+		religion = catholic
+		size = 895
+	}
+	soldiers = {
+		culture = north_caucasian
+		religion = catholic
+		size = 456
+	}
+	aristocrats = {
+		culture = arab
+		religion = catholic
+		size = 1323
+	}
+	clergymen = {
+		culture = arab
+		religion = catholic
+		size = 1285
+	}
+	artisans = {
+		culture = arab
+		religion = catholic
+		size = 6395
+	}
+	soldiers = {
+		culture = arab
+		religion = catholic
+		size = 6856
+	}
+	farmers = {
+		culture = arab
+		religion = catholic
+		size = 117371
+	}
+	clergymen = {
+		culture = arab
+		religion = catholic
+		size = 76
+	}
+	artisans = {
+		culture = arab
+		religion = catholic
+		size = 153
+	}
+	farmers = {
+		culture = arab
+		religion = catholic
+		size = 2884
+	}
+}

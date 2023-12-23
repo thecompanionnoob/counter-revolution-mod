@@ -1,0 +1,6 @@
+owner = SPA
+controller = SPA
+add_core = MEX
+trade_goods = cotton
+life_rating = 44
+fort = 1 #Remember the Alamo!

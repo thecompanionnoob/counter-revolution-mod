@@ -1,0 +1,58 @@
+#Gibraltar
+517 = {
+	officers = {
+		culture = british
+		religion = catholic
+		size = 3
+	}
+	bureaucrats = {
+		culture = british
+		religion = catholic
+		size = 3
+	}
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 3
+	}
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 240
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 81
+	}
+	artisans = {
+		culture = jewish
+		religion = catholic
+		size = 240
+	}
+	clergymen = {
+		culture = spanish
+		religion = catholic
+		size = 30
+	}
+	artisans = {
+		culture = spanish
+		religion = catholic
+		size = 1310
+	}
+	soldiers = {
+		culture = spanish
+		religion = catholic
+		size = 120
+	}
+	farmers = {
+		culture = spanish
+		religion = catholic
+		size = 120
+	}
+	artisans = {
+		culture = italian
+		religion = catholic
+		size = 490
+	}
+}

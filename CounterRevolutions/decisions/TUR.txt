@@ -1,0 +1,79 @@
+political_decisions = {
+	tanzimat_reforms = {
+		potential = {
+			has_country_flag = kanun_i_esasi_here
+			tag = TUR
+			NOT = {
+				has_country_flag = tanzimat_reforms_enacted
+			}
+		}
+		
+		allow = {
+			romanticism = 1
+		}
+		
+		effect = {
+		add_accepted_culture = albanian
+		add_accepted_culture = kurdish
+		add_accepted_culture = bulgarian
+		add_accepted_culture = azeri
+			any_pop = {
+				limit = {
+					NOT = {
+						has_pop_culture = turkish
+					}
+				}
+				militancy = -3
+				consciousness = 1
+			}
+			any_pop = {
+				limit = {
+						has_pop_culture = turkish
+						has_pop_culture = arabian
+				}
+				militancy = 5
+				consciousness = 3
+			}
+			set_country_flag = tanzimat_reforms_enacted
+		}
+	}
+	
+	kanun_i_esasi = {
+		potential = {
+			tag = TUR
+			NOT = {
+				has_country_flag = kanun_i_esasi_here
+			}
+		}
+		
+		allow = {
+			ideological_thought = 1
+		}
+		
+		effect = {
+			any_pop = {
+				militancy = -3
+				consciousness = 2
+			}
+			prestige = 5
+			government = hms_government
+			political_reform = population_equal_weight
+			political_reform = universal_weighted_voting
+			political_reform = yes_meeting
+			political_reform = free_press
+			political_reform = non_socialist
+			political_reform = gerrymandering
+			set_country_flag = kanun_i_esasi_here
+		}
+		
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = {
+					average_militancy = 1
+				}
+			}
+		}
+	}
+}

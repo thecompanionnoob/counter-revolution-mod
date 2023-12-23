@@ -1,0 +1,656 @@
+#Guatemala Region
+#Ruled by Central America 1836
+#Guatemala City
+2186 = {
+	aristocrats = {
+		culture = central_american
+		religion = catholic
+		size = 209
+	}
+	bureaucrats = {
+		culture = central_american
+		religion = catholic
+		size = 60
+	}
+	officers = {
+		culture = central_american
+		religion = catholic
+		size = 52
+	}
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 95
+	}
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 470
+	}
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size = 1532
+	}
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 8140
+	}
+	clergymen = {
+		culture = mayan
+		religion = catholic
+		size = 78
+	}
+	artisans = {
+		culture = mayan
+		religion = catholic
+		size = 732
+	}
+	soldiers = {
+		culture = mayan
+		religion = catholic
+		size = 588
+	}
+	farmers = {
+		culture = mayan
+		religion = catholic
+		size = 13683
+	}
+}
+#Quetzaltenango
+2187 = {
+	aristocrats = {
+		culture = central_american
+		religion = catholic
+		size = 156
+	}
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 66
+	}
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 312
+	}
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size = 3936
+	}
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 4831
+	}
+	clergymen = {
+		culture = mayan
+		religion = catholic
+		size = 89
+	}
+	artisans = {
+		culture = mayan
+		religion = catholic
+		size = 939
+	}
+	soldiers = {
+		culture = mayan
+		religion = catholic
+		size = 800
+	}
+	farmers = {
+		culture = mayan
+		religion = catholic
+		size = 17560
+	}
+}
+#Puerto Barrios
+2188 = {
+	aristocrats = {
+		culture = central_american
+		religion = catholic
+		size = 41
+	}
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 13
+	}
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 83
+	}
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size = 80
+	}
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 1512
+	}
+	clergymen = {
+		culture = mayan
+		religion = catholic
+		size = 13
+	}
+	artisans = {
+		culture = mayan
+		religion = catholic
+		size = 167
+	}
+	soldiers = {
+		culture = mayan
+		religion = catholic
+		size = 136
+	}
+	farmers = {
+		culture = mayan
+		religion = catholic
+		size = 3130
+	}
+}
+#Sayaxche
+2189 = {
+	aristocrats = {
+		culture = central_american
+		religion = catholic
+		size = 2
+	}
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 4
+	}
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 8
+	}
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size = 4
+	}
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 156
+	}
+	clergymen = {
+		culture = mayan
+		religion = catholic
+		size = 4
+	}
+	artisans = {
+		culture = mayan
+		religion = catholic
+		size = 26
+	}
+	soldiers = {
+		culture = mayan
+		religion = catholic
+		size = 16
+	}
+	farmers = {
+		culture = mayan
+		religion = catholic
+		size = 487
+	}
+}
+#Cobán
+4853 = {
+	aristocrats = {
+		culture = central_american
+		religion = catholic
+		size = 142
+	}
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 47
+	}
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 285
+	}
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size = 284
+	}
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 5169
+	}
+	clergymen = {
+		culture = mayan
+		religion = catholic
+		size = 47
+	}
+	artisans = {
+		culture = mayan
+		religion = catholic
+		size = 571
+	}
+	soldiers = {
+		culture = mayan
+		religion = catholic
+		size = 472
+	}
+	farmers = {
+		culture = mayan
+		religion = catholic
+		size = 10696
+	}
+}
+#Santa Cruz del Quiché
+4854 = {
+	aristocrats = {
+		culture = central_american
+		religion = catholic
+		size = 60
+	}
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 26
+	}
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 121
+	}
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size = 1532
+	}
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 1882
+	}
+	clergymen = {
+		culture = mayan
+		religion = catholic
+		size = 34
+	}
+	artisans = {
+		culture = mayan
+		religion = catholic
+		size = 366
+	}
+	soldiers = {
+		culture = mayan
+		religion = catholic
+		size = 312
+	}
+	farmers = {
+		culture = mayan
+		religion = catholic
+		size = 6841
+	}
+}
+#Huehuetenango
+4855 = {
+	aristocrats = {
+		culture = central_american
+		religion = catholic
+		size = 65
+	}
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 21
+	}
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 131
+	}
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size = 1668
+	}
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 2064
+	}
+	clergymen = {
+		culture = mayan
+		religion = catholic
+		size = 32
+	}
+	artisans = {
+		culture = mayan
+		religion = catholic
+		size = 395
+	}
+	soldiers = {
+		culture = mayan
+		religion = catholic
+		size = 304
+	}
+	farmers = {
+		culture = mayan
+		religion = catholic
+		size = 7510
+	}
+}
+#Chiquimula
+4856 = {
+	aristocrats = {
+		culture = central_american
+		religion = catholic
+		size = 146
+	}
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 48
+	}
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 292
+	}
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size = 292
+	}
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 5295
+	}
+	clergymen = {
+		culture = mayan
+		religion = catholic
+		size = 48
+	}
+	artisans = {
+		culture = mayan
+		religion = catholic
+		size = 585
+	}
+	soldiers = {
+		culture = mayan
+		religion = catholic
+		size = 484
+	}
+	farmers = {
+		culture = mayan
+		religion = catholic
+		size = 10956
+	}
+}
+#Salamá
+4857 = {
+	aristocrats = {
+		culture = central_american
+		religion = catholic
+		size = 81
+	}
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 27
+	}
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 163
+	}
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size = 160
+	}
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 2962
+	}
+	clergymen = {
+		culture = mayan
+		religion = catholic
+		size = 27
+	}
+	artisans = {
+		culture = mayan
+		religion = catholic
+		size = 327
+	}
+	soldiers = {
+		culture = mayan
+		religion = catholic
+		size = 272
+	}
+	farmers = {
+		culture = mayan
+		religion = catholic
+		size = 6130
+	}
+}
+#Jalapa
+4858 = {
+	aristocrats = {
+		culture = central_american
+		religion = catholic
+		size = 174
+	}
+	bureaucrats = {
+		culture = central_american
+		religion = catholic
+		size = 50
+	}
+	officers = {
+		culture = central_american
+		religion = catholic
+		size = 43
+	}
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 79
+	}
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 392
+	}
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size = 1276
+	}
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 6783
+	}
+	clergymen = {
+		culture = mayan
+		religion = catholic
+		size = 65
+	}
+	artisans = {
+		culture = mayan
+		religion = catholic
+		size = 610
+	}
+	soldiers = {
+		culture = mayan
+		religion = catholic
+		size = 492
+	}
+	farmers = {
+		culture = mayan
+		religion = catholic
+		size = 11403
+	}
+}
+#Escuintla
+4859 = {
+	aristocrats = {
+		culture = central_american
+		religion = catholic
+		size = 182
+	}
+	bureaucrats = {
+		culture = central_american
+		religion = catholic
+		size = 52
+	}
+	officers = {
+		culture = central_american
+		religion = catholic
+		size = 45
+	}
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 82
+	}
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 411
+	}
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size = 1336
+	}
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 7140
+	}
+	clergymen = {
+		culture = mayan
+		religion = catholic
+		size = 67
+	}
+	artisans = {
+		culture = mayan
+		religion = catholic
+		size = 641
+	}
+	soldiers = {
+		culture = mayan
+		religion = catholic
+		size = 516
+	}
+	farmers = {
+		culture = mayan
+		religion = catholic
+		size = 12003
+	}
+}
+#Retalhuleu
+4860 = {
+	aristocrats = {
+		culture = central_american
+		religion = catholic
+		size = 95
+	}
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 40
+	}
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 190
+	}
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size = 2400
+	}
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 2949
+	}
+	clergymen = {
+		culture = mayan
+		religion = catholic
+		size = 54
+	}
+	artisans = {
+		culture = mayan
+		religion = catholic
+		size = 573
+	}
+	soldiers = {
+		culture = mayan
+		religion = catholic
+		size = 488
+	}
+	farmers = {
+		culture = mayan
+		religion = catholic
+		size = 10718
+	}
+}
+#Chimaltenango
+4861 = {
+	aristocrats = {
+		culture = central_american
+		religion = catholic
+		size = 143
+	}
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 60
+	}
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 287
+	}
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size = 3620
+	}
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 4444
+	}
+	clergymen = {
+		culture = mayan
+		religion = catholic
+		size = 81
+	}
+	artisans = {
+		culture = mayan
+		religion = catholic
+		size = 863
+	}
+	soldiers = {
+		culture = mayan
+		religion = catholic
+		size = 736
+	}
+	farmers = {
+		culture = mayan
+		religion = catholic
+		size = 16155
+	}
+}
