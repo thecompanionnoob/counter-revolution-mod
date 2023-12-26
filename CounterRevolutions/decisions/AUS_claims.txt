@@ -1,28 +1,2 @@
 political_decisions = {
-	claim_illyria_AUS = {
-		potential = {
-			tag = AUS
-			NOT = { has_country_flag = illyria_claimed }
-		}
-		allow = {
-			ideological_thought = 1
-		}
-		effect = {
-			set_country_flag = illyria_claimed
-			prestige = 5
-			badboy = 5
-			AUS_771 = {
-				add_core = AUS
-			}
-			781 = { add_core = AUS }
-			780 = { add_core = AUS }
-			782 = { add_core = AUS }
-			AUS_736 = {
-				add_core = AUS
-			}
-		}
-		ai_will_do = {
-			factor = 1
-		}
-	}
 }
