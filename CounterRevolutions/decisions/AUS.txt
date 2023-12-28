@@ -96,7 +96,7 @@ political_decisions = {
 		ai_will_do = { factor = 1 }
 	}
     
-    integrate_lobardy_venice = {
+    integrate_lombardy_venice = {
         potential = {
             OR = {
                 tag = AUS
@@ -264,3 +264,5 @@ political_decisions = {
         }
     }        
 }
+
+
