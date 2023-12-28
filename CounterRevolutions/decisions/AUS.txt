@@ -255,8 +255,12 @@ political_decisions = {
             has_country_flag = serbia_claimed
             has_country_flag = illyrian_claims_completed
         }
-        effect = {}
-    }
-            
-            
+        effect = {
+            change_tag = DAN
+            prestige = 45
+            add_accepted_culture = croat
+            add_accepted_culture = serb
+            add_accepted_culture = romanian
+        }
+    }        
 }
