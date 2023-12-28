@@ -4,19 +4,19 @@ political_decisions = {
 			NOT = {
 				has_global_flag = statue_of_liberty_has_been_built
 			}
-			tag = FRA
-			exists = FRA
+            OR = {
+                tag = FRA
+                tag = QUE
+            }
 			exists = USA
 			USA = {
 				government = democracy
 				owns = 232
 			}
-			FRA = {
-				OR = {
-					government = hms_government
-					government = democracy
-				}
-			}	
+			OR = {
+				government = hms_government
+				government = democracy
+			}
 			year = 1850
 		}
 	
@@ -48,10 +48,13 @@ political_decisions = {
 	}
 	support_french_foreign_legion = {
 		potential = {
-			tag = FRA
+            OR = {
+			    tag = FRA
+                tag = QUE
+            }
 			owns = 1700
 			NOT = {
-				has_country_flag = french_foreign_legion_supported
+				has_global_flag = french_foreign_legion_supported
 			}
 		}
 		allow = {
@@ -62,19 +65,22 @@ political_decisions = {
 				name = the_french_foreign_legion
 				duration = -1
 			}
-			set_country_flag = french_foreign_legion_supported
+			set_global_flag = french_foreign_legion_supported
 		}
 	}
 	
 	french_military_mission_to_japan = {
 		potential = {
-			tag = FRA
+            OR = {
+			    tag = FRA
+                tag = QUE
+            }
 			exists = JAP
 			JAP = {
 				civilized = no
 			}
 			NOT = {
-				has_country_flag = military_mission_in_japan
+				has_global_flag = military_mission_in_japan
 			}
 		}
 		
@@ -95,16 +101,19 @@ political_decisions = {
 				years_of_research = 0.1
 			}
 			prestige = 20
-			set_country_flag = military_mission_in_japan
+			set_global_flag = military_mission_in_japan
 		}
 	}
 	
 	palais_garnier = {
 		potential = {
 			NOT = {
-				has_country_flag = palais_garnier_built
+				has_global_flag = palais_garnier_built
 			}
-			tag = FRA
+            OR = {
+			    tag = FRA
+			    tag = QUE
+            }
 			owns = 425
 		}
 		
@@ -114,16 +123,19 @@ political_decisions = {
 		
 		effect = {
 			prestige = 10
-			set_country_flag = palais_garnier_built
+			set_global_flag = palais_garnier_built
 		}
 	}
 	
 	the_lambert_charter = {
 		potential = {
 			NOT = {
-				has_country_flag = lambert_has_been_chartered
+				has_global_flag = lambert_has_been_chartered
 			}
-			tag = FRA
+            OR = {
+			    tag = FRA
+                tag = QUE
+            }
 			exists = MAD
 		}
 		
@@ -133,7 +145,7 @@ political_decisions = {
 			MAD = {
 				civilized = no
 				OR = {
-					in_sphere = FRA
+					in_sphere = THIS
 					part_of_sphere = no
 				}
 				OR = {
@@ -148,47 +160,51 @@ political_decisions = {
 				who = MAD
 				value = 150
 			}
-			set_country_flag = lambert_has_been_chartered
+			set_global_flag = lambert_has_been_chartered
 		}
 	}
 	
-	end_the_merina_monarchy = {
-		potential = {
-			OR = {
-				has_country_flag = lambert_has_been_chartered
-				MAD = {
-					in_sphere = FRA
-					civilized = no
-			}
-				}
-			NOT = {
-				has_country_flag = merina_monarchy_is_over
-			}
-			exists = MAD
-			MAD = {ai = yes}
-			tag = FRA
-		}
-		
-		allow = {
-			MAD = {
-				in_sphere = FRA
-				civilized = no
-				war = no
-			}
-			invention = mission_to_civilize
-			invention = expansionism
-			war = no
-		}
-		
-		effect = {
-			inherit = MAD
-			set_country_flag = merina_monarchy_is_over
-		}
-	}
+    end_the_merina_monarchy = {
+        potential = {
+            OR = {
+                tag = QUE
+                tag = FRA
+            }
+            MAD = {
+                civilized = no
+                ai = yes
+            }
+            has_global_flag = lambert_has_been_chartered
+            NOT = {
+                has_global_flag = merina_monarchy_is_over
+            }
+            exists = MAD
+            tag = QUE
+        }
+
+        allow = {
+            MAD = {
+                in_sphere = THIS
+                civilized = no
+                war = no
+            }
+            invention = mission_to_civilize
+            invention = expansionism
+            war = no
+        }
+
+        effect = {
+            inherit = MAD
+            set_global_flag = merina_monarchy_is_over
+        }
+    }
 	
 	brazzas_expedition = {
 		potential = {
-			tag = FRA
+            OR = {
+			    tag = FRA
+                tag = QUE
+            }
 			owns = 1977
 			NOT = {
 				has_global_flag = brazzaville_formed
@@ -257,11 +273,14 @@ political_decisions = {
 	
 	build_the_eiffel_tower = {
 		potential = {
-			tag = FRA
+            OR = {
+			    tag = FRA
+                tag = QUE
+            }
+			owns = 425
 			NOT = {
-				has_country_flag = the_eiffel_tower_was_built
+				has_global_flag = the_eiffel_tower_was_built
 			}
-			has_country_flag = world_fair_planner
 		}
 		
 		allow = {
@@ -276,16 +295,19 @@ political_decisions = {
 				}
 			}
 			prestige = 20
-			set_country_flag = the_eiffel_tower_was_built
+			set_global_flag = the_eiffel_tower_was_built
 		}
 	}
 	
 	haussmanns_renovations = {
 		potential = {
-			tag = FRA
+            OR = {
+			    tag = FRA
+                tag = QUE
+            }
 			owns = 425
 			NOT = {
-				has_country_flag = extreme_home_makeover
+				has_global_flag = extreme_home_makeover
 			}
 			OR = {
 				realism = 1
@@ -301,7 +323,7 @@ political_decisions = {
 		
 		effect = {
 			prestige = 10
-			set_country_flag = extreme_home_makeover
+			set_global_flag = extreme_home_makeover
 		}
 	}
 }
