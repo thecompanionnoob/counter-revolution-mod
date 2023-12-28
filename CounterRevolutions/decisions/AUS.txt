@@ -175,13 +175,13 @@ political_decisions = {
 			prestige = 5
 			badboy = 5
 			AUS_771 = {
-				add_core = AUS
+				add_core = THIS
 			}
-			781 = { add_core = AUS }
-			780 = { add_core = AUS }
-			782 = { add_core = AUS }
+			781 = { add_core = THIS }
+			780 = { add_core = THIS }
+			782 = { add_core = THIS }
 			AUS_736 = {
-				add_core = AUS
+				add_core = THIS
 			}
 		}
 		ai_will_do = {
