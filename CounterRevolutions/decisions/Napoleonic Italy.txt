@@ -45,7 +45,7 @@ political_decisions = {
 		effect = {
 		all_core = {
 				add_core = NSI
-				remove_core = THIS
+				remove_core = SIC
 			}
 		change_tag = NSI
 		badboy = 20
@@ -56,6 +56,21 @@ political_decisions = {
 				militancy = -10
 				consciousness = -10
 			}
+        PAP = {
+            all_core = {
+                add_core = NSI
+            }
+        }
+        SAR = {
+            all_core = {
+                add_core = NSI
+            }
+        }
+        LOM = {
+            all_core = {
+                add_core = NSI
+            }
+        }
 		}
 	}
 	

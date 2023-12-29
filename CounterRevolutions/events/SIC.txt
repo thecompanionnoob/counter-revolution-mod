@@ -1,0 +1,23 @@
+country_event = {
+    id = 696971
+    title = "Napoléon François Joseph Charles Bonaparte"
+    desc = "placeholder"
+    
+    trigger = {
+        OR = {
+            tag = SIC 
+            tag = NSI
+            tag = NIT
+        }
+        year = 1828 #he would be 17
+    }
+    fire_only_once = yes
+    option = {
+        name = "Yes"
+        define_general = {
+            name = "Napoléon François Joseph Charles Bonaparte"
+            personality = defence_3.1
+            background = attack_3.1
+        }
+    }
+}

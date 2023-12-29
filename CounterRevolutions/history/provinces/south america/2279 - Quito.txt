@@ -1,6 +1,8 @@
 owner = SPA
 controller = SPA
 add_core = ECU
-trade_goods = coffee
+trade_goods = iron
 life_rating = 41
+    
+    
 

@@ -1,5 +1,8 @@
 owner = CHI
 controller = CHI
 add_core = CHI
-trade_goods = fish
+trade_goods = sulphur
 life_rating = 32
+    
+    
+    

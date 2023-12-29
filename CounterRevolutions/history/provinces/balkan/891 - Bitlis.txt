@@ -3,5 +3,8 @@ controller = TUR
 add_core = TUR
 add_core = ARM
 add_core = KUR
-trade_goods = wool
+trade_goods = iron
 life_rating = 33
+    
+    
+    

@@ -1,6 +1,10 @@
+#this is Cherbourg, normandy...
 owner = FRA
 controller = FRA
 add_core = FRA
-trade_goods = coal
+trade_goods = grain
 life_rating = 32
 naval_base = 2
+    
+    
+    

@@ -2,6 +2,9 @@ owner = GCO
 controller = SPA
 add_core = CLM
 add_core = GCO
-trade_goods = coffee
+trade_goods = iron
 life_rating = 42
 terrain = hills
+    
+    
+    

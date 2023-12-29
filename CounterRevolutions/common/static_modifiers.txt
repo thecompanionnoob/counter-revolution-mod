@@ -139,13 +139,13 @@ base_values = {
 war = {
 	max_war_exhaustion = 100			#base max at war.
 	supply_consumption = 1
-	badboy = -0.15
+	badboy = -0.25
 }
 
 peace = {
 	max_war_exhaustion = 0			#base max at peace.
 	supply_consumption = -1.0
-	badboy = -0.25
+	badboy = -0.5
 }
 
 disarming = {

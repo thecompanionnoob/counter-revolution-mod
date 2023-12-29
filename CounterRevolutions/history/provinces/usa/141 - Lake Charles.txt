@@ -1,5 +1,8 @@
 owner = USA
 controller = USA
 add_core = USA
-trade_goods = fish
+trade_goods = sulphur
 life_rating = 44
+    
+    
+    

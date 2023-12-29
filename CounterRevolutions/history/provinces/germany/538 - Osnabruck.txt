@@ -1,6 +1,10 @@
+#Eupen-Malmedy...
 owner = PRU
 controller = PRU
 add_core = PRU
 add_core = GER
-trade_goods = sulphur
+trade_goods = coal
 life_rating = 39
+    
+    
+
