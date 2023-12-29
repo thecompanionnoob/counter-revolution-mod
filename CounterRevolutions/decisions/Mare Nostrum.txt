@@ -77,6 +77,7 @@ political_decisions = {
 		potential = {
 			tag = SAR
 			has_country_flag = successful_coup
+            exists = LOM 
 			}
 		allow = {
 			war = no
@@ -88,8 +89,7 @@ political_decisions = {
 	
 		the_mare_is_nostrumed = {
 		potential = {
-			tag = SAR
-			year = 1830
+			tag = SAR 
 			has_country_flag = the_lord_of_the_mediterranean
 			}
 		allow = {
@@ -99,8 +99,8 @@ political_decisions = {
 		effect = {
 		
 		change_tag = MRE
-			any_owned = {
-			add_core = THIS
+			all_core = { 
+				add_core = THIS
 			}
 		}
 	}

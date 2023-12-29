@@ -1,2 +1,8 @@
+owner = USA
+controller = USA
+colonial = 2
 trade_goods = timber
 life_rating = 38
+    
+    
+    

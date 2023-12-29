@@ -1,8 +1,15 @@
 political_decisions = {
-	liberaciondeperu = {
+	liberaciondeperu = { 
 		potential = {
 			has_country_modifier = war_of_independence_mobilization
 			NOT = { has_global_flag = piruxit }
+            OR = {
+                tag = ARG
+                tag = GCO
+                tag = MEX
+                tag = BOL
+                tag = PRG
+            }
 		}
 		
 		allow = {
