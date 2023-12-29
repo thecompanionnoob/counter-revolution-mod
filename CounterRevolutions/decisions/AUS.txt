@@ -215,6 +215,29 @@ political_decisions = {
             set_country_flag = illyrian_claims_completed
         }
     }
+    claim_banat = {
+        potential = {
+            OR = {
+                tag = AUS
+                tag = KUK
+            }
+            NOT = { has_country_flag = banat_claimed }
+        }
+        allow = {
+            ideological_thought = 1
+        }
+        effect = {
+            AUS_652 = {
+                add_core = THIS
+            }
+            AUS_771 = {
+                add_core = THIS
+            }
+            prestige = 10
+            badboy = 4
+            set_country_flag = banat_claimed
+        }
+    }
     claim_serbia_AUS = {
         potential = {
             OR = {
@@ -222,6 +245,7 @@ political_decisions = {
                 tag = KUK
             }
             NOT = { has_country_flag = serbia_claimed }
+            has_country_flag = banat_claimed
         }
         allow = {
             has_unclaimed_cores = no
