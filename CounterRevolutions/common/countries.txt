@@ -214,6 +214,7 @@ WEI		= "countries/Saxe-Weimar.txt"
 WUR		= "countries/Wurttemberg.txt"
 
 # Italy
+RME		= "countries/Rome.txt"
 LOM		= "countries/Lombardia.txt"
 LUC		= "countries/Lucca.txt"
 MOD		= "countries/Modena.txt"
