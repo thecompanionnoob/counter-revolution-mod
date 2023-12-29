@@ -2,5 +2,8 @@ owner = PER
 controller = PER
 add_core = PER
 add_core = AFG
-trade_goods = fruit
+trade_goods = iron
 life_rating = 35
+    
+    
+    
