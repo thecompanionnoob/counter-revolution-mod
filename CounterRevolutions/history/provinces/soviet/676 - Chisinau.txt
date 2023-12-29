@@ -1,6 +1,6 @@
-owner = RUS
-controller = RUS
-add_core = MOL
+owner = ROM
+controller = ROM
+add_core = ROM
 trade_goods = fruit
 life_rating = 38
 colonial = 2
