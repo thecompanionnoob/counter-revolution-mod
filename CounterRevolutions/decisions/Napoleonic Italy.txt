@@ -2,7 +2,6 @@ political_decisions = {
 	the_revolution_not_end = {
 		potential = {
 			tag = SIC
-			year = 1819
 			NOT = {
 				has_country_flag = guardia_civil_established
 				has_country_flag = is_only_starting
@@ -10,13 +9,8 @@ political_decisions = {
 			}
 		}
 		allow = {
-			NOT = {
-				num_of_revolts = 1
-			}
-			OR = {
-				average_militancy = 3
-				average_consciousness = 4
-			}
+		government = hms_government
+		nationalvalue = nv_equality
 		}
 		effect = {
 			badboy = 30
@@ -37,10 +31,9 @@ political_decisions = {
 		}
 	}
 		
-	proclaim_the_revolution_of_napoleon = {
+	proclaim_the_revolution_of_napleon = {
 		potential = {
 			tag = SIC
-			year = 1825
 			has_country_flag = is_only_starting
 			}
 		allow = {
@@ -69,17 +62,12 @@ political_decisions = {
 	proclaim_the_napoleonic_italy = {
 		potential = {
 			tag = NSI
-			year = 1830
 			has_country_flag = is_only_starting
 			}
 		allow = {
-			war = no
-				ITA = {
+				NSI = {
 					all_core = { owned_by = THIS }
 				}
-			NOT = {
-				num_of_revolts = 1
-			}
 		}
 		effect = {
 		all_core = {
@@ -90,9 +78,6 @@ political_decisions = {
 		prestige = 100
 		add_accepted_culture = greek
 		add_accepted_culture = maltese
-		add_accepted_culture = ladin
-		add_accepted_culture = friulian
-		add_accepted_culture = romansh
 		add_accepted_culture = sardinian
 			any_pop = {
 				militancy = -10

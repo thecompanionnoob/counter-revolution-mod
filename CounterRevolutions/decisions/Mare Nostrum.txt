@@ -2,19 +2,18 @@ political_decisions = {
 	secure_the_naval_dominance_in_the_mediterranean = {
 		potential = {
 			tag = SAR
-			year = 1820
 			NOT = {
 				has_country_flag = the_lord_of_the_mediterranean
 			}
 		}
 		allow = {
-			NOT = {
-				num_of_revolts = 1
-			}
-			OR = {
-				average_militancy = 3
-				average_consciousness = 4
-			}
+			owns = 762
+			owns = 473
+			owns = 848
+			owns = 845
+			owns = 855
+			owns = 502
+			owns = 765
 		}
 		effect = {
 					any_pop = {
@@ -32,7 +31,6 @@ political_decisions = {
 	claim_our_dominance_in_the_provinces_of_lombardo_veneto = {
 		potential = {
 			tag = SAR
-			year = 1828
 			NOT = { has_country_flag = claim_lombardy_veneto }
 			}
 		allow = {

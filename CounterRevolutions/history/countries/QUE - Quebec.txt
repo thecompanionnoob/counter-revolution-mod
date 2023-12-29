@@ -1,7 +1,7 @@
 capital = 65
 primary_culture = french
 religion = catholic
-government = absolute_monarchy
+government = hms_government
 plurality = 100
 nationalvalue = nv_the_spirit_of_napoleon
 literacy = 1
@@ -16,7 +16,7 @@ public_meetings = yes_meeting
 press_rights = free_press
 trade_unions = no_trade_unions
 voting_system = first_past_the_post
-political_parties = gerrymandering
+political_parties = non_secret_ballots
 
 # Social Reforms
 wage_reform = no_minimum_wage

@@ -2,9 +2,9 @@ political_decisions = {
 	award_order_of_st_francis = {
 		potential = {
 			tag = SIC
-			government = absolute_monarchy
 			NOT = {
-				has_country_flag = order_awarded
+				has_country_flag = order_restablished
+				has_country_flag = is_only_starting
 			}
 		}
 		
@@ -13,9 +13,12 @@ political_decisions = {
 		}
 		
 		effect = {
+			government = absolute_monarchy
+			nationalvalue = nv_order
 			years_of_research = 0.02
 			prestige = 2
-			set_country_flag = order_awarded
+			set_country_flag = order_restablished
+			set_country_flag = counterrevolution
 		}
 	}
 	

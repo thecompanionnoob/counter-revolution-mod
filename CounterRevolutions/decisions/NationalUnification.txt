@@ -1204,11 +1204,10 @@ political_decisions = {
 		news_desc_medium = "form_italy_NEWS_MEDIUM"
 		news_desc_short = "form_italy_NEWS_SHORT"
 		potential = {
+			tag = SAR
 			NOT = { exists = ITA }
-			primary_culture = italian
 			NOT = { has_country_modifier = neutrality }
-			#NOT = { has_country_modifier = el_señor_del_mediterraneo } #doesnt exist TODO
-			#NOT = { has_country_modifier = solo_esta_comenzando } #doesnt exist TODO
+			NOT = { has_country_modifier = the_lord_of_the_mediterranean }
 			any_neighbor_country = {
 				war = no
 				primary_culture = italian
@@ -1225,6 +1224,7 @@ political_decisions = {
 			pop_majority_culture = italian
 			war = no
 			is_vassal = no
+			owns = 749
 			LOM = {
 				war = no
 				OR = {
@@ -1241,71 +1241,7 @@ political_decisions = {
 					exists = no
 				}
 			}
-			LUC = {
-				war = no
-				OR = {
-					in_sphere = THIS
-					vassal_of = THIS
-					all_core = { owned_by = THIS }
-					exists = no
-					is_greater_power = yes
-					has_country_modifier = neutrality
-				}
-				OR = {
-					is_vassal = no
-					vassal_of = THIS
-					exists = no
-				}
-			}
-			MAC = {
-				war = no
-				OR = {
-					in_sphere = THIS
-					vassal_of = THIS
-					all_core = { owned_by = THIS }
-					exists = no
-					is_greater_power = yes
-					has_country_modifier = neutrality
-				}
-				OR = {
-					is_vassal = no
-					vassal_of = THIS
-					exists = no
-				}
-			}
-			MOD = {
-				war = no
-				OR = {
-					in_sphere = THIS
-					vassal_of = THIS
-					all_core = { owned_by = THIS }
-					exists = no
-					is_greater_power = yes
-					has_country_modifier = neutrality
-				}
-				OR = {
-					is_vassal = no
-					vassal_of = THIS
-					exists = no
-				}
-			}
 			PAP = {
-				war = no
-				OR = {
-					in_sphere = THIS
-					vassal_of = THIS
-					all_core = { owned_by = THIS }
-					exists = no
-					is_greater_power = yes
-					has_country_modifier = neutrality
-				}
-				OR = {
-					is_vassal = no
-					vassal_of = THIS
-					exists = no
-				}
-			}
-			PAR = {
 				war = no
 				OR = {
 					in_sphere = THIS
@@ -1353,7 +1289,62 @@ political_decisions = {
 					exists = no
 				}
 			}
-			SCY = {
+		}
+		
+		effect = {
+			prestige = 20
+			all_core = {
+				add_core = ITA
+				remove_core = THIS
+			}
+			change_tag = ITA
+			any_country = {
+				limit = {
+					primary_culture = italian
+					is_greater_power = no
+					OR = {
+						is_vassal = no
+						vassal_of = THIS
+						exists = no
+					}
+				}
+				all_core = { add_core = ITA }
+				country_event = 11101
+			}
+		}
+		
+		ai_will_do = { factor = 1 }
+	}
+	
+	form_italy_sicily = {
+		news = yes
+		news_desc_long = "form_italy_NEWS_LONG"
+		news_desc_medium = "form_italy_NEWS_MEDIUM"
+		news_desc_short = "form_italy_NEWS_SHORT"
+		potential = {
+			tag = SIC
+			NOT = { exists = ITA }
+			NOT = { has_country_modifier = neutrality }
+			NOT = { has_country_flag = is_only_starting }
+			any_neighbor_country = {
+				war = no
+				primary_culture = italian
+				is_greater_power = no
+				NOT = { has_country_modifier = neutrality }
+				OR = {
+					is_vassal = no
+					vassal_of = THIS
+				}
+			}
+			has_country_flag = counterrevolution
+		}
+		
+		allow = {
+			pop_majority_culture = italian
+			war = no
+			is_vassal = no
+			owns = 749
+			LOM = {
 				war = no
 				OR = {
 					in_sphere = THIS
@@ -1369,7 +1360,7 @@ political_decisions = {
 					exists = no
 				}
 			}
-			TUS = {
+			PAP = {
 				war = no
 				OR = {
 					in_sphere = THIS
@@ -1385,7 +1376,23 @@ political_decisions = {
 					exists = no
 				}
 			}
-			VEN = {
+			SAR = {
+				war = no
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+					all_core = { owned_by = THIS }
+					exists = no
+					is_greater_power = yes
+					has_country_modifier = neutrality
+				}
+				OR = {
+					is_vassal = no
+					vassal_of = THIS
+					exists = no
+				}
+			}
+			SIC = {
 				war = no
 				OR = {
 					in_sphere = THIS
@@ -1414,7 +1421,6 @@ political_decisions = {
 				limit = {
 					primary_culture = italian
 					is_greater_power = no
-					NOT = { has_country_modifier = neutrality }
 					OR = {
 						is_vassal = no
 						vassal_of = THIS
@@ -1428,7 +1434,7 @@ political_decisions = {
 		
 		ai_will_do = { factor = 1 }
 	}
-
+	
 	form_scandinavia = {
 		news = yes
 		news_desc_long = "form_scandinavia_NEWS_LONG"
