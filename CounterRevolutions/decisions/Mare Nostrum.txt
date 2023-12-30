@@ -119,8 +119,14 @@ political_decisions = {
 				}
 			}
 		allow = {
-			#All cores of Italy
-			
+			PAP = { all_core = THIS }
+			AND = {
+			OR = { 
+			SIC = { all_core = { owned_by = THIS } } 
+			NSI = { all_core = { owned_by = THIS } } 
+			NIT = { all_core = { owned_by = THIS } } 
+				}
+			}
 		}
 		effect = {
 		add_accepted_culture = occitan
