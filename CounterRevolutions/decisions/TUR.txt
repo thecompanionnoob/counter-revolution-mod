@@ -78,6 +78,7 @@ political_decisions = {
 	
     annex_serb_TUR = {
         potential = {
+			tag = TUR
             has_country_flag = turkiye_numba_one
             exists = SER
         }
@@ -89,6 +90,7 @@ political_decisions = {
 	
     annex_rom_TUR = {
         potential = {
+			tag = TUR
             has_country_flag = turkiye_numba_one
             exists = ROM
         }
@@ -100,6 +102,7 @@ political_decisions = {
 	
     annex_mon_TUR = {
         potential = {
+			tag = TUR
             has_country_flag = turkiye_numba_one
             exists = MON
         }
@@ -111,6 +114,7 @@ political_decisions = {
 	
 	integrate_the_coast_sultanates_on_the_south = {
         potential = {
+			tag = TUR
             exists = ASA
 			exists = SEN
         }

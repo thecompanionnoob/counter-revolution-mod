@@ -276,6 +276,8 @@ political_decisions = {
             state_n_government = 1
 			medicine = 1
 			functionalism = 1
+            realism = 1
+            early_classical_theory_and_critique = 1
         }
         effect = {
             set_country_flag = alexander_reforms_success
@@ -284,6 +286,12 @@ political_decisions = {
 			add_accepted_culture = siberian
 			add_accepted_culture = inuit
 			add_accepted_culture = ugrian
+            activate_technology = biologism
+            activate_technology = idealism
+            activate_technology = empiricism
+            activate_technology = late_enlightenment_philosophy
+            political_reform = acceptable_schools
+            political_reform = acceptable_health_care
             prestige = 100
         }
     }
