@@ -1,0 +1,5 @@
+name = "Counter Revolution Mod v2.0"
+path = "mod/CounterRevolutions v2.0"
+user_dir = "CounterRevolutions v2.0"
+replace_path = "history"
+replace_path = "common"
