@@ -132,4 +132,18 @@ political_decisions = {
 			set_country_flag = ian_would_be_proud
 		}
 	}
+    accept_gaels = {
+        potential = {
+            tag = ENG
+            NOT = { has_country_flag = gael_accept }
+        }
+        allow = {
+            state_n_government = 1
+        }
+        effect = {
+            prestige = 10
+            add_accepted_culture = gaels
+            set_country_flag = gael_accept
+        }
+    }
 }
