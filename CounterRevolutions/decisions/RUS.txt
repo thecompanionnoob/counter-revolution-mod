@@ -252,4 +252,18 @@ political_decisions = {
 			}
 		}
 	}
+    accept_ukraine = {
+        potential = {
+            tag = RUS
+            NOT = { has_country_flag = ukraine_accepted }
+        }
+        allow = {
+            ideological_thought = 1
+        }
+        effect = {
+            set_country_flag = ukraine_accepted
+            add_accepted_culture = ukrainian
+            prestige = 10
+        }
+    }
 }
