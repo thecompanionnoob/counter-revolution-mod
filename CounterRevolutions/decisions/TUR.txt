@@ -76,4 +76,61 @@ political_decisions = {
 			}
 		}
 	}
+    expand_tanzimat_reforms = {
+        potential = {
+            tag = TUR
+            has_country_flag = tanzimat_reforms_enacted
+            NOT = { has_country_flag = turkiye_numba_one }
+        }
+        allow = {
+            nationalism_n_imperialism = 1
+        }
+        effect = {
+            set_country_flag = turkiye_numba_one
+            add_accepted_culture = serb
+            add_accepted_culture = romanian
+            add_accepted_culture = greek
+            prestige = 20
+            any_pop = {
+                limit = {
+					has_pop_culture = turkish
+                }
+                militancy = 2
+            }
+        }
+    }
+    annex_serb_TUR = {
+        potential = {
+            has_country_flag = turkiye_numba_one
+            exists = SER
+            SER = { vassal_of = THIS }
+        }
+        allow = { }
+        effect = {
+            inherit = SER
+        }
+    }
+    annex_rom_TUR = {
+        potential = {
+            has_country_flag = turkiye_numba_one
+            exists = ROM
+            ROM = { vassal_of = THIS }
+        }
+        allow = { }
+        effect = {
+            inherit = ROM
+        }
+    }
+    annex_mon_TUR = {
+        potential = {
+            has_country_flag = turkiye_numba_one
+            exists = MON
+            MON = { vassal_of = THIS }
+        }
+        allow = { }
+        effect = {
+            inherit = MON
+        }
+    }
 }
+
