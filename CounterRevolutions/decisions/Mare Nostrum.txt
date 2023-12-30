@@ -87,7 +87,7 @@ political_decisions = {
 		}
 	}
 	
-		the_mare_is_nostrumed = {
+	the_mare_is_nostrumed = {
 		potential = {
 			tag = SAR 
 			has_country_flag = the_lord_of_the_mediterranean
@@ -97,11 +97,40 @@ political_decisions = {
 			
 		}
 		effect = {
-		
+		add_accepted_culture = sardinian
+		add_accepted_culture = maltese
+		add_accepted_culture = greek
+		add_accepted_culture = catalan
 		change_tag = MRE
 			all_core = { 
 				add_core = THIS
 			}
 		}
 	}
-}	
+	
+	backting_to_home = {
+		potential = {
+			tag = MRE
+			has_country_flag = the_lord_of_the_mediterranean
+			NOT = { 
+			exists = SIC 
+			exists = NSI 
+			exists = NIT
+				}
+			}
+		allow = {
+			#All cores of Italy
+			
+		}
+		effect = {
+		add_accepted_culture = occitan
+		add_accepted_culture = albanian
+		add_accepted_culture = croat
+		add_accepted_culture = spanish
+		change_tag = RME
+			all_core = { 
+				add_core = THIS
+			}
+		}
+	}
+}
