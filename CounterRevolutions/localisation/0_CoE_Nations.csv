@@ -67,7 +67,7 @@ BEL_hms_government;Kingdom of Belgium;;;;;;;;;;;;;x
 BHU_absolute_monarchy;Kingdom of Bhutan;;;;;;;;;;;;;x
 BHU_prussian_constitutionalism;Kingdom of Bhutan;;;;;;;;;;;;;x
 BHU_hms_government;Kingdom of Bhutan;;;;;;;;;;;;;x
-BOH;Bohemia;Boh瘱e;B鐬men;;Bohemia;;;;;;;;;x
+BOH;Bohemia;Bohemia;Bohemia;;Bohemia;;;;;;;;;x
 BOH_absolute_monarchy;Kingdom of Bohemia;;;;;;;;;;;;;x
 BOH_prussian_constitutionalism;Kingdom of Bohemia;;;;;;;;;;;;;x
 BOH_hms_government;Kingdom of Bohemia;;;;;;;;;;;;;x
@@ -682,3 +682,8 @@ BUR_absolute_monarchy;Burmese Empire;;;;;;;;;;;;;x
 BUR_prussian_constitutionalism;Burmese Empire;;;;;;;;;;;;;x
 BUR_hms_government;Burmese Empire;;;;;;;;;;;;;x
 CHL_conservative_2;O' Higginistas;Partido Conservador;Partido Conservador;;O' Higginistas;;;;;;;;;x;;;;
+SCA_presidential_dictatorship;Nordic State;;;;;;;;
+SCA_democracy;Nordic League;;;;;;;;
+SCA_proletarian_dictatorship;Scandinavian Workers Republic;;;;;;;;
+SCA;North Sea Empire;;;;;;;;
+SCA_ADJ;Nordic;;;;;;;

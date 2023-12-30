@@ -146,4 +146,18 @@ political_decisions = {
             set_country_flag = gael_accept
         }
     }
+    accept_breton = {
+        potential = {
+            NOT = { has_country_flag = breton_accept }
+            tag = ENG
+        }
+        allow = { 
+            nationalism_n_imperialism = 1 
+        }
+        effect = {
+            add_accepted_culture = breton
+            set_country_flag = breton_accept
+            prestige = 10
+        }
+    }
 }
