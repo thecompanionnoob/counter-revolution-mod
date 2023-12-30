@@ -1427,37 +1427,37 @@
 	}
 			
 	aristocrats = {
-		culture = guajiro
+		culture = north_andean
 		religion = catholic
 		size = 22
 	}
 	bureaucrats = {
-		culture = guajiro
+		culture = north_andean
 		religion = catholic
 		size = 7
 	}
 	officers = {
-		culture = guajiro
+		culture = north_andean
 		religion = catholic
 		size = 1
 	}
 	clergymen = {
-		culture = guajiro
+		culture = north_andean
 		religion = catholic
 		size = 15
 	}
 	artisans = {
-		culture = guajiro
+		culture = north_andean
 		religion = catholic
 		size = 74
 	}
 	soldiers = {
-		culture = guajiro
+		culture = north_andean
 		religion = catholic
 		size = 147
 	}
 	farmers = {
-		culture = guajiro
+		culture = north_andean
 		religion = catholic
 		size = 1204
 	}

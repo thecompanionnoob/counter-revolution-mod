@@ -85,10 +85,11 @@ political_decisions = {
 		add_accepted_culture = mexican
 		add_accepted_culture = central_american
 		add_accepted_culture = platinean
-		add_accepted_culture = caribbean
+		add_accepted_culture = caribeno
+		add_accepted_culture = afro_caribeno
+		add_accepted_culture = afro_caribbean
 			all_core = {
 				add_core = HCO
-				remove_core = THIS
 			}
 		}
 	}

@@ -6,7 +6,6 @@ culture = turkmen
 culture = pashtun
 culture = baluchi
 culture = uzbek
-culture = tajik
 culture = kirgiz
 culture = sindi
 culture = panjabi

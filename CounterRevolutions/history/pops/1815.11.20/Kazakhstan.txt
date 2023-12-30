@@ -704,37 +704,37 @@
 	}
 	
 	aristocrats = {
-		culture = volga_finns
+		culture = ugrian
 		religion = catholic
 		size = 1
 	}
 	bureaucrats = {
-		culture = volga_finns
+		culture = ugrian
 		religion = catholic
 		size = 1
 	}
 	officers = {
-		culture = volga_finns
+		culture = ugrian
 		religion = catholic
 		size = 1
 	}
 	clergymen = {
-		culture = volga_finns
+		culture = ugrian
 		religion = catholic
 		size = 1
 	}
 	artisans = {
-		culture = volga_finns
+		culture = ugrian
 		religion = catholic
 		size = 12
 	}
 	soldiers = {
-		culture = volga_finns
+		culture = ugrian
 		religion = catholic
 		size = 28
 	}
 	farmers = {
-		culture = volga_finns
+		culture = ugrian
 		religion = catholic
 		size = 236
 	}
@@ -1033,37 +1033,37 @@
 	}
 	
 	aristocrats = {
-		culture = volga_finns
+		culture = ugrian
 		religion = catholic
 		size = 4
 	}
 	bureaucrats = {
-		culture = volga_finns
+		culture = ugrian
 		religion = catholic
 		size = 4
 	}
 	officers = {
-		culture = volga_finns
+		culture = ugrian
 		religion = catholic
 		size = 4
 	}
 	clergymen = {
-		culture = volga_finns
+		culture = ugrian
 		religion = catholic
 		size = 4
 	}
 	artisans = {
-		culture = volga_finns
+		culture = ugrian
 		religion = catholic
 		size = 43
 	}
 	soldiers = {
-		culture = volga_finns
+		culture = ugrian
 		religion = catholic
 		size = 104
 	}
 	farmers = {
-		culture = volga_finns
+		culture = ugrian
 		religion = catholic
 		size = 796
 	}

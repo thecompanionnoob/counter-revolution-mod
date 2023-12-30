@@ -10,6 +10,7 @@ political_decisions = {
 		
 		allow = {
 			romanticism = 1
+			nationalism_n_imperialism
 		}
 		
 		effect = {
@@ -47,7 +48,7 @@ political_decisions = {
 		}
 		
 		allow = {
-			ideological_thought = 1
+			state_n_government = 1
 		}
 		
 		effect = {
@@ -55,6 +56,7 @@ political_decisions = {
 				militancy = -3
 				consciousness = 2
 			}
+			add_accepted_culture = arab
 			prestige = 5
 			government = hms_government
 			political_reform = population_equal_weight
@@ -65,17 +67,8 @@ political_decisions = {
 			political_reform = gerrymandering
 			set_country_flag = kanun_i_esasi_here
 		}
-		
-		ai_will_do = {
-			factor = 1
-			modifier = {
-				factor = 0
-				NOT = {
-					average_militancy = 1
-				}
-			}
-		}
 	}
+	
     expand_tanzimat_reforms = {
         potential = {
             tag = TUR
@@ -99,37 +92,53 @@ political_decisions = {
             }
         }
     }
+	
     annex_serb_TUR = {
         potential = {
             has_country_flag = turkiye_numba_one
             exists = SER
-            SER = { vassal_of = THIS }
         }
-        allow = { }
+        allow = { SER = { vassal_of = THIS } }
         effect = {
             inherit = SER
         }
     }
+	
     annex_rom_TUR = {
         potential = {
             has_country_flag = turkiye_numba_one
             exists = ROM
-            ROM = { vassal_of = THIS }
         }
-        allow = { }
+        allow = { ROM = { vassal_of = THIS } }
         effect = {
             inherit = ROM
         }
     }
+	
     annex_mon_TUR = {
         potential = {
             has_country_flag = turkiye_numba_one
             exists = MON
-            MON = { vassal_of = THIS }
         }
-        allow = { }
+        allow = { MON = { vassal_of = THIS } }
         effect = {
             inherit = MON
+        }
+    }
+	
+	integrate_the_coast_sultanates_on_the_south = {
+        potential = {
+            exists = ASA
+			exists = SEN
+        }
+        allow = {
+		ideological_thought = 1
+			SEN = { vassal_of = THIS }
+			ASA = { vassal_of = THIS }
+		}
+        effect = {
+            inherit = ASA
+			inherit = SEN
         }
     }
 }

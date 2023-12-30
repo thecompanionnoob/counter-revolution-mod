@@ -266,4 +266,42 @@ political_decisions = {
             prestige = 10
         }
     }
+	
+    alexander_ii_reforms = {
+        potential = {
+            tag = RUS
+            NOT = { has_country_flag = alexander_reforms_success }
+        }
+        allow = {
+            state_n_government = 1
+			medicine = 1
+			functionalism = 1
+        }
+        effect = {
+            set_country_flag = alexander_reforms_success
+            add_accepted_culture = permian
+			add_accepted_culture = yakut
+			add_accepted_culture = siberian
+			add_accepted_culture = inuit
+			add_accepted_culture = ugrian
+            prestige = 100
+        }
+    }
+	
+    cossacks_for_the_russian_army = {
+        potential = {
+            tag = RUS
+            NOT = { has_country_flag = cossacks_accepted }
+        }
+        allow = {
+            strategic_mobility = 1
+        }
+        effect = {
+            set_country_flag = cossacks_accepted
+            add_accepted_culture = tatar
+			add_accepted_culture = mongol
+			add_accepted_culture = kazak
+            prestige = 10
+        }
+    }
 }

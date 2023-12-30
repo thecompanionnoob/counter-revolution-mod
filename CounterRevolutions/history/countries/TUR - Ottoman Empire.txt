@@ -5,7 +5,6 @@ culture = kurdish
 culture = azerbaijani
 culture = north_caucasian
 culture = bulgarian
-culture = arab
 culture = tatar
 religion = catholic
 government = absolute_monarchy
