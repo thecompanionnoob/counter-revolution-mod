@@ -1,6 +1,17 @@
 capital = 1121
 primary_culture = persian
 culture = azerbaijani
+culture = kurdish
+culture = turkmen
+culture = pashtun
+culture = baluchi
+culture = uzbek
+culture = tajik
+culture = kirgiz
+culture = sindi
+culture = panjabi
+culture = bengali
+culture = kashmiri
 religion = catholic
 government = absolute_monarchy
 plurality = 0.0

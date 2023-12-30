@@ -1,5 +1,5 @@
-owner = DEN
-controller = DEN
+owner = SWE
+controller = SWE
 trade_goods = fish
 life_rating = 35
 colonial = 2

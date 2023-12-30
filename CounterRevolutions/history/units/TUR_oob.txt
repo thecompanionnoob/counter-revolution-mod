@@ -65,13 +65,7 @@ HDJ = {
 	influence_value = 25
 }
 
-MOL = {
-	value = 125
-	level = 5
-	influence_value = 25
-}
-
-WAL = {
+ROM = {
 	value = 125
 	level = 5
 	influence_value = 25
