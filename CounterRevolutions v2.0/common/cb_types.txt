@@ -519,7 +519,7 @@ acquire_core_state = {
 	construction_speed = 0.8
 	badboy_factor = 0
 	prestige_factor = 5
-	peace_cost_factor = 0.25
+	peace_cost_factor = 0.8
 	penalty_factor = 1
 
 	break_truce_prestige_factor = 5
@@ -593,7 +593,7 @@ annex_core_country = {
 
 	badboy_factor = 0
 	prestige_factor = 5
-	peace_cost_factor = 0.7
+	peace_cost_factor = 0.8
 	penalty_factor = 1
 
 	break_truce_prestige_factor = 5
@@ -712,7 +712,7 @@ acquire_civilised_substate_region = {
 	
 	badboy_factor = 2
 	prestige_factor = 2
-	peace_cost_factor = 0.5
+	peace_cost_factor = 1
 	penalty_factor = 1
 
 	break_truce_prestige_factor = 1
@@ -782,7 +782,7 @@ acquire_uncivilised_substate_region = {
 	
 	badboy_factor = 1
 	prestige_factor = 2
-	peace_cost_factor = 0.25
+	peace_cost_factor = 1
 	penalty_factor = 1
 
 	break_truce_prestige_factor = 1
@@ -852,7 +852,7 @@ acquire_state = {
 	
 	badboy_factor = 2.2
 	prestige_factor = 2
-	peace_cost_factor = 0.5
+	peace_cost_factor = 1
 	penalty_factor = 1
 
 	break_truce_prestige_factor = 1
@@ -953,7 +953,7 @@ acquire_capital_state = {
 	
 	badboy_factor = 3.3
 	prestige_factor = 2
-	peace_cost_factor = 0.6
+	peace_cost_factor = 1.1
 	penalty_factor = 1
 
 	break_truce_prestige_factor = 1
@@ -1054,7 +1054,7 @@ place_in_the_sun = {
 
 	badboy_factor = 1
 	prestige_factor = 2
-	peace_cost_factor = 0.25
+	peace_cost_factor = 1
 	penalty_factor = 1
 
 	break_truce_prestige_factor = 1
@@ -1139,7 +1139,7 @@ colonial_competition = {
 
 	badboy_factor = 0
 	prestige_factor = 2
-	peace_cost_factor = 0.5
+	peace_cost_factor = 1
 	penalty_factor = 1
 
 	break_truce_prestige_factor = 1
@@ -1276,7 +1276,7 @@ free_peoples = {
 
 	badboy_factor = 1.5
 	prestige_factor = 1
-	peace_cost_factor = 0.7
+	peace_cost_factor = 1
 	penalty_factor = 1
 
 	break_truce_prestige_factor = 1
@@ -1344,7 +1344,7 @@ liberate_country = {
 
 	badboy_factor = 2.2
 	prestige_factor = 1
-	peace_cost_factor = 0.7
+	peace_cost_factor = 1
 	penalty_factor = 1
 
 	break_truce_prestige_factor = 1
@@ -1581,7 +1581,7 @@ make_puppet = {
 
 	badboy_factor = 2.0
 	prestige_factor = 1
-	peace_cost_factor = 0.59
+	peace_cost_factor = 1
 	penalty_factor = 1
 	is_civil_war = yes
 
@@ -1662,7 +1662,7 @@ make_puppet_2 = {
 
 	badboy_factor = 1.0
 	prestige_factor = 1
-	peace_cost_factor = 0.59
+	peace_cost_factor = 1
 	penalty_factor = 1
 
 	break_truce_prestige_factor = 1
@@ -1846,7 +1846,7 @@ demand_concession_casus_belli = {
 	
 	badboy_factor = 1
 	prestige_factor = 1
-	peace_cost_factor = 0.5
+	peace_cost_factor = 1
 	penalty_factor = 1
 
 	break_truce_prestige_factor = 1
@@ -2330,7 +2330,7 @@ unification_casus_belli = {
 	
 	badboy_factor = 0
 	prestige_factor = 1
-	peace_cost_factor = 0.5
+	peace_cost_factor = 1
 	penalty_factor = 1
 
 	break_truce_prestige_factor = 1
@@ -2785,7 +2785,7 @@ demand_concession_casus_belli_scramble = {
 	
 	badboy_factor = 0
 	prestige_factor = 1
-	peace_cost_factor = 0.25
+	peace_cost_factor = 1
 	penalty_factor = 0
 
 	break_truce_prestige_factor = 0
