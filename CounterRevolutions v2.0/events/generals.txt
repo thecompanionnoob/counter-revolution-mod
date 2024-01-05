@@ -1,0 +1,25 @@
+country_event = {
+	id = 600000
+	allow_multiple_instances = yes
+	trigger = {
+	    ai = no
+	    NOT = {
+		    has_leader = "Joe Biden"
+	    }
+    }
+	mean_time_to_happen = {
+		days = 1
+	}
+	title = "Joe Biden"
+	desc = "WAKE UP"
+	immediate = {
+		define_general = {
+			name = "Joe Biden"
+			personality = defence_4.1
+			background = attack_4.1
+		}
+	}
+	option = {
+		name = "He's Awake!?!?!"		
+	}
+}
