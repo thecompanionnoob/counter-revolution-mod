@@ -1,5 +1,5 @@
 country_event = {
-	id = 696969
+	id = 69696969
 	title = "The Arabian Revolt"
 	desc = "Large life for the Sublime Turkish man!"
 	
