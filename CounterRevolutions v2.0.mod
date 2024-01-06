@@ -1,5 +1,0 @@
-name = "Counter Revolution Mod v2.5"
-path = "mod/CounterRevolutions v2.5"
-user_dir = "CounterRevolutions v2.5"
-replace_path = "history"
-replace_path = "common"
