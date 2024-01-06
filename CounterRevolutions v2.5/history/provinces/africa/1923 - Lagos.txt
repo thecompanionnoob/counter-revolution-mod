@@ -1,0 +1,5 @@
+owner = IJE
+controller = IJE
+add_core = IJE
+trade_goods = tropical_wood
+life_rating = 33

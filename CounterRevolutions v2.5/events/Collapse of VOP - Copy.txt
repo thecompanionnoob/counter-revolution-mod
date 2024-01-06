@@ -1,0 +1,35 @@
+#Peruvian War of Independence
+country_event = {
+	id = 700066
+	title = "Peruvian War of Independence"
+	desc = "EVTDESC7006"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Damn them!"
+		VOP = {
+		    release = PEU
+            create_alliance = SPA
+		}	
+		SPA = {
+			casus_belli = {
+				target = PEU
+				type = conquest
+				months = 36
+			}		
+			war = {
+				target = PEU
+				attacker_goal = { casus_belli = conquest }
+				call_ally = yes
+				defender_goal = { casus_belli = humillation }
+			}
+			PEU = {
+				add_country_modifier = {
+					name = war_of_independence_mobilization
+					duration = 336
+				}
+			}
+		}
+	}
+}

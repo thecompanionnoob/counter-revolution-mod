@@ -1,0 +1,134 @@
+coptic;Oriental Orthodox;;;;;;;;;;;;;x
+judaism;Judaism;;;;;;;;;;;;;x
+nestorian;Nestorian;;;;;;;;;;;;;x
+gelugpa;Vajrayana;;;;;;;;;;;;;x
+prussian_constitutionalism;Limited Constitutional Monarchy;;;;;;;;;;;;;x
+hms_government;Constitutional Monarchy;;;;;;;;;;;;;x
+east_india_company;East India Company;;;;;;;;;;;;;x
+demand_concession_casus_belli_scramble;Demand Concession;Demande de concession;Zugeständnisse verlangen;;Exigir concesión;;;;;;;;;x;;
+demand_concession_casus_belli_scramble_desc;Force an §Yuncivilized country§W to secede territory to form a colonial concession.;Obligez un §Ypays non civilisé§W à faire sécession d'un territoire pour former une concession coloniale.;Zwingen Sie ein §Yunzivilisiertes Land§W, Gebiete zur Gründung einer Kolonie abzuspalten.;;Obliga a un §Ypaís incivilizado§W a escindir territorio para formar una concesión colonial.;;;;;;;;;x;;
+demand_concession_casus_belli_scramble_setup;Demand that $RECIPIENT$ secede territory to form a colonial concession.;Demandez à ce que $RECIPIENT$ fasse sécession d'un territoire pour former une concession coloniale.;Verlangen Sie, dass $RECIPIENT$ Gebiete zur Gründung einer Kolonie abspaltet.;;Exigir que $RECIPIENT$ escinda territorio para formar una concesión colonial.;;;;;;;;;x;;
+demand_concession_casus_belli_scramble_short;Demand $STATE$;Demande $STATE$;Fordern Sie $STATE$;;Exigir $STATE$;;;;;;;;;x;;
+demand_reparations_cb;Demand Reparations;;;;;;;;;;;;;x
+demand_reparations_cb_desc;Force $RECIPIENT$ to pay war reparations.;;;;;;;;;;;;;x
+demand_reparations_cb_setup;Demand that $RECIPIENT$ pays us war reparations.;;;;;;;;;;;;;x
+demand_reparations_cb_short;Demand Reparations;;;;;;;;;;;;;x
+violate_neutrality_cb;Violate Neutrality;;;;;;;;;;;;;x
+violate_neutrality_cb_desc;Force $RECIPIENT$ to end their neutrality.;;;;;;;;;;;;;x
+violate_neutrality_cb_setup;Force $RECIPIENT$ to end their neutrality.;;;;;;;;;;;;;x
+violate_neutrality_cb_short;Violate Neutrality;;;;;;;;;;;;;x
+MODIFIER_PENSION_LEVEL;Social Spending;;;;;;;;;;;;;x
+grain;Food Crops;;;;;;;;;;;;;x
+cattle;Livestock;;;;;;;;;;;;;x
+settlement_push;Settlement Push;;;;;;;;;;;;;x
+settlement_push_desc;A rush for the settlement of new lands.;;;;;;;;;;;;;x
+penal_colony;Penal Colony;;;;;;;;;;;;;x
+post_war_france;Post War France;;;;;;;;;;;;;x
+post_war_france_desc;The treaties that ended the Napoleonic wars imposed harsh penalties on France.;;;;;;;;;;;;;x
+colonial_RGO;Colonial RGO;;;;;;;;;;;;;x
+establish_protectorate_casus_belli_2;Establish Protectorate;Établir un protectorat;Protektorat gründen;;Establecer protectorado;;;;;;;;;x
+establish_protectorate_casus_belli_2_desc;Annex an §Yuncivilized country§W by forcing them to become a protectorate of ours.;Annexez un §Ypays non civilisé§W en l'obligeant à devenir l'un de nos protectorats.;Annektieren Sie ein §Yunzivilisiertes Land§W, indem Sie es zwingen, eines Ihrer Protektorate zu werden.;;Anexiona un §Ypaís incivilizado§W, obligándolo a convertirse en protectorado nuestro.;;;;;;;;;x
+establish_protectorate_casus_belli_2_setup;Annex $RECIPIENT$ by establishing a protectorate over them.;Annexez $RECIPIENT$ en établissant un protectorat.;Annektieren Sie $RECIPIENT$ durch die Gründung eines Protektorats.;;Anexionar $RECIPIENT$ estableciendo un protectorado sobre ellos.;;;;;;;;;x
+establish_protectorate_casus_belli_2_short;Annex $RECIPIENT$;Annexer $RECIPIENT$;Annektieren Sie $RECIPIENT$;;Anexionar $RECIPIENT$;;;;;;;;;x
+establish_protectorate_casus_belli_3;Establish Protectorate;Établir un protectorat;Protektorat gründen;;Establecer protectorado;;;;;;;;;x
+establish_protectorate_casus_belli_3_desc;Annex an §Yuncivilized country§W by forcing them to become a protectorate of ours.;Annexez un §Ypays non civilisé§W en l'obligeant à devenir l'un de nos protectorats.;Annektieren Sie ein §Yunzivilisiertes Land§W, indem Sie es zwingen, eines Ihrer Protektorate zu werden.;;Anexiona un §Ypaís incivilizado§W, obligándolo a convertirse en protectorado nuestro.;;;;;;;;;x
+establish_protectorate_casus_belli_3_setup;Annex $RECIPIENT$ by establishing a protectorate over them.;Annexez $RECIPIENT$ en établissant un protectorat.;Annektieren Sie $RECIPIENT$ durch die Gründung eines Protektorats.;;Anexionar $RECIPIENT$ estableciendo un protectorado sobre ellos.;;;;;;;;;x
+establish_protectorate_casus_belli_3_short;Annex $RECIPIENT$;Annexer $RECIPIENT$;Annektieren Sie $RECIPIENT$;;Anexionar $RECIPIENT$;;;;;;;;;x
+conquest_2;Conquest;Conqu?e;Eroberung;;Conquista;;;;;;;;;x;;;;
+conquest_2_desc;Annex a single-state §Ycountry§W or an §Yuncivilized nation§W;Annexer un §Ypays§W à un État ou une §Ynation non civilisée§W;Annektieren Sie ein Einzelstaat-§YLand§W oder eine §Yunzivilisierte Nation§W;;Anexionar un §Ypaís§W o una §Ynación sin civilizar§W de un solo estado;;;;;;;;;x
+conquest_2_setup;Annex $RECIPIENT$;Annexer $RECIPIENT$;$RECIPIENT$ annektieren;;Anexi? de $RECIPIENT$;;;;;;;;;x;;;;
+conquest_2_short;Annex $RECIPIENT$;Annexer $RECIPIENT$;$RECIPIENT$ annektieren;;Anexi? de $RECIPIENT$;;;;;;;;;x;;;;
+settler_colony;Settler Colony;;;;;;;;;;;;;x
+protectorate;Protectorate;;;;;;;;;;;;;x
+serfdom;Serfdom;;;;;;;;;;;;;x
+immigrant_port;Immigrant Port;;;;;;;;;;;;;x
+serfdom_desc;The peasants are subject to serfdom.;;;;;;;;;;;;;x
+democracy;Republic;;;;;;;;;;;;;x;;;;
+war_of_independence_mobilization;War of Independence;;;;;;;;;;;;;x;;;;
+war_of_independence_mobilization_desc;Our country mobilises for freedom!;;;;;;;;;;;;;x;;;;
+german;German;;;;;;;;;;;;;x
+han;Han;;;;;;;;;;;;;x
+hui;Hui;;;;;;;;;;;;;x
+american;American;;;;;;;;;;;;;x
+assyrian;Assyrian;;;;;;;;;;;;;x
+azerbaijani;Azeri;;;;;;;;;;;;;x
+burmese;Bamar;;;;;;;;;;;;;x
+north_caucasian;Circassian;;;;;;;;;;;;;x
+ossetian;Ossetian;;;;;;;;;;;;;x
+breton;Breton;;;;;;;;;;;;;x
+sorb;Sorb;;;;;;;;;;;;;x
+hindustani;Hindustani;;;;;;;;;;;;;x
+nakhchi;Nakhchi;;;;;;;;;;;;;x
+lezgin;Lezgin;;;;;;;;;;;;;x
+north_germanic;North Germanic;;;;;;;;;;;;;x
+samoyedic;Samoyedic;;;;;;;;;;;;;x
+permian;Permian;;;;;;;;;;;;;x
+volga_finns;Volga Finnish;;;;;;;;;;;;;x
+romani;Romani;;;;;;;;;;;;;x
+native_american_minor;Native American;;;;;;;;;;;;;x
+afro_caribeno;Afro Latino;;;;;;;;;;;;;x
+north_andean;Andean;;;;;;;;;;;;;x
+south_andean;Chilean;;;;;;;;;;;;;x
+caribeno;Caribbean;;;;;;;;;;;;;x
+faroese;Faroese;;;;;;;;;;;;;x
+frisian;Frisian;;;;;;;;;;;;;x
+sardinian;Sardinian;;;;;;;;;;;;;x
+asturian;Asturian;;;;;;;;;;;;;x
+romansh;Romansh;;;;;;;;;;;;;x
+ladin;Ladin;;;;;;;;;;;;;x
+friulian;Friulian;;;;;;;;;;;;;x
+occitan;Occitan;;;;;;;;;;;;;x
+marsh;Wetland;;;;;;;;;;;;;x
+boer;Afrikaner;;;;;;;;;;;;;x
+dismantle_forts;Dismantle Fortifications;;;;;;;;;;x;;;;
+dismantle_forts_desc;Dismantle fortifications.;;;;;;;;;;x;;;;
+dismantle_forts_short;Dismantle fortifications in $STATE$;;;;;;;;;;x;;;;
+dismantle_forts_setup;Dismantle fortifications in $STATE$;;;;;;;;;;x;;;;
+dismantle_naval_bases;Dismantle Naval Bases;;;;;;;;;;x;;;;
+dismantle_naval_bases_desc;Dismantle naval bases.;;;;;;;;;;x;;;;
+dismantle_naval_bases_short;Dismantle naval bases in $STATE$;;;;;;;;;;x;;;;
+dismantle_naval_bases_setup;Dismantle naval bases in $STATE$;;;;;;;;;;x;;;;
+acquire_capital_state;Acquire capital state;;;;;;;;;;;;;x;;;;
+acquire_capital_state_desc;Aquire the enemy capital §Ystate§W;;;;;;;;;;;;;x;;;;
+acquire_capital_state_short;Acquire $STATE$;;;;;;;;;;;;;x;;;;
+acquire_capital_state_setup;Acquire $STATE$ from $RECIPIENT$;;;;;;;;;;;;;x;;;;
+acquire_uncivilised_substate_region;Acquire uncivilised substate region;;;;;;;;;;;;;x
+acquire_uncivilised_substate_region_desc;Acquire a region from enemy §Ysubstate§W;;;;;;;;;;;;;x
+acquire_uncivilised_substate_region_short;Acquire $STATE$;Prendre $STATE$;;;;;;;;;;;;x
+acquire_uncivilised_substate_region_setup;Acquire $STATE$ from $RECIPIENT$;;;;;;;;;;;;;x
+acquire_civilised_substate_region;Acquire civilised substate region;;;;;;;;;;;;;x
+acquire_civilised_substate_region_desc;Acquire a region from enemy §Ysubstate§W;;;;;;;;;;;;;x
+acquire_civilised_substate_region_short;Acquire $STATE$;Prendre $STATE$;;;;;;;;;;;;x
+acquire_civilised_substate_region_setup;Acquire $STATE$ from $RECIPIENT$;;;;;;;;;;;;;x
+neutrality;Neutrality;;;;;;;;;;;;;x
+neutrality_desc;Our country has declared neutrality.;;;;;;;;;;;;;x
+irish_potato_famine;Irish Potato Famine;;;;;;;;;;;;;x
+irish_potato_famine_desc;A terrible disease sweeps the land and destroys the potato crop.;;;;;;;;;;;;;x
+silver_rush;Silver Rush!;;;;;;;;;;;;;x
+silver_rush_desc;A silver rush attracts immigrants.;;;;;;;;;;;;;x
+state_silver_rush;Silver Rush!;;;;;;;;;;;;;x
+state_silver_rush_desc;A silver rush attracts immigrants.;;;;;;;;;;;;;x
+global_silver_rush;Silver Rush!;;;;;;;;;;;;;x
+global_silver_rush_desc;A silver rush attracts immigrants.;;;;;;;;;;;;;x
+diamond_rush;Diamond Rush!;;;;;;;;;;;;;x
+diamond_rush_desc;A diamond rush attracts immigrants.;;;;;;;;;;;;;x
+state_diamond_rush;Diamond Rush!;;;;;;;;;;;;;x
+state_diamond_rush_desc;A diamond rush attracts immigrants.;;;;;;;;;;;;;x
+global_diamond_rush;Diamond Rush!;;;;;;;;;;;;;x
+global_diamond_rush_desc;A diamond rush attracts immigrants.;;;;;;;;;;;;;x
+state_gold_rush;Gold Rush!;;;;;;;;;;;;;x
+state_gold_rush_desc;A gold rush attracts immigrants.;;;;;;;;;;;;;x
+global_gold_rush;Gold Rush!;;;;;;;;;;;;;x
+global_gold_rush_desc;A gold rush attracts immigrants.;;;;;;;;;;;;;x
+gaels;Gaels;;;;;;;;;;;;;x
+welsh;Welsh;;;;;;;;;;;;;x
+make_puppet_2;Make puppet;Créer un pays satellite;Erschafft eine Marionette;;;;;;;;;;;x
+make_puppet_2_short;$RECIPIENT$ becomes a puppet of $ACTOR$;$RECIPIENT$ devient satellite de $ACTOR$;$RECIPIENT$ wird eine Marionette von $ACTOR$;;;;;;;;;;;x
+make_puppet_2_setup;$RECIPIENT$ becomes a puppet of $ACTOR$;$RECIPIENT$ devient satellite de $ACTOR$;$RECIPIENT$ wird eine Marionette von $ACTOR$;;;;;;;;;;;x
+make_puppet_2_desc;Become a puppet;Devenir un satellite;Werdet eine Marionette;;;;;;;;;;;x
+isolationism;Isolationism;;;;;;;;;;;;;x
+land_locked;Land Locked;;;;;;;;;;;;;x
+secondary_power;Middle power;;;;;;;;;;;;;x
+tropical_wood;Tropical Timber;;;;;;;;;;;;;x
+tarascan;Otomi;;;;;;;;;;;;;x
+mixtec;Mixtec;;;;;;;;;;;;;x

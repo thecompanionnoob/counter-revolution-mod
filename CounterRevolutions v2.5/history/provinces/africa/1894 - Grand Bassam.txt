@@ -1,0 +1,5 @@
+owner = SNW
+controller = SNW
+add_core = SNW
+trade_goods = cattle
+life_rating = 35

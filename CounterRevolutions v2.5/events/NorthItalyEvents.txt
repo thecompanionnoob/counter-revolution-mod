@@ -1,0 +1,29 @@
+country_event = {
+	id = 99899920
+	title = "pulverize the traitors"
+	trigger = {
+		tag = AUS
+		year = 1849
+		exists = LOM
+	}
+	
+fire_only_once = yes
+	
+	option = {
+		name = "Congratulations on your temporary independence!"
+		release_vassal = LOM
+		SAR = {
+			create_alliance = LOM
+		}
+			casus_belli = {
+			target = LOM
+			type = conquest
+			months = 36
+		}
+			war = {
+			target = LOM
+			attacker_goal = { casus_belli = conquest }
+			call_ally = no
+		}
+	}
+}

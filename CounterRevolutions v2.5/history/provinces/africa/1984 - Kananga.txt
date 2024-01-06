@@ -1,0 +1,5 @@
+owner = LDA
+controller = LDA
+add_core = LDA
+trade_goods = cotton
+life_rating = 35

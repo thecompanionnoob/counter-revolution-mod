@@ -1,4 +1,0 @@
-owner = CHI
-controller = CHI
-trade_goods = tea
-life_rating = 32

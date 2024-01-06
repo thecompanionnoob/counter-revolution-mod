@@ -1,5 +1,0 @@
-owner = KUM
-controller = KUM
-add_core = KUM
-trade_goods = fruit
-life_rating = 32

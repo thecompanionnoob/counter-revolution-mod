@@ -1,0 +1,5 @@
+owner = EIC
+controller = EIC
+add_core = KDY
+trade_goods = coffee
+life_rating = 38

@@ -1,5 +1,0 @@
-owner = ROM
-controller = ROM
-add_core = ROM
-trade_goods = timber
-life_rating = 36

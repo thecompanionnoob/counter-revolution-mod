@@ -1,5 +1,0 @@
-owner = FTO
-controller = FTO
-add_core = FTO
-trade_goods = grain
-life_rating = 33

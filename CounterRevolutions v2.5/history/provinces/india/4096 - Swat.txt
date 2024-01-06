@@ -1,0 +1,5 @@
+owner = SWT
+controller = SWT
+add_core = SWT
+trade_goods = fruit
+life_rating = 33

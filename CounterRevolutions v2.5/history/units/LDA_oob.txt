@@ -1,0 +1,20 @@
+army = {
+	name = "1st Army"
+	location = 1988
+	regiment = {
+		name= "1. Kafakumbu Militia"
+		type = irregular
+		home = 1988
+	}
+	regiment = {
+		name= "1. Luebo Militia"
+		type = irregular
+		home = 1984
+	}
+	regiment = {
+		name= "1. Bandundu Militia"
+		type = irregular
+		home = 1985
+	}
+}
+

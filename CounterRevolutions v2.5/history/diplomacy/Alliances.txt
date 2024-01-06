@@ -1,0 +1,174 @@
+alliance = {
+	first = "ENG"
+	second = "POR"
+	start_date = "1815.1.1"
+	end_date = "1936.1.1"
+}
+alliance = {
+	first = "ARG"
+	second = "CHL"
+	start_date = "1815.1.1"
+	end_date = "1936.1.1"
+}
+alliance = {
+	first = "CHI"
+	second = "KOR"
+	start_date = "1815.1.1"
+	end_date = "1936.1.1"
+}
+alliance = {
+	first = "CHI"
+	second = "LFN"
+	start_date = "1815.1.1"
+	end_date = "1936.1.1"
+}
+alliance = {
+	first = "ENG"
+	second = "PRU"
+	start_date = "1815.1.1"
+	end_date = "1936.1.1"
+}
+alliance = {
+	first = "ENG"
+	second = "AUS"
+	start_date = "1815.1.1"
+	end_date = "1936.1.1"
+}
+alliance = {
+	first = "ENG"
+	second = "RUS"
+	start_date = "1815.1.1"
+	end_date = "1936.1.1"
+}
+alliance = {
+	first = "PRU"
+	second = "ENG"
+	start_date = "1815.1.1"
+	end_date = "1936.1.1"
+}
+alliance = {
+	first = "PRU"
+	second = "AUS"
+	start_date = "1815.1.1"
+	end_date = "1936.1.1"
+}
+alliance = {
+	first = "PRU"
+	second = "RUS"
+	start_date = "1815.1.1"
+	end_date = "1936.1.1"
+}
+alliance = {
+	first = "AUS"
+	second = "PRU"
+	start_date = "1815.1.1"
+	end_date = "1936.1.1"
+}
+alliance = {
+	first = "AUS"
+	second = "ENG"
+	start_date = "1815.1.1"
+	end_date = "1936.1.1"
+}
+alliance = {
+	first = "AUS"
+	second = "RUS"
+	start_date = "1815.1.1"
+	end_date = "1936.1.1"
+}
+alliance = {
+	first = "RUS"
+	second = "PRU"
+	start_date = "1815.1.1"
+	end_date = "1936.1.1"
+}
+alliance = {
+	first = "RUS"
+	second = "AUS"
+	start_date = "1815.1.1"
+	end_date = "1936.1.1"
+}
+alliance = {
+	first = "RUS"
+	second = "ENG"
+	start_date = "1815.1.1"
+	end_date = "1936.1.1"
+}
+alliance = {
+	first = "TUR"
+	second = "IRQ"
+	start_date = "1815.1.1"
+	end_date = "1936.1.1"
+}
+alliance = {
+	first = "TUR"
+	second = "EGY"
+	start_date = "1815.1.1"
+	end_date = "1936.1.1"
+}
+alliance = {
+	first = "TUR"
+	second = "TRI"
+	start_date = "1815.1.1"
+	end_date = "1936.1.1"
+}
+alliance = {
+	first = "TUR"
+	second = "TUN"
+	start_date = "1815.1.1"
+	end_date = "1936.1.1"
+}
+alliance = {
+	first = "TUR"
+	second = "ALD"
+	start_date = "1815.1.1"
+	end_date = "1936.1.1"
+}
+alliance = {
+	first = "TUR"
+	second = "HAR"
+	start_date = "1815.1.1"
+	end_date = "1936.1.1"
+}
+alliance = {
+	first = "TUR"
+	second = "SEN"
+	start_date = "1815.1.1"
+	end_date = "1936.1.1"
+}
+alliance = {
+	first = "TUR"
+	second = "WAD"
+	start_date = "1815.1.1"
+	end_date = "1936.1.1"
+}
+alliance = {
+	first = "TUR"
+	second = "DAR"
+	start_date = "1815.1.1"
+	end_date = "1936.1.1"
+}
+alliance = {
+	first = "TUR"
+	second = "ATJ"
+	start_date = "1815.1.1"
+	end_date = "1936.1.1"
+}
+alliance = {
+	first = "AFG"
+	second = "SIN"
+	start_date = "1815.1.1"
+	end_date = "1936.1.1"
+}
+alliance = {
+	first = "AFG"
+	second = "KAL"
+	start_date = "1815.1.1"
+	end_date = "1936.1.1"
+}
+alliance = {
+	first = "AFG"
+	second = "KHP"
+	start_date = "1815.1.1"
+	end_date = "1936.1.1"
+}

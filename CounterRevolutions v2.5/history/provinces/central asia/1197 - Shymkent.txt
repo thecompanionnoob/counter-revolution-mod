@@ -1,0 +1,5 @@
+owner = KZK
+controller = KZK
+add_core = KZK
+trade_goods = grain
+life_rating = 37

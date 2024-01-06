@@ -1,0 +1,343 @@
+#Liberia Region 
+#under the rule of Liberia in 1836
+#Monrovia 
+1887 = {
+	bureaucrats = {
+		culture = afro_american
+		religion = catholic
+		size = 1
+	}
+	officers = {
+		culture = afro_american
+		religion = catholic
+		size = 3
+	}
+	clergymen = {
+		culture = afro_american
+		religion = catholic
+		size = 16
+	}
+	artisans = {
+		culture = afro_american
+		religion = catholic
+		size = 32
+	}
+	soldiers = {
+		culture = afro_american
+		religion = catholic
+		size = 32
+	}
+	farmers = {
+		culture = afro_american
+		religion = catholic
+		size = 267
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 8
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 65
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 1448
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 915
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 288
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 148
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 775
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 592
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 13484
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 49
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 24
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 148
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 128
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 2713
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 24
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 16
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 65
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 64
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 1195
+	}
+}
+#Harper 
+1888 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 247
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 123
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 626
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 492
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 11414
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 82
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 41
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 214
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 164
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 3909
+	}
+}
+#uncolonized in 1836
+#Bopulu 
+1889 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 156
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 82
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 412
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 328
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 7513
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 32
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 16
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 98
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 96
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 1806
+	}
+}
+#Gbarnga 
+1890 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 65
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 32
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 181
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 164
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 3307
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 140
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 74
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 362
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 296
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 6606
+	}
+}
+#Zwedru 
+1891 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 140
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 82
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 379
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 328
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 6919
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 115
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 65
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 313
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 260
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 5707
+	}
+}

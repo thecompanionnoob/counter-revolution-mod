@@ -1,0 +1,634 @@
+#Tirol
+#Innsbruck
+612 = {
+	aristocrats = {
+		culture = german
+		religion = catholic
+		size = 567
+	}
+	bureaucrats = {
+		culture = german
+		religion = catholic
+		size = 511
+	}
+	officers = {
+		culture = german
+		religion = catholic
+		size = 188
+	}
+	clergymen = {
+		culture = german
+		religion = catholic
+		size = 416
+	}
+	artisans = {
+		culture = german
+		religion = catholic
+		size = 2083
+	}
+	soldiers = {
+		culture = german
+		religion = catholic
+		size = 3328
+	}
+	farmers = {
+		culture = german
+		religion = catholic
+		size = 40397
+	}
+}
+#Salzburg
+613 = {
+	aristocrats = {
+		culture = german
+		religion = catholic
+		size = 441
+	}
+	clergymen = {
+		culture = german
+		religion = catholic
+		size = 637
+	}
+	artisans = {
+		culture = german
+		religion = catholic
+		size = 3190
+	}
+	soldiers = {
+		culture = german
+		religion = catholic
+		size = 4316
+	}
+	farmers = {
+		culture = german
+		religion = catholic
+		size = 28455
+	}
+}
+#Bregenz
+614 = {
+	aristocrats = {
+		culture = german
+		religion = catholic
+		size = 243
+	}
+	clergymen = {
+		culture = german
+		religion = catholic
+		size = 182
+	}
+	artisans = {
+		culture = german
+		religion = catholic
+		size = 911
+	}
+	soldiers = {
+		culture = german
+		religion = catholic
+		size = 2672
+	}
+	farmers = {
+		culture = german
+		religion = catholic
+		size = 18055
+	}
+}
+#Lienz
+615 = {
+	aristocrats = {
+		culture = german
+		religion = catholic
+		size = 151
+	}
+	clergymen = {
+		culture = german
+		religion = catholic
+		size = 107
+	}
+	artisans = {
+		culture = german
+		religion = catholic
+		size = 522
+	}
+	soldiers = {
+		culture = german
+		religion = catholic
+		size = 428
+	}
+	farmers = {
+		culture = german
+		religion = catholic
+		size = 10432
+	}
+	farmers = {
+		culture = italian
+		religion = catholic
+		size = 4024
+	}
+}
+#Carinthia-Styria
+#Graz
+616 = {
+	aristocrats = {
+		culture = german
+		religion = catholic
+		size = 1405
+	}
+	bureaucrats = {
+		culture = german
+		religion = catholic
+		size = 476
+	}
+	officers = {
+		culture = german
+		religion = catholic
+		size = 249
+	}
+	clergymen = {
+		culture = german
+		religion = catholic
+		size = 929
+	}
+	artisans = {
+		culture = german
+		religion = catholic
+		size = 9072
+	}
+	soldiers = {
+		culture = german
+		religion = catholic
+		size = 3808
+	}
+	farmers = {
+		culture = german
+		religion = catholic
+		size = 73191
+	}
+	
+
+
+
+	aristocrats = {
+		culture = german
+		religion = catholic
+		size = 634
+	}
+	clergymen = {
+		culture = german
+		religion = catholic
+		size = 407
+	}
+	artisans = {
+		culture = german
+		religion = catholic
+		size = 2040
+	}
+	soldiers = {
+		culture = german
+		religion = catholic
+		size = 1628
+	}
+	farmers = {
+		culture = german
+		religion = catholic
+		size = 34610
+	}
+}
+#Klagenfurt
+618 = {
+	aristocrats = {
+		culture = german
+		religion = catholic
+		size = 604
+	}
+	clergymen = {
+		culture = german
+		religion = catholic
+		size = 436
+	}
+	artisans = {
+		culture = german
+		religion = catholic
+		size = 2086
+	}
+	soldiers = {
+		culture = german
+		religion = catholic
+		size = 5920
+	}
+	farmers = {
+		culture = german
+		religion = catholic
+		size = 34578
+	}
+	clergymen = {
+		culture = slovene
+		religion = catholic
+		size = 234
+	}
+	artisans = {
+		culture = slovene
+		religion = catholic
+		size = 1278
+	}
+	soldiers = {
+		culture = slovene
+		religion = catholic
+		size = 1076
+	}
+	farmers = {
+		culture = slovene
+		religion = catholic
+		size = 22458
+	}
+}
+#Bozen
+734 = {
+	aristocrats = {
+		culture = german
+		religion = catholic
+		size = 46 
+	}
+	clergymen = {
+		culture = german
+		religion = catholic
+		size = 462 
+	}
+	bureaucrats = {
+		culture = german
+		religion = catholic
+		size = 620 
+	}
+	artisans = {
+		culture = german
+		religion = catholic
+		size = 1655
+	}
+	soldiers = {
+		culture = german
+		religion = catholic
+		size = 752 
+	}
+	farmers = {
+		culture = german
+		religion = catholic
+		size = 51958
+	}
+	clergymen = {
+		culture = italian
+		religion = catholic
+		size = 495
+	}
+	artisans = {
+		culture = italian
+		religion = catholic
+		size = 2670
+	}
+	farmers = {
+		culture = italian
+		religion = catholic
+		size = 11000
+	}
+}
+#Austria  
+#Vienna
+619 = {
+	aristocrats = {
+		culture = german
+		religion = catholic
+		size = 3259
+	}
+	bureaucrats = {
+		culture = german
+		religion = catholic
+		size = 1073
+	}
+	officers = {
+		culture = german
+		religion = catholic
+		size = 460
+	}
+	clergymen = {
+		culture = german
+		religion = catholic
+		size = 2109
+	}
+	artisans = {
+		culture = german
+		religion = catholic
+		size = 10000
+	}
+	artisans = {
+		culture = german
+		religion = catholic
+		size = 10000
+	}
+	artisans = {
+		culture = german
+		religion = catholic
+		size = 10000
+	}
+	artisans = {
+		culture = german
+		religion = catholic
+		size = 10000
+	}
+	artisans = {
+		culture = german
+		religion = catholic
+		size = 10000
+	}
+	artisans = {
+		culture = german
+		religion = catholic
+		size = 10000
+	}
+	artisans = {
+		culture = german
+		religion = catholic
+		size = 10000
+	}
+	artisans = {
+		culture = german
+		religion = catholic
+		size = 10000
+	}
+	artisans = {
+		culture = german
+		religion = catholic
+		size = 10000
+	}
+	artisans = {
+		culture = german
+		religion = catholic
+		size = 10000
+	}
+	artisans = {
+		culture = german
+		religion = catholic
+		size = 10000
+	}
+	artisans = {
+		culture = german
+		religion = catholic
+		size = 10000
+	}
+	artisans = {
+		culture = german
+		religion = catholic
+		size = 10000
+	}
+	artisans = {
+		culture = german
+		religion = catholic
+		size = 6016,76
+	}
+	artisans = {
+		culture = german
+		religion = catholic
+		size = 5751
+	}
+	soldiers = {
+		culture = german
+		religion = catholic
+		size = 8436
+	}
+	farmers = {
+		culture = german
+		religion = catholic
+		size = 59208
+	}
+	clergymen = {
+		culture = czech
+		religion = catholic
+		size = 37
+	}
+	artisans = {
+		culture = czech
+		religion = catholic
+		size = 4563
+	}
+	clergymen = {
+		culture = hungarian
+		religion = catholic
+		size = 14
+	}
+	artisans = {
+		culture = hungarian
+		religion = catholic
+		size = 751
+	}
+	clergymen = {
+		culture = jewish
+		religion = catholic
+		size = 3
+	}
+	artisans = {
+		culture = jewish
+		religion = catholic
+		size = 378
+	}
+	
+	
+	
+	
+	aristocrats = {
+		culture = german
+		religion = catholic
+		size = 287
+	}
+	bureaucrats = {
+		culture = german
+		religion = catholic
+		size = 460
+	}
+	
+	clergymen = {
+		culture = german
+		religion = catholic
+		size = 191
+	}
+	artisans = {
+		culture = german
+		religion = catholic
+		size = 920
+	}
+	soldiers = {
+		culture = german
+		religion = catholic
+		size = 764
+	}
+	farmers = {
+		culture = german
+		religion = catholic
+		size = 15280
+	}
+	
+	
+	
+		
+	aristocrats = {
+		culture = german
+		religion = catholic
+		size = 709
+	}
+	clergymen = {
+		culture = german
+		religion = catholic
+		size = 478
+	}
+	artisans = {
+		culture = german
+		religion = catholic
+		size = 2377
+	}
+	soldiers = {
+		culture = german
+		religion = catholic
+		size = 1988
+	}
+	farmers = {
+		culture = german
+		religion = catholic
+		size = 41951
+	}
+}
+#Linz
+622 = {
+	aristocrats = {
+		culture = german
+		religion = catholic
+		size = 2473
+	}
+	clergymen = {
+		culture = german
+		religion = catholic
+		size = 3440
+	}
+	artisans = {
+		culture = german
+		religion = catholic
+		size = 8228
+	}
+	soldiers = {
+		culture = german
+		religion = catholic
+		size = 6664
+	}
+	farmers = {
+		culture = german
+		religion = catholic
+		size = 144021
+	}
+}
+#Odenburg
+#Eisenstadt
+624 = {
+	aristocrats = {		
+		culture = german
+		religion = catholic
+		size = 405
+	}
+	bureaucrats = {		
+		culture = german
+		religion = catholic
+		size = 54
+	}
+	officers = {		
+		culture = german
+		religion = catholic
+		size = 27
+	}
+	clergymen = {		
+		culture = german
+		religion = catholic
+		size = 270
+	}
+	artisans = {		
+		culture = german
+		religion = catholic
+		size = 1351
+	}
+	soldiers = {		
+		culture = german
+		religion = catholic
+		size = 2164
+	}
+	farmers = {		
+		culture = german
+		religion = catholic
+		size = 24377
+	}
+			
+	aristocrats = {		
+		culture = hungarian
+		religion = catholic
+		size = 49
+	}
+	bureaucrats = {		
+		culture = hungarian
+		religion = catholic
+		size = 7
+	}
+	officers = {		
+		culture = hungarian
+		religion = catholic
+		size = 3
+	}
+	clergymen = {		
+		culture = hungarian
+		religion = catholic
+		size = 33
+	}
+	artisans = {		
+		culture = hungarian
+		religion = catholic
+		size = 163
+	}
+	soldiers = {		
+		culture = hungarian
+		religion = catholic
+		size = 260
+	}
+	farmers = {		
+		culture = hungarian
+		religion = catholic
+		size = 2945
+	}
+
+	aristocrats = {		
+		culture = croat
+		religion = catholic
+		size = 81
+	}
+	bureaucrats = {		
+		culture = croat
+		religion = catholic
+		size = 11
+	}
+	officers = {		
+		culture = croat
+		religion = catholic
+		size = 5
+	}
+	clergymen = {		
+		culture = croat
+		religion = catholic
+		size = 54
+	}
+	artisans = {		
+		culture = croat
+		religion = catholic
+		size = 272
+	}
+	soldiers = {		
+		culture = croat
+		religion = catholic
+		size = 436
+	}
+	farmers = {		
+		culture = croat
+		religion = catholic
+		size = 4900
+	}
+}

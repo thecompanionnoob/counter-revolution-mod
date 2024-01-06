@@ -1,0 +1,6 @@
+owner = MGD
+controller = MGD
+add_core = PHI
+add_core = MGD
+trade_goods = fish
+life_rating = 38

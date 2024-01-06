@@ -1,0 +1,183 @@
+political_decisions = {
+    return_to_france = {
+        potential = {
+            tag = QUE
+            NOT = { has_country_flag = returning_to_france }
+        }
+        allow = {}
+        effect = {
+            FRA = {
+                all_core = {
+                    add_core = THIS
+                }
+            }
+            set_country_flag = returning_to_france
+        }
+    }
+    claim_greater_quebec = { 
+        potential = { 
+            tag = QUE
+            NOT = { has_country_flag = greater_quebec }
+        }
+        allow = {}
+        effect = {
+            set_country_flag = greater_quebec
+            USA_248 = {
+                add_core = THIS
+            }
+            USA_247 = {
+                add_core = THIS
+            }
+            USA_246 = {
+                add_core = THIS
+            }
+            ENG_36 = {
+                add_core = THIS
+            }
+            ENG_6 = {
+                add_core = THIS
+            }
+            ENG_9 = {
+                add_core = THIS
+            }
+            18 = {
+                add_core = THIS
+            }
+            15 = {
+                add_core = THIS
+            }
+            ENG_22 = {
+                add_core = THIS
+            }
+            ENG_30 = {
+                add_core = THIS
+            }
+            USA_116 = {
+                add_core = THIS
+            }
+            USA_243 = {
+                add_core = THIS
+            }
+            USA_242 = {
+                add_core = THIS
+            }
+            USA_241 = {
+                add_core = THIS
+            }
+            USA_232 = {
+                add_core = THIS 
+            }
+            USA_231 = {
+                add_core = THIS
+            }
+            USA_223 = {
+                add_core = THIS
+            }
+            USA_178 = {
+                add_core = THIS
+            }
+            USA_176 = {
+                add_core = THIS
+            }
+            USA_170 = {
+                add_core = THIS
+            }
+            USA_162 = {
+                add_core = THIS
+            }
+            USA_168 = {
+                add_core = THIS
+            }
+            USA_111 = {
+                add_core = THIS
+            }
+            USA_118 = {
+                add_core = THIS
+            }
+            USA_151 = {
+                add_core = THIS
+            }
+            USA_158 = {
+                add_core = THIS
+            }
+            USA_148 = {
+                add_core = THIS 
+            }
+            USA_121 = {
+                add_core = THIS
+            }
+            USA_124 = {
+                add_core = THIS
+            }
+            USA_144 = {
+                add_core = THIS
+            }
+            USA_139 = {
+                add_core = THIS
+            }
+            USA_126 = {
+                add_core = THIS
+            }
+            USA_129 = {
+                add_core = THIS
+            }
+            USA_106 = {
+                add_core = THIS
+            }
+        }
+    }
+    napoleon_secret = {
+        potential = {
+            tag = QUE
+            has_unclaimed_cores = no
+            NOT = { has_global_flag = death_of_napoleon }
+            has_country_flag = greater_quebec 
+            has_country_flag = returning_to_france
+            NOT = { has_country_flag = secret_napoleon }
+        }
+        allow = {}
+        effect = {
+            prestige = 50
+            set_country_flag = secret_napoleon
+        }
+    }
+    france_epic_win_napoleon = {
+        potential = {
+            tag = QUE
+            has_country_flag = returning_to_france
+            exists = FRA
+        }
+        allow = {
+            425 = {
+                owned_by = THIS
+            }
+            FRA_418 = {
+                controlled_by = THIS
+            }
+            408 = {
+                controlled_by = THIS
+            }
+            428 = {
+                controlled_by = THIS
+            }
+            451 = {
+                controlled_by = THIS 
+            }
+            458 = {
+                controlled_by = THIS
+            }
+            442 = {
+                controlled_by = THIS
+            }
+            461 = {
+                controlled_by = THIS
+            }
+            441 = {
+                controlled_by = THIS
+            }
+        }
+        effect = {
+            inherit = FRA
+        }
+    }
+}

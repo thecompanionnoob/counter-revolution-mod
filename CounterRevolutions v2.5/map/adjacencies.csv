@@ -1,0 +1,304 @@
+#From;To;Type;Through;Data;Comment
+#<5 = land;;;;;
+#5-30 = sea;;;;;
+#Land = impassable unless owned;;;;;
+;;;;;
+#;;;;;
+# Straits;;;;;
+#;;;;;
+;;;;;
+#Asia;;;;;
+1667;1659;land;2843;0;Kobe-Tokushima
+1438;1445;sea;2811;0;Lombok-Sumbawa
+1445;1439;sea;2810;0;Flores-Sumbawa
+1439;1446;sea;2809;0;Alor-Dili
+1420;1438;sea;2811;0;Bali Strait
+1404;1399;sea;2813;0;Palak Pinang-Palembang
+3259;1666;land;2843;0;Oito-Matsuyama
+3844;1322;sea;2794;0;Palk Strait #Ceylon-S India
+1640;1660;land;2843;0;Fukuoka Strait
+1089;1088;sea;2839;0;Shumshu-Etorfu
+1089;1644;sea;2839;0;Nemuru-Etorfu
+3697;1087;sea;2839;0;Sakhalin Strait
+1495;1499;sea;2823;0;Hainan Strait
+1457;1461;sea;2849;0;Tacloban Strait
+1397;1464;sea;2851;0;Sulu-Sandakan
+1403;1400;sea;2813;0;Sunda Strait
+1461;1463;sea;2850;0;Surigao Strait #Tacloban to Davao
+1084;1086;sea;2832;0;Tatar Straits
+1756;1154;land;2781;0;Tabuk-Sharm al shayk
+1642;1672;sea;2841;0;Hakodate Strait
+1162;1165;sea;2788;0;Bahrain Strait
+1162;1163;sea;2788;0;Bahrain-Qatif
+1384;1402;sea;2814;0;Straits of Johore
+1418;1421;sea;2811;0;Strait of Madura
+1455;1458;sea;2848;0;Isla Verde passages #Manila to Mindoro
+1462;1464;sea;2851;0;Sulu Sea #Zamboanga to Sulu
+1384;1385;land;2814;0;Singapore Strait
+1459;1458;sea;2848;0;Palawan-Mindoro
+1460;2565;sea;2850;0;Iloilo-Cebu
+1461;2565;sea;2850;0;Tacloban-Cebu
+1074;1088;sea;2836;0;Shumshu-Petropavlovsk
+;;;;;
+#Africa;;;;;
+1412;1875;sea;2782;0;Aden Strait
+2036;2048;sea;2901;0;Zanzibar Strait
+2037;2048;sea;2901;0;Zanzibar Strait
+2037;2038;sea;2901;0;Zanzibar Strait
+1770;1756;land;2781;0;Suez strait
+;;;;;
+#Europe;;;;;
+690;695;land;2710;0;Danzig-Königsberg
+843;869;land;2772;0;Chios-Smyrna
+829;3781;land;2772;0;Samos-Aydin
+829;869;land;2772;0;Samos-Smyrna
+860;861;land;2773;0;Constantinople-Scutari
+859;865;land;2773;0;Gallipoli-Canakkale
+844;865;land;2772;0;Mytilene-Canakkale
+844;864;land;2772;0;Mytilene-Karasi
+844;869;land;2772;0;Mytilene-Smyrna
+846;872;land;2771;0;Dodecanese-Mugla
+826;853;land;2764;0;Corfu Strait
+826;824;land;2764;0;Corfu Strait
+826;832;land;2764;0;Corfu Strait
+838;845;land;2772;0;Cyclades Strait
+834;845;land;2772;0;Cyclades Strait
+842;827;land;2765;0;Ionian Islands Strait
+822;837;sea;2765;0;Ionian Islands Straitt
+2557;373;land;2711;0;Fyn-Jylland
+2636;373;sea;2711;0;Fyn-Sjaelland
+371;373;sea;2711;0;Fyn-Sjaelland
+370;373;sea;2711;0;Fyn-Schleswig
+2636;369;sea;2711;0;Holstein-Sjaelland
+334;372;sea;2711;0;Öresund
+1689;517;sea;2746;0;Strait of Gibraltar
+1686;512;sea;2746;0;Strait of Gibraltar
+1689;512;sea;2746;0;Strait of Gibraltar
+353;358;sea;2709;0;Strait of Riga
+966;3345;sea;2776;0;Strait of Azov
+759;763;land;2760;0;Strait of Messina
+254;271;sea;2737;0;Irish Strait
+304;271;sea;2737;0;Isle of Man-Glasgow
+322;348;sea;2706;0;Aland Strait Stockholm to Aland
+396;374;sea;2710;0;Bornholmsfärjan
+348;345;land;2706;0;Aland Strait #Aland to Turku 
+353;3547;sea;2709;0;Öselsund
+375;385;sea;2722;0;Bay of Holland
+710;419;sea;2725;0;Channel Islands Strait
+473;766;sea;2751;0;Sassari Strait
+267;577;sea;2735;0;Inverness-Orkney
+352;997;land;2713;0;Gdov-Dorpat
+3550;997;land;2713;0;Gdov-Werro
+;;;;;
+#Americas;;;;;
+76;4176;sea;2946;0;Straits of Belle Isle
+13;14;sea;3011;0;Vancouver Crossing
+14;2631;sea;3011;0;Vancouver Crossing
+14;2630;sea;3011;0;Vancouver Crossing
+2230;2232;sea;2976;0;Guadeloupe-Dominica
+2228;2232;sea;2976;0;Martinique-Dominica
+2228;2233;sea;2976;0;Martinique-Saint Lucia
+232;229;sea;2953;0;Long Island-Newark
+232;4758;sea;2953;0;New York-Bridgeport
+4608;4563;sea;3115;0;Traverse City-Marquette
+4169;70;sea;2944;0;Cabot Strait
+2204;2206;land;3001;0;Panama strait
+2335;2332;land;2994;0;Puerto Montt-Ancud
+43;45;sea;2942;0;Rankin Inlet-Baffin Island
+;;;;;
+#Oceania;;;;;
+2539;2534;sea;2859;0;Bougainville-Solomon Islands
+2512;2571;sea;2876;0;Cook Strait #NZ
+2537;2530;sea;2858;0;Villan Strait #New Britain-New Ireland
+;;;;;
+#Cutch;;;;;
+1293;1288;land;;0;
+1293;4076;land;;0;
+1293;1290;land;;0;
+1293;1266;land;;0;
+1293;4065;land;;0;
+1293;4075;land;;0;
+;;;;;
+#;;;;;
+# Impassables;;;;;
+#;;;;;
+;;;;;
+#Alps;;;;;
+721;465;impassable;0;0;scary mountain
+611;614;impassable;0;0;scary mountain
+3317;611;impassable;0;0;scary mountain
+3318;734;impassable;0;0;scary mountain
+3320;615;impassable;0;0;scary mountain
+3320;618;impassable;0;0;scary mountain
+;;;;;
+#Himalayas;;;;;
+3963;1341;impassable;0;0;scary mountain
+1593;1587;impassable;0;0;scary mountain
+1329;1590;impassable;0;0;scary mountain
+1329;1589;impassable;0;0;scary mountain
+1328;1329;impassable;0;0;scary mountain
+1592;4022;impassable;0;0;scary mountain
+1592;4020;impassable;0;0;scary mountain
+1592;4019;impassable;0;0;scary mountain
+1592;4116;impassable;0;0;scary mountain
+4118;1226;impassable;0;0;scary mountain
+3919;1226;impassable;0;0;scary mountain
+3912;1225;impassable;0;0;scary mountain
+3908;1225;impassable;0;0;scary mountain
+1223;1210;impassable;0;0;scary mountain
+1225;1210;impassable;0;0;scary mountain
+3912;1226;impassable;0;0;scary mountain
+3982;1592;impassable;0;0;scary mountain
+4057;1592;impassable;0;0;scary mountain
+1327;1589;impassable;0;0;scary mountain
+1327;3906;impassable;0;0;scary mountain
+3961;1589;impassable;0;0;scary mountain
+3978;1589;impassable;0;0;scary mountain
+4060;1589;impassable;0;0;scary mountain
+4058;1589;impassable;0;0;scary mountain
+4066;1589;impassable;0;0;scary mountain
+4066;1328;impassable;0;0;scary mountain
+;;;;;
+#Andes;;;;;
+2332;2394;impassable;0;0;scary mountain
+2332;2397;impassable;0;0;scary mountain
+2331;2391;impassable;0;0;scary mountain
+3822;2391;impassable;0;0;scary mountain
+2327;2391;impassable;0;0;scary mountain
+3819;2390;impassable;0;0;scary mountain
+3820;2390;impassable;0;0;scary mountain
+2324;2390;impassable;0;0;scary mountain
+2324;2389;impassable;0;0;scary mountain
+2326;2388;impassable;0;0;scary mountain
+2322;2388;impassable;0;0;scary mountain
+2305;2375;impassable;0;0;scary mountain
+2256;2248;impassable;0;0;scary mountain
+2372;2315;impassable;0;0;scary mountain
+2372;2371;impassable;0;0;scary mountain
+2305;4988;impassable;0;0;scary mountain
+2305;4989;impassable;0;0;scary mountain
+2305;4987;impassable;0;0;scary mountain
+2305;4967;impassable;0;0;scary mountain
+2305;4968;impassable;0;0;scary mountain
+2286;2263;impassable;0;0;scary mountain
+2263;2288;impassable;0;0;scary mountain
+2263;2284;impassable;0;0;scary mountain
+2284;2259;impassable;0;0;scary mountain
+2257;2258;impassable;0;0;scary mountain
+2273;2272;impassable;0;0;scary mountain
+2260;2257;impassable;0;0;scary mountain
+2263;2257;impassable;0;0;scary mountain
+2263;2259;impassable;0;0;scary mountain
+;;;;;
+;;;;;
+#Pyrenees;;;;;
+457;500;impassable;0;0;scary mountain
+455;496;impassable;0;0;scary mountain
+3270;496;impassable;0;0;scary mountain
+;;;;;
+#Balkans;;;;;
+823;815;impassable;0;0;scary mountain
+830;815;impassable;0;0;scary mountain
+808;809;impassable;0;0;scary mountain
+837;833;impassable;0;0;scary mountain
+799;772;impassable;0;0;scary mountain
+799;810;impassable;0;0;scary mountain
+850;806;impassable;0;0;scary mountain
+821;5098;impassable;0;0;scary mountain
+5099;5098;impassable;0;0;scary mountain
+805;807;impassable;0;0;scary mountain
+;;;;;
+#Drakensberg;;;;;
+2104;2112;impassable;0;0;scary mountain
+2104;5060;impassable;0;0;scary mountain
+2104;5058;impassable;0;0;scary mountain
+;;;;;
+#Caucasus;;;;;
+3611;3349;impassable;0;0;scary mountain
+1095;3349;impassable;0;0;scary mountain
+1095;3580;impassable;0;0;scary mountain
+3580;3349;impassable;0;0;scary mountain
+3580;3565;impassable;0;0;scary mountain
+4996;1054;impassable;0;0;scary mountain
+4996;3575;impassable;0;0;scary mountain
+4996;3565;impassable;0;0;scary mountain
+3576;5002;impassable;0;0;scary mountain
+4998;5002;impassable;0;0;scary mountain
+4998;1055;impassable;0;0;scary mountain
+4998;5003;impassable;0;0;scary mountain
+1091;5003;impassable;0;0;scary mountain
+3577;1053;impassable;0;0;scary mountain
+3579;1053;impassable;0;0;scary mountain
+1053;5005;impassable;0;0;scary mountain
+5005;5004;impassable;0;0;scary mountain
+5004;3566;impassable;0;0;scary mountain
+3579;5005;impassable;0;0;scary mountain
+1104;5005;impassable;0;0;scary mountain
+1104;1103;impassable;0;0;scary mountain
+3569;1103;impassable;0;0;scary mountain
+3571;1103;impassable;0;0;scary mountain
+1103;5005;impassable;0;0;scary mountain
+3584;1105;impassable;0;0;scary mountain
+4999;3572;impassable;0;0;scary mountain
+596;3582;impassable;0;0;scary mountain
+890;4824;impassable;0;0;scary mountain
+;;;;;
+#Carpathians;;;;;
+3616;657;impassable;0;0;scary mountain
+3616;659;impassable;0;0;scary mountain
+667;659;impassable;0;0;scary mountain
+3618;3637;impassable;0;0;scary mountain
+3618;3624;impassable;0;0;scary mountain
+3632;953;impassable;0;0;scary mountain
+3632;662;impassable;0;0;scary mountain
+;;;;;
+#Taurus;;;;;
+895;541;impassable;0;0;scary mountain
+;;;;;
+#Hindu Kush;;;;;
+4097;1216;impassable;0;0;scary mountain
+1216;1210;impassable;0;0;scary mountain
+1216;4092;impassable;0;0;scary mountain
+1209;4092;impassable;0;0;scary mountain
+;;;;;
+#Tian Shan;;;;;
+1199;1202;impassable;0;0;scary mountain
+1207;1202;impassable;0;0;scary mountain
+1195;1185;impassable;0;0;scary mountain
+1203;1189;impassable;0;0;scary mountain
+1203;1190;impassable;0;0;scary mountain
+1597;1190;impassable;0;0;scary mountain
+1186;1190;impassable;0;0;scary mountain
+3591;1597;impassable;0;0;scary mountain
+1595;1597;impassable;0;0;scary mountain
+3591;3723;impassable;0;0;scary mountain
+3720;2607;impassable;0;0;scary mountain
+3729;2607;impassable;0;0;scary mountain
+;;;;;
+#Altay;;;;;
+1068;1596;impassable;0;0;scary mountain
+3589;1596;impassable;0;0;scary mountain
+2681;1469;impassable;0;0;scary mountain
+1068;1469;impassable;0;0;scary mountain
+1076;1469;impassable;0;0;scary mountain
+1075;1469;impassable;0;0;scary mountain
+1075;3615;impassable;0;0;scary mountain
+1466;3615;impassable;0;0;scary mountain
+;;;;;
+#;;;;;
+# Canals  ;;;;;
+#;;;;;
+2711;2721;canal;369;1;Kiel Canal
+2781;2769;canal;1755;2;Suez Canal
+2968;3001;canal;1723;3;Panama Canal
+2773;2774;canal;860;4;Bosphorus
+2773;2772;canal;859;5;Gallipoli
+2757;2760;canal;763;6;Messina
+2776;2777;canal;966;7;Kerch
+2772;2765;canal;840;8;Corinth Canal
+2707;2714;canal;994;9;White Sea–Baltic Canal
+2707;2714;canal;3446;9;White Sea–Baltic Canal
+2714;2715;canal;3531;9;White Sea–Baltic Canal
+2714;2715;canal;995;9;White Sea–Baltic Canal
+2715;2716;canal;988;9;White Sea–Baltic Canal
+2715;2716;canal;984;9;White Sea–Baltic Canal

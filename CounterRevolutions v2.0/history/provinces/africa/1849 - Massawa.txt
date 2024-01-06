@@ -1,5 +1,0 @@
-owner = ASA
-controller = ASA
-add_core = ASA
-trade_goods = wool
-life_rating = 39

@@ -1,5 +1,0 @@
-owner = RZV
-controller = RZV
-add_core = RZV
-trade_goods = coal
-life_rating = 36

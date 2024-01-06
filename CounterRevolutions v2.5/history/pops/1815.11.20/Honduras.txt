@@ -1,0 +1,376 @@
+#Honduras Region
+#Ruled by Central America 1836
+#Comayagua
+2193 = {
+	aristocrats = {
+		culture = central_american
+		religion = catholic
+		size = 27
+	}
+	bureaucrats = {
+		culture = central_american
+		religion = catholic
+		size = 3
+	}
+	officers = {
+		culture = central_american
+		religion = catholic
+		size = 2
+	}
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 13
+	}
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 65
+	}
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size = 52
+	}
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 1187
+	}
+}
+#San Pedro Sula
+2194 = {
+	aristocrats = {
+		culture = central_american
+		religion = catholic
+		size = 28
+	}
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 11
+	}
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 60
+	}
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size = 44
+	}
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 1095
+	}
+}
+#La Ceiba
+2195 = {
+	aristocrats = {
+		culture = central_american
+		religion = catholic
+		size = 21
+	}
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 8
+	}
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 42
+	}
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size = 32
+	}
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 763
+	}
+}
+#Trujillo
+2196 = {
+	aristocrats = {
+		culture = central_american
+		religion = catholic
+		size = 13
+	}
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 9
+	}
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 27
+	}
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size = 16
+	}
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 512
+	}
+}
+#Juticalpa
+4844 = {
+	aristocrats = {
+		culture = central_american
+		religion = catholic
+		size = 52
+	}
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 35
+	}
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 108
+	}
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size = 68
+	}
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 1985
+	}
+}
+#Yoro
+4845 = {
+	aristocrats = {
+		culture = central_american
+		religion = catholic
+		size = 23
+	}
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 15
+	}
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 47
+	}
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size = 28
+	}
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 866
+	}
+}
+#Yuscarán
+4846 = {
+	aristocrats = {
+		culture = central_american
+		religion = catholic
+		size = 51
+	}
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 34
+	}
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 105
+	}
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size = 68
+	}
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 1930
+	}
+}
+#Tegucigalpa
+4847 = {
+	aristocrats = {
+		culture = central_american
+		religion = catholic
+		size = 99
+	}
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 66
+	}
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 204
+	}
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size = 132
+	}
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 3750
+	}
+}
+#Choluteca
+4848 = {
+	aristocrats = {
+		culture = central_american
+		religion = catholic
+		size = 93
+	}
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 62
+	}
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 190
+	}
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size = 124
+	}
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 3498
+	}
+}
+#Santa Bárbara
+4849 = {
+	aristocrats = {
+		culture = central_american
+		religion = catholic
+		size = 47
+	}
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 31
+	}
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 97
+	}
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size = 60
+	}
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 1788
+	}
+}
+#Santa Rosa de Copán
+4850 = {
+	aristocrats = {
+		culture = central_american
+		religion = catholic
+		size = 83
+	}
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 55
+	}
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 171
+	}
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size = 108
+	}
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 3136
+	}
+}
+#Gracias
+4851 = {
+	aristocrats = {
+		culture = central_american
+		religion = catholic
+		size = 60
+	}
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 40
+	}
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 124
+	}
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size = 80
+	}
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 2285
+	}
+}
+#La Paz
+4852 = {
+	aristocrats = {
+		culture = central_american
+		religion = catholic
+		size = 68
+	}
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 45
+	}
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 140
+	}
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size = 88
+	}
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 2568
+	}
+}

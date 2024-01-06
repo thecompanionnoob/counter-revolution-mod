@@ -1,0 +1,37 @@
+political_decisions = {
+
+	conquerbogota4 = {
+                picture = bogotagco4
+		potential = {
+		    has_country_flag = bogota_gco
+			NOT = { has_country_flag = bogota_gco4 }
+                        tag = GCO
+		}
+		allow = {
+					controls = 2259
+					war = no	
+		}
+		
+		effect = {
+		set_country_flag = bogota_gco4		
+        prestige = 2
+		2259 = { any_pop = { reduce_pop = 0.80 } }
+        war_exhaustion = -10	
+		2259 = {
+		secede_province = GCO
+		}
+		2257 = {
+		secede_province = GCO					
+		}
+		2261 = {
+		secede_province = GCO
+		}
+		2260 = {
+		secede_province = GCO	
+        }		
+		2263 = {
+		secede_province = GCO	
+        }		
+	}	
+}
+}

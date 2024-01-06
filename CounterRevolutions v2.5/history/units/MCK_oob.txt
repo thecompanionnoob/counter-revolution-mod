@@ -1,0 +1,25 @@
+army = {
+	name = "1st Army"
+	location = 1479
+	regiment = {
+		name= "1. Mukden Militia"
+		type = irregular
+		home = 1479
+	}
+	regiment = {
+		name= "2. Mukden Militia"
+		type = irregular
+		home = 1479
+	}
+	regiment = {
+		name= "1. Jinzhou Militia"
+		type = irregular
+		home = 1480
+	}
+	regiment = {
+		name= "1. Jilin Militia"
+		type = irregular
+		home = 1555
+	}
+}
+

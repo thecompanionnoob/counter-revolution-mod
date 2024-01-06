@@ -1,7 +1,0 @@
-owner = SPA
-controller = SPA
-add_core = CLM
-add_core = GCO
-trade_goods = fish
-life_rating = 42
-terrain = hills

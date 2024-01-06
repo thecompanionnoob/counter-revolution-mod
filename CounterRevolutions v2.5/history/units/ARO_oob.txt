@@ -1,0 +1,20 @@
+army = {
+	name = "1st Army"
+	location = 1935
+	regiment = {
+		name= "1. Aruchukwu Militia"
+		type = irregular
+		home = 1935
+	}
+	regiment = {
+		name= "1. Calabar Militia"
+		type = irregular
+		home = 1934
+	}
+	regiment = {
+		name= "1. Awka Militia"
+		type = irregular
+		home = 1933
+	}
+}
+

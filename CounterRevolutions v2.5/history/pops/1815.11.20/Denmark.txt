@@ -1,0 +1,468 @@
+#Sjælland
+#Copenhagen
+372 = {
+	aristocrats = {
+		culture = swedish
+		religion = catholic
+		size = 617
+	}
+	bureaucrats = {
+		culture = swedish
+		religion = catholic
+		size = 247
+	}
+	officers = {
+		culture = swedish
+		religion = catholic
+		size = 247
+	}
+	clergymen = {
+		culture = swedish
+		religion = catholic
+		size = 370
+	}
+	artisans = {
+		culture = swedish
+		religion = catholic
+		size = 4943
+	}
+	artisans = {
+		culture = swedish
+		religion = catholic
+		size = 4943
+	}
+	artisans = {
+		culture = swedish
+		religion = catholic
+		size = 2966
+	}
+	soldiers = {
+		culture = swedish
+		religion = catholic
+		size = 19775
+	}
+	farmers = {
+		culture = swedish
+		religion = catholic
+		size = 28180
+	}
+	artisans = {
+		culture = jewish
+		religion = catholic
+		size = 543
+	}
+	artisans = {
+		culture = german
+		religion = catholic
+		size = 543
+	}
+}
+#Odense
+373 = {
+	aristocrats = {
+		culture = swedish
+		religion = catholic
+		size = 307
+	}
+	clergymen = {
+		culture = swedish
+		religion = catholic
+		size = 153
+	}
+	artisans = {
+		culture = swedish
+		religion = catholic
+		size = 1848
+	}
+	soldiers = {
+		culture = swedish
+		religion = catholic
+		size = 17254
+	}
+	farmers = {
+		culture = swedish
+		religion = catholic
+		size = 14944
+	}
+}
+#Bornholm
+374 = {
+	clergymen = {
+		culture = swedish
+		religion = catholic
+		size = 62
+	}
+	artisans = {
+		culture = swedish
+		religion = catholic
+		size = 509
+	}
+	soldiers = {
+		culture = swedish
+		religion = catholic
+		size = 250
+	}
+	farmers = {
+		culture = swedish
+		religion = catholic
+		size = 4462
+	}
+}
+#Sorø
+371 = {
+	aristocrats = {
+		culture = swedish
+		religion = catholic
+		size = 376
+	}
+	clergymen = {
+		culture = swedish
+		religion = catholic
+		size = 61
+	}
+	
+	soldiers = {
+		culture = swedish
+		religion = catholic
+		size = 246
+	}
+	farmers = {
+		culture = swedish
+		religion = catholic
+		size = 23906
+	}
+}
+#Nykøbing
+2636 = {
+	aristocrats = {
+		culture = swedish
+		religion = catholic
+		size = 440
+	}
+	clergymen = {
+		culture = swedish
+		religion = catholic
+		size = 72
+	}
+	
+	soldiers = {
+		culture = swedish
+		religion = catholic
+		size = 288
+	}
+	farmers = {
+		culture = swedish
+		religion = catholic
+		size = 27972
+	}
+}
+#Jutland
+#Aarhus
+366 = {
+	aristocrats = {
+		culture = swedish
+		religion = catholic
+		size = 209
+	}
+	bureaucrats = {
+		culture = swedish
+		religion = catholic
+		size = 146
+	}
+	officers = {
+		culture = swedish
+		religion = catholic
+		size = 83
+	}
+	clergymen = {
+		culture = swedish
+		religion = catholic
+		size = 156
+	}
+	artisans = {
+		culture = swedish
+		religion = catholic
+		size = 1362
+	}
+	soldiers = {
+		culture = swedish
+		religion = catholic
+		size = 11742
+	}
+	farmers = {
+		culture = swedish
+		religion = catholic
+		size = 14815
+	}
+}
+#Alborg
+367 = {
+	aristocrats = {
+		culture = swedish
+		religion = catholic
+		size = 157
+	}
+	clergymen = {
+		culture = swedish
+		religion = catholic
+		size = 157
+	}
+	artisans = {
+		culture = swedish
+		religion = catholic
+		size = 1266
+	}
+	soldiers = {
+		culture = swedish
+		religion = catholic
+		size = 1263
+	}
+	farmers = {
+		culture = swedish
+		religion = catholic
+		size = 19635
+	}
+}
+#Ribe
+368 = {
+	aristocrats = {
+		culture = swedish
+		religion = catholic
+		size = 106
+	}
+	clergymen = {
+		culture = swedish
+		religion = catholic
+		size = 106
+	}
+	artisans = {
+		culture = swedish
+		religion = catholic
+		size = 470
+	}
+	soldiers = {
+		culture = swedish
+		religion = catholic
+		size = 854
+	}
+	farmers = {
+		culture = swedish
+		religion = catholic
+		size = 7703
+	}
+}
+#Vejle
+2557 = {
+	artisans = {
+		culture = swedish
+		religion = catholic
+		size = 362
+	}
+	clergymen = {
+		culture = swedish
+		religion = catholic
+		size = 33
+	}
+	soldiers = {
+		culture = swedish
+		religion = catholic
+		size = 362
+	}
+	aristocrats = {
+		culture = swedish
+		religion = catholic
+		size = 112
+	}
+	farmers = {
+		culture = swedish
+		religion = catholic
+		size = 11069
+	}
+}
+#Ringkoping
+2591 = {
+	aristocrats = {
+		culture = swedish
+		religion = catholic
+		size = 166
+	}
+	clergymen = {
+		culture = swedish
+		religion = catholic
+		size = 27
+	}
+	
+	soldiers = {
+		culture = swedish
+		religion = catholic
+		size = 109
+	}
+	farmers = {
+		culture = swedish
+		religion = catholic
+		size = 10570
+	}
+}
+#Viborg
+3639 = {
+	aristocrats = {
+		culture = swedish
+		religion = catholic
+		size = 294
+	}
+	clergymen = {
+		culture = swedish
+		religion = catholic
+		size = 48
+	}
+	
+	soldiers = {
+		culture = swedish
+		religion = catholic
+		size = 193
+	}
+	farmers = {
+		culture = swedish
+		religion = catholic
+		size = 18702
+	}
+}
+#Schleswig
+#Flensburg
+370 = {
+	bureaucrats = {
+		culture = swedish
+		religion = catholic
+		size = 81
+	}
+	clergymen = {
+		culture = swedish
+		religion = catholic
+		size = 101
+	}
+	artisans = {
+		culture = swedish
+		religion = catholic
+		size = 1231
+	}
+	soldiers = {
+		culture = swedish
+		religion = catholic
+		size = 817
+	}
+	farmers = {
+		culture = swedish
+		religion = catholic
+		size = 11523
+	}
+	aristocrats = {
+		culture = german
+		religion = catholic
+		size = 533
+	}
+	bureaucrats = {
+		culture = german
+		religion = catholic
+		size = 81
+	}
+	officers = {
+		culture = german
+		religion = catholic
+		size = 122
+	}
+	clergymen = {
+		culture = german
+		religion = catholic
+		size = 204
+	}
+	artisans = {
+		culture = german
+		religion = catholic
+		size = 2053
+	}
+	soldiers = {
+		culture = german
+		religion = catholic
+		size = 1639
+	}
+	farmers = {
+		culture = german
+		religion = catholic
+		size = 30002
+	}
+	farmers = {
+		culture = frisian
+		religion = catholic
+		size = 1920
+	}
+	
+	clergymen = {
+		culture = swedish
+		religion = catholic
+		size = 101
+	}
+	artisans = {
+		culture = swedish
+		religion = catholic
+		size = 903
+	}
+	soldiers = {
+		culture = swedish
+		religion = catholic
+		size = 817
+	}
+	farmers = {
+		culture = swedish
+		religion = catholic
+		size = 13660
+	}
+	aristocrats = {
+		culture = german
+		religion = catholic
+		size = 81
+	}
+	clergymen = {
+		culture = german
+		religion = catholic
+		size = 40
+	}
+	artisans = {
+		culture = german
+		religion = catholic
+		size = 204
+	}
+	soldiers = {
+		culture = german
+		religion = catholic
+		size = 161
+	}
+	farmers = {
+		culture = german
+		religion = catholic
+		size = 5381
+	}
+}
+#Faroe Islands
+#Torshavn
+253 = {
+	bureaucrats = {
+		culture = faroese
+		religion = catholic
+		size = 12
+	}
+	clergymen = {
+		culture = faroese
+		religion = catholic
+		size = 64
+	}
+	artisans = {
+		culture = faroese
+		religion = catholic
+		size = 115
+	}
+	farmers = {
+		culture = faroese
+		religion = catholic
+		size = 1348
+	}
+}

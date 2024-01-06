@@ -1,0 +1,107 @@
+political_decisions = {
+	establishmex = {
+                picture = establishmex
+		potential = {
+			NOT = { has_country_flag = establishmex }
+                        tag = MEX
+		}
+		allow = {
+		    has_country_flag = army_of_three_gurantees
+			controls = 2172
+		}
+				effect = {
+		set_country_flag = establishmex 
+		government = absolute_monarchy		
+		capital = 2172
+        prestige = 10
+        war_exhaustion = -40
+		2159 = {
+		secede_province = MEX
+		}
+		2150 = {
+		secede_province = MEX
+		}
+		2158 = {
+		secede_province = MEX
+		}
+		2159 = {
+		secede_province = MEX
+		}
+		2158 = {
+		secede_province = MEX
+		}
+		2153 = {
+		secede_province = MEX
+		}
+		2156 = {
+		secede_province = MEX						
+		}
+		2154 = {
+		secede_province = MEX						
+		}
+		2141 = {
+		secede_province = MEX						
+		}
+		2145 = {
+		secede_province = MEX						
+		}
+		2146 = {
+		secede_province = MEX						
+		}
+		2151 = {
+		secede_province = MEX						
+		}
+		2152 = {
+		secede_province = MEX						
+		}	
+		2157 = {
+		secede_province = MEX						
+		}
+		2151 = {
+		secede_province = MEX						
+		}
+		2152 = {
+		secede_province = MEX						
+		}	
+		2150 = {
+		secede_province = MEX						
+		}
+		2149 = {
+		secede_province = MEX						
+		}		
+		2148 = {
+		secede_province = MEX						
+		}
+		2147 = {
+		secede_province = MEX						
+		}		
+		2142 = {
+		secede_province = MEX						
+		}
+		2143 = {
+		secede_province = MEX						
+		}	
+		2137 = {
+		secede_province = MEX						
+		}
+		2140 = {
+		secede_province = MEX						
+		}		
+		2181 = {
+		secede_province = MEX
+		}
+		2182 = {
+		secede_province = MEX						
+		}
+		2183 = {
+		secede_province = MEX						
+		}
+		2184 = {
+		secede_province = MEX											
+		}
+		2185 = {
+		secede_province = MEX											
+		}	
+		}	
+	}
+}

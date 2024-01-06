@@ -1,0 +1,5 @@
+owner = RLI
+controller = RLI
+add_core = RLI
+trade_goods = tropical_wood
+life_rating = 38

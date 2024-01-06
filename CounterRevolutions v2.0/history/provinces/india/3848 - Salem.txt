@@ -1,4 +1,0 @@
-owner = EIC
-controller = EIC
-trade_goods = coffee
-life_rating = 33

@@ -1,0 +1,5 @@
+owner = PHU
+controller = PHU
+add_core = PHU
+trade_goods = grain
+life_rating = 39

@@ -1,0 +1,62 @@
+political_decisions = {
+	hellenic_parliament = {
+		potential = {
+			tag = GRE
+			government = absolute_monarchy
+			NOT = {
+				has_country_flag = voule_ton_ellinon
+			}
+		}
+	
+		allow = {
+			state_n_government = 1
+			plurality = 3
+			prestige = 1
+		}
+		
+		effect = {
+			set_country_flag = voule_ton_ellinon
+			political_reform = wealth_weighted_voting
+			government = hms_government
+			any_pop = {
+				militancy = -2
+			}
+		}
+	}
+	
+	megali_idea = {
+		potential = {
+			tag = GRE
+			NOT = { has_country_flag = greece_has_got_a_brand_new_bag }
+		}
+		
+		allow = {
+			owns = 860
+			owns = 805
+			owns = 5106
+			owns = 858
+			owns = 862
+			owns = 865
+			owns = 864
+			owns = 863
+			owns = 870
+			owns = 3781
+		}
+		
+		effect = {
+			prestige = 20
+			capital = 860
+			805 = { change_province_name = "Thessaloniki" }
+			5106 = { change_province_name = "Rhaedestos" }
+			858 = { change_province_name = "Saranta Ekklisies" }
+			862 = { change_province_name = "Nicomedia" }
+			865 = { change_province_name = "Dardanellia" }
+			864 = { change_province_name = "Palaeokastron" }
+			863 = { change_province_name = "Prusa" }
+			863 = { state_scope = { change_region_name = "Prusa" } }
+			870 = { change_province_name = "Magnesia" }
+			3781 = { change_province_name = "Tralleis" }
+			set_country_flag = greece_has_got_a_brand_new_bag
+		}
+	}
+}

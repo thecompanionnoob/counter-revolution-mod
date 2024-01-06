@@ -1,0 +1,110 @@
+#French Guiana
+#Ruled by France 1836
+#Cayenne
+2241 = {
+	aristocrats = {
+		culture = french
+		religion = catholic
+		size = 125
+	}
+	bureaucrats = {
+		culture = french
+		religion = catholic
+		size = 7
+	}
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 7
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 83
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 167
+	}
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 67
+	}
+	artisans = {
+		culture = afro_antillean
+		religion = catholic
+		size = 125
+	}
+	clergymen = {
+		culture = afro_antillean
+		religion = catholic
+		size = 20
+	}
+	soldiers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 167
+	}
+	farmers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 360
+	}
+	slaves = {
+		culture = afro_antillean
+		religion = catholic
+		size = 2500
+	}
+	aristocrats = {
+		culture = amazonian
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = amazonian
+		religion = catholic
+		size = 1
+	}
+	artisans = {
+		culture = amazonian
+		religion = catholic
+		size = 7
+	}
+	soldiers = {
+		culture = amazonian
+		religion = catholic
+		size = 14
+	}
+	farmers = {
+		culture = amazonian
+		religion = catholic
+		size = 194
+	}
+	aristocrats = {
+		culture = amazonian
+		religion = catholic
+		size = 7
+	}
+	clergymen = {
+		culture = amazonian
+		religion = catholic
+		size = 10
+	}
+	artisans = {
+		culture = amazonian
+		religion = catholic
+		size = 29
+	}
+	soldiers = {
+		culture = amazonian
+		religion = catholic
+		size = 29
+	}
+	farmers = {
+		culture = amazonian
+		religion = catholic
+		size = 575
+	}
+}

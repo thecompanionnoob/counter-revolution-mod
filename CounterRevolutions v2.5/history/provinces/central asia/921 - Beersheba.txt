@@ -1,0 +1,6 @@
+owowner = TUR
+controller = TUR
+add_core = TUR
+add_core = SYR
+trade_goods = wool
+life_rating = 36

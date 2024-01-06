@@ -1,0 +1,376 @@
+political_decisions = {
+	form_australia = {
+		potential = {
+			2476 = { owned_by = THIS }
+			2468 = { owned_by = THIS }
+			2491 = { owned_by = THIS }
+			2497 = { owned_by = THIS }
+			2483 = { owned_by = THIS }
+			2505 = { owned_by = THIS }
+			2482 = { owned_by = THIS }
+			2505 = { owned_by = THIS }
+			nationalism_n_imperialism = 1
+			NOT = { has_global_flag = australia_formed }
+		}
+		
+		allow = {
+			war = no
+			is_greater_power = yes
+		}
+		
+		effect = {
+			AST = { primary_culture = THIS }
+			any_owned = {
+				limit = {
+					OR = {
+						region = ENG_2476
+						region = ENG_2468
+						region = ENG_2491
+						region = ENG_2497
+						region = ENG_2483
+						region = ENG_2482
+						region = ENG_2505
+					}
+				}
+				add_core = AST
+			}
+			release = AST
+			inherit = AST
+			set_global_flag = australia_formed
+		}
+	}
+	
+	form_new_zealand = {
+		potential = {
+			2515 = { owned_by = THIS }
+			2512 = { owned_by = THIS }
+			nationalism_n_imperialism = 1
+			NOT = { has_global_flag = new_zealand_formed }
+		}
+		
+		allow = {
+			war = no
+			is_greater_power = yes
+		}
+		
+		effect = {
+			NZL = { primary_culture = THIS }
+			any_owned = {
+				limit = {
+					OR = {
+						region = ENG_2513
+						region = ENG_2509
+					}
+				}
+				add_core = NZL
+			}
+			release = NZL
+			inherit = NZL
+			set_global_flag = new_zealand_formed
+		}
+	}
+	
+	form_columbia = {
+		potential = {
+			NOT = { tag = USA }
+			13 = { owned_by = THIS }
+			78 = { owned_by = THIS }
+			81 = { owned_by = THIS }
+			91 = { owned_by = THIS }
+			114 = { owned_by = THIS }
+			nationalism_n_imperialism = 1
+			NOT = { has_global_flag = columbia_formed }
+		}
+		
+		allow = {
+			war = no
+			is_greater_power = yes
+		}
+		
+		effect = {
+			COL = { primary_culture = THIS }
+			any_owned = {
+				limit = {
+					OR = {
+						region = ENG_13
+						region = USA_78
+						region = USA_81
+						region = USA_91
+						province_id = 114
+						province_id = 4264
+						province_id = 4265
+					}
+				}
+				add_core = COL
+			}
+			release = COL
+			inherit = COL
+			set_global_flag = columbia_formed
+		}
+	}
+	
+	form_newfoundland = {
+		potential = {
+			74 = { owned_by = THIS }
+			state_n_government = 1
+			NOT = { has_global_flag = newfoundland_formed }
+		}
+		
+		allow = {
+			war = no
+			is_greater_power = yes
+		}
+		
+		effect = {
+			NEW = { primary_culture = THIS }
+			any_owned = {
+				limit = {
+					region = ENG_74
+				}
+				add_core = NEW
+			}
+			release = NEW
+			inherit = NEW
+			set_global_flag = newfoundland_formed
+		}
+	}
+	
+	form_canada = {
+		potential = {
+			57 = { owned_by = THIS }
+			58 = { owned_by = THIS }
+			68 = { owned_by = THIS }
+			71 = { owned_by = THIS }
+			4173 = { owned_by = THIS }
+			250 = { owned_by = THIS }
+			state_n_government = 1
+			NOT = { has_global_flag = canada_formed }
+		}
+		
+		allow = {
+			war = no
+			is_greater_power = yes
+		}
+		
+		effect = {
+			CAN = { primary_culture = THIS }
+			any_owned = {
+				limit = {
+					OR = {
+						AND = {
+							is_core = QUE
+							NOT = {
+								OR = {
+									province_id = 2625
+									province_id = 76								
+								}
+							}
+						}
+						region = ENG_68
+						region = ENG_71
+						region = ENG_4173
+						province_id = 250
+					}
+				}
+				add_core = CAN
+			}
+			release = CAN
+			any_owned = {
+				limit = {
+					OR = {
+						region = ENG_46
+						region = ENG_58
+						region = ENG_68
+						region = ENG_71
+						region = ENG_4173
+						province_id = 250
+					}
+				}
+				secede_province = CAN
+			}
+			inherit = CAN
+			set_global_flag = canada_formed
+		}
+	}
+	
+	canadian_dominion = {
+		potential = {
+			tag = ENG
+			year = 1867
+			NOT = { has_country_flag = canadian_dominion }
+			
+			#validator doesnt like this but it seems fine to me
+			is_possible_vassal = CAN
+			is_possible_vassal = QUE
+		}
+		
+		allow = {
+			war = no
+			is_greater_power = yes
+		}
+		
+		effect = {
+			ENG_46 = { remove_core = QUE }
+			46 = { state_scope = { change_region_name = "Ontario" } }
+			58 = { state_scope = { change_region_name = "Quebec" } }
+			CAN = { add_accepted_culture = french }
+			release_vassal = CAN
+			set_global_flag = canadian_dominion
+		}
+	}
+	
+	australian_dominion = {
+		potential = {
+			tag = ENG
+			year = 1901
+			NOT = { has_country_flag = australian_dominion }
+			is_possible_vassal = AST
+		}
+		
+		allow = {
+			war = no
+			is_greater_power = yes
+		}
+		
+		effect = {
+			release_vassal = AST
+			set_global_flag = australian_dominion
+		}
+	}
+	
+	new_zealand_dominion = {
+		potential = {
+			tag = ENG
+			year = 1907
+			NOT = { has_country_flag = new_zealand_dominion }
+			is_possible_vassal = NZL
+		}
+		
+		allow = {
+			war = no
+			is_greater_power = yes
+		}
+		
+		effect = {
+			release_vassal = NZL
+			set_global_flag = new_zealand_dominion
+		}
+	}
+	
+	newfoundland_dominion = {
+		potential = {
+			tag = ENG
+			year = 1907
+			NOT = { has_country_flag = newfoundland_dominion }
+			is_possible_vassal = NEW
+		}
+		
+		allow = {
+			war = no
+			is_greater_power = yes
+		}
+		
+		effect = {
+			release_vassal = NEW
+			set_global_flag = newfoundland_dominion
+		}
+	}
+	
+	south_africa_dominion = {
+		potential = {
+			tag = ENG
+			year = 1910
+			TRN = { all_core = { owned_by = THIS } }
+			ORA = { all_core = { owned_by = THIS } }
+			NAL = { all_core = { owned_by = THIS } }
+			SAF = { all_core = { owned_by = THIS } }
+			NOT = { has_country_flag = south_african_dominion }
+			is_possible_vassal = SAF
+		}
+		
+		allow = {
+			war = no
+			is_greater_power = yes
+		}
+		
+		effect = {
+			any_owned = {
+				limit = {
+					OR = {
+						region = ENG_2087
+						region = ORA_2103
+						region = TRN_2108
+						region = ZUL_2113
+					}
+				}
+				remove_core = ORA
+				remove_core = TRN
+				remove_core = NAL
+				add_core = SAF
+			}
+			release_vassal = SAF
+			set_global_flag = south_african_dominion
+		}
+	}
+	
+	irish_dominion = {
+		potential = {
+			tag = ENG
+			year = 1922
+			NOT = { has_country_flag = irish_dominion }
+			is_possible_vassal = IRE
+		}
+		
+		allow = {
+			war = no
+			is_greater_power = yes
+		}
+		
+		effect = {
+			all_core = {
+				limit = { 
+					is_core = IRE
+					NOT = {
+						OR = {
+							province_id = 254
+							province_id = 255
+							province_id = 256
+						}
+					}
+				}
+				remove_core = THIS
+			}
+			release_vassal = IRE
+			IRE = {
+				any_owned = {
+					limit = {
+						OR = {
+							province_id = 254
+							province_id = 255
+							province_id = 256
+						}
+					}
+					secede_province = ENG
+				}
+			}
+			set_global_flag = irish_dominion
+		}
+	}
+	
+	integrate_tuva = {
+		potential = {
+			tag = RUS
+			exists = TUV
+			in_sphere = TUV
+		}
+		
+		allow = {
+			war = no
+			is_greater_power = yes
+		}
+		
+		effect = {
+			inherit = TUV
+		}
+	}
+}

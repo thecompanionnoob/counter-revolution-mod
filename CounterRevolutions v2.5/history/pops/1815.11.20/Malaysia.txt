@@ -1,0 +1,624 @@
+#Malaya
+#Singapore
+1384 = {
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 39
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 2025
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 413
+	}
+	clergymen = {
+		culture = malay
+		religion = catholic
+		size = 39
+	}
+	artisans = {
+		culture = malay
+		religion = catholic
+		size = 205
+	}
+	farmers = {
+		culture = malay
+		religion = catholic
+		size = 3889
+	}
+	artisans = {
+		culture = hindustani
+		religion = catholic
+		size = 910
+	}
+}
+#Malacca
+1386 = {
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 11
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 336
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 348
+	}
+	aristocrats = {
+		culture = british
+		religion = catholic
+		size = 39
+	}
+	bureaucrats = {
+		culture = british
+		religion = catholic
+		size = 5
+	}
+	clergymen = {
+		culture = malay
+		religion = catholic
+		size = 23
+	}
+	artisans = {
+		culture = malay
+		religion = catholic
+		size = 116
+	}
+	soldiers = {
+		culture = malay
+		religion = catholic
+		size = 92
+	}
+	farmers = {
+		culture = malay
+		religion = catholic
+		size = 2162
+	}
+}
+#Penang
+1388 = {
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 18
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 1471
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 787
+	}
+	clergymen = {
+		culture = malay
+		religion = catholic
+		size = 56
+	}
+	artisans = {
+		culture = malay
+		religion = catholic
+		size = 284
+	}
+	soldiers = {
+		culture = malay
+		religion = catholic
+		size = 304
+	}
+	farmers = {
+		culture = malay
+		religion = catholic
+		size = 5282
+	}
+}
+#Johor Bharu
+1385 = {
+	aristocrats = {
+		culture = malay
+		religion = catholic
+		size = 44
+	}
+	bureaucrats = {
+		culture = malay
+		religion = catholic
+		size = 22
+	}
+	officers = {
+		culture = malay
+		religion = catholic
+		size = 12
+	}
+	clergymen = {
+		culture = malay
+		religion = catholic
+		size = 44
+	}
+	artisans = {
+		culture = malay
+		religion = catholic
+		size = 221
+	}
+	soldiers = {
+		culture = malay
+		religion = catholic
+		size = 780
+	}
+	farmers = {
+		culture = malay
+		religion = catholic
+		size = 3913
+	}
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 8
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 257
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 88
+	}
+}
+#Kuala Lumpur
+1387 = {
+	aristocrats = {
+		culture = malay
+		religion = catholic
+		size = 62
+	}
+	clergymen = {
+		culture = malay
+		religion = catholic
+		size = 62
+	}
+	artisans = {
+		culture = malay
+		religion = catholic
+		size = 317
+	}
+	soldiers = {
+		culture = malay
+		religion = catholic
+		size = 1868
+	}
+	labourers = {
+		culture = malay
+		religion = catholic
+		size = 5502
+	}
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 20
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 402
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 467
+	}
+}
+#Kuantan
+1390 = {
+	aristocrats = {
+		culture = malay
+		religion = catholic
+		size = 24
+	}
+	clergymen = {
+		culture = malay
+		religion = catholic
+		size = 24
+	}
+	artisans = {
+		culture = malay
+		religion = catholic
+		size = 134
+	}
+	soldiers = {
+		culture = malay
+		religion = catholic
+		size = 96
+	}
+	labourers = {
+		culture = malay
+		religion = catholic
+		size = 2469
+	}
+}
+#Ipoh
+2575 = {
+	aristocrats = {
+		culture = malay
+		religion = catholic
+		size = 143
+	}
+	clergymen = {
+		culture = malay
+		religion = catholic
+		size = 143
+	}
+	artisans = {
+		culture = malay
+		religion = catholic
+		size = 716
+	}
+	soldiers = {
+		culture = malay
+		religion = catholic
+		size = 2100
+	}
+	labourers = {
+		culture = malay
+		religion = catholic
+		size = 12367
+	}
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 34
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 441
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 955
+	}
+}
+#Alor Setar
+1389 = {
+	aristocrats = {
+		culture = malay
+		religion = catholic
+		size = 76
+	}
+	clergymen = {
+		culture = malay
+		religion = catholic
+		size = 76
+	}
+	artisans = {
+		culture = malay
+		religion = catholic
+		size = 343
+	}
+	soldiers = {
+		culture = malay
+		religion = catholic
+		size = 252
+	}
+	farmers = {
+		culture = malay
+		religion = catholic
+		size = 6324
+	}
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 12
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 241
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 280
+	}
+}
+#Kota Bharu
+1391 = {
+	aristocrats = {
+		culture = malay
+		religion = catholic
+		size = 70
+	}
+	clergymen = {
+		culture = malay
+		religion = catholic
+		size = 74
+	}
+	artisans = {
+		culture = malay
+		religion = catholic
+		size = 350
+	}
+	soldiers = {
+		culture = malay
+		religion = catholic
+		size = 240
+	}
+	farmers = {
+		culture = malay
+		religion = catholic
+		size = 6444
+	}
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 8
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 165
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 192
+	}
+}
+#Kuala Terengganu
+1395 = {
+	aristocrats = {
+		culture = malay
+		religion = catholic
+		size = 35
+	}
+	clergymen = {
+		culture = malay
+		religion = catholic
+		size = 37
+	}
+	artisans = {
+		culture = malay
+		religion = catholic
+		size = 175
+	}
+	soldiers = {
+		culture = malay
+		religion = catholic
+		size = 120
+	}
+	farmers = {
+		culture = malay
+		religion = catholic
+		size = 3222
+	}
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 4
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 82
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 96
+	}
+}
+#Seremban
+1396 = {
+	aristocrats = {
+		culture = malay
+		religion = catholic
+		size = 26
+	}
+	clergymen = {
+		culture = malay
+		religion = catholic
+		size = 26
+	}
+	artisans = {
+		culture = malay
+		religion = catholic
+		size = 134
+	}
+	soldiers = {
+		culture = malay
+		religion = catholic
+		size = 792
+	}
+	labourers = {
+		culture = malay
+		religion = catholic
+		size = 2330
+	}
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 8
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 170
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 198
+	}
+}
+#Borneo
+#Brunei
+1393 = {
+	aristocrats = {
+		culture = malay
+		religion = catholic
+		size = 6
+	}
+	bureaucrats = {
+		culture = malay
+		religion = catholic
+		size = 4
+	}
+	officers = {
+		culture = malay
+		religion = catholic
+		size = 1
+	}
+	clergymen = {
+		culture = malay
+		religion = catholic
+		size = 4
+	}
+	artisans = {
+		culture = malay
+		religion = catholic
+		size = 27
+	}
+	soldiers = {
+		culture = malay
+		religion = catholic
+		size = 24
+	}
+	farmers = {
+		culture = malay
+		religion = catholic
+		size = 490
+	}
+}
+#Kuching
+1394 = {
+	aristocrats = {
+		culture = malay
+		religion = catholic
+		size = 46
+	}
+	clergymen = {
+		culture = malay
+		religion = catholic
+		size = 46
+	}
+	artisans = {
+		culture = malay
+		religion = catholic
+		size = 232
+	}
+	soldiers = {
+		culture = malay
+		religion = catholic
+		size = 2044
+	}
+	farmers = {
+		culture = malay
+		religion = catholic
+		size = 3859
+	}
+	aristocrats = {
+		culture = asian_minor
+		religion = catholic
+		size = 57
+	}
+	clergymen = {
+		culture = asian_minor
+		religion = catholic
+		size = 46
+	}
+	artisans = {
+		culture = asian_minor
+		religion = catholic
+		size = 243
+	}
+	soldiers = {
+		culture = asian_minor
+		religion = catholic
+		size = 228
+	}
+	farmers = {
+		culture = asian_minor
+		religion = catholic
+		size = 4707
+	}
+	clergymen = {
+		culture = han
+		religion = catholic
+		size = 11
+	}
+	artisans = {
+		culture = han
+		religion = catholic
+		size = 219
+	}
+	farmers = {
+		culture = han
+		religion = catholic
+		size = 232
+	}
+}
+#Sandakan
+1397 = {
+	aristocrats = {
+		culture = asian_minor
+		religion = catholic
+		size = 40
+	}
+	clergymen = {
+		culture = asian_minor
+		religion = catholic
+		size = 40
+	}
+	artisans = {
+		culture = asian_minor
+		religion = catholic
+		size = 168
+	}
+	soldiers = {
+		culture = asian_minor
+		religion = catholic
+		size = 160
+	}
+	farmers = {
+		culture = asian_minor
+		religion = catholic
+		size = 3640
+	}
+	aristocrats = {
+		culture = malay
+		religion = catholic
+		size = 13
+	}
+	clergymen = {
+		culture = malay
+		religion = catholic
+		size = 27
+	}
+	artisans = {
+		culture = malay
+		religion = catholic
+		size = 83
+	}
+	soldiers = {
+		culture = malay
+		religion = catholic
+		size = 52
+	}
+	farmers = {
+		culture = malay
+		religion = catholic
+		size = 1545
+	}
+}

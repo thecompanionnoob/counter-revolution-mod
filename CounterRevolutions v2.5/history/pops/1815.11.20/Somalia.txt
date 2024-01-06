@@ -1,0 +1,364 @@
+#file includes modern Somalia and Djibouti
+#Somaliland
+#Mogadishu
+1868 = {
+	aristocrats = {
+		culture = amhara
+		religion = catholic
+		size = 985
+	}
+	bureaucrats = {
+		culture = amhara
+		religion = catholic
+		size = 22
+	}
+	officers = {
+		culture = amhara
+		religion = catholic
+		size = 69
+	}
+	clergymen = {
+		culture = amhara
+		religion = catholic
+		size = 515
+	}
+	artisans = {
+		culture = amhara
+		religion = catholic
+		size = 2042
+	}
+	soldiers = {
+		culture = amhara
+		religion = catholic
+		size = 2063
+	}
+	farmers = {
+		culture = amhara
+		religion = catholic
+		size = 40938
+	}
+	slaves = {
+		culture = african_minor
+		religion = catholic
+		size = 5635
+	}
+}
+#Kismayo
+1870 = {
+	aristocrats = {
+		culture = amhara
+		religion = catholic
+		size = 193
+	}
+	clergymen = {
+		culture = amhara
+		religion = catholic
+		size = 104
+	}
+	artisans = {
+		culture = amhara
+		religion = catholic
+		size = 457
+	}
+	soldiers = {
+		culture = amhara
+		religion = catholic
+		size = 416
+	}
+	farmers = {
+		culture = amhara
+		religion = catholic
+		size = 9705
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 52
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 34
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 174
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 138
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 3222
+	}
+	slaves = {
+		culture = african_minor
+		religion = catholic
+		size = 773
+	}
+}
+#Baidoa
+1869 = {
+	aristocrats = {
+		culture = amhara
+		religion = catholic
+		size = 916
+	}
+	clergymen = {
+		culture = amhara
+		religion = catholic
+		size = 457
+	}
+	artisans = {
+		culture = amhara
+		religion = catholic
+		size = 2344
+	}
+	soldiers = {
+		culture = amhara
+		religion = catholic
+		size = 1830
+	}
+	farmers = {
+		culture = amhara
+		religion = catholic
+		size = 42747
+	}
+}
+#Galkayo
+1871 = {
+	aristocrats = {
+		culture = amhara
+		religion = catholic
+		size = 338
+	}
+	clergymen = {
+		culture = amhara
+		religion = catholic
+		size = 168
+	}
+	artisans = {
+		culture = amhara
+		religion = catholic
+		size = 750
+	}
+	soldiers = {
+		culture = amhara
+		religion = catholic
+		size = 768
+	}
+	farmers = {
+		culture = amhara
+		religion = catholic
+		size = 15017
+	}
+	slaves = {
+		culture = african_minor
+		religion = catholic
+		size = 1936
+	}
+}
+#Busaso
+1872 = {
+	aristocrats = {
+		culture = amhara
+		religion = catholic
+		size = 197
+	}
+	bureaucrats = {
+		culture = amhara
+		religion = catholic
+		size = 2
+	}
+	officers = {
+		culture = amhara
+		religion = catholic
+		size = 17
+	}
+	clergymen = {
+		culture = amhara
+		religion = catholic
+		size = 100
+	}
+	artisans = {
+		culture = amhara
+		religion = catholic
+		size = 430
+	}
+	soldiers = {
+		culture = amhara
+		religion = catholic
+		size = 436
+	}
+	farmers = {
+		culture = amhara
+		religion = catholic
+		size = 7944
+	}
+	slaves = {
+		culture = african_minor
+		religion = catholic
+		size = 1833
+	}
+}
+#Burao
+1873 = {
+	aristocrats = {
+		culture = amhara
+		religion = catholic
+		size = 808
+	}
+	bureaucrats = {
+		culture = amhara
+		religion = catholic
+		size = 7
+	}
+	officers = {
+		culture = amhara
+		religion = catholic
+		size = 44
+	}
+	clergymen = {
+		culture = amhara
+		religion = catholic
+		size = 407
+	}
+	artisans = {
+		culture = amhara
+		religion = catholic
+		size = 1682
+	}
+	soldiers = {
+		culture = amhara
+		religion = catholic
+		size = 1726
+	}
+	farmers = {
+		culture = amhara
+		religion = catholic
+		size = 30284
+	}
+	slaves = {
+		culture = amhara
+		religion = catholic
+		size = 6369
+	}
+	slaves = {
+		culture = african_minor
+		religion = catholic
+		size = 2729
+	}
+}
+#Hargeisa
+1874 = {
+	aristocrats = {
+		culture = amhara
+		religion = catholic
+		size = 655
+	}
+	clergymen = {
+		culture = amhara
+		religion = catholic
+		size = 326
+	}
+	artisans = {
+		culture = amhara
+		religion = catholic
+		size = 1753
+	}
+	soldiers = {
+		culture = amhara
+		religion = catholic
+		size = 1304
+	}
+	farmers = {
+		culture = amhara
+		religion = catholic
+		size = 32040
+	}
+}
+#Beled Weyne	
+1759 = {
+	aristocrats = {
+		culture = amhara
+		religion = catholic
+		size = 447
+	}
+	clergymen = {
+		culture = amhara
+		religion = catholic
+		size = 223
+	}
+	artisans = {
+		culture = amhara
+		religion = catholic
+		size = 1147
+	}
+	soldiers = {
+		culture = amhara
+		religion = catholic
+		size = 892
+	}
+	farmers = {
+		culture = amhara
+		religion = catholic
+		size = 20912
+	}
+}
+#Jibuti #now part of Djibouti  
+1875 = {
+	aristocrats = {
+		culture = amhara
+		religion = catholic
+		size = 73
+	}
+	clergymen = {
+		culture = amhara
+		religion = catholic
+		size = 109
+	}
+	artisans = {
+		culture = amhara
+		religion = catholic
+		size = 219
+	}
+	soldiers = {
+		culture = amhara
+		religion = catholic
+		size = 143
+	}
+	farmers = {
+		culture = amhara
+		religion = catholic
+		size = 3963
+	}
+	aristocrats = {
+		culture = amhara
+		religion = catholic
+		size = 73
+	}
+	clergymen = {
+		culture = amhara
+		religion = catholic
+		size = 109
+	}
+	artisans = {
+		culture = amhara
+		religion = catholic
+		size = 292
+	}
+	soldiers = {
+		culture = amhara
+		religion = catholic
+		size = 292
+	}
+	farmers = {
+		culture = amhara
+		religion = catholic
+		size = 5320
+	}
+}

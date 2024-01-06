@@ -1,0 +1,10 @@
+army = {
+	name = "1st Army"
+	location = 2019
+	regiment = {
+		name= "1. Entebbe Militia"
+		type = irregular
+		home = 2019
+	}
+}
+

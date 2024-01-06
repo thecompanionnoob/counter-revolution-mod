@@ -1,0 +1,5499 @@
+#Yukon
+#Whitehorse 
+6 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 1
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 4
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 9
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 8
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 171
+	}
+}
+#Ross River 
+8 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 1
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 4
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 9
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 8
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 171
+	}
+}
+#Northwest Territories
+#Fort Simpson 
+9 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 3
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 6
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 7
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 8
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 135
+	}
+}
+#Echo Bay 
+11 = {
+	aristocrats = {
+		culture = inuit
+		religion = catholic
+		size = 2
+	}
+	clergymen = {
+		culture = inuit
+		religion = catholic
+		size = 6
+	}
+	artisans = {
+		culture = inuit
+		religion = catholic
+		size = 13
+	}
+	soldiers = {
+		culture = inuit
+		religion = catholic
+		size = 12
+	}
+	farmers = {
+		culture = inuit
+		religion = catholic
+		size = 234
+	}
+}
+#Reliance 
+12 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 1
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 3
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 6
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 4
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 117
+	}
+}
+#Arviat 
+43 = {
+	aristocrats = {
+		culture = inuit
+		religion = catholic
+		size = 2
+	}
+	clergymen = {
+		culture = inuit
+		religion = catholic
+		size = 3
+	}
+	artisans = {
+		culture = inuit
+		religion = catholic
+		size = 10
+	}
+	soldiers = {
+		culture = inuit
+		religion = catholic
+		size = 8
+	}
+	farmers = {
+		culture = inuit
+		religion = catholic
+		size = 188
+	}
+}
+#Baffin Island 
+45 = {
+	aristocrats = {
+		culture = inuit
+		religion = catholic
+		size = 2
+	}
+	clergymen = {
+		culture = inuit
+		religion = catholic
+		size = 6
+	}
+	artisans = {
+		culture = inuit
+		religion = catholic
+		size = 13
+	}
+	soldiers = {
+		culture = inuit
+		religion = catholic
+		size = 12
+	}
+	farmers = {
+		culture = inuit
+		religion = catholic
+		size = 234
+	}
+}
+#British Columbia
+#Vancouver 
+13 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 12
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 18
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 37
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 24
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 675
+	}
+}
+#Victoria
+14 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 14
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 28
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 56
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 56
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 980
+	}
+}
+#Prince Rupert 
+15 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 13
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 27
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 54
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 52
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 945
+	}
+}
+#Kamloops 
+16 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 12
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 30
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 60
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 72
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 1080
+	}
+}
+#Cranbrook 
+17 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 1
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 2
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 5
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 4
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 90
+	}
+}
+#Dawson Creek 
+18 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 4
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 8
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 9
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 12
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 166
+	}
+}
+#Prince George 
+19 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 13
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 26
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 52
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 52
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 910
+	}
+}
+#Kelowna 
+20 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 3
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 7
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 15
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 12
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 262
+	}
+}
+#Nelson 
+21 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 1
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 17
+	}
+}
+#Campbell River
+2629 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 5
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 10
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 21
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 20
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 385
+	}
+}
+#Abbotsford
+705 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 5
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 10
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 21
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 20
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 385
+	}
+}
+#Alberta
+#Edmonton 
+22 = {
+	clergymen = {
+		culture = metis
+		religion = catholic
+		size = 3
+	}
+	artisans = {
+		culture = metis
+		religion = catholic
+		size = 6
+	}
+	soldiers = {
+		culture = metis
+		religion = catholic
+		size = 4
+	}
+	farmers = {
+		culture = metis
+		religion = catholic
+		size = 109
+	}
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 1
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 3
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 6
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 4
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 108
+	}
+}
+#Red Deer 
+2595 = {
+	clergymen = {
+		culture = metis
+		religion = catholic
+		size = 3
+	}
+	artisans = {
+		culture = metis
+		religion = catholic
+		size = 7
+	}
+	soldiers = {
+		culture = metis
+		religion = catholic
+		size = 8
+	}
+	farmers = {
+		culture = metis
+		religion = catholic
+		size = 136
+	}
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 1
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 3
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 7
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 8
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 135
+	}
+}
+#Athabasca 
+2594 = {
+	clergymen = {
+		culture = metis
+		religion = catholic
+		size = 0
+	}
+	artisans = {
+		culture = metis
+		religion = catholic
+		size = 0
+	}
+	soldiers = {
+		culture = metis
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = metis
+		religion = catholic
+		size = 9
+	}
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 9
+	}
+}
+#Edson
+10 = {
+	clergymen = {
+		culture = metis
+		religion = catholic
+		size = 1
+	}
+	artisans = {
+		culture = metis
+		religion = catholic
+		size = 2
+	}
+	soldiers = {
+		culture = metis
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = metis
+		religion = catholic
+		size = 36
+	}
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 1
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 2
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 36
+	}
+}
+#Fort McMurray
+23 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 12
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 16
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 38
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 36
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 691
+	}
+}
+#Jasper 
+24 = {
+	clergymen = {
+		culture = metis
+		religion = catholic
+		size = 1
+	}
+	artisans = {
+		culture = metis
+		religion = catholic
+		size = 2
+	}
+	soldiers = {
+		culture = metis
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = metis
+		religion = catholic
+		size = 36
+	}
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 1
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 2
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 36
+	}
+}
+#High River 
+25 = {
+	clergymen = {
+		culture = metis
+		religion = catholic
+		size = 0
+	}
+	artisans = {
+		culture = metis
+		religion = catholic
+		size = 0
+	}
+	soldiers = {
+		culture = metis
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = metis
+		religion = catholic
+		size = 9
+	}
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 9
+	}
+}
+#Calgary 
+26 = {
+	clergymen = {
+		culture = metis
+		religion = catholic
+		size = 6
+	}
+	artisans = {
+		culture = metis
+		religion = catholic
+		size = 12
+	}
+	soldiers = {
+		culture = metis
+		religion = catholic
+		size = 12
+	}
+	farmers = {
+		culture = metis
+		religion = catholic
+		size = 227
+	}
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 2
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 6
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 12
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 12
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 225
+	}
+}
+#Redcliff
+2598 = {
+	clergymen = {
+		culture = metis
+		religion = catholic
+		size = 0
+	}
+	artisans = {
+		culture = metis
+		religion = catholic
+		size = 0
+	}
+	soldiers = {
+		culture = metis
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = metis
+		religion = catholic
+		size = 9
+	}
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 9
+	}
+}
+#Wainwright
+27 = {
+	clergymen = {
+		culture = metis
+		religion = catholic
+		size = 0
+	}
+	artisans = {
+		culture = metis
+		religion = catholic
+		size = 0
+	}
+	soldiers = {
+		culture = metis
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = metis
+		religion = catholic
+		size = 9
+	}
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 9
+	}
+}
+#Hanna
+2596 = {
+	clergymen = {
+		culture = metis
+		religion = catholic
+		size = 0
+	}
+	artisans = {
+		culture = metis
+		religion = catholic
+		size = 0
+	}
+	soldiers = {
+		culture = metis
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = metis
+		religion = catholic
+		size = 9
+	}
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 9
+	}
+}
+#St-Paul-de-Métis
+44 = {
+	clergymen = {
+		culture = metis
+		religion = catholic
+		size = 5
+	}
+	artisans = {
+		culture = metis
+		religion = catholic
+		size = 11
+	}
+	soldiers = {
+		culture = metis
+		religion = catholic
+		size = 12
+	}
+	farmers = {
+		culture = metis
+		religion = catholic
+		size = 209
+	}
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 2
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 5
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 11
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 12
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 207
+	}
+}
+#Vegreville 
+7 = {
+	clergymen = {
+		culture = metis
+		religion = catholic
+		size = 0
+	}
+	artisans = {
+		culture = metis
+		religion = catholic
+		size = 0
+	}
+	soldiers = {
+		culture = metis
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = metis
+		religion = catholic
+		size = 9
+	}
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 9
+	}
+}
+#Lethbridge 
+28 = {
+	clergymen = {
+		culture = metis
+		religion = catholic
+		size = 5
+	}
+	artisans = {
+		culture = metis
+		religion = catholic
+		size = 10
+	}
+	soldiers = {
+		culture = metis
+		religion = catholic
+		size = 12
+	}
+	farmers = {
+		culture = metis
+		religion = catholic
+		size = 191
+	}
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 2
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 5
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 10
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 12
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 189
+	}
+}
+#Medicine Hat 
+29 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 1
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 17
+	}
+}
+#Grande Prairie
+2597 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 7
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 9
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 18
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 16
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 336
+	}
+}
+#Peace River
+2626 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 11
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 14
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 29
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 28
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 529
+	}
+}
+#Saskatafrican_minorn
+#Regina 
+30 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 3
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 7
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 15
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 12
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 262
+	}
+	clergymen = {
+		culture = metis
+		religion = catholic
+		size = 3
+	}
+	artisans = {
+		culture = metis
+		religion = catholic
+		size = 7
+	}
+	soldiers = {
+		culture = metis
+		religion = catholic
+		size = 8
+	}
+	farmers = {
+		culture = metis
+		religion = catholic
+		size = 136
+	}
+}
+#La Ronge 
+31 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 12
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 30
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 60
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 72
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 1089
+	}
+}
+#Prince Albert 
+32 = {
+	clergymen = {
+		culture = metis
+		religion = catholic
+		size = 3
+	}
+	artisans = {
+		culture = metis
+		religion = catholic
+		size = 7
+	}
+	soldiers = {
+		culture = metis
+		religion = catholic
+		size = 8
+	}
+	farmers = {
+		culture = metis
+		religion = catholic
+		size = 136
+	}
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 1
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 3
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 7
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 8
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 135
+	}
+}
+#Biggar 
+33 = {
+	clergymen = {
+		culture = metis
+		religion = catholic
+		size = 1
+	}
+	artisans = {
+		culture = metis
+		religion = catholic
+		size = 3
+	}
+	soldiers = {
+		culture = metis
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = metis
+		religion = catholic
+		size = 54
+	}
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 1
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 3
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 54
+	}
+}
+#Saskatoon 
+34 = {
+	clergymen = {
+		culture = metis
+		religion = catholic
+		size = 0
+	}
+	artisans = {
+		culture = metis
+		religion = catholic
+		size = 1
+	}
+	soldiers = {
+		culture = metis
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = metis
+		religion = catholic
+		size = 18
+	}
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 1
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 18
+	}
+}
+#Maple Creek 
+35 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 1
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 2
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 45
+	}
+}
+#Moose Jaw 
+2628 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 9
+	}
+}
+#Assiniboia 
+2625 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 1
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 18
+	}
+}
+#Swift Current
+2592 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 9
+	}
+}
+#Estevan
+4070 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 1
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 2
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 35
+	}
+	clergymen = {
+		culture = metis
+		religion = catholic
+		size = 0
+	}
+	artisans = {
+		culture = metis
+		religion = catholic
+		size = 1
+	}
+	soldiers = {
+		culture = metis
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = metis
+		religion = catholic
+		size = 18
+	}
+}
+#Yorkton
+4071 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 1
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 2
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 5
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 4
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 87
+	}
+	clergymen = {
+		culture = metis
+		religion = catholic
+		size = 1
+	}
+	artisans = {
+		culture = metis
+		religion = catholic
+		size = 2
+	}
+	soldiers = {
+		culture = metis
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = metis
+		religion = catholic
+		size = 45
+	}
+}
+#Weyburn
+4072 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 9
+	}
+}
+#Melville
+4073 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 1
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 3
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 7
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 4
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 122
+	}
+	clergymen = {
+		culture = metis
+		religion = catholic
+		size = 1
+	}
+	artisans = {
+		culture = metis
+		religion = catholic
+		size = 3
+	}
+	soldiers = {
+		culture = metis
+		religion = catholic
+		size = 4
+	}
+	farmers = {
+		culture = metis
+		religion = catholic
+		size = 63
+	}
+}
+#Melfort
+4074 = {
+	clergymen = {
+		culture = metis
+		religion = catholic
+		size = 2
+	}
+	artisans = {
+		culture = metis
+		religion = catholic
+		size = 4
+	}
+	soldiers = {
+		culture = metis
+		religion = catholic
+		size = 4
+	}
+	farmers = {
+		culture = metis
+		religion = catholic
+		size = 72
+	}
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 2
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 4
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 4
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 72
+	}
+}
+#Wynyard
+4078 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 2
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 4
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 8
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 8
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 140
+	}
+	clergymen = {
+		culture = metis
+		religion = catholic
+		size = 2
+	}
+	artisans = {
+		culture = metis
+		religion = catholic
+		size = 4
+	}
+	soldiers = {
+		culture = metis
+		religion = catholic
+		size = 4
+	}
+	farmers = {
+		culture = metis
+		religion = catholic
+		size = 72
+	}
+}
+#North Battleford
+4091 = {
+	clergymen = {
+		culture = metis
+		religion = catholic
+		size = 4
+	}
+	artisans = {
+		culture = metis
+		religion = catholic
+		size = 8
+	}
+	soldiers = {
+		culture = metis
+		religion = catholic
+		size = 8
+	}
+	farmers = {
+		culture = metis
+		religion = catholic
+		size = 154
+	}
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 1
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 4
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 8
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 8
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 153
+	}
+}
+#Wilkie
+4093 = {
+	clergymen = {
+		culture = metis
+		religion = catholic
+		size = 1
+	}
+	artisans = {
+		culture = metis
+		religion = catholic
+		size = 2
+	}
+	soldiers = {
+		culture = metis
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = metis
+		religion = catholic
+		size = 45
+	}
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 1
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 2
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 45
+	}
+}
+#Lloydminster
+4095 = {
+	clergymen = {
+		culture = metis
+		religion = catholic
+		size = 4
+	}
+	artisans = {
+		culture = metis
+		religion = catholic
+		size = 9
+	}
+	soldiers = {
+		culture = metis
+		religion = catholic
+		size = 8
+	}
+	farmers = {
+		culture = metis
+		religion = catholic
+		size = 163
+	}
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 1
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 4
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 9
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 8
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 162
+	}
+}
+#Manitoba
+#Winnipeg 
+36 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 1
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 18
+	}
+	clergymen = {
+		culture = metis
+		religion = catholic
+		size = 0
+	}
+	artisans = {
+		culture = metis
+		religion = catholic
+		size = 1
+	}
+	soldiers = {
+		culture = metis
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = metis
+		religion = catholic
+		size = 18
+	}
+	clergymen = {
+		culture = metis
+		religion = catholic
+		size = 0
+	}
+	artisans = {
+		culture = metis
+		religion = catholic
+		size = 1
+	}
+	soldiers = {
+		culture = metis
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = metis
+		religion = catholic
+		size = 18
+	}
+}
+#Churchill 
+37 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 10
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 27
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 54
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 64
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 979
+	}
+}
+#Boissevain
+38 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 9
+	}
+	clergymen = {
+		culture = metis
+		religion = catholic
+		size = 0
+	}
+	artisans = {
+		culture = metis
+		religion = catholic
+		size = 0
+	}
+	soldiers = {
+		culture = metis
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = metis
+		religion = catholic
+		size = 9
+	}
+}
+#The Pas
+39 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 16
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 40
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 81
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 96
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 1468
+	}
+}
+#Dauphin 
+40 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 1
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 3
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 4
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 63
+	}
+	clergymen = {
+		culture = metis
+		religion = catholic
+		size = 1
+	}
+	artisans = {
+		culture = metis
+		religion = catholic
+		size = 3
+	}
+	soldiers = {
+		culture = metis
+		religion = catholic
+		size = 4
+	}
+	farmers = {
+		culture = metis
+		religion = catholic
+		size = 63
+	}
+}
+#Brandon 
+41 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 9
+	}
+	clergymen = {
+		culture = metis
+		religion = catholic
+		size = 0
+	}
+	artisans = {
+		culture = metis
+		religion = catholic
+		size = 0
+	}
+	soldiers = {
+		culture = metis
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = metis
+		religion = catholic
+		size = 9
+	}
+}
+#Ste
+42 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 9
+	}
+	clergymen = {
+		culture = metis
+		religion = catholic
+		size = 0
+	}
+	artisans = {
+		culture = metis
+		religion = catholic
+		size = 0
+	}
+	soldiers = {
+		culture = metis
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = metis
+		religion = catholic
+		size = 9
+	}
+}
+#Swan River
+4123 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 9
+	}
+	clergymen = {
+		culture = metis
+		religion = catholic
+		size = 0
+	}
+	artisans = {
+		culture = metis
+		religion = catholic
+		size = 0
+	}
+	soldiers = {
+		culture = metis
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = metis
+		religion = catholic
+		size = 9
+	}
+}
+#Russel
+4124 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 1
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 2
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 45
+	}
+	clergymen = {
+		culture = metis
+		religion = catholic
+		size = 1
+	}
+	artisans = {
+		culture = metis
+		religion = catholic
+		size = 2
+	}
+	soldiers = {
+		culture = metis
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = metis
+		religion = catholic
+		size = 45
+	}
+}
+#Minnedosa
+4125 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 1
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 3
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 4
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 63
+	}
+	clergymen = {
+		culture = metis
+		religion = catholic
+		size = 1
+	}
+	artisans = {
+		culture = metis
+		religion = catholic
+		size = 3
+	}
+	soldiers = {
+		culture = metis
+		religion = catholic
+		size = 4
+	}
+	farmers = {
+		culture = metis
+		religion = catholic
+		size = 63
+	}
+}
+#Neepawa
+4126 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 1
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 3
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 4
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 63
+	}
+	clergymen = {
+		culture = metis
+		religion = catholic
+		size = 1
+	}
+	artisans = {
+		culture = metis
+		religion = catholic
+		size = 3
+	}
+	soldiers = {
+		culture = metis
+		religion = catholic
+		size = 4
+	}
+	farmers = {
+		culture = metis
+		religion = catholic
+		size = 63
+	}
+}
+#Gimli
+4127 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 1
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 27
+	}
+	clergymen = {
+		culture = metis
+		religion = catholic
+		size = 0
+	}
+	artisans = {
+		culture = metis
+		religion = catholic
+		size = 1
+	}
+	soldiers = {
+		culture = metis
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = metis
+		religion = catholic
+		size = 27
+	}
+	clergymen = {
+		culture = metis
+		religion = catholic
+		size = 0
+	}
+	artisans = {
+		culture = metis
+		religion = catholic
+		size = 1
+	}
+	soldiers = {
+		culture = metis
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = metis
+		religion = catholic
+		size = 27
+	}
+}
+#Beausejour
+4128 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 1
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 3
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 4
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 63
+	}
+	clergymen = {
+		culture = metis
+		religion = catholic
+		size = 1
+	}
+	artisans = {
+		culture = metis
+		religion = catholic
+		size = 3
+	}
+	soldiers = {
+		culture = metis
+		religion = catholic
+		size = 4
+	}
+	farmers = {
+		culture = metis
+		religion = catholic
+		size = 63
+	}
+	clergymen = {
+		culture = metis
+		religion = catholic
+		size = 1
+	}
+	artisans = {
+		culture = metis
+		religion = catholic
+		size = 3
+	}
+	soldiers = {
+		culture = metis
+		religion = catholic
+		size = 4
+	}
+	farmers = {
+		culture = metis
+		religion = catholic
+		size = 63
+	}
+}
+#Selkirk
+4129 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 1
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 18
+	}
+	clergymen = {
+		culture = metis
+		religion = catholic
+		size = 0
+	}
+	artisans = {
+		culture = metis
+		religion = catholic
+		size = 1
+	}
+	soldiers = {
+		culture = metis
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = metis
+		religion = catholic
+		size = 18
+	}
+	clergymen = {
+		culture = metis
+		religion = catholic
+		size = 0
+	}
+	artisans = {
+		culture = metis
+		religion = catholic
+		size = 1
+	}
+	soldiers = {
+		culture = metis
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = metis
+		religion = catholic
+		size = 18
+	}
+}
+#Morris
+4130 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 1
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 27
+	}
+	clergymen = {
+		culture = metis
+		religion = catholic
+		size = 0
+	}
+	artisans = {
+		culture = metis
+		religion = catholic
+		size = 1
+	}
+	soldiers = {
+		culture = metis
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = metis
+		religion = catholic
+		size = 27
+	}
+}
+#Virden
+4131 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 1
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 2
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 45
+	}
+	clergymen = {
+		culture = metis
+		religion = catholic
+		size = 1
+	}
+	artisans = {
+		culture = metis
+		religion = catholic
+		size = 2
+	}
+	soldiers = {
+		culture = metis
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = metis
+		religion = catholic
+		size = 45
+	}
+}
+#Killarney
+4164 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 1
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 18
+	}
+	clergymen = {
+		culture = metis
+		religion = catholic
+		size = 0
+	}
+	artisans = {
+		culture = metis
+		religion = catholic
+		size = 1
+	}
+	soldiers = {
+		culture = metis
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = metis
+		religion = catholic
+		size = 18
+	}
+}
+#Ontario
+#Fort Severn 
+47 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 11
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 17
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 41
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 44
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 743
+	}
+}
+#Haileybury
+48 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 5
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 8
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 18
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 16
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 331
+	}
+}
+#Kenora
+49 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 7
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 14
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 29
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 28
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 507
+	}
+	clergymen = {
+		culture = metis
+		religion = catholic
+		size = 7
+	}
+	artisans = {
+		culture = metis
+		religion = catholic
+		size = 14
+	}
+	soldiers = {
+		culture = metis
+		religion = catholic
+		size = 16
+	}
+	farmers = {
+		culture = metis
+		religion = catholic
+		size = 263
+	}
+}
+#Thunder Bay 
+50 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 5
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 11
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 22
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 20
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 385
+	}
+}
+#Sault Ste Marie 
+51 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 5
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 13
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 26
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 28
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 477
+	}
+}
+#Sudbury 
+52 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 11
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 22
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 44
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 44
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 770
+	}
+}
+#Bracebridge
+4133 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 1
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 17
+	}
+}
+#Pembroke
+4137 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 1
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 2
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 44
+	}
+}
+#Barrie 
+53 = {
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 6
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 62
+	}
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 48
+	}
+	labourers = {
+		culture = british
+		religion = catholic
+		size = 1050
+	}
+}
+#Toronto 
+46 = {
+	bureaucrats = {
+		culture = british
+		religion = catholic
+		size = 8
+	}
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 8
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 83
+	}
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 144
+	}
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 1298
+	}
+}
+#Windsor 
+54 = {
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 3
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 37
+	}
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 36
+	}
+	labourers = {
+		culture = british
+		religion = catholic
+		size = 741
+	}
+	
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 1
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 18
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 4
+	}
+	labourers = {
+		culture = french
+		religion = catholic
+		size = 185
+	}
+}
+#Hamilton 
+55 = {
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 7
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 85
+	}
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 60
+	}
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 1219
+	}
+}
+#Kingston 
+56 = {
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 9
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 116
+	}
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 44
+	}
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 927
+	}
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 1
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 16
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 4
+	}
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 113
+	}
+}
+#Ottawa 
+57 = {
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 6
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 39
+	}
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 52
+	}
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 1316
+	}
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 6
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 26
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 24
+	}
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 48
+	}
+}
+#Woodstock
+4132 = {
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 7
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 75
+	}
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 60
+	}
+	labourers = {
+		culture = british
+		religion = catholic
+		size = 1266
+	}
+}
+#London
+4134 = {
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 7
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 70
+	}
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 56
+	}
+	labourers = {
+		culture = british
+		religion = catholic
+		size = 1174
+	}
+}
+#L'Orignal
+4135 = {
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 3
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 38
+	}
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 12
+	}
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 216
+	}
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 0
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 5
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 130
+	}
+}
+#Brantford
+4136 = {
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 7
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 81
+	}
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 56
+	}
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 1161
+	}
+}
+#Peterborough
+4138 = {
+	bureaucrats = {
+		culture = british
+		religion = catholic
+		size = 7
+	}
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 7
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 74
+	}
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 128
+	}
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 1154
+	}
+}
+#Belleville
+4139 = {
+	bureaucrats = {
+		culture = british
+		religion = catholic
+		size = 8
+	}
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 8
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 83
+	}
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 144
+	}
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 1298
+	}
+}
+#Kitchener
+4140 = {
+	bureaucrats = {
+		culture = british
+		religion = catholic
+		size = 9
+	}
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 9
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 92
+	}
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 160
+	}
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 1443
+	}
+}
+#Oshawa
+4141 = {
+	bureaucrats = {
+		culture = british
+		religion = catholic
+		size = 9
+	}
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 9
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 101
+	}
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 176
+	}
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 1587
+	}
+}
+#Lindsay
+4142 = {
+	bureaucrats = {
+		culture = british
+		religion = catholic
+		size = 1
+	}
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 1
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 18
+	}
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 32
+	}
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 288
+	}
+}
+#Cornwall
+4143 = {
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 11
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 129
+	}
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 48
+	}
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 1030
+	}
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 1
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 18
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 4
+	}
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 125
+	}
+}
+#Brockville
+4144 = {
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 12
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 142
+	}
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 56
+	}
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 1133
+	}
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 1
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 20
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 4
+	}
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 138
+	}
+}
+#Brampton
+4145 = {
+	bureaucrats = {
+		culture = british
+		religion = catholic
+		size = 3
+	}
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 3
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 37
+	}
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 64
+	}
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 577
+	}
+}
+#Saint Thomas
+4146 = {
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 7
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 74
+	}
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 56
+	}
+	labourers = {
+		culture = british
+		religion = catholic
+		size = 1235
+	}
+}
+#St
+4147 = {
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 7
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 81
+	}
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 56
+	}
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 1161
+	}
+}
+#Goderich
+4148 = {
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 3
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 35
+	}
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 28
+	}
+	labourers = {
+		culture = british
+		religion = catholic
+		size = 586
+	}
+}
+#Quebec
+#Fort Chimo 
+2627 = {
+	aristocrats = {
+		culture = inuit
+		religion = catholic
+		size = 3
+	}
+	clergymen = {
+		culture = inuit
+		religion = catholic
+		size = 8
+	}
+	artisans = {
+		culture = inuit
+		religion = catholic
+		size = 18
+	}
+	soldiers = {
+		culture = inuit
+		religion = catholic
+		size = 12
+	}
+	farmers = {
+		culture = inuit
+		religion = catholic
+		size = 332
+	}
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 1
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 2
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 8
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 12
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 165
+	}
+}
+#Fort George 
+2593 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 3
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 8
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 18
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 12
+	}
+	farmers = {
+		culture = inuit
+		religion = catholic
+		size = 332
+	}
+}
+#Amos
+60 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 26
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 44
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 54
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 72
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 949
+	}
+}
+#Montreal
+58 = {
+	craftsmen = {
+		culture = french
+		religion = catholic
+		size = 3000
+	}
+	bureaucrats = {
+		culture = french
+		religion = catholic
+		size = 400
+	}
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 4000
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 10000
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 6600
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 7000
+	}
+	labourers = {
+		culture = french
+		religion = catholic
+		size = 65000
+	}
+}
+#Chicoutimi 
+61 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 7
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 9
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 19
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 16
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 354
+	}
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 24
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 49
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 48
+	}
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 905
+	}
+}
+#Sept-Iles 
+62 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 1
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 4
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 9
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 8
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 193
+	}
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 4
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 9
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 4
+	}
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 196
+	}
+}
+#Ville-Marie 
+63 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 13
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 33
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 68
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 80
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 1252
+	}
+}
+#Trois-Rivieres 
+64 = {
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 4000
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 5000
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 3500
+	}
+	labourers = {
+		culture = french
+		religion = catholic
+		size = 47000
+	}
+}
+#New Parish City 
+65 = {
+	officers = {
+		culture = french
+		religion = catholic
+		size = 800
+	}
+	clerks = {
+		culture = french
+		religion = catholic
+		size = 2400
+	}
+	aristocrats = {
+		culture = french
+		religion = catholic
+		size = 500
+	}
+	bureaucrats = {
+		culture = french
+		religion = catholic
+		size = 1200
+	}
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 4000
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 10000
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 10000
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 1000
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 5000
+	}
+	labourers = {
+		culture = french
+		religion = catholic
+		size = 83000
+	}
+	craftsmen = {
+		culture = french
+		religion = catholic
+		size = 3000
+	}
+}
+#Sherbrooke 
+66 = {
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 52
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 199
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 176
+	}
+	farmers = {
+		culture = french
+		religion = catholic
+		size = ‭2785‬
+	}
+}
+#Rimouski
+67 = {
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 58
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 290
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 232
+	}
+	labourers = {
+		culture = french
+		religion = catholic
+		size = 5014
+	}
+}
+#Joliette
+4149 = {
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 43
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 279
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 148
+	}
+	labourers = {
+		culture = french
+		religion = catholic
+		size = 3982
+	}
+}
+#Hull
+4150 = {
+	bureaucrats = {
+		culture = french
+		religion = catholic
+		size = 21
+	}
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 44
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 798
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 188
+	}
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 3787
+	}
+}
+#Salaberry
+4151 = {
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 649
+	}
+	bureaucrats = {
+		culture = french
+		religion = catholic
+		size = 13
+	}
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 30
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 532
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 164
+	}
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 2391
+	}
+}
+#Vaudreuil
+4152 = {
+	bureaucrats = {
+		culture = french
+		religion = catholic
+		size = 10
+	}
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 21
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 398
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 88
+	}
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 1792
+	}
+}
+#Rivière-du-Loup
+4153 = {
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 47
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 235
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 188
+	}
+	labourers = {
+		culture = french
+		religion = catholic
+		size = 4074
+	}
+}
+#Saint-Georges
+4154 = {
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 37
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 189
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 148
+	}
+	labourers = {
+		culture = french
+		religion = catholic
+		size = 3289
+	}
+}
+#Thetford Mines
+4155 = {
+	officers = {
+		culture = french
+		religion = catholic
+		size = 400
+	}
+	clerks = {
+		culture = french
+		religion = catholic
+		size = 1200
+	}
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 4000
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 10000
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 3000
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 2400
+	}
+	labourers = {
+		culture = french
+		religion = catholic
+		size = 41000
+	}
+}
+#Marieville
+4156 = {
+	bureaucrats = {
+		culture = french
+		religion = catholic
+		size = 18
+	}
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 37
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 665
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 152
+	}
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 2989
+	}
+}
+#Saint-Hyacinthe
+4157 = {
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 79
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 292
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 260
+	}
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 4085
+	}
+}
+#Drummondville
+4158 = {
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 96
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 358
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 320
+	}
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 5014
+	}
+}
+#Saint-Jean-sur-Richelieu
+4159 = {
+	bureaucrats = {
+		culture = french
+		religion = catholic
+		size = 10
+	}
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 21
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 398
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 88
+	}
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 1792
+	}
+}
+#Longueuil
+4160 = {
+	bureaucrats = {
+		culture = french
+		religion = catholic
+		size = 400
+	}
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 4000
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 1600
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 124
+	}
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 2391
+	}
+}
+#Saint-Jérôme
+4161 = {
+	bureaucrats = {
+		culture = french
+		religion = catholic
+		size = 18
+	}
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 37
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 665
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 152
+	}
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 2989
+	}
+}
+#Lévis
+4162 = {
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 81
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 305
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 272
+	}
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 4270
+	}
+}
+#New Brunswick
+#Fredericton 
+68 = {
+	bureaucrats = {
+		culture = british
+		religion = catholic
+		size = 12
+	}
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 44
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 120
+	}
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 96
+	}
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 2040
+	}
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 24
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 56
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 64
+	}
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 1024
+	}
+}
+#Bathurst 
+69 = {
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 6
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 48
+	}
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 48
+	}
+	labourers = {
+		culture = british
+		religion = catholic
+		size = 894
+	}
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 4
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 16
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 8
+	}
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 298
+	}
+}
+#Miramichi
+4167 = {
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 9
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 78
+	}
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 76
+	}
+	labourers = {
+		culture = british
+		religion = catholic
+		size = 1452
+	}
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 6
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 26
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 12
+	}
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 484
+	}
+}
+#Moncton
+4169 = {
+	bureaucrats = {
+		culture = british
+		religion = catholic
+		size = 6
+	}
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 24
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 67
+	}
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 52
+	}
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 1147
+	}
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 13
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 31
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 36
+	}
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 576
+	}
+}
+#Edmundston
+4170 = {
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 6
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 48
+	}
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 48
+	}
+	labourers = {
+		culture = british
+		religion = catholic
+		size = 894
+	}
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 4
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 16
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 8
+	}
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 298
+	}
+}
+#Saint John
+4174 = {
+	bureaucrats = {
+		culture = british
+		religion = catholic
+		size = 12
+	}
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 46
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 127
+	}
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 100
+	}
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 2167
+	}
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 25
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 59
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 68
+	}
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 1088
+	}
+}
+#Prince Edward Island
+#Summerside 
+70 = {
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 8
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 240
+	}
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 64
+	}
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 1016
+	}
+}
+#Charlottetown
+4173 = {
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 22
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 675
+	}
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 180
+	}
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 2857
+	}
+}
+#Nova Scotia
+#Halifax 
+71 = {
+	bureaucrats = {
+		culture = british
+		religion = catholic
+		size = 11
+	}
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 11
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 440
+	}
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 88
+	}
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 1606
+	}
+	labourers = {
+		culture = french
+		religion = catholic
+		size = 121
+	}
+	labourers = {
+		culture = afro_american
+		religion = catholic
+		size = 82
+	}
+}
+#Kentville
+4163 = {
+	bureaucrats = {
+		culture = british
+		religion = catholic
+		size = 11
+	}
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 11
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 440
+	}
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 88
+	}
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 1606
+	}
+	labourers = {
+		culture = french
+		religion = catholic
+		size = 121
+	}
+	labourers = {
+		culture = afro_american
+		religion = catholic
+		size = 82
+	}
+}
+#Yarmouth
+4165 = {
+	bureaucrats = {
+		culture = british
+		religion = catholic
+		size = 9
+	}
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 9
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 360
+	}
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 72
+	}
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 1314
+	}
+	labourers = {
+		culture = french
+		religion = catholic
+		size = 99
+	}
+	labourers = {
+		culture = afro_american
+		religion = catholic
+		size = 67
+	}
+}
+#Digby
+4171 = {
+	bureaucrats = {
+		culture = british
+		religion = catholic
+		size = 10
+	}
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 10
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 400
+	}
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 80
+	}
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 1460
+	}
+	labourers = {
+		culture = french
+		religion = catholic
+		size = 110
+	}
+	labourers = {
+		culture = afro_american
+		religion = catholic
+		size = 75
+	}
+}
+#Lunenburg
+4172 = {
+	bureaucrats = {
+		culture = british
+		religion = catholic
+		size = 9
+	}
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 9
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 360
+	}
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 72
+	}
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 1314
+	}
+	labourers = {
+		culture = french
+		religion = catholic
+		size = 99
+	}
+	labourers = {
+		culture = afro_american
+		religion = catholic
+		size = 67
+	}
+}
+#Truro 
+72 = {
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 10
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 157
+	}
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 104
+	}
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 1905
+	}
+	labourers = {
+		culture = french
+		religion = catholic
+		size = 231
+	}
+}
+#Pictou
+4168 = {
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 13
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 202
+	}
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 132
+	}
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 2450
+	}
+	labourers = {
+		culture = french
+		religion = catholic
+		size = 297
+	}
+}
+#Port Hawkesbury
+73 = {
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 21
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 105
+	}
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 84
+	}
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 1953
+	}
+}
+#Sydney
+4166 = {
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 21
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 107
+	}
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 84
+	}
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 1999
+	}
+}
+#Newfoundland
+#Saint John's 
+74 = {
+	bureaucrats = {
+		culture = british
+		religion = catholic
+		size = 12
+	}
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 17
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 482
+	}
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 48
+	}
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 680
+	}
+	clergymen = {
+		culture = gaels
+		religion = catholic
+		size = 24
+	}
+	artisans = {
+		culture = gaels
+		religion = catholic
+		size = 482
+	}
+	farmers = {
+		culture = gaels
+		religion = catholic
+		size = 1664
+	}
+}
+#Millertown 
+75 = {
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 12
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 40
+	}
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 32
+	}
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 743
+	}
+	clergymen = {
+		culture = gaels
+		religion = catholic
+		size = 16
+	}
+	artisans = {
+		culture = gaels
+		religion = catholic
+		size = 16
+	}
+	farmers = {
+		culture = gaels
+		religion = catholic
+		size = 128
+	}
+}
+#Hopedale 
+76 = {
+	aristocrats = {
+		culture = inuit
+		religion = catholic
+		size = 2
+	}
+	clergymen = {
+		culture = inuit
+		religion = catholic
+		size = 5
+	}
+	artisans = {
+		culture = inuit
+		religion = catholic
+		size = 13
+	}
+	soldiers = {
+		culture = inuit
+		religion = catholic
+		size = 8
+	}
+	farmers = {
+		culture = inuit
+		religion = catholic
+		size = 246
+	}
+}
+#Bonavista
+4175 = {
+	bureaucrats = {
+		culture = british
+		religion = catholic
+		size = 4
+	}
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 5
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 160
+	}
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 16
+	}
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 226
+	}
+	clergymen = {
+		culture = gaels
+		religion = catholic
+		size = 8
+	}
+	artisans = {
+		culture = gaels
+		religion = catholic
+		size = 160
+	}
+	farmers = {
+		culture = gaels
+		religion = catholic
+		size = 554
+	}
+}
+#St
+4176 = {
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 6
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 22
+	}
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 16
+	}
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 432
+	}
+	clergymen = {
+		culture = gaels
+		religion = catholic
+		size = 9
+	}
+	artisans = {
+		culture = gaels
+		religion = catholic
+		size = 9
+	}
+	farmers = {
+		culture = gaels
+		religion = catholic
+		size = 75
+	}
+}
+#Springdale
+4177 = {
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 16
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 53
+	}
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 40
+	}
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 991
+	}
+	clergymen = {
+		culture = gaels
+		religion = catholic
+		size = 21
+	}
+	artisans = {
+		culture = gaels
+		religion = catholic
+		size = 21
+	}
+	farmers = {
+		culture = gaels
+		religion = catholic
+		size = 171
+	}
+}
+#Channel-Port aux Basques
+4178 = {
+	bureaucrats = {
+		culture = british
+		religion = catholic
+		size = 2
+	}
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 4
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 107
+	}
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 8
+	}
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 151
+	}
+	clergymen = {
+		culture = gaels
+		religion = catholic
+		size = 5
+	}
+	artisans = {
+		culture = gaels
+		religion = catholic
+		size = 107
+	}
+	farmers = {
+		culture = gaels
+		religion = catholic
+		size = 369
+	}
+}
+#Burin
+4179 = {
+	bureaucrats = {
+		culture = british
+		religion = catholic
+		size = 2
+	}
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 4
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 107
+	}
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 8
+	}
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 151
+	}
+	clergymen = {
+		culture = gaels
+		religion = catholic
+		size = 5
+	}
+	artisans = {
+		culture = gaels
+		religion = catholic
+		size = 107
+	}
+	farmers = {
+		culture = gaels
+		religion = catholic
+		size = 369
+	}
+}
+#Stephenville
+59 = {
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 18
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 62
+	}
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 48
+	}
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 1176
+	}
+	clergymen = {
+		culture = gaels
+		religion = catholic
+		size = 25
+	}
+	artisans = {
+		culture = gaels
+		religion = catholic
+		size = 25
+	}
+	farmers = {
+		culture = gaels
+		religion = catholic
+		size = 203
+	}
+}
+#St Pierre & Miquelon 
+#Ruled by France 1836
+#Saint Pierre 
+77 = {
+	bureaucrats = {
+		culture = french
+		religion = catholic
+		size = 1
+	}
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 4
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 45
+	}
+	labourers = {
+		culture = french
+		religion = catholic
+		size = 450
+	}
+
+}

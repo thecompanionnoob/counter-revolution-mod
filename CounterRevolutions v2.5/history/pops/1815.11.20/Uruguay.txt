@@ -1,0 +1,1108 @@
+#Uruguay
+#Montevideo
+2344 = {
+	aristocrats = {
+		culture = spanish
+		religion = catholic
+		size = 160.48
+	}
+	bureaucrats = {
+		culture = spanish
+		religion = catholic
+		size = 12.92
+	}
+	officers = {
+		culture = spanish
+		religion = catholic
+		size = 12.92
+	}
+	clergymen = {
+		culture = spanish
+		religion = catholic
+		size = 68.68
+	}
+	artisans = {
+		culture = spanish
+		religion = catholic
+		size = 274.72
+	}
+	soldiers = {
+		culture = spanish
+		religion = catholic
+		size = 1234.88
+	}
+	farmers = {
+		culture = spanish
+		religion = catholic
+		size = 5651.48
+	}
+	
+	aristocrats = {
+		culture = platinean
+		religion = catholic
+		size = 75.52
+	}
+	bureaucrats = {
+		culture = platinean
+		religion = catholic
+		size = 6.08
+	}
+	officers = {
+		culture = platinean
+		religion = catholic
+		size = 6.08
+	}
+	clergymen = {
+		culture = platinean
+		religion = catholic
+		size = 32.32
+	}
+	artisans = {
+		culture = platinean
+		religion = catholic
+		size = 129.28
+	}
+	soldiers = {
+		culture = platinean
+		religion = catholic
+		size = 581.12
+	}
+	farmers = {
+		culture = platinean
+		religion = catholic
+		size = 2659.52
+	}
+	
+	clergymen = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 19
+	}
+	artisans = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 101
+	}
+	soldiers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 76
+	}
+	farmers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 1302
+	}
+	slaves = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 619
+	}
+}
+#Paysandu
+2345 = {
+	aristocrats = {
+		culture = spanish
+		religion = catholic
+		size = 9.52
+	}
+	clergymen = {
+		culture = spanish
+		religion = catholic
+		size = 3.4
+	}
+	artisans = {
+		culture = spanish
+		religion = catholic
+		size = 21.08
+	}
+	soldiers = {
+		culture = spanish
+		religion = catholic
+		size = 212.16
+	}
+	farmers = {
+		culture = spanish
+		religion = catholic
+		size = 353.6
+	}
+	
+	aristocrats = {
+		culture = platinean
+		religion = catholic
+		size = 4.48
+	}
+	clergymen = {
+		culture = platinean
+		religion = catholic
+		size = 1.6
+	}
+	artisans = {
+		culture = platinean
+		religion = catholic
+		size = 9.92
+	}
+	soldiers = {
+		culture = platinean
+		religion = catholic
+		size = 99.84
+	}
+	farmers = {
+		culture = platinean
+		religion = catholic
+		size = 166.4
+	}
+}
+#Tacumba
+2346 = {
+	aristocrats = {
+		culture = spanish
+		religion = catholic
+		size = 2.04
+	}
+	clergymen = {
+		culture = spanish
+		religion = catholic
+		size = 4.76
+	}
+	artisans = {
+		culture = spanish
+		religion = catholic
+		size = 10.88
+	}
+	soldiers = {
+		culture = spanish
+		religion = catholic
+		size = 8.16
+	}
+	farmers = {
+		culture = spanish
+		religion = catholic
+		size = 210.12
+	}
+	
+	aristocrats = {
+		culture = platinean
+		religion = catholic
+		size = 0.96
+	}
+	clergymen = {
+		culture = platinean
+		religion = catholic
+		size = 2.24
+	}
+	artisans = {
+		culture = platinean
+		religion = catholic
+		size = 5.12
+	}
+	soldiers = {
+		culture = platinean
+		religion = catholic
+		size = 3.84
+	}
+	farmers = {
+		culture = platinean
+		religion = catholic
+		size = 98.88
+	}
+	
+	clergymen = {
+		culture = brazilian
+		religion = catholic
+		size = 2
+	}
+	artisans = {
+		culture = brazilian
+		religion = catholic
+		size = 7
+	}
+	soldiers = {
+		culture = brazilian
+		religion = catholic
+		size = 4
+	}
+	farmers = {
+		culture = brazilian
+		religion = catholic
+		size = 158
+	}
+}
+#Melo
+2347 = {
+	aristocrats = {
+		culture = spanish
+		religion = catholic
+		size = 4.08
+	}
+	clergymen = {
+		culture = spanish
+		religion = catholic
+		size = 1.36
+	}
+	artisans = {
+		culture = spanish
+		religion = catholic
+		size = 10.2
+	}
+	soldiers = {
+		culture = spanish
+		religion = catholic
+		size = 133.28
+	}
+	farmers = {
+		culture = spanish
+		religion = catholic
+		size = 165.92
+	}
+	clergymen = {
+		culture = brazilian
+		religion = catholic
+		size = 1.36
+	}
+	
+	aristocrats = {
+		culture = platinean
+		religion = catholic
+		size = 1.92
+	}
+	clergymen = {
+		culture = platinean
+		religion = catholic
+		size = 0.64
+	}
+	artisans = {
+		culture = platinean
+		religion = catholic
+		size = 4.8
+	}
+	soldiers = {
+		culture = platinean
+		religion = catholic
+		size = 62.72
+	}
+	farmers = {
+		culture = platinean
+		religion = catholic
+		size = 78.08
+	}
+	clergymen = {
+		culture = brazilian
+		religion = catholic
+		size = 0.64
+	}
+	
+	artisans = {
+		culture = brazilian
+		religion = catholic
+		size = 6
+	}
+	soldiers = {
+		culture = brazilian
+		religion = catholic
+		size = 4
+	}
+	farmers = {
+		culture = brazilian
+		religion = catholic
+		size = 124
+	}
+}
+#Artigas	
+3824 = {
+	aristocrats = {
+		culture = spanish
+		religion = catholic
+		size = 1.36
+	}
+	clergymen = {
+		culture = spanish
+		religion = catholic
+		size = 2.72
+	}
+	artisans = {
+		culture = spanish
+		religion = catholic
+		size = 5.44
+	}
+	soldiers = {
+		culture = spanish
+		religion = catholic
+		size = 5.44
+	}
+	farmers = {
+		culture = spanish
+		religion = catholic
+		size = 112.2
+	}
+	
+	aristocrats = {
+		culture = platinean
+		religion = catholic
+		size = 0.64
+	}
+	clergymen = {
+		culture = platinean
+		religion = catholic
+		size = 1.28
+	}
+	artisans = {
+		culture = platinean
+		religion = catholic
+		size = 2.56
+	}
+	soldiers = {
+		culture = platinean
+		religion = catholic
+		size = 2.56
+	}
+	farmers = {
+		culture = platinean
+		religion = catholic
+		size = 52.8
+	}
+	
+	clergymen = {
+		culture = brazilian
+		religion = catholic
+		size = 1
+	}
+	artisans = {
+		culture = brazilian
+		religion = catholic
+		size = 4
+	}
+	soldiers = {
+		culture = brazilian
+		religion = catholic
+		size = 0
+	}
+	farmers = {
+		culture = brazilian
+		religion = catholic
+		size = 84
+	}
+}
+#Treinta y Tres	
+3825 = {
+	aristocrats = {
+		culture = spanish
+		religion = catholic
+		size = 4.76
+	}
+	clergymen = {
+		culture = spanish
+		religion = catholic
+		size = 1.36
+	}
+	artisans = {
+		culture = spanish
+		religion = catholic
+		size = 11.56
+	}
+	soldiers = {
+		culture = spanish
+		religion = catholic
+		size = 116.96
+	}
+	farmers = {
+		culture = spanish
+		religion = catholic
+		size = 195.16
+	}
+	
+	aristocrats = {
+		culture = platinean
+		religion = catholic
+		size = 2.24
+	}
+	clergymen = {
+		culture = platinean
+		religion = catholic
+		size = 0.64
+	}
+	artisans = {
+		culture = platinean
+		religion = catholic
+		size = 5.44
+	}
+	soldiers = {
+		culture = platinean
+		religion = catholic
+		size = 55.04
+	}
+	farmers = {
+		culture = platinean
+		religion = catholic
+		size = 91.84
+	}
+}
+#Colonia del Sacramento  	
+3826 = {
+	aristocrats = {
+		culture = spanish
+		religion = catholic
+		size = 11.56
+	}
+	clergymen = {
+		culture = spanish
+		religion = catholic
+		size = 4.08
+	}
+	artisans = {
+		culture = spanish
+		religion = catholic
+		size = 26.52
+	}
+	soldiers = {
+		culture = spanish
+		religion = catholic
+		size = 263.84
+	}
+	farmers = {
+		culture = spanish
+		religion = catholic
+		size = 441.32
+	}
+	
+	aristocrats = {
+		culture = platinean
+		religion = catholic
+		size = 5.44
+	}
+	clergymen = {
+		culture = platinean
+		religion = catholic
+		size = 1.92
+	}
+	artisans = {
+		culture = platinean
+		religion = catholic
+		size = 12.48
+	}
+	soldiers = {
+		culture = platinean
+		religion = catholic
+		size = 124.16
+	}
+	farmers = {
+		culture = platinean
+		religion = catholic
+		size = 207.68
+	}
+}
+#Durazno	
+3827 = {
+	aristocrats = {
+		culture = spanish
+		religion = catholic
+		size = 7.48
+	}
+	clergymen = {
+		culture = spanish
+		religion = catholic
+		size = 2.72
+	}
+	artisans = {
+		culture = spanish
+		religion = catholic
+		size = 17.0
+	}
+	soldiers = {
+		culture = spanish
+		religion = catholic
+		size = 168.64
+	}
+	farmers = {
+		culture = spanish
+		religion = catholic
+		size = 279.48
+	}
+	
+	aristocrats = {
+		culture = platinean
+		religion = catholic
+		size = 3.52
+	}
+	clergymen = {
+		culture = platinean
+		religion = catholic
+		size = 1.28
+	}
+	artisans = {
+		culture = platinean
+		religion = catholic
+		size = 8.0
+	}
+	soldiers = {
+		culture = platinean
+		religion = catholic
+		size = 79.36
+	}
+	farmers = {
+		culture = platinean
+		religion = catholic
+		size = 131.52
+	}
+}
+#Trinidad	
+3828 = {
+	aristocrats = {
+		culture = spanish
+		religion = catholic
+		size = 4.76
+	}
+	clergymen = {
+		culture = spanish
+		religion = catholic
+		size = 1.36
+	}
+	artisans = {
+		culture = spanish
+		religion = catholic
+		size = 11.56
+	}
+	soldiers = {
+		culture = spanish
+		religion = catholic
+		size = 114.24
+	}
+	farmers = {
+		culture = spanish
+		religion = catholic
+		size = 189.72
+	}
+	
+	aristocrats = {
+		culture = platinean
+		religion = catholic
+		size = 2.24
+	}
+	clergymen = {
+		culture = platinean
+		religion = catholic
+		size = 0.64
+	}
+	artisans = {
+		culture = platinean
+		religion = catholic
+		size = 5.44
+	}
+	soldiers = {
+		culture = platinean
+		religion = catholic
+		size = 53.76
+	}
+	farmers = {
+		culture = platinean
+		religion = catholic
+		size = 89.28
+	}
+}
+#Florida	
+3829 = {
+	aristocrats = {
+		culture = spanish
+		religion = catholic
+		size = 8.84
+	}
+	clergymen = {
+		culture = spanish
+		religion = catholic
+		size = 3.4
+	}
+	artisans = {
+		culture = spanish
+		religion = catholic
+		size = 20.4
+	}
+	soldiers = {
+		culture = spanish
+		religion = catholic
+		size = 204.0
+	}
+	farmers = {
+		culture = spanish
+		religion = catholic
+		size = 338.64
+	}
+	
+	aristocrats = {
+		culture = platinean
+		religion = catholic
+		size = 4.16
+	}
+	clergymen = {
+		culture = platinean
+		religion = catholic
+		size = 1.6
+	}
+	artisans = {
+		culture = platinean
+		religion = catholic
+		size = 9.6
+	}
+	soldiers = {
+		culture = platinean
+		religion = catholic
+		size = 96.0
+	}
+	farmers = {
+		culture = platinean
+		religion = catholic
+		size = 159.36
+	}
+}
+#Minas	
+3830 = {
+	aristocrats = {
+		culture = spanish
+		religion = catholic
+		size = 7.48
+	}
+	clergymen = {
+		culture = spanish
+		religion = catholic
+		size = 2.72
+	}
+	artisans = {
+		culture = spanish
+		religion = catholic
+		size = 17.0
+	}
+	soldiers = {
+		culture = spanish
+		religion = catholic
+		size = 168.64
+	}
+	farmers = {
+		culture = spanish
+		religion = catholic
+		size = 280.16
+	}
+	
+	aristocrats = {
+		culture = platinean
+		religion = catholic
+		size = 3.52
+	}
+	clergymen = {
+		culture = platinean
+		religion = catholic
+		size = 1.28
+	}
+	artisans = {
+		culture = platinean
+		religion = catholic
+		size = 8.0
+	}
+	soldiers = {
+		culture = platinean
+		religion = catholic
+		size = 79.36
+	}
+	farmers = {
+		culture = platinean
+		religion = catholic
+		size = 131.84
+	}
+}
+#Maldonado	
+3831 = {
+	aristocrats = {
+		culture = spanish
+		religion = catholic
+		size = 5.44
+	}
+	clergymen = {
+		culture = spanish
+		religion = catholic
+		size = 2.04
+	}
+	artisans = {
+		culture = spanish
+		religion = catholic
+		size = 12.24
+	}
+	soldiers = {
+		culture = spanish
+		religion = catholic
+		size = 125.12
+	}
+	farmers = {
+		culture = spanish
+		religion = catholic
+		size = 206.72
+	}
+	
+	aristocrats = {
+		culture = platinean
+		religion = catholic
+		size = 2.56
+	}
+	clergymen = {
+		culture = platinean
+		religion = catholic
+		size = 0.96
+	}
+	artisans = {
+		culture = platinean
+		religion = catholic
+		size = 5.76
+	}
+	soldiers = {
+		culture = platinean
+		religion = catholic
+		size = 58.88
+	}
+	farmers = {
+		culture = platinean
+		religion = catholic
+		size = 97.28
+	}
+}
+#Fray Bentos	
+3832 = {
+	aristocrats = {
+		culture = spanish
+		religion = catholic
+		size = 4.76
+	}
+	clergymen = {
+		culture = spanish
+		religion = catholic
+		size = 1.36
+	}
+	artisans = {
+		culture = spanish
+		religion = catholic
+		size = 10.88
+	}
+	soldiers = {
+		culture = spanish
+		religion = catholic
+		size = 106.08
+	}
+	farmers = {
+		culture = spanish
+		religion = catholic
+		size = 178.16
+	}
+	
+	aristocrats = {
+		culture = platinean
+		religion = catholic
+		size = 2.24
+	}
+	clergymen = {
+		culture = platinean
+		religion = catholic
+		size = 0.64
+	}
+	artisans = {
+		culture = platinean
+		religion = catholic
+		size = 5.12
+	}
+	soldiers = {
+		culture = platinean
+		religion = catholic
+		size = 49.92
+	}
+	farmers = {
+		culture = platinean
+		religion = catholic
+		size = 83.84
+	}
+}
+#Rivera	
+3833 = {
+	aristocrats = {
+		culture = spanish
+		religion = catholic
+		size = 2.04
+	}
+	clergymen = {
+		culture = spanish
+		religion = catholic
+		size = 4.08
+	}
+	artisans = {
+		culture = spanish
+		religion = catholic
+		size = 9.52
+	}
+	soldiers = {
+		culture = spanish
+		religion = catholic
+		size = 8.16
+	}
+	farmers = {
+		culture = spanish
+		religion = catholic
+		size = 178.16
+	}
+	
+	aristocrats = {
+		culture = platinean
+		religion = catholic
+		size = 0.96
+	}
+	clergymen = {
+		culture = platinean
+		religion = catholic
+		size = 1.92
+	}
+	artisans = {
+		culture = platinean
+		religion = catholic
+		size = 4.48
+	}
+	soldiers = {
+		culture = platinean
+		religion = catholic
+		size = 3.84
+	}
+	farmers = {
+		culture = platinean
+		religion = catholic
+		size = 83.84
+	}
+	
+	clergymen = {
+		culture = brazilian
+		religion = catholic
+		size = 2
+	}
+	artisans = {
+		culture = brazilian
+		religion = catholic
+		size = 6
+	}
+	soldiers = {
+		culture = brazilian
+		religion = catholic
+		size = 4
+	}
+	farmers = {
+		culture = brazilian
+		religion = catholic
+		size = 134
+	}
+}
+#Rocha	
+3834 = {
+	aristocrats = {
+		culture = spanish
+		religion = catholic
+		size = 5.44
+	}
+	clergymen = {
+		culture = spanish
+		religion = catholic
+		size = 2.04
+	}
+	artisans = {
+		culture = spanish
+		religion = catholic
+		size = 12.92
+	}
+	soldiers = {
+		culture = spanish
+		religion = catholic
+		size = 130.56
+	}
+	farmers = {
+		culture = spanish
+		religion = catholic
+		size = 217.6
+	}
+	
+	aristocrats = {
+		culture = platinean
+		religion = catholic
+		size = 2.56
+	}
+	clergymen = {
+		culture = platinean
+		religion = catholic
+		size = 0.96
+	}
+	artisans = {
+		culture = platinean
+		religion = catholic
+		size = 6.08
+	}
+	soldiers = {
+		culture = platinean
+		religion = catholic
+		size = 61.44
+	}
+	farmers = {
+		culture = platinean
+		religion = catholic
+		size = 102.4
+	}
+}
+#Salto	
+3835 = {
+	aristocrats = {
+		culture = spanish
+		religion = catholic
+		size = 8.16
+	}
+	clergymen = {
+		culture = spanish
+		religion = catholic
+		size = 2.72
+	}
+	artisans = {
+		culture = spanish
+		religion = catholic
+		size = 19.04
+	}
+	soldiers = {
+		culture = spanish
+		religion = catholic
+		size = 187.68
+	}
+	farmers = {
+		culture = spanish
+		religion = catholic
+		size = 311.44
+	}
+	
+	aristocrats = {
+		culture = platinean
+		religion = catholic
+		size = 3.84
+	}
+	clergymen = {
+		culture = platinean
+		religion = catholic
+		size = 1.28
+	}
+	artisans = {
+		culture = platinean
+		religion = catholic
+		size = 8.96
+	}
+	soldiers = {
+		culture = platinean
+		religion = catholic
+		size = 88.32
+	}
+	farmers = {
+		culture = platinean
+		religion = catholic
+		size = 146.56
+	}
+}
+#San José de Mayo	
+3836 = {
+	aristocrats = {
+		culture = spanish
+		religion = catholic
+		size = 6.8
+	}
+	clergymen = {
+		culture = spanish
+		religion = catholic
+		size = 2.04
+	}
+	artisans = {
+		culture = spanish
+		religion = catholic
+		size = 15.64
+	}
+	soldiers = {
+		culture = spanish
+		religion = catholic
+		size = 157.76
+	}
+	farmers = {
+		culture = spanish
+		religion = catholic
+		size = 263.16
+	}
+	
+	aristocrats = {
+		culture = platinean
+		religion = catholic
+		size = 3.2
+	}
+	clergymen = {
+		culture = platinean
+		religion = catholic
+		size = 0.96
+	}
+	artisans = {
+		culture = platinean
+		religion = catholic
+		size = 7.36
+	}
+	soldiers = {
+		culture = platinean
+		religion = catholic
+		size = 74.24
+	}
+	farmers = {
+		culture = platinean
+		religion = catholic
+		size = 123.84
+	}
+}
+#Mercedes	
+3837 = {
+	aristocrats = {
+		culture = spanish
+		religion = catholic
+		size = 8.84
+	}
+	clergymen = {
+		culture = spanish
+		religion = catholic
+		size = 2.72
+	}
+	artisans = {
+		culture = spanish
+		religion = catholic
+		size = 19.72
+	}
+	soldiers = {
+		culture = spanish
+		religion = catholic
+		size = 195.84
+	}
+	farmers = {
+		culture = spanish
+		religion = catholic
+		size = 325.04
+	}
+	
+	aristocrats = {
+		culture = platinean
+		religion = catholic
+		size = 4.16
+	}
+	clergymen = {
+		culture = platinean
+		religion = catholic
+		size = 1.28
+	}
+	artisans = {
+		culture = platinean
+		religion = catholic
+		size = 9.28
+	}
+	soldiers = {
+		culture = platinean
+		religion = catholic
+		size = 92.16
+	}
+	farmers = {
+		culture = platinean
+		religion = catholic
+		size = 152.96
+	}
+}

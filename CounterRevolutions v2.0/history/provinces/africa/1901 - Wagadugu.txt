@@ -1,5 +1,0 @@
-owner = MSI
-controller = MSI
-add_core = MSI
-trade_goods = grain
-life_rating = 36

@@ -1,0 +1,5 @@
+owner = BNN
+controller = BNN
+add_core = BNN
+trade_goods = tropical_wood
+life_rating = 33

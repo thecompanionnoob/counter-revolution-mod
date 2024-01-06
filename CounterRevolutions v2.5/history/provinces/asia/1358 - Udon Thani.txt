@@ -1,0 +1,5 @@
+owner = WIA
+controller = WIA
+add_core = WIA
+trade_goods = fruit
+life_rating = 37

@@ -1,0 +1,5 @@
+owner = FTO
+controller = FTO
+add_core = FTO
+trade_goods = cattle
+life_rating = 33

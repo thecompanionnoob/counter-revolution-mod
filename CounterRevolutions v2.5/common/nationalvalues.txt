@@ -1,0 +1,39 @@
+nv_order = {
+	mobilisation_size = 0.02
+	mobilisation_economy_impact = 1.0
+	suppression_points_modifier = 0.1
+	ruling_party_support = 0.1
+	diplomatic_points_modifier = -0.25
+}
+
+nv_liberty = {
+	mobilisation_economy_impact = 0.75
+	global_assimilation_rate = 0.5
+	badboy = 0.03
+	max_military_spending = -0.25
+	influence_modifier = -0.75
+	diplomatic_points_modifier = 0.25
+}
+
+nv_equality = {
+	mobilisation_size = 0.04
+	mobilisation_economy_impact = 1.25
+	global_assimilation_rate = 1
+	immigrant_push = -100
+	influence_modifier = -0.25
+}
+
+nv_the_spirit_of_napoleon = {
+	mobilisation_size = 0.1
+	mobilisation_economy_impact = -2
+	global_assimilation_rate = 10
+	immigrant_push = -100
+	influence_modifier = 0.5
+	global_immigrant_attract = 1
+	war_exhaustion = -0.1
+	rgo_output = 0.2
+	rgo_throughput = 0.2
+	research_points_modifier = 0.1
+	political_reform_desire = 0.2
+	social_reform_desire = 0.2
+}

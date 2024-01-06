@@ -1,0 +1,244 @@
+#Frankfurt Parliament (Austria)
+country_event = {
+	id = 7400
+	title = "The Frankfurt Parliament"
+	desc = "EVTDESC7400"
+	major = yes
+	fire_only_once = yes
+	is_triggered_only = yes
+	
+	mean_time_to_happen =  {
+		months = 12
+	}
+	
+	option = {
+		name = "Austria is indivisible!"
+		GER = { 
+			all_core = {
+				limit = { is_core = AUS }
+				remove_core = GER
+			}
+		}
+		PRU = {
+			country_event = 7401
+		}
+		set_global_flag = frankfurt_parliament
+		ai_chance = { factor = 90 }
+	}
+	
+	option = {
+		name = "Austria is a part of Germany, and shall always be!"
+		prestige_factor = -0.5
+		badboy = 20
+		all_core = {
+			remove_core = AUS
+		}
+		release = GER
+		release = HUN
+		release = CRO
+		release = MOL
+		release = POL
+		release = VEN
+		release = LOM
+		any_country = {
+			limit = {
+				NOT = { tag = AUS }
+				any_core = {
+					owned_by = AUS
+				}
+			}
+			country_event = 7107
+		}
+		inherit = GER
+		change_tag = GER
+		564 = {
+			secede_province = THIS
+			remove_core = FRM
+		}
+		capital = 564
+		ruling_party_ideology = liberal
+		any_country = {
+			limit = {
+				NOT = {
+					tag = THIS
+				}
+				primary_culture = german
+				is_greater_power = no
+				any_owned_province = {
+					is_core = GER
+				}
+				OR = {
+					is_vassal = no
+					vassal_of = THIS
+				}
+			}
+			country_event = 11101
+		}
+		any_country = {
+			limit = {
+				NOT = {
+					tag = THIS
+				}
+				primary_culture = german
+				is_greater_power = yes
+				any_owned_province = {
+					is_core = GER
+				}
+			}
+			country_event = 7402
+		}
+		political_reform = wealth_voting
+		political_reform = population_equal_weight
+		political_reform = yes_meeting
+		political_reform = free_press
+		political_reform = non_socialist
+		political_reform = secret_ballots
+		government = hms_government
+		set_global_flag = frankfurt_parliament
+		
+		ai_chance = { factor = 10 }
+	}
+}
+
+#Frankfurt Parliament (Prussia)
+country_event = {
+	id = 7401
+	title = "The Frankfurt Parliament"
+	desc = "EVTDESC7401"
+	major = yes
+	fire_only_once = yes
+	is_triggered_only = yes
+	
+	option = {
+		name = "I will not accept a crown with the hussy smell of revolution!"
+		prestige = 50
+		ai_chance = { factor = 90 }
+	}
+	
+	option = {
+		name = "I accept the will of the congress."
+		prestige_factor = -0.5
+		badboy = 10
+		all_core = {
+			limit = {
+				NOT = {
+					OR = {
+						region = PRU_695
+						region = PRU_690
+					}
+				}
+			}
+			remove_core = PRU
+		}
+		any_owned = {
+			limit = {
+				OR = {
+					is_core = GER
+					is_core = PRU
+				}
+			}
+			secede_province = GER
+		}
+		release = POL
+		release = LIT
+		any_country = {
+			limit = {
+				NOT = { tag = PRU }
+				any_core = {
+					owned_by = PRU
+				}
+			}
+			country_event = 7107
+		}
+		inherit = GER
+		change_tag = GER
+		564 = {
+			secede_province = THIS
+			remove_core = FRM
+		}
+		capital = 564
+		ruling_party_ideology = liberal
+		all_core = { 
+			limit = {
+				is_core = PRU
+			}
+			remove_core = GER
+		}
+		release = PRU
+		any_country = {
+			limit = {
+				NOT = {
+					tag = THIS
+				}
+				primary_culture = german
+				is_greater_power = no
+				any_owned_province = {
+					is_core = GER
+				}
+				OR = {
+					is_vassal = no
+					vassal_of = THIS
+				}
+			}
+			country_event = 11101
+		}
+		any_country = {
+			limit = {
+				NOT = {
+					tag = THIS
+				}
+				primary_culture = german
+				is_greater_power = yes
+				any_owned_province = {
+					is_core = GER
+				}
+			}
+			country_event = 7402
+		}
+		political_reform = wealth_voting
+		political_reform = population_equal_weight
+		political_reform = yes_meeting
+		political_reform = free_press
+		political_reform = non_socialist
+		political_reform = secret_ballots
+		government = hms_government
+		
+		ai_chance = { factor = 10 }
+	}
+}
+
+#Frankfurt Parliament Join Germany
+country_event = {
+	id = 7402
+	title = "The Frankfurt Parliament"
+	desc = "EVTDESC7402"
+	major = yes
+	fire_only_once = yes
+	is_triggered_only = yes
+	
+	option = {
+		name = "Yes"
+		any_owned = {
+			limit = {
+				is_core = GER
+			}
+			secede_province = GER
+			remove_core = THIS
+		}
+		any_country = {
+			limit = {
+				NOT = { tag = THIS }
+				any_core = {
+					owned_by = THIS
+				}
+			}
+			country_event = 7107
+		}
+		ai_chance = { factor = 20 }
+	}
+	
+	option = {
+		name = "No"
+		ai_chance = { factor = 80 }
+	}
+}

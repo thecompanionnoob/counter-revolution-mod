@@ -1,0 +1,19 @@
+political_decisions = {
+
+	mexanexx = {
+                picture = liberaciondecentro
+		potential = {
+			NOT = { has_country_flag = mexanexx }
+                        tag = MEX
+		}
+		allow = {
+            exists = UCA
+		}
+		
+		effect = {
+			set_country_flag = mexanexx
+            war_exhaustion = -10			
+            inherit = UCA
+		}
+	}
+}

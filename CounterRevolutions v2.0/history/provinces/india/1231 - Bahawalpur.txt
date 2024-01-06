@@ -1,5 +1,0 @@
-owner = BWP
-controller = BWP
-add_core = BWP
-trade_goods = cotton
-life_rating = 33

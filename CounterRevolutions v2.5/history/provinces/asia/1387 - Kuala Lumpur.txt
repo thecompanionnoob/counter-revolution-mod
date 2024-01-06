@@ -1,0 +1,5 @@
+owner = SEL
+controller = SEL
+add_core = SEL
+trade_goods = coal
+life_rating = 38

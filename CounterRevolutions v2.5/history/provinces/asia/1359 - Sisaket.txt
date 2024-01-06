@@ -1,0 +1,5 @@
+owner = CPS
+controller = CPS
+add_core = CPS
+trade_goods = grain
+life_rating = 37

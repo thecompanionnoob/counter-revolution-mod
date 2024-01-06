@@ -1,0 +1,2401 @@
+#Anglo-American Convention of 1818 (2/2)
+country_event = {
+	id = 7300
+	title = "EVTNAME7300"
+	desc = "EVTDESC7300"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA7300"
+		any_owned = {
+			limit = {
+				OR = {
+					region = ENG_22
+					region = ENG_30
+				}
+			}
+			remove_core = USA
+			secede_province = ENG
+		}
+		ENG = {
+			any_owned = {
+				limit = {
+					OR = {
+						region = USA_118
+						region = USA_158
+					}
+				}
+				secede_province = USA
+			}
+		}
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "EVTOPTB7300"
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#The Quintuple Alliance
+country_event = {
+	id = 7301
+	title = "EVTNAME7301"
+	desc = "EVTDESC7301"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA7301"
+		create_alliance = FRA
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "EVTOPTB7301"
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#Adams-Onís Treaty
+country_event = {
+	id = 7302
+	title = "EVTNAME7302"
+	desc = "The End Is Near"
+	
+	trigger = {
+		tag = SPA
+		year = 1818
+	}
+	
+	fire_only_once = yes
+	
+	mean_time_to_happen = { days = 1 }
+	
+	option = {
+		name = "Treaty Complete"
+		USA = {
+			any_owned = {
+				limit = {
+					OR = {
+						region = TEX_132
+						region = MEX_103
+						region = USA_139
+						province_id = 4347
+						province_id = 4332
+						province_id = 4248
+						province_id = 193
+						province_id = 192
+						province_id = 4642
+						province_id = 4643
+						province_id = 4644
+						province_id = 197
+						province_id = 4640
+						province_id = 4641
+						province_id = 4645
+						province_id = 194
+					}
+				}
+				remove_core = USA
+				secede_province = SPA
+			}
+		}
+		
+		ai_chance = { factor = 95 }
+	}
+}
+
+#Anglo-Dutch Treaty of 1824 (1/2)
+country_event = {
+	id = 7303
+	title = "EVTNAME7303"
+	desc = "EVTDESC7303"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA7303"
+		ENG = {
+			any_owned = {
+				limit = { region = NET_1398 }
+				secede_province = NET
+			}
+		}
+		EIC = {
+			any_owned = {
+				limit = { region = NET_1398 }
+				secede_province = NET
+			}
+		}
+		any_owned = {
+			limit = { region = ENG_1384 }
+			secede_province = ENG
+		}
+		
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "EVTOPTB7303"
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#Singapore Treaty of 1819 (1/2)
+country_event = {
+	id = 7304
+	title = "Singapore Treaty of $YEAR$"
+	desc = "EVTDESC7304"
+
+	trigger = {
+		tag = ENG
+		year = 1819
+		NOT = { war_with = JOH }
+		1384 = { owned_by = JOH }
+		money = 5000
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { months = 6 }
+	
+	option = {
+		name = "Yes"
+		JOH = { country_event = 7305 }
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "No"
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#Singapore Treaty of 1819 (2/2)
+country_event = {
+	id = 7305
+	title = "Singapore Treaty of $YEAR$"
+	desc = "EVTDESC7305"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Yes"
+		1384 = {
+			remove_core = JOH
+			secede_province = ENG
+		}
+		money = 5000
+		ENG = { money = -5000 }
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "No"
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#Akkerman Convention
+country_event = {
+	id = 7306
+	title = "EVTNAME7306"
+	desc = "EVTDESC7306"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA7306"
+		any_owned = {
+			limit = {
+				is_core = WAL
+				region = WAL_664
+			}
+			secede_province = WAL
+			remove_core = THIS
+		}
+		any_owned = {
+			limit = {
+				is_core = ROM
+				region = WAL_664
+			}
+			secede_province = ROM
+			remove_core = THIS
+		}
+		any_owned = {
+			limit = {
+				OR = {
+					province_id = 795
+					province_id = 5097
+				}
+			}
+			secede_province = SER
+			remove_core = THIS
+		}
+		RUS = {
+			diplomatic_influence = {
+				who = MOL
+				value = 100
+			}
+			diplomatic_influence = {
+				who = WAL
+				value = 100
+			}
+		}
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "EVTOPTB7306"
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#Anglo-American Convention of 1818 (1/2)
+country_event = {
+	id = 7307
+	title = "EVTNAME7307"
+	desc = "EVTDESC7307"
+	
+	trigger = {
+		tag = ENG
+		year = 1818
+		NOT = { war_with = USA }
+		USA_118 = { owned_by = ENG }
+		USA_158 = { owned_by = ENG }
+		ENG_22 = { owned_by = USA }
+		ENG_30 = { owned_by = USA }
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { months = 6 }
+	
+	option = {
+		name = "EVTOPTA7307"
+		USA = { country_event = 7300 }
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "EVTOPTB7307"
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#Anglo-Dutch Treaty of 1824 (2/2)
+country_event = {
+	id = 7309
+	title = "EVTNAME7309"
+	desc = "EVTDESC7309"
+	
+	trigger = {
+		tag = ENG
+		year = 1824
+		NOT = { war_with = NET }
+		NET_1398 = {
+			OR = {
+				owned_by = ENG
+				owned_by = EIC
+			}
+		}
+		NET_1398 = { owned_by = NET }
+		ENG_1384 = {
+			OR = {
+				owned_by = ENG
+				owned_by = EIC
+			}
+		}
+		ENG_1384 = { owned_by = NET }
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { months = 6 }
+	
+	option = {
+		name = "EVTOPTA7309"
+		NET = { country_event = 7303 }
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "EVTOPTB7309"
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#Treaty of Waitangi(1/1)
+country_event = {
+	id = 7310
+	title = "Treaty of Waitangi"
+	desc = "EVTDESC7310"
+
+	trigger = {
+		tag = ENG
+		year = 1840
+		ENG_2513 = {
+			OR = {
+				empty = yes
+				owned_by = ENG
+			}
+		}	
+		ENG_2509 = {
+			OR = {
+				empty = yes
+				owned_by = ENG
+			}
+		}
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { months = 6 }
+	
+	option = {
+		name = "Yes"
+		ENG_2513 = {	
+			limit = { empty = yes }
+			secede_province = ENG
+			colony = yes
+		}
+		ENG_2509 = {
+			limit = { empty = yes }
+			secede_province = ENG
+			colony = yes
+		}
+		any_pop = {
+			limit = {
+				culture = maori
+			}
+			militancy = -5
+		}
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "No"
+		any_pop = {
+			limit = {
+				culture = maori
+			}
+			militancy = 10
+		}
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#Webster-Ashburton Treaty(1/2)
+country_event = {
+	id = 7311
+	title = "Webster-Ashburton Treaty"
+	desc = "EVTDESC7311"
+
+	trigger = {
+		tag = USA
+		year = 1842
+		NOT = { war_with = ENG }
+		250 = { owned_by = ENG }
+		249 = { owned_by = USA }
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { months = 6 }
+	
+	option = {
+		name = "Yes"
+		ENG = { country_event = 7312 }
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "No"
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#Webster-Ashburton Treaty(2/2)
+country_event = {
+	id = 7312
+	title = "Webster-Ashburton Treaty"
+	desc = "EVTDESC7312"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Yes"
+		250 = {
+			secede_province = USA
+			add_core = USA
+		}
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "No"
+		USA = {
+			casus_belli = {
+				target = ENG
+				type = place_in_the_sun
+				months = 36
+			}
+		}
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#Oregon Treaty(1/2)
+country_event = {
+	id = 7313
+	title = "Oregon Treaty"
+	desc = "EVTDESC7313"
+
+	trigger = {
+		tag = ENG
+		year = 1846
+		NOT = { war_with = USA }
+		ENG_13 = {
+			OR = {
+				owned_by = ENG
+				owned_by = USA
+				empty = yes
+			}
+		}
+		USA_78 = {
+			OR = {
+				owned_by = ENG
+				owned_by = USA
+				empty = yes
+			}
+		}
+		USA_81 = {
+			OR = {
+				owned_by = ENG
+				owned_by = USA
+				empty = yes
+			}
+		}
+		USA_91 = {
+			OR = {
+				owned_by = ENG
+				owned_by = USA
+				empty = yes
+			}
+		}
+		ENG_22 = { owned_by = ENG }
+		USA_116 = { owned_by = USA }
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { months = 6 }
+	
+	option = {
+		name = "49th paralell"
+		USA = { country_event = 7314 }
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "42nd paralell"
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#Oregon Treaty(2/2)
+country_event = {
+	id = 7314
+	title = "Oregon Treaty"
+	desc = "EVTDESC7314"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Agree on 49th paralell."
+		ENG_13 = {
+			limit = {
+				OR = {
+					empty = yes
+					owned_by = USA
+				}
+			}
+			life_rating = 6
+			secede_province = THIS
+			secede_province = ENG
+		}
+		USA_78 = {
+			limit = {
+				OR = {
+					empty = yes
+					owned_by = ENG
+				}
+			}
+			life_rating = 6
+			secede_province = USA
+		}
+		USA_81 = {
+			limit = {
+				OR = {
+					empty = yes
+					owned_by = ENG
+				}
+			}
+			life_rating = 6
+			secede_province = USA
+		}
+		USA_91 = {
+			limit = {
+				OR = {
+					empty = yes
+					owned_by = ENG
+				}
+			}
+			life_rating = 6
+			secede_province = USA
+		}
+		USA_116 = {
+			limit = {
+				OR = {
+					empty = yes
+					owned_by = ENG
+				}
+			}
+			life_rating = 6
+			secede_province = USA
+		}
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "54th paralell"
+		ENG_13 = { life_rating = 6 }
+		USA_78 = { life_rating = 6 }
+		USA_81 = { life_rating = 6 }
+		USA_91 = { life_rating = 6 }
+		USA_116 = { life_rating = 6 }
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#Placeholder (1/1)
+country_event = {
+	id = 7315
+	title = "Placeholder"
+	desc = "EVTDESC7315"
+
+	trigger = {
+		ai = yes
+		ai = no
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { months = 6 }
+	
+	option = {
+		name = "Yes"
+		
+	}
+}
+
+#Placeholder (1/1)
+country_event = {
+	id = 7316
+	title = "Placeholder"
+	desc = "EVTDESC7316"
+
+	trigger = {
+		ai = yes
+		ai = no
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { months = 6 }
+	
+	option = {
+		name = "Yes"
+		
+	}
+}
+
+#Gadsden Purchase (1/2)
+country_event = {
+	id = 7317
+	title = "Gadsden Purchase"
+	desc = "EVTDESC7317"
+
+	trigger = {
+		tag = USA
+		year = 1854
+		NOT = { war_with = MEX }
+		100 = { owned_by = USA }
+		102 = { owned_by = MEX }
+		money = 15000
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { months = 6 }
+	
+	option = {
+		name = "Yes"
+		MEX = { country_event = 7318 }
+		
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "No"
+		
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#Gadsden Purchase (2/2)
+country_event = {
+	id = 7318
+	title = "Gadsden Purchase"
+	desc = "EVTDESC7318"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Yes"
+		any_owned = {
+			limit = {
+				OR = {
+					province_id = 102
+					province_id = 4238
+				}
+			}
+			remove_core = MEX 
+			secede_province = USA
+		}
+		MEX = { money = 15000 }
+		USA = { money = -15000 }
+		
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "No"
+		
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#Flores Purchase (1/2)
+country_event = {
+	id = 7319
+	title = "Flores Purchase"
+	desc = "EVTDESC7319"
+
+	trigger = {
+		tag = NET
+		year = 1854
+		NOT = { war_with = POR }
+		1439 = { owned_by = POR }
+		1444 = { owned_by = POR }
+		1445 = { owned_by = NET }
+		money = 5000
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { months = 6 }
+	
+	option = {
+		name = "Yes"
+		POR = { country_event = 7320 }
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "No"
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#Flores Purchase (2/2)
+country_event = {
+	id = 7320
+	title = "Flores Purchase"
+	desc = "EVTDESC7320"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Yes"
+		release = LRT
+		NET = { create_vassal = LRT }
+		NET = {	money = -5000 }
+		money = 5000
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "No"
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#Treaty of Shimoda(1/2)
+country_event = {
+	id = 7321
+	title = "EVTNAME32507"
+	desc = "EVTDESC32507"
+	picture = "kurils"
+
+	trigger = {
+		tag = RUS
+		year = 1855
+		NOT = { war_with = JAP }
+		1074 = { owned_by = RUS }
+		1643 = { owned_by = JAP }
+		CHI_1086 = { owned_by = JAP }
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { months = 6 }
+	
+	option = {
+		name = "Make the proposal."
+		JAP = { country_event = 7322 }
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "We recognize the Japanese Claim."
+		relation = { who = JAP value = 100 }
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#Treaty of Shimoda(2/2)
+country_event = {
+	id = 7322
+	title = "EVTNAME32507"
+	desc = "EVTDESC32507"
+	picture = "kurils"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "So be it."
+		1086 = {
+			secede_province = RUS
+			remove_core = JAP
+			change_province_name = "Aleksandrovsk-Sakhalinskiy"
+		}
+		2633 = {
+			secede_province = RUS
+			remove_core = JAP
+			change_province_name = "Derbinskoye"
+		}
+		1088 = {
+			secede_province = RUS
+			remove_core = JAP
+		}
+		relation = { who = RUS value = 50 }
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "All of it is ours."
+		relation = { who = RUS value = -100 }
+		RUS = {
+			casus_belli = {
+				target = JAP
+				type = place_in_the_sun
+				months = 36
+			}
+		}
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#Placeholder
+country_event = {
+	id = 7323
+	title = "Placeholder"
+	desc = "Placeholder"
+
+	is_triggered_only = yes
+
+	option = {
+		name = "Placeholder"
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "Placeholder"
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#Placeholder
+country_event = {
+	id = 7324
+	title = "Placeholder"
+	desc = "Placeholder"
+
+	is_triggered_only = yes
+
+	option = {
+		name = "Placeholder"
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "Placeholder"
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#Placeholder
+country_event = {
+	id = 7325
+	title = "Placeholder"
+	desc = "Placeholder"
+
+	is_triggered_only = yes
+
+	option = {
+		name = "Placeholder"
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "Placeholder"
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#Convention of Peking (1/1)
+country_event = {
+	id = 7326
+	title = "EVTNAME7326"
+	desc = "EVTDESC7326"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA7326"
+		inherit = MCK
+		any_owned = {
+			limit = {
+				OR = {
+					region = CHI_1082
+					province_id = 1073
+					province_id = 1085
+					province_id = 2697
+					province_id = 1081
+				}
+			}
+			secede_province = RUS
+			remove_core = MCK
+		}
+		MCK = {
+			all_core = {
+				add_province_modifier = {
+					name = settlement_push
+					duration = 3650
+				}
+				remove_core = MCK
+			}
+		}
+		MGL = {
+			any_owned = {
+				limit = {
+					owner = {
+						OR = {
+							substate_of = CHI
+							tag = CHI
+						}
+					}
+					OR = {
+						region = CHI_1613
+						region = CHI_1479
+						province_id = 3652
+					}
+				}
+				secede_province = CHI
+			}
+		}
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "EVTOPTB7326"
+		RUS = {
+			war = {
+				target = CHI
+				attacker_goal = {
+					casus_belli = acquire_uncivilised_substate_region
+					state_province_id = 1082
+				}
+				attacker_goal = {
+					casus_belli = acquire_uncivilised_substate_region
+					state_province_id = 1555
+				}
+				attacker_goal = {
+					casus_belli = acquire_uncivilised_substate_region
+					state_province_id = 1552
+				}
+				call_ally = no
+			}
+		}
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#Treaty of Turin of 1860 (1/3)
+country_event = {
+	id = 7327
+	title = "Treaty of Turin of $YEAR$"
+	desc = "EVTDESC7327"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA7327"
+		relation = { 
+			who = SAR
+			value = 100
+		}
+		create_alliance = SAR
+		AUS_726 = {
+			limit = { owned_by = AUS }
+			add_core = SAR
+		}
+		AUS_729 = {
+			limit = { owned_by = AUS }
+			add_core = SAR
+		}
+		diplomatic_influence = {
+			who = LOM
+			value = -200
+		}
+		diplomatic_influence = {
+			who = VEN
+			value = -200
+		}
+		diplomatic_influence = {
+			who = PAR
+			value = -200
+		}
+		diplomatic_influence = {
+			who = MOD
+			value = -200
+		}
+		diplomatic_influence = {
+			who = MAC
+			value = -200
+		}
+		diplomatic_influence = {
+			who = LUC
+			value = -200
+		}
+		diplomatic_influence = {
+			who = TUS
+			value = -200
+		}
+		diplomatic_influence = {
+			who = PAP
+			value = -200
+		}
+		diplomatic_influence = {
+			who = SIC
+			value = -200
+		}
+		diplomatic_influence = {
+			who = SCY
+			value = -200
+		}
+		SAR = { set_country_flag = treaty_of_turin }
+		
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "EVTOPTB7327"
+		relation = { 
+			who = SAR
+			value = -25
+		}
+		
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#Treaty of Turin of 1860 (2/3)
+country_event = {
+	id = 7328
+	title = "Treaty of Turin"
+	desc = "EVTDESC7328"
+	
+	trigger = {
+		has_country_flag = treaty_of_turin
+		war = no
+		OR = {
+			owns = 726
+			tag = ITA
+		}
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { days = 30 }
+	
+	option = {
+		name = "As promised."
+		FRA = { country_event = 7327 }
+	}
+	
+	option = {
+		name = "Maybe well keep it."
+		badboy = 10
+		relation = { 
+			who = FRA
+			value = -100
+		}
+		leave_alliance = FRA
+	}
+}
+
+#Treaty of Turin of 1860 (3/3)
+country_event = {
+	id = 7329
+	title = "Treaty of Turin"
+	desc = "EVTDESC7329"
+	
+	is_triggered_only = yes
+
+	option = {
+		name = "Good!"
+		SAR_466 = {
+			remove_core = THIS
+			add_core = FRA
+			secede_province = FRA
+		}
+		472 = {
+			remove_core = THIS
+			add_core = FRA
+			secede_province = FRA
+		}
+	}
+}
+
+#Treaty of London of 1864(1/1)
+country_event = {
+	id = 7330
+	title = "EVTNAME7330"
+	desc = "EVTDESC7330"
+
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA7330"
+		relation = {
+			who = ENG
+			value = 50
+		}
+		ENG = {
+			diplomatic_influence = {
+				who = GRE
+				value = 50
+			}
+			prestige = 10
+			badboy = -4
+		}
+		ION = {
+			all_core = { 
+				add_core = GRE
+				remove_core = ION
+			}
+			annex_to = GRE
+		}
+		
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "EVTOPTB7330"
+		prestige = 10
+		
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#Alaska Cession(1/2)
+country_event = {
+	id = 7331
+	title = "Alaska Cession"
+	desc = "alaskan_purchase_desc"
+
+	trigger = {
+		tag = RUS
+		year = 1867
+		NOT = { war_with = USA }
+		NOT = { owns = 13 }
+		owns = 3
+		6 = { owned_by = ENG }
+		USA = {
+			OR = {
+				owns = 78
+				owns = 81
+				owns = 84
+			}
+			money = 72000
+		}
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { months = 1 }
+	
+	option = {
+		name = "Yes"
+		USA = { country_event = 7332 }
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "No"
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#Alaska Cession(2/2)
+country_event = {
+	id = 7332
+	title = "Alaska Cession"
+	desc = "alaskan_purchase_desc"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Yes"
+		USA_1 = { secede_province = USA }
+		RUS = { money = 72000 }
+		money = -72000
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "No"		
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#Anglo-Dutch Gold Coast Treaty(1/2)
+country_event = {
+	id = 7333
+	title = "Anglo-Dutch Gold Coast Treaty of $YEAR$"
+	desc = "EVTDESC7333"
+
+	trigger = {
+		tag = NET
+		year = 1872
+		NOT = { war_with = ENG }
+		1908 = { owned_by = ENG }
+		1909 = { owned_by = NET }
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { months = 6 }
+	
+	option = {
+		name = "Yes"
+		ENG = { country_event = 7334 }
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "No"
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#Anglo-Dutch Gold Coast Treaty(2/2)
+country_event = {
+	id = 7334
+	title = "Anglo-Dutch Gold Coast Treaty of $YEAR$"
+	desc = "EVTDESC7334"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Yes"
+		NET = {
+			any_owned = {
+				limit = {
+					region = FRA_1907
+				}
+				secede_province = ENG
+			}
+		}
+		money = -5000
+		NET = { money = 5000 }
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "No"
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#Treaty of Saint Petersburg(1/2)
+country_event = {
+	id = 7335
+	title = "Treaty of Saint Petersburg"
+	desc = "EVTDESC7335"
+	picture = "kurils"
+	
+	trigger = {
+		tag = RUS
+		year = 1875
+		NOT = { war_with = JAP }
+		RUS = {
+			owns = 1086
+			owns = 1088
+			owns = 2633
+		}
+		JAP = {
+			owns = 1087
+			owns = 1089
+		}
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { months = 6 }
+	
+	option = {
+		name = "Yes"
+		JAP = { country_event = 7336 }
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "No"
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#Treaty of Saint Petersburg(2/2)
+country_event = {
+	id = 7336
+	title = "Treaty of Saint Petersburg"
+	desc = "EVTDESC7336"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Yes"
+		1087 = {
+			secede_province = RUS
+			remove_core = JAP
+			change_province_name = "Korsakov"
+		}
+		1088 = {
+			secede_province = JAP
+			remove_core = RUS
+		}
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "No"
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#Saint Barths Treaty (1/2)
+country_event = {
+	id = 7337
+	title = "The Sale of Saint Barthélemy"
+	desc = "EVTDESC7337"
+
+	trigger = {
+		tag = SWE
+		year = 1877
+		NOT = { war_with = FRA }
+		owns = 3249
+		FRA = { money = 50000 }
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { months = 6 }
+	
+	option = {
+		name = "Yes"
+		FRA = { country_event = 7338 }
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "No"
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#Saint Barths Treaty (2/2)
+country_event = {
+	id = 7338
+	title = "Saint Barths Treaty"
+	desc = "EVTDESC7338"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Yes"
+		3249 = { secede_province = FRA }
+		money = -50000
+		SWE = { money = 50000 }
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "No"
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#Boundary Treaty of 1881 (1/2)
+country_event = {
+	id = 7339
+	title = "Boundary Treaty of $YEAR$"
+	desc = "EVTDESC7339"
+
+	trigger = {
+		tag = ARG
+		year = 1881
+		NOT = { war_with = CHL }
+		CHL_2332 = {
+			OR = {
+				owned_by = ARG
+				owned_by = CHL
+				empty = yes
+			}
+		}
+		ARG_2391 = {
+			OR = {
+				owned_by = ARG
+				owned_by = CHL
+				empty = yes
+			}
+		}
+		ARG_2393 = {
+			OR = {
+				owned_by = ARG
+				owned_by = CHL
+				empty = yes
+			}
+		}
+		ARG_2396 = {
+			OR = {
+				owned_by = ARG
+				owned_by = CHL
+				empty = yes
+			}
+		}
+		ARG_2398 = {
+			OR = {
+				owned_by = ARG
+				owned_by = CHL
+				empty = yes
+			}
+		}
+		ARG_2400 = {
+			OR = {
+				owned_by = ARG
+				owned_by = CHL
+				empty = yes
+			}
+		}
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { months = 6 }
+	
+	option = {
+		name = "Yes"
+		CHL = { country_event = 7340 }
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "No"
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#Boundary Treaty of 1881 (2/2)
+country_event = {
+	id = 7340
+	title = "Boundary Treaty of $YEAR$"
+	desc = "EVTDESC7340"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Yes"
+		CHL_2332 = {
+			limit = {
+				OR = {
+					owned_by = ARG
+					owned_by = CHL
+					empty = yes
+				}
+			}
+			remove_core = ARG
+			secede_province = THIS
+			secede_province = CHL
+		}
+		2334 = {
+			limit = {
+				OR = {
+					owned_by = ARG
+					owned_by = CHL
+					empty = yes
+				}
+			}
+			remove_core = ARG
+			secede_province = THIS
+			secede_province = CHL
+		}
+		ARG_2391 = {
+			limit = {
+				OR = {
+					owned_by = ARG
+					owned_by = CHL
+					empty = yes
+				}
+			}
+			remove_core = CHL
+			secede_province = THIS
+			secede_province = ARG
+		}
+		ARG_2393 = {
+			limit = {
+				OR = {
+					owned_by = ARG
+					owned_by = CHL
+					empty = yes
+				}
+			}
+			remove_core = CHL
+			secede_province = THIS
+			secede_province = ARG
+		}
+		ARG_2396 = {
+			limit = {
+				OR = {
+					owned_by = ARG
+					owned_by = CHL
+					empty = yes
+				}
+			}
+			remove_core = CHL
+			secede_province = THIS
+			secede_province = ARG
+		}
+		ARG_2398 = {
+			limit = {
+				OR = {
+					owned_by = ARG
+					owned_by = CHL
+					empty = yes
+				}
+			}
+			remove_core = CHL
+			secede_province = THIS
+			secede_province = ARG
+		}
+		ARG_2400 = {
+			limit = {
+				OR = {
+					owned_by = ARG
+					owned_by = CHL
+					empty = yes
+				}
+				NOT = { province_id = 2334 }
+			}
+			remove_core = CHL
+			secede_province = THIS
+			secede_province = ARG
+		}
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "No"
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#Heligoland–Zanzibar Treaty(1/2)
+country_event = {
+	id = 7341
+	title = "Heligoland–Zanzibar Treaty"
+	desc = "EVTDESC7341"
+
+	trigger = {
+		tag = GER
+		year = 1890
+		NOT = { war_with = ENG }
+		533 = { owned_by = ENG }
+		owns = 2048
+		owns = 2030
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { months = 6 }
+	
+	option = {
+		name = "Yes"
+		ENG = { country_event = 7342 }
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "No"
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#Heligoland–Zanzibar Treaty(2/2)
+country_event = {
+	id = 7342
+	title = "Heligoland–Zanzibar Treaty"
+	desc = "EVTDESC7353"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Yes"
+		533 = {
+			add_core = GER
+			secede_province = GER
+		}
+		GER = {
+			any_owned = {
+				limit = {
+					OR = {
+						region = ENG_2024
+						province_id = 2048
+					}
+				}
+				secede_province = ENG
+			}
+		}
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "No"
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#German-Spanish Treaty of 1899 (1/2)
+country_event = {
+	id = 7343
+	title = "German-Spanish Treaty of $YEAR$"
+	desc = "EVTDESC7343"
+
+	trigger = {
+		tag = SPA
+		year = 1899
+		NOT = { war_with = GER }
+		GER = { 
+			exists = yes
+			money = 50000
+		}
+		any_owned_province = {
+			region = SPA_2517
+		}
+		NOT = { any_owned_province = { is_core = PHI } }
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { months = 6 }
+	
+	option = {
+		name = "Yes"
+		GER = { country_event = 7344 }
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "No"
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#German-Spanish Treaty of 1899 (2/2)
+country_event = {
+	id = 7344
+	title = "German-Spanish Treaty of $YEAR$"
+	desc = "EVTDESC7344"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Yes"
+		money = -50000
+		SPA = {
+			money = 50000
+			any_owned = {
+				limit = {
+					region = SPA_2517
+				}
+				secede_province = GER
+			}
+		}
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "No"
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#Treaty of Petrópolis(1/2)
+country_event = {
+	id = 7345
+	title = "Treaty of Petrópolis"
+	desc = "EVTDESC7345"
+
+	trigger = {
+		tag = BRZ
+		year = 1903
+		NOT = { war_with = BOL }
+		2549 = { owned_by = BOL }
+		2404 = { owned_by = BRZ }
+		money = 50000
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { months = 6 }
+	
+	option = {
+		name = "Yes"
+		BOL = { country_event = 7346 }
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "No"
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#Treaty of Petrópolis(2/2)
+country_event = {
+	id = 7346
+	title = "Treaty of Petrópolis"
+	desc = "EVTDESC7346"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Yes"
+		2549 = {
+			secede_province = BRZ
+			remove_core = BOL
+		}
+		BRZ = { money = -50000 }
+		money = 50000
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "No"
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#Anglo-Siamese Treaty of 1909(1/2)
+country_event = {
+	id = 7347
+	title = "Anglo-Siamese Treaty of $YEAR$"
+	desc = "EVTDESC7347"
+
+	trigger = {
+		tag = SIA
+		year = 1909
+		NOT = { war_with = ENG }
+		1388 = { owned_by = ENG }
+		1389 = { owned_by = SIA }
+		1391 = { owned_by = SIA }
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { months = 6 }
+	
+	option = {
+		name = "Yes"
+		ENG = { country_event = 7348 }
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "No"
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#Anglo-Siamese Treaty of 1909(2/2)
+country_event = {
+	id = 7348
+	title = "Anglo-Siamese Treaty of $YEAR$"
+	desc = "EVTDESC7348"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Yes"
+		1389 = {
+			secede_province = ENG
+			remove_core = SIA
+		}
+		1391 = {
+			secede_province = ENG
+			remove_core = SIA
+		}
+		1392 = {
+			remove_core = JOH
+		}
+		relation = {
+			who = SIA
+			value = 200
+		}
+		create_alliance = SIA
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "No"
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#Treaty of the Danish West Indies(1/2)
+country_event = {
+	id = 7349
+	title = "Treaty of the Danish West Indies"
+	desc = "EVTDESC7349"
+
+	trigger = {
+		tag = DEN
+		year = 1916
+		NOT = { war_with = USA }
+		owns = 2223
+		USA = { money = 25000 }
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { months = 6 }
+	
+	option = {
+		name = "Yes"
+		USA = { country_event = 7350 }
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "No"
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#Treaty of the Danish West Indies(2/2)
+country_event = {
+	id = 7350
+	title = "Treaty of the Danish West Indies"
+	desc = "EVTDESC7350"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Yes"
+		2223 = { secede_province = USA }
+		money = -25000
+		DEN = { money = 25000 }
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "No"
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#Anglo-Danish Gold Coast Treaty(1/2)
+country_event = {
+	id = 7351
+	title = "Anglo-Danish Gold Coast Treaty of $YEAR$"
+	desc = "EVTDESC7351"
+
+	trigger = {
+		tag = DEN
+		year = 1850
+		NOT = { war_with = ENG }
+		1908 = { owned_by = ENG }
+		1907 = { owned_by = DEN }
+		ENG = { money = 5000 }
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { months = 6 }
+	
+	option = {
+		name = "Yes"
+		ENG = { country_event = 7352 }
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "No"
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#Anglo-Danish Gold Coast Treaty(2/2)
+country_event = {
+	id = 7352
+	title = "Anglo-Danish Gold Coast Treaty of $YEAR$"
+	desc = "EVTDESC7352"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Yes"
+		DEN = {
+			any_owned = {
+				limit = {
+					region = FRA_1907
+				}
+				secede_province = ENG
+			}
+		}
+		money = -5000
+		DEN = { money = 5000 }
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "No"
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#New Caledonia Penal Colony (1/1)
+country_event = {
+	id = 7353
+	title = "New Caledonia Penal Colony"
+	desc = "EVTDESC7353"
+	
+	trigger = {
+		tag = FRA
+		year = 1853
+		1097 = { empty = yes }
+	}
+	
+	fire_only_once = yes
+
+	mean_time_to_happen =  { months = 6 }
+	
+	option = {
+		name = "Yes"
+		1097 = {
+			secede_province = FRA
+		}
+		add_country_modifier = {
+			name = penal_colonies
+			duration = -1
+		}
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "No"
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#Massa Carraran Inheritance (1/1)
+country_event = {
+	id = 7354
+	title = "Massa Carraran Inheritance"
+	desc = "EVTDESC7354"
+
+	trigger = {
+		tag = MOD
+		year = 1829
+		exists = MAC
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { months = 6 }
+	
+	option = {
+		name = "Yes"
+		MAC = {
+			all_core = {
+				remove_core = MAC
+				add_core = MOD
+			}
+		}
+		inherit = MAC
+	}
+}
+
+#Treaty of Tarbagatai
+country_event = {
+	id = 7356
+	title = "Treaty of Tarbagatai of $YEAR$"
+	desc = "EVTDESC7356"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Yes"
+		RUS_1185 = {
+			limit = { 
+				NOT = { province_id = 1595 }
+				OR = {
+					owned_by = CHI
+					owned_by = XIN
+				}
+			}
+			secede_province = CHI
+			secede_province = RUS
+			remove_core = XIN
+			remove_core = CHI
+		}
+		3590 = {
+			secede_province = CHI
+			secede_province = RUS
+			remove_core = XIN
+			remove_core = CHI
+		}
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "No"
+		RUS = {
+			relation = { 
+				who = CHI
+				value = -200
+			}
+			casus_belli = {
+				target = CHI
+				type = acquire_uncivilised_substate_region
+				months = 36
+			}
+		}
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#Nicobar Islands Sale (1/2)
+country_event = {
+	id = 7357
+	title = "The Sale of the Nicobar Islands"
+	desc = "EVTDESC7357"
+
+	trigger = {
+		tag = DEN
+		year = 1868
+		NOT = { war_with = ENG }
+		owns = 2689
+		ENG = { money = 50000 }
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { months = 6 }
+	
+	option = {
+		name = "Yes"
+		ENG = { country_event = 7358 }
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "No"
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#Nicobar Islands Sale (2/2)
+country_event = {
+	id = 7358
+	title = "The Sale of the Nicobar Islands"
+	desc = "EVTDESC7358"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Yes"
+		2689 = { secede_province = ENG }
+		money = -50000
+		DEN = { money = 50000 }
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "No"
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#Treaty of Montevideo (1/2)
+country_event = {
+	id = 7359
+	title = "Treaty of Montevideo"
+	desc = "EVTDESC7359"
+
+	trigger = {
+		OR = {
+			tag = ARG
+			tag = BRZ
+		}
+		year = 1828
+		ARG = { owns = 2359 }
+		BRZ = { owns = 2464 }
+		URU_2344 = {
+			is_core = ARG
+			OR = {
+				is_core = BRZ
+				owned_by = BRZ
+			}
+		}
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { months = 6 }
+	
+	option = {
+		name = "Yes"
+		badboy = -5
+		any_country = { limit = { owns = 2344 } country_event = 7360 }
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "No"
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#Treaty of Montevideo (2/2)
+country_event = {
+	id = 7360
+	title = "Treaty of Montevideo"
+	desc = "EVTDESC7360"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Yes"
+		badboy = -5
+		end_war = FROM
+		URU_2344 = {
+			add_core = URU
+			remove_core = BRZ
+			remove_core = ARG
+		}
+		release = URU
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "No"
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#Treaty of Munich (1/2)
+country_event = {
+	id = 7361
+	title = "Treaty of Munich of $YEAR$"
+	desc = "EVTDESC7361"
+
+	trigger = {
+		OR = {
+			tag = AUS
+			tag = BAV
+		}
+		year = 1816
+		AUS = { owns = 571 }
+		BAV = { owns = 613 }
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { months = 4 }
+	
+	option = {
+		name = "Yes"
+		any_country = {
+			limit = {
+				NOT = { tag = THIS }
+				OR = {
+					owns = 571
+					owns = 613
+				}
+			}
+			country_event = 7362
+		}
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "No"
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#Treaty of Munich (2/2)
+country_event = {
+	id = 7362
+	title = "Treaty of Munich of $YEAR$"
+	desc = "EVTDESC7362"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Yes"
+		571 = {
+			remove_core = AUS
+			add_core = BAV
+			secede_province = BAV
+		}
+		613 = {
+			remove_core = BAV
+			add_core = AUS
+			secede_province = AUS
+		}
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "No"
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#Congress of Angostura (1/3)
+country_event = {
+	id = 7363
+	title = "Congress of Angostura"
+	desc = "EVTDESC7363"
+
+	trigger = {
+		tag = VNZ
+		exists = CLM
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen =  { months = 24 }
+	
+	option = {
+		name = "Yes"
+		CLM = { country_event = 7364 }
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "No"
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#Congress of Angostura (2/3)
+country_event = {
+	id = 7364
+	title = "Congress of Angostura"
+	desc = "EVTDESC7364"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Yes"
+		FROM = { annex_to = CLM }
+		FROM = { all_core = { add_core = CLM } }
+		any_country = {
+			limit = {
+				OR = {
+					tag = ECU
+					tag = PNM
+				}
+			}
+			country_event = 7365
+		}
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "No"
+		
+		ai_chance = { factor = 5 }
+	}
+}
+
+#Congress of Angostura (3/3)
+country_event = {
+	id = 7365
+	title = "Congress of Angostura"
+	desc = "EVTDESC7365"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Yes"
+		annex_to = CLM
+		all_core = { add_core = CLM }
+		
+		ai_chance = { factor = 95 }
+	}
+	
+	option = {
+		name = "No"
+		
+		ai_chance = { factor = 5 }
+	}
+}

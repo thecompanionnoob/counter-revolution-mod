@@ -1,0 +1,5 @@
+owner = HOH
+controller = HOH
+add_core = HOH
+trade_goods = fruit
+life_rating = 36

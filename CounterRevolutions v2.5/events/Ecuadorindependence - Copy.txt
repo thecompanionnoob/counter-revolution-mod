@@ -1,0 +1,33 @@
+#Ecuadorian War of Independence
+country_event = {
+	id = 194719880
+	title = "Ecuadorian War of Independence"
+	desc = "The Libertadores defeat us in Ecuador but we can still fighting in our other loyal colonies."
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Traitors!"
+		any_pop = {
+			limit = { continent = europe }
+			militancy = 1
+		}
+		release = ECU
+		any_owned = {
+			limit = {
+				OR = {
+					province_id = 2283
+					province_id = 2284
+					province_id = 2285
+					province_id = 2288
+				}
+			}
+			secede_province = ECU
+		}
+		casus_belli = {
+			target = ECU
+			type = conquest
+			months = 36
+		}
+	}
+}

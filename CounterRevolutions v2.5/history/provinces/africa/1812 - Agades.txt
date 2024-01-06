@@ -1,0 +1,5 @@
+owner = AGD
+controller = AGD
+add_core = AGD
+trade_goods = cattle
+life_rating = 34

@@ -1,0 +1,116 @@
+#Iceland
+#Reykjavik
+252 = {
+	bureaucrats = {
+		culture = swedish
+		religion = catholic
+		size = 7
+	}
+	clergymen = {
+		culture = swedish
+		religion = catholic
+		size = 28
+	}
+	artisans = {
+		culture = swedish
+		religion = catholic
+		size = 212
+	}
+	farmers = {
+		culture = swedish
+		religion = catholic
+		size = 3711
+	}
+}
+#Akureyri  
+1911 = {
+	bureaucrats = {
+		culture = swedish
+		religion = catholic
+		size = 5
+	}
+	clergymen = {
+		culture = swedish
+		religion = catholic
+		size = 21
+	}
+	artisans = {
+		culture = swedish
+		religion = catholic
+		size = 159
+	}
+	farmers = {
+		culture = swedish
+		religion = catholic
+		size = 2783
+	}
+}
+#Selfoss  
+1916 = {
+	bureaucrats = {
+		culture = swedish
+		religion = catholic
+		size = 3
+	}
+	clergymen = {
+		culture = swedish
+		religion = catholic
+		size = 14
+	}
+	artisans = {
+		culture = swedish
+		religion = catholic
+		size = 106
+	}
+	farmers = {
+		culture = swedish
+		religion = catholic
+		size = 1855
+	}
+}
+#Ísafjarðarbær
+2010 = {
+	bureaucrats = {
+		culture = swedish
+		religion = catholic
+		size = 3
+	}
+	clergymen = {
+		culture = swedish
+		religion = catholic
+		size = 12
+	}
+	artisans = {
+		culture = swedish
+		religion = catholic
+		size = 95
+	}
+	farmers = {
+		culture = swedish
+		religion = catholic
+		size = 1670
+	}
+}
+#Egilsstaðir
+3246 = {
+	bureaucrats = {
+		culture = swedish
+		religion = catholic
+		size = 2
+	}
+	clergymen = {
+		culture = swedish
+		religion = catholic
+		size = 8
+	}
+	artisans = {
+		culture = swedish
+		religion = catholic
+		size = 63
+	}
+	farmers = {
+		culture = swedish
+		religion = catholic
+		size = 1113
+	}
+}

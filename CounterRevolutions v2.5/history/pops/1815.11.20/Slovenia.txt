@@ -1,0 +1,134 @@
+#Carinthia-Styria Region #see Austria
+#under the rule of Austria in 1836  
+#Maribor #Part of Slovenia Today
+767 = {
+	aristocrats = {
+		culture = german
+		religion = catholic
+		size = 488 
+	}
+	
+	bureaucrats = {
+		culture = german
+		religion = catholic
+		size = 162
+	}
+	clergymen = {
+		culture = german
+		religion = catholic
+		size = 32 
+	}
+	artisans = {
+		culture = german
+		religion = catholic
+		size = 716
+	}
+	soldiers = {
+		culture = german
+		religion = catholic
+		size = 128 
+	}
+	farmers = {
+		culture = german
+		religion = catholic
+		size = 2051
+	}
+	clergymen = {
+		culture = slovene
+		religion = catholic
+		size = 293
+	}
+	artisans = {
+		culture = slovene
+		religion = catholic
+		size = 1041
+	}
+	soldiers = {
+		culture = slovene
+		religion = catholic
+		size = 1172 
+	}
+	farmers = {
+		culture = slovene
+		religion = catholic
+		size = 28327
+	}
+}
+#Carniola Region  
+#under the rule of Austria in 1836  
+#Ljubljana 
+768 = {
+	aristocrats = {
+		culture = slovene
+		religion = catholic
+		size = 537
+	}
+	bureaucrats = {
+		culture = slovene
+		religion = catholic
+		size = 146
+	}
+	officers = {
+		culture = slovene
+		religion = catholic
+		size = 65
+	}
+	clergymen = {
+		culture = slovene
+		religion = catholic
+		size = 455
+	}
+	artisans = {
+		culture = slovene
+		religion = catholic
+		size = 2604
+	}
+	soldiers = {
+		culture = slovene
+		religion = catholic
+		size = 2864
+	}
+	farmers = {
+		culture = slovene
+		religion = catholic
+		size = 41123
+	}
+}
+#Postojna 
+769 = {
+	aristocrats = {
+		culture = slovene
+		religion = catholic
+		size = 325
+	}
+	clergymen = {
+		culture = slovene
+		religion = catholic
+		size = 276
+	}
+	artisans = {
+		culture = slovene
+		religion = catholic
+		size = 1367
+	}
+	soldiers = {
+		culture = slovene
+		religion = catholic
+		size = 1104
+	}
+	farmers = {
+		culture = slovene
+		religion = catholic
+		size = 25771
+	}
+	clergymen = {
+		culture = german
+		religion = catholic
+		size = 16
+	}
+	farmers = {
+		culture = german
+		religion = catholic
+		size = 1286
+	}
+}

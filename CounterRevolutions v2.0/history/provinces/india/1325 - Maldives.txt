@@ -1,5 +1,0 @@
-owner = MLD
-controller = MLD
-add_core = MLD
-trade_goods = grain
-life_rating = 34

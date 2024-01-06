@@ -1,5 +1,0 @@
-owner = LDA
-controller = LDA
-add_core = LDA
-trade_goods = grain
-life_rating = 36

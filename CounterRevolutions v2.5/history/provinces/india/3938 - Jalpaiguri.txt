@@ -1,0 +1,4 @@
+owner = EIC
+controller = EIC
+trade_goods = tea
+life_rating = 33

@@ -1,0 +1,23 @@
+country_event = { #triggered for ARG by decision of SPA after becoming republic
+	id = 721453
+	title = "EVTNAME721453"
+	desc = "EVTDESC721453"
+
+    is_triggered_only = yes
+
+	option = {
+		name = "Revolutionary Victory"
+		SPA = {
+            inherit = ARG
+		}
+		ai_chance = { factor = 1 }
+		set_country_flag = spanish_victory_on_la_plata
+	}
+	option = {
+		name = "Give me liberty or give me death!"
+		SPA = {
+            any_pop = { militancy = 6 }
+		}
+		ai_chance = { factor = 0 }
+	}
+}

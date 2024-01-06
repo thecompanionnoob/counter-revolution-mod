@@ -1,0 +1,50 @@
+political_decisions = {
+	rename_the_congo = {
+		potential = {
+			tag = BEL
+			exists = CNG
+			CNG = {
+				vassal_of = THIS
+			}
+			NOT = {
+				has_global_flag = congo_renamed
+			}
+		}
+		
+		allow = {
+			invention = mission_to_civilize
+		}
+		
+		effect = {
+			1987 = {
+				change_province_name = "Elisabethville"
+			}		
+			1982 = {
+				change_province_name = "Leopoldville"
+			}
+			1996 = {
+				change_province_name = "Stanleyville"
+			}
+			prestige = 10
+			set_global_flag = congo_renamed
+		}
+	}
+	coremans_de_vriendt_law = {
+		potential = {
+			tag = BEL
+			any_owned_province = { culture = dutch }
+			NOT = { has_global_flag = coremans_de_vriendt_law_enacted }
+			revolution_n_counterrevolution = 1
+		}
+		
+		allow = {
+		
+		}
+		
+		effect = {
+			add_accepted_culture = dutch
+			prestige = 10
+			set_global_flag = coremans_de_vriendt_law_enacted
+		}
+	}
+}

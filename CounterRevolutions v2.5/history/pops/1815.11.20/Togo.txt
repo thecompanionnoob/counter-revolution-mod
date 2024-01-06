@@ -1,0 +1,196 @@
+#Togo Region #see Ghana
+#uncolonized in 1836
+#Lome  
+1914 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 859
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 443
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 1746
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 1772
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 34212
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 304
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 166
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 665
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 664
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 13113
+	}
+	slaves = {
+		culture = african_minor
+		religion = catholic
+		size = 7762
+	}
+}
+#Atakpane  
+1917 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 277
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 166
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 776
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 664
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 14139
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 138
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 83
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 388
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 332
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 7069
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 221
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 110
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 499
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 552
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 9010
+	}
+	slaves = {
+		culture = african_minor
+		religion = catholic
+		size = 2217
+	}
+}
+#Sokode  
+1918 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 55
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 55
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 221
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 220
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 4047
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 27
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 55
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 110
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 108
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 1996
+	}
+}

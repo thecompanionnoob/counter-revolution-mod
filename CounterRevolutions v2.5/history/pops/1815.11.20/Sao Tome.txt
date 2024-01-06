@@ -1,0 +1,55 @@
+#Sao Tome e Principe
+#Under Portuguese Rule 1836
+#Sao Tome
+1954 = {
+	aristocrats = {
+		culture = portuguese
+		religion = catholic
+		size = 24
+	}
+	clergymen = {
+		culture = portuguese
+		religion = catholic
+		size = 6
+	}
+	bureaucrats = {
+		culture = portuguese
+		religion = catholic
+		size = 6
+	}
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 6
+	}
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 24
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 60
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 242
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 484
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 667
+	}
+	slaves = {
+		culture = african_minor
+		religion = catholic
+		size = 4188
+	}
+}

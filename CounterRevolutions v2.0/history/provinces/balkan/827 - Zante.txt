@@ -1,7 +1,0 @@
-owner = SIC
-controller = SIC
-add_core = SIC
-add_core = GRE
-add_core = ION
-trade_goods = fish
-life_rating = 37

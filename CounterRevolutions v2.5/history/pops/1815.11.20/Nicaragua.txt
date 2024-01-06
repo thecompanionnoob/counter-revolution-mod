@@ -1,0 +1,303 @@
+#Nicaragua
+#Managua
+2197 = {
+	aristocrats = {
+		culture = central_american
+		religion = catholic
+		size = 140
+	}
+	bureaucrats = {
+		culture = central_american
+		religion = catholic
+		size = 13
+	}
+	officers = {
+		culture = central_american
+		religion = catholic
+		size = 10
+	}
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 63
+	}
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 320
+	}
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size = 252
+	}
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 5806
+	}
+}
+#Granada
+4843 = {
+	aristocrats = {
+		culture = central_american
+		religion = catholic
+		size = 182
+	}
+	bureaucrats = {
+		culture = central_american
+		religion = catholic
+		size = 17
+	}
+	officers = {
+		culture = central_american
+		religion = catholic
+		size = 13
+	}
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 82
+	}
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 417
+	}
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size = 328
+	}
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 7547
+	}
+}
+#Matagalpa
+4842 = {
+	aristocrats = {
+		culture = central_american
+		religion = catholic
+		size = 119
+	}
+	bureaucrats = {
+		culture = central_american
+		religion = catholic
+		size = 11
+	}
+	officers = {
+		culture = central_american
+		religion = catholic
+		size = 8
+	}
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 53
+	}
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 272
+	}
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size = 212
+	}
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 4935
+	}
+}
+#Rivas
+2198 = {
+	aristocrats = {
+		culture = central_american
+		religion = catholic
+		size = 65
+	}
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 23
+	}
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 120
+	}
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size = 92
+	}
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 2171
+	}
+}
+#Juigalpa
+4839 = {
+	aristocrats = {
+		culture = central_american
+		religion = catholic
+		size = 131
+	}
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 46
+	}
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 238
+	}
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size = 184
+	}
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 4329
+	}
+}
+#León
+2199 = {
+	aristocrats = {
+		culture = central_american
+		religion = catholic
+		size = 106
+	}
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 40
+	}
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 196
+	}
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size = 160
+	}
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 3873
+	}
+}
+#Ocotal
+4840 = {
+	aristocrats = {
+		culture = central_american
+		religion = catholic
+		size = 193
+	}
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 73
+	}
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 356
+	}
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size = 292
+	}
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 7035
+	}
+}
+#Chinandega
+4841 = {
+	aristocrats = {
+		culture = central_american
+		religion = catholic
+		size = 93
+	}
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 35
+	}
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 172
+	}
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size = 140
+	}
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 3399
+	}
+}
+#Bluefields
+2200 = {
+	aristocrats = {
+		culture = central_american
+		religion = catholic
+		size = 16
+	}
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 26
+	}
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 54
+	}
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size = 36
+	}
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 991
+	}
+	clergymen = {
+		culture = afro_caribbean
+		religion = catholic
+		size = 54
+	}
+	artisans = {
+		culture = afro_caribbean
+		religion = catholic
+		size = 108
+	}
+	soldiers = {
+		culture = afro_caribbean
+		religion = catholic
+		size = 216
+	}
+	slaves = {
+		culture = afro_caribbean
+		religion = catholic
+		size = 1984
+	}
+}

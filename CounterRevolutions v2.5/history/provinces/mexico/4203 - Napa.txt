@@ -1,0 +1,5 @@
+owner = SPA
+controller = SPA
+add_core = MEX
+trade_goods = sulphur
+life_rating = 44

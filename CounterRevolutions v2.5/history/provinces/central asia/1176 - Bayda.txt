@@ -1,0 +1,5 @@
+owner = WHD
+controller = WHD
+add_core = WHD
+trade_goods = wool
+life_rating = 32

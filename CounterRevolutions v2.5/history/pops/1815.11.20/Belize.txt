@@ -1,0 +1,29 @@
+#Honduras
+#Belize
+2190 = {
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 88
+	}
+	clergymen = {
+		culture = afro_caribbean
+		religion = catholic
+		size = 53
+	}
+	artisans = {
+		culture = afro_caribbean
+		religion = catholic
+		size = 353
+	}
+	soldiers = {
+		culture = afro_caribbean
+		religion = catholic
+		size = 140
+	}
+	slaves = {
+		culture = afro_caribbean
+		religion = catholic
+		size = 5839
+	}
+}

@@ -1,0 +1,5 @@
+owner = AHO
+controller = AHO
+add_core = AHO
+trade_goods = silk
+life_rating = 33

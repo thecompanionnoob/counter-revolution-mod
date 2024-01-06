@@ -1,0 +1,23 @@
+#Christmas-Cocos Region 
+#uncolonized in 1836
+#Christmas Island 
+2244 = {
+	farmers = {
+		culture = malay
+		religion = catholic
+		size = 15
+	}
+}
+#Cocos Islands #british trade post 1836 
+2406 = {
+	aristocrats = {
+		culture = british
+		religion = catholic
+		size = 5
+	}
+	farmers = {
+		culture = malay
+		religion = catholic
+		size = 120
+	}
+}

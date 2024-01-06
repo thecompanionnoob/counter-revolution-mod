@@ -1,0 +1,5 @@
+owner = BMU
+controller = BMU
+add_core = BMU
+trade_goods = tropical_wood
+life_rating = 32

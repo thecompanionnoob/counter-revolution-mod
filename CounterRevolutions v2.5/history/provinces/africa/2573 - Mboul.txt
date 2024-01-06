@@ -1,0 +1,5 @@
+owner = CAY
+controller = CAY
+add_core = CAY
+trade_goods = grain
+life_rating = 35

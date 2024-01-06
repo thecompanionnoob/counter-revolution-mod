@@ -1,0 +1,20 @@
+army = {
+	name = "1st Army"
+	location = 1465
+	regiment = {
+		name= "1. Guihua Tumed Militia"
+		type = irregular
+		home = 1534
+	}
+	regiment = {
+		name= "2. Guihua Tumed Militia"
+		type = irregular
+		home = 1533
+	}
+	regiment = {
+		name= "1. Urga Militia"
+		type = irregular
+		home = 1465
+	}
+}
+

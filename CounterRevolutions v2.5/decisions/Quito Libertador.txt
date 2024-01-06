@@ -1,0 +1,18 @@
+political_decisions = {
+	liberaciondeecuador = {
+		potential = {
+			tag = GCO
+			NOT = { has_country_flag = ecuexit }
+		}
+		
+		allow = {
+				controls = 2279
+			    war = no
+		}
+		
+		effect = {
+			SPA = { country_event = 194719880 }
+			set_country_flag = ecuexit
+		}
+	}	
+}	

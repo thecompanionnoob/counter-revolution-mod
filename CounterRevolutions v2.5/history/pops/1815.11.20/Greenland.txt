@@ -1,0 +1,75 @@
+#Greenland
+#Ruled by Denmark 1836
+#Godthab
+251 = {
+	bureaucrats = {
+		culture = swedish
+		religion = catholic
+		size = 5
+	}
+	clergymen = {
+		culture = swedish
+		religion = catholic
+		size = 15
+	}
+	artisans = {
+		culture = swedish
+		religion = catholic
+		size = 15
+	}
+	farmers = {
+		culture = inuit
+		religion = catholic
+		size = 1120
+	}
+}
+#Augmagsalik
+2632  = {
+	clergymen = {
+		culture = swedish
+		religion = catholic
+		size = 4
+	}
+	artisans = {
+		culture = swedish
+		religion = catholic
+		size = 4
+	}
+	farmers = {
+		culture = inuit
+		religion = catholic
+		size = 300
+	}
+	
+	clergymen = {
+		culture = swedish
+		religion = catholic
+		size = 2
+	}
+	artisans = {
+		culture = swedish
+		religion = catholic
+		size = 2
+	}
+	farmers = {
+		culture = inuit
+		religion = catholic
+		size = 200
+	}
+	
+	clergymen = {
+		culture = swedish
+		religion = catholic
+		size = 4
+	}
+	artisans = {
+		culture = swedish
+		religion = catholic
+		size = 4
+	}
+	farmers = {
+		culture = inuit
+		religion = catholic
+		size = 300
+	}
+}

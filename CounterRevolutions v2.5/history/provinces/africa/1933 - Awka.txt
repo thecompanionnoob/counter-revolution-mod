@@ -1,0 +1,6 @@
+owner = NRI
+controller = NRI
+add_core = NRI
+trade_goods = coal
+life_rating = 33
+

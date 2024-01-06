@@ -1,0 +1,327 @@
+#Uganda Region  
+#uncolonized in 1836/dohanated by Buganda in 1836
+#Entebbe 
+2019 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 1844
+	}
+	bureaucrats = {
+		culture = african_minor
+		religion = catholic
+		size = 67
+	}
+	officers = {
+		culture = african_minor
+		religion = catholic
+		size = 135
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 990
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 3825
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 3820
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 74077
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 784
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 409
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 2048
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 1636
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 37328
+	}
+	slaves = {
+		culture = african_minor
+		religion = catholic
+		size = 13661
+	}
+}
+#Mbarara 
+2020 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 318
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 181
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 728
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 724
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 9517
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 865
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 454
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 2276
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 1816
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 41484
+	}
+	slaves = {
+		culture = african_minor
+		religion = catholic
+		size = 21856
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 637
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 318
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 1320
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 1452
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 15573
+	}
+}
+#Masindi 
+2021 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 100
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 54
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 264
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 216
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 4808
+	}
+	slaves = {
+		culture = african_minor
+		religion = catholic
+		size = 1639
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 68
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 36
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 141
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 144
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 1539
+	}
+}
+#Kitgum 
+2022 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 341
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 181
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 705
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 724
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 13159
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 113
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 67
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 318
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 268
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 57444
+	}
+	slaves = {
+		culture = african_minor
+		religion = catholic
+		size = 2731
+	}
+}
+#Jinja 
+2023 = {
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 1042
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 567
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 2180
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 2268
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 25992
+	}
+	aristocrats = {
+		culture = african_minor
+		religion = catholic
+		size = 2845
+	}
+	clergymen = {
+		culture = african_minor
+		religion = catholic
+		size = 1422
+	}
+	artisans = {
+		culture = african_minor
+		religion = catholic
+		size = 7210
+	}
+	soldiers = {
+		culture = african_minor
+		religion = catholic
+		size = 5688
+	}
+	farmers = {
+		culture = african_minor
+		religion = catholic
+		size = 145717
+	}
+	slaves = {
+		culture = african_minor
+		religion = catholic
+		size = 22767
+	}
+}

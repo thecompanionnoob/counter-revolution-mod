@@ -1,0 +1,848 @@
+#Ceylon #now Sri Lanka
+#Under rule of Britain 1836
+#Colombo
+1321 = {
+	aristocrats = {
+		culture = sinhala
+		religion = catholic
+		size = 579
+	}
+	bureaucrats = {
+		culture = sinhala
+		religion = catholic
+		size = 108
+	}
+	clergymen = {
+		culture = sinhala
+		religion = catholic
+		size = 542
+	}
+	artisans = {
+		culture = sinhala
+		religion = catholic
+		size = 579
+	}
+	soldiers = {
+		culture = sinhala
+		religion = catholic
+		size = 2168
+	}
+	farmers = {
+		culture = sinhala
+		religion = catholic
+		size = 49075
+	}
+	aristocrats = {
+		culture = hindustani
+		religion = catholic
+		size = 90
+	}
+	bureaucrats = {
+		culture = hindustani
+		religion = catholic
+		size = 71
+	}
+	clergymen = {
+		culture = hindustani
+		religion = catholic
+		size = 90
+	}
+	artisans = {
+		culture = hindustani
+		religion = catholic
+		size = 542
+	}
+	soldiers = {
+		culture = hindustani
+		religion = catholic
+		size = 284
+	}
+	labourers = {
+		culture = hindustani
+		religion = catholic
+		size = 7098
+	}
+	clergymen = {
+		culture = sinhala
+		religion = catholic
+		size = 35
+	}
+	artisans = {
+		culture = sinhala
+		religion = catholic
+		size = 361
+	}
+	soldiers = {
+		culture = sinhala
+		religion = catholic
+		size = 140
+	}
+	labourers = {
+		culture = sinhala
+		religion = catholic
+		size = 4635
+	}
+	clergymen = {
+		culture = sinhala
+		religion = catholic
+		size = 17
+	}
+	artisans = {
+		culture = sinhala
+		religion = catholic
+		size = 542
+	}
+	soldiers = {
+		culture = sinhala
+		religion = catholic
+		size = 68
+	}
+	labourers = {
+		culture = sinhala
+		religion = catholic
+		size = 868
+	}
+	aristocrats = {
+		culture = arab
+		religion = catholic
+		size = 17
+	}
+	clergymen = {
+		culture = arab
+		religion = catholic
+		size = 53
+	}
+	artisans = {
+		culture = arab
+		religion = catholic
+		size = 1086
+	}
+	soldiers = {
+		culture = arab
+		religion = catholic
+		size = 68
+	}
+	labourers = {
+		culture = arab
+		religion = catholic
+		size = 2444
+	}
+	aristocrats = {
+		culture = malay
+		religion = catholic
+		size = 17
+	}
+	clergymen = {
+		culture = malay
+		religion = catholic
+		size = 17
+	}
+	artisans = {
+		culture = malay
+		religion = catholic
+		size = 796
+	}
+	soldiers = {
+		culture = malay
+		religion = catholic
+		size = 140
+	}
+	farmers = {
+		culture = malay
+		religion = catholic
+		size = 1376
+	}
+	aristocrats = {
+		culture = british
+		religion = catholic
+		size = 17
+	}
+	bureaucrats = {
+		culture = british
+		religion = catholic
+		size = 35
+	}
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 35
+	}
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 796
+	}
+	soldiers = {
+		culture = british
+		religion = catholic
+		size = 284
+	}
+	farmers = {
+		culture = british
+		religion = catholic
+		size = 488
+	}
+}
+#Jaffna
+1322 = {
+	aristocrats = {
+		culture = hindustani
+		religion = catholic
+		size = 230
+	}
+	clergymen = {
+		culture = hindustani
+		religion = catholic
+		size = 230
+	}
+	artisans = {
+		culture = hindustani
+		religion = catholic
+		size = 1848
+	}
+	soldiers = {
+		culture = hindustani
+		religion = catholic
+		size = 920
+	}
+	farmers = {
+		culture = hindustani
+		religion = catholic
+		size = 19641
+	}
+	
+	aristocrats = {
+		culture = hindustani
+		religion = catholic
+		size = 115
+	}
+	clergymen = {
+		culture = hindustani
+		religion = catholic
+		size = 115
+	}
+	artisans = {
+		culture = hindustani
+		religion = catholic
+		size = 923
+	}
+	soldiers = {
+		culture = hindustani
+		religion = catholic
+		size = 920
+	}
+	labourers = {
+		culture = hindustani
+		religion = catholic
+		size = 9705
+	}
+}
+#Kandy
+1323 = {
+	aristocrats = {
+		culture = sinhala
+		religion = catholic
+		size = 465
+	}
+	clergymen = {
+		culture = sinhala
+		religion = catholic
+		size = 465
+	}
+	artisans = {
+		culture = sinhala
+		religion = catholic
+		size = 2482
+	}
+	soldiers = {
+		culture = sinhala
+		religion = catholic
+		size = 1860
+	}
+	farmers = {
+		culture = sinhala
+		religion = catholic
+		size = 42996
+	}
+}
+#Trincomalee
+1324 = {
+	aristocrats = {
+		culture = sinhala
+		religion = catholic
+		size = 69
+	}
+	clergymen = {
+		culture = sinhala
+		religion = catholic
+		size = 62
+	}
+	artisans = {
+		culture = sinhala
+		religion = catholic
+		size = 138
+	}
+	soldiers = {
+		culture = sinhala
+		religion = catholic
+		size = 220
+	}
+	farmers = {
+		culture = sinhala
+		religion = catholic
+		size = 5493
+	}
+	aristocrats = {
+		culture = hindustani
+		religion = catholic
+		size = 69
+	}
+	clergymen = {
+		culture = hindustani
+		religion = catholic
+		size = 69
+	}
+	artisans = {
+		culture = hindustani
+		religion = catholic
+		size = 138
+	}
+	soldiers = {
+		culture = hindustani
+		religion = catholic
+		size = 276
+	}
+	labourers = {
+		culture = hindustani
+		religion = catholic
+		size = 6304
+	}
+	clergymen = {
+		culture = sinhala
+		religion = catholic
+		size = 6
+	}
+	artisans = {
+		culture = sinhala
+		religion = catholic
+		size = 69
+	}
+	soldiers = {
+		culture = sinhala
+		religion = catholic
+		size = 24
+	}
+	labourers = {
+		culture = sinhala
+		religion = catholic
+		size = 193
+	}
+	clergymen = {
+		culture = sinhala
+		religion = catholic
+		size = 13
+	}
+	artisans = {
+		culture = sinhala
+		religion = catholic
+		size = 138
+	}
+	soldiers = {
+		culture = sinhala
+		religion = catholic
+		size = 24
+	}
+	labourers = {
+		culture = sinhala
+		religion = catholic
+		size = 408
+	}
+	clergymen = {
+		culture = malay
+		religion = catholic
+		size = 6
+	}
+	artisans = {
+		culture = malay
+		religion = catholic
+		size = 69
+	}
+	soldiers = {
+		culture = malay
+		religion = catholic
+		size = 52
+	}
+	labourers = {
+		culture = malay
+		religion = catholic
+		size = 186
+	}
+	aristocrats = {
+		culture = arab
+		religion = catholic
+		size = 6
+	}
+	clergymen = {
+		culture = arab
+		religion = catholic
+		size = 13
+	}
+	artisans = {
+		culture = arab
+		religion = catholic
+		size = 207
+	}
+	soldiers = {
+		culture = arab
+		religion = catholic
+		size = 24
+	}
+	labourers = {
+		culture = arab
+		religion = catholic
+		size = 595
+	}
+}
+#Maldives #now independent
+1325 = {
+	aristocrats = {
+		culture = asian_minor
+		religion = catholic
+		size = 73
+	}
+	clergymen = {
+		culture = asian_minor
+		religion = catholic
+		size = 73
+	}
+	artisans = {
+		culture = asian_minor
+		religion = catholic
+		size = 750
+	}
+	soldiers = {
+		culture = asian_minor
+		religion = catholic
+		size = 444
+	}
+	farmers = {
+		culture = asian_minor
+		religion = catholic
+		size = 7996
+	}
+}
+#Galle
+3838 = {
+	aristocrats = {
+		culture = sinhala
+		religion = catholic
+		size = 405
+	}
+	bureaucrats = {
+		culture = sinhala
+		religion = catholic
+		size = 75
+	}
+	clergymen = {
+		culture = sinhala
+		religion = catholic
+		size = 380
+	}
+	artisans = {
+		culture = sinhala
+		religion = catholic
+		size = 405
+	}
+	soldiers = {
+		culture = sinhala
+		religion = catholic
+		size = 1520
+	}
+	farmers = {
+		culture = sinhala
+		religion = catholic
+		size = 34400
+	}
+	aristocrats = {
+		culture = hindustani
+		religion = catholic
+		size = 63
+	}
+	bureaucrats = {
+		culture = hindustani
+		religion = catholic
+		size = 50
+	}
+	clergymen = {
+		culture = hindustani
+		religion = catholic
+		size = 63
+	}
+	artisans = {
+		culture = hindustani
+		religion = catholic
+		size = 380
+	}
+	soldiers = {
+		culture = hindustani
+		religion = catholic
+		size = 200
+	}
+	labourers = {
+		culture = hindustani
+		religion = catholic
+		size = 4975
+	}
+	clergymen = {
+		culture = sinhala
+		religion = catholic
+		size = 24
+	}
+	artisans = {
+		culture = sinhala
+		religion = catholic
+		size = 253
+	}
+	soldiers = {
+		culture = sinhala
+		religion = catholic
+		size = 96
+	}
+	labourers = {
+		culture = sinhala
+		religion = catholic
+		size = 3249
+	}
+	clergymen = {
+		culture = sinhala
+		religion = catholic
+		size = 12
+	}
+	artisans = {
+		culture = sinhala
+		religion = catholic
+		size = 380
+	}
+	soldiers = {
+		culture = sinhala
+		religion = catholic
+		size = 48
+	}
+	labourers = {
+		culture = sinhala
+		religion = catholic
+		size = 609
+	}
+	aristocrats = {
+		culture = arab
+		religion = catholic
+		size = 12
+	}
+	clergymen = {
+		culture = arab
+		religion = catholic
+		size = 37
+	}
+	artisans = {
+		culture = arab
+		religion = catholic
+		size = 761
+	}
+	soldiers = {
+		culture = arab
+		religion = catholic
+		size = 48
+	}
+	labourers = {
+		culture = arab
+		religion = catholic
+		size = 1713
+	}
+	aristocrats = {
+		culture = malay
+		religion = catholic
+		size = 12
+	}
+	clergymen = {
+		culture = malay
+		religion = catholic
+		size = 12
+	}
+	artisans = {
+		culture = malay
+		religion = catholic
+		size = 558
+	}
+	soldiers = {
+		culture = malay
+		religion = catholic
+		size = 96
+	}
+	farmers = {
+		culture = malay
+		religion = catholic
+		size = 964
+	}
+}
+#Badulla
+3839 = {
+	aristocrats = {
+		culture = sinhala
+		religion = catholic
+		size = 147
+	}
+	clergymen = {
+		culture = sinhala
+		religion = catholic
+		size = 147
+	}
+	artisans = {
+		culture = sinhala
+		religion = catholic
+		size = 789
+	}
+	soldiers = {
+		culture = sinhala
+		religion = catholic
+		size = 588
+	}
+	farmers = {
+		culture = sinhala
+		religion = catholic
+		size = 13664
+	}
+}
+#Ratnapura
+3840 = {
+	aristocrats = {
+		culture = sinhala
+		religion = catholic
+		size = 251
+	}
+	clergymen = {
+		culture = sinhala
+		religion = catholic
+		size = 251
+	}
+	artisans = {
+		culture = sinhala
+		religion = catholic
+		size = 1343
+	}
+	soldiers = {
+		culture = sinhala
+		religion = catholic
+		size = 1004
+	}
+	farmers = {
+		culture = sinhala
+		religion = catholic
+		size = 23259
+	}
+}
+#Kurunegala
+3841 = {
+	aristocrats = {
+		culture = sinhala
+		religion = catholic
+		size = 279
+	}
+	bureaucrats = {
+		culture = sinhala
+		religion = catholic
+		size = 52
+	}
+	clergymen = {
+		culture = sinhala
+		religion = catholic
+		size = 262
+	}
+	artisans = {
+		culture = sinhala
+		religion = catholic
+		size = 279
+	}
+	soldiers = {
+		culture = sinhala
+		religion = catholic
+		size = 1048
+	}
+	farmers = {
+		culture = sinhala
+		religion = catholic
+		size = 23706
+	}
+	aristocrats = {
+		culture = hindustani
+		religion = catholic
+		size = 43
+	}
+	bureaucrats = {
+		culture = hindustani
+		religion = catholic
+		size = 34
+	}
+	clergymen = {
+		culture = hindustani
+		religion = catholic
+		size = 43
+	}
+	artisans = {
+		culture = hindustani
+		religion = catholic
+		size = 262
+	}
+	soldiers = {
+		culture = hindustani
+		religion = catholic
+		size = 136
+	}
+	labourers = {
+		culture = hindustani
+		religion = catholic
+		size = 3429
+	}
+	clergymen = {
+		culture = sinhala
+		religion = catholic
+		size = 17
+	}
+	artisans = {
+		culture = sinhala
+		religion = catholic
+		size = 174
+	}
+	soldiers = {
+		culture = sinhala
+		religion = catholic
+		size = 68
+	}
+	labourers = {
+		culture = sinhala
+		religion = catholic
+		size = 2239
+	}
+	clergymen = {
+		culture = sinhala
+		religion = catholic
+		size = 8
+	}
+	artisans = {
+		culture = sinhala
+		religion = catholic
+		size = 262
+	}
+	soldiers = {
+		culture = sinhala
+		religion = catholic
+		size = 32
+	}
+	labourers = {
+		culture = sinhala
+		religion = catholic
+		size = 419
+	}
+	aristocrats = {
+		culture = arab
+		religion = catholic
+		size = 8
+	}
+	clergymen = {
+		culture = arab
+		religion = catholic
+		size = 25
+	}
+	artisans = {
+		culture = arab
+		religion = catholic
+		size = 524
+	}
+	soldiers = {
+		culture = arab
+		religion = catholic
+		size = 32
+	}
+	labourers = {
+		culture = arab
+		religion = catholic
+		size = 1180
+	}
+	aristocrats = {
+		culture = malay
+		religion = catholic
+		size = 8
+	}
+	clergymen = {
+		culture = malay
+		religion = catholic
+		size = 8
+	}
+	artisans = {
+		culture = malay
+		religion = catholic
+		size = 384
+	}
+	soldiers = {
+		culture = malay
+		religion = catholic
+		size = 68
+	}
+	farmers = {
+		culture = malay
+		religion = catholic
+		size = 664
+	}
+}
+#Anuradhapura
+3842 = {
+	aristocrats = {
+		culture = sinhala
+		religion = catholic
+		size = 56
+	}
+	clergymen = {
+		culture = sinhala
+		religion = catholic
+		size = 56
+	}
+	artisans = {
+		culture = sinhala
+		religion = catholic
+		size = 452
+	}
+	soldiers = {
+		culture = sinhala
+		religion = catholic
+		size = 224
+	}
+	farmers = {
+		culture = sinhala
+		religion = catholic
+		size = 4807
+	}
+	aristocrats = {
+		culture = hindustani
+		religion = catholic
+		size = 28
+	}
+	clergymen = {
+		culture = hindustani
+		religion = catholic
+		size = 28
+	}
+	artisans = {
+		culture = hindustani
+		religion = catholic
+		size = 226
+	}
+	soldiers = {
+		culture = hindustani
+		religion = catholic
+		size = 224
+	}
+	labourers = {
+		culture = hindustani
+		religion = catholic
+		size = 2375
+	}
+}

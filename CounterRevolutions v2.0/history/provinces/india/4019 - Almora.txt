@@ -1,4 +1,0 @@
-owner = NEP
-controller = NEP
-trade_goods = tea
-life_rating = 33

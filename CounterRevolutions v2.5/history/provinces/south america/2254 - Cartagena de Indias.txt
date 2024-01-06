@@ -1,0 +1,8 @@
+owner = SPA
+controller = SPA
+add_core = CLM
+add_core = GCO
+trade_goods = grain
+life_rating = 42
+naval_base = 1
+fort = 1

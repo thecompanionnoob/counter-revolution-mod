@@ -1,0 +1,5 @@
+owner = ANK
+controller = ANK
+add_core = ANK
+trade_goods = cotton
+life_rating = 33

@@ -1,0 +1,172 @@
+#Salvador Region
+#Ruled by Central America 1836
+#San Salvador
+2191 = {
+	aristocrats = {
+		culture = central_american
+		religion = catholic
+		size = 210
+	}
+	bureaucrats = {
+		culture = central_american
+		religion = catholic
+		size = 22
+	}
+	officers = {
+		culture = central_american
+		religion = catholic
+		size = 18
+	}
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 95
+	}
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 479
+	}
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size = 648
+	}
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 8615
+	}
+}
+#Santa Ana
+4862 = {
+	aristocrats = {
+		culture = central_american
+		religion = catholic
+		size = 232
+	}
+	bureaucrats = {
+		culture = central_american
+		religion = catholic
+		size = 24
+	}
+	officers = {
+		culture = central_american
+		religion = catholic
+		size = 20
+	}
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 106
+	}
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 531
+	}
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size = 716
+	}
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 9538
+	}
+}
+#Sensuntepeque
+4863 = {
+	aristocrats = {
+		culture = central_american
+		religion = catholic
+		size = 157
+	}
+	bureaucrats = {
+		culture = central_american
+		religion = catholic
+		size = 16
+	}
+	officers = {
+		culture = central_american
+		religion = catholic
+		size = 13
+	}
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 71
+	}
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 359
+	}
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size = 484
+	}
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 6461
+	}
+}
+#San Miguel
+2192 = {
+	aristocrats = {
+		culture = central_american
+		religion = catholic
+		size = 190
+	}
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 90
+	}
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 440
+	}
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size = 360
+	}
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 8005
+	}
+}
+#Zacatecoluca
+4864 = {
+	aristocrats = {
+		culture = central_american
+		religion = catholic
+		size = 195
+	}
+	clergymen = {
+		culture = central_american
+		religion = catholic
+		size = 92
+	}
+	artisans = {
+		culture = central_american
+		religion = catholic
+		size = 452
+	}
+	soldiers = {
+		culture = central_american
+		religion = catholic
+		size = 368
+	}
+	farmers = {
+		culture = central_american
+		religion = catholic
+		size = 8215
+	}
+}

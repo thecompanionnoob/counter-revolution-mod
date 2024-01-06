@@ -1,0 +1,7 @@
+owner = VOP
+controller = VOP
+add_core = PEU
+trade_goods = grain
+life_rating = 40
+fort = 2
+naval_base = 1

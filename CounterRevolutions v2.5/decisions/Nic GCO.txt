@@ -1,0 +1,26 @@
+political_decisions = {
+	conquernic = {
+                picture = conquernic
+		potential = {
+			NOT = { has_country_flag = conquernic }
+                        tag = GCO
+		}
+		allow = {
+			OR = {	
+					controls = 2199
+					controls = 2198
+					controls = 2197
+			}
+		}
+		
+		effect = {
+		set_country_flag = conquernic
+	    add_accepted_culture = central_american		
+        prestige = 3
+        war_exhaustion = -1
+		UCA_2197 = {
+			secede_province = GCO
+		}				
+	}
+}
+}

@@ -1,0 +1,319 @@
+political_decisions = {
+	form_arabia = {
+		potential = {
+			NOT = { exists = ARA }
+			primary_culture = arab
+		}
+		
+		allow = {
+			war = no
+			is_vassal = no
+			ALD = {
+				war = no
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+					exists = no
+					is_greater_power = yes
+					has_country_modifier = neutrality
+				}
+				OR = {
+					is_vassal = no
+					vassal_of = THIS
+				}
+			}
+			BAH = {
+				war = no
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+					exists = no
+					is_greater_power = yes
+					has_country_modifier = neutrality
+				}
+				OR = {
+					is_vassal = no
+					vassal_of = THIS
+				}
+			}
+			EGY = {
+				war = no
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+					exists = no
+					is_greater_power = yes
+					has_country_modifier = neutrality
+				}
+				OR = {
+					is_vassal = no
+					vassal_of = THIS
+				}
+			}
+			FDL = {
+				war = no
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+					exists = no
+					is_greater_power = yes
+					has_country_modifier = neutrality
+				}
+				OR = {
+					is_vassal = no
+					vassal_of = THIS
+				}
+			}
+			HDJ = {
+				war = no
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+					exists = no
+					is_greater_power = yes
+					has_country_modifier = neutrality
+				}
+				OR = {
+					is_vassal = no
+					vassal_of = THIS
+				}
+			}
+			HIL = {
+				war = no
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+					exists = no
+					is_greater_power = yes
+					has_country_modifier = neutrality
+				}
+				OR = {
+					is_vassal = no
+					vassal_of = THIS
+				}
+			}
+			IRQ = {
+				war = no
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+					exists = no
+					is_greater_power = yes
+					has_country_modifier = neutrality
+				}
+				OR = {
+					is_vassal = no
+					vassal_of = THIS
+				}
+			}
+			KTR = {
+				war = no
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+					exists = no
+					is_greater_power = yes
+					has_country_modifier = neutrality
+				}
+				OR = {
+					is_vassal = no
+					vassal_of = THIS
+				}
+			}
+			LHJ = {
+				war = no
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+					exists = no
+					is_greater_power = yes
+					has_country_modifier = neutrality
+				}
+				OR = {
+					is_vassal = no
+					vassal_of = THIS
+				}
+			}
+			MAH = {
+				war = no
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+					exists = no
+					is_greater_power = yes
+					has_country_modifier = neutrality
+				}
+				OR = {
+					is_vassal = no
+					vassal_of = THIS
+				}
+			}
+			MOR = {
+				war = no
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+					exists = no
+					is_greater_power = yes
+					has_country_modifier = neutrality
+				}
+				OR = {
+					is_vassal = no
+					vassal_of = THIS
+				}
+			}
+			NEJ = {
+				war = no
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+					exists = no
+					is_greater_power = yes
+					has_country_modifier = neutrality
+				}
+				OR = {
+					is_vassal = no
+					vassal_of = THIS
+				}
+			}
+			OMA = {
+				war = no
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+					exists = no
+					is_greater_power = yes
+					has_country_modifier = neutrality
+				}
+				OR = {
+					is_vassal = no
+					vassal_of = THIS
+				}
+			}
+			QAT = {
+				war = no
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+					exists = no
+					is_greater_power = yes
+					has_country_modifier = neutrality
+				}
+				OR = {
+					is_vassal = no
+					vassal_of = THIS
+				}
+			}
+			SYR = {
+				war = no
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+					exists = no
+					is_greater_power = yes
+					has_country_modifier = neutrality
+				}
+				OR = {
+					is_vassal = no
+					vassal_of = THIS
+				}
+			}
+			TRI = {
+				war = no
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+					exists = no
+					is_greater_power = yes
+					has_country_modifier = neutrality
+				}
+				OR = {
+					is_vassal = no
+					vassal_of = THIS
+				}
+			}
+			TUN = {
+				war = no
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+					exists = no
+					is_greater_power = yes
+					has_country_modifier = neutrality
+				}
+				OR = {
+					is_vassal = no
+					vassal_of = THIS
+				}
+			}
+			WHD = {
+				war = no
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+					exists = no
+					is_greater_power = yes
+					has_country_modifier = neutrality
+				}
+				OR = {
+					is_vassal = no
+					vassal_of = THIS
+				}
+			}
+			YEM = {
+				war = no
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+					exists = no
+					is_greater_power = yes
+					has_country_modifier = neutrality
+				}
+				OR = {
+					is_vassal = no
+					vassal_of = THIS
+				}
+			}
+			ABU = {
+				war = no
+				OR = {
+					in_sphere = THIS
+					vassal_of = THIS
+					exists = no
+					is_greater_power = yes
+					has_country_modifier = neutrality
+				}
+				OR = {
+					is_vassal = no
+					vassal_of = THIS
+				}
+			}
+		}
+		
+		effect = {
+			prestige = 20
+			all_core = {
+				add_core = ARA
+				remove_core = THIS
+			}
+			change_tag = ARA
+			any_country = {
+				limit = {
+					primary_culture = arab
+					war = no
+					OR = {
+						in_sphere = THIS
+						vassal_of = THIS
+						exists = no
+						is_greater_power = no
+						NOT = { has_country_modifier = neutrality }
+					}
+				}
+				all_core = { add_core = THIS }
+				country_event = 111011928
+			}
+		}
+		
+		ai_will_do = { factor = 1 }
+	}	
+}

@@ -1,0 +1,10 @@
+owner = GCO
+controller = GCO
+add_core = GCO
+add_core = VNZ
+trade_goods = iron
+life_rating = 42
+    
+    
+    
+

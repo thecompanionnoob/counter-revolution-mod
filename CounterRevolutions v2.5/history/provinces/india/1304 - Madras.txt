@@ -1,0 +1,7 @@
+owner = EIC
+controller = EIC
+trade_goods = silk
+life_rating = 33
+colonial = 2
+fort = 1
+naval_base = 1

@@ -1,0 +1,20 @@
+army = {
+	name = "1st Army"
+	location = 1925
+	regiment = {
+		name= "1. Ibadan Militia"
+		type = irregular
+		home = 1925
+	}
+	regiment = {
+		name= "1. Abeokuta Militia"
+		type = irregular
+		home = 1924
+	}
+	regiment = {
+		name= "1. Ife Militia"
+		type = irregular
+		home = 1926
+	}
+}
+

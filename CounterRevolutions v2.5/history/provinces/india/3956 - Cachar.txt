@@ -1,0 +1,5 @@
+owner = DMA
+controller = DMA
+add_core = DMA
+trade_goods = tea
+life_rating = 33

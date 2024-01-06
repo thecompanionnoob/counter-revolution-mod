@@ -1,0 +1,2345 @@
+#Quito
+#Quito
+2279 = {
+	aristocrats = {
+		culture = spanish
+		religion = catholic
+		size = 39
+	}
+	bureaucrats = {
+		culture = spanish
+		religion = catholic
+		size = 13
+	}
+	officers = {
+		culture = spanish
+		religion = catholic
+		size = 3
+	}
+	clergymen = {
+		culture = spanish
+		religion = catholic
+		size = 26
+	}
+	artisans = {
+		culture = spanish
+		religion = catholic
+		size = 131
+	}
+	soldiers = {
+		culture = spanish
+		religion = catholic
+		size = 4263
+	}
+	farmers = {
+		culture = spanish
+		religion = catholic
+		size = 8151
+	}
+			
+	aristocrats = {
+		culture = north_andean
+		religion = catholic
+		size = 111
+	}
+	bureaucrats = {
+		culture = north_andean
+		religion = catholic
+		size = 37
+	}
+	officers = {
+		culture = north_andean
+		religion = catholic
+		size = 7
+	}
+	clergymen = {
+		culture = north_andean
+		religion = catholic
+		size = 74
+	}
+	artisans = {
+		culture = north_andean
+		religion = catholic
+		size = 372
+	}
+	soldiers = {
+		culture = north_andean
+		religion = catholic
+		size = 743
+	}
+	farmers = {
+		culture = north_andean
+		religion = catholic
+		size = 18086
+	}
+
+	aristocrats = {
+		culture = quechua
+		religion = catholic
+		size = 112
+	}
+	bureaucrats = {
+		culture = quechua
+		religion = catholic
+		size = 37
+	}
+	officers = {
+		culture = quechua
+		religion = catholic
+		size = 7
+	}
+	clergymen = {
+		culture = quechua
+		religion = catholic
+		size = 75
+	}
+	artisans = {
+		culture = quechua
+		religion = catholic
+		size = 374
+	}
+	soldiers = {
+		culture = quechua
+		religion = catholic
+		size = 749
+	}
+	farmers = {
+		culture = quechua
+		religion = catholic
+		size = 8133
+	}
+			
+	aristocrats = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 14
+	}
+	bureaucrats = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 5
+	}
+	officers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 1
+	}
+	clergymen = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 9
+	}
+	artisans = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 45
+	}
+	soldiers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 90
+	}
+	slaves = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 740
+	}
+}
+#Tulcán
+3808 = {
+	aristocrats = {
+		culture = north_andean
+		religion = catholic
+		size = 26
+	}
+	bureaucrats = {
+		culture = north_andean
+		religion = catholic
+		size = 9
+	}
+	officers = {
+		culture = north_andean
+		religion = catholic
+		size = 2
+	}
+	clergymen = {
+		culture = north_andean
+		religion = catholic
+		size = 18
+	}
+	artisans = {
+		culture = north_andean
+		religion = catholic
+		size = 88
+	}
+	soldiers = {
+		culture = north_andean
+		religion = catholic
+		size = 176
+	}
+	farmers = {
+		culture = north_andean
+		religion = catholic
+		size = 3440
+	}
+
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 18
+	}
+	bureaucrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 6
+	}
+	officers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 1
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 12
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 59
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 118
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 967
+	}
+			
+	aristocrats = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 3
+	}
+	bureaucrats = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 1
+	}
+	officers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 2
+	}
+	artisans = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 10
+	}
+	soldiers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 21
+	}
+	slaves = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 170
+	}
+}
+#Ibarra
+3809 = {
+	aristocrats = {
+		culture = spanish
+		religion = catholic
+		size = 2
+	}
+	bureaucrats = {
+		culture = spanish
+		religion = catholic
+		size = 1
+	}
+	officers = {
+		culture = spanish
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = spanish
+		religion = catholic
+		size = 2
+	}
+	artisans = {
+		culture = spanish
+		religion = catholic
+		size = 8
+	}
+	soldiers = {
+		culture = spanish
+		religion = catholic
+		size = 16
+	}
+	farmers = {
+		culture = spanish
+		religion = catholic
+		size = 135
+	}
+			
+	aristocrats = {
+		culture = north_andean
+		religion = catholic
+		size = 61
+	}
+	bureaucrats = {
+		culture = north_andean
+		religion = catholic
+		size = 20
+	}
+	officers = {
+		culture = north_andean
+		religion = catholic
+		size = 4
+	}
+	clergymen = {
+		culture = north_andean
+		religion = catholic
+		size = 40
+	}
+	artisans = {
+		culture = north_andean
+		religion = catholic
+		size = 202
+	}
+	soldiers = {
+		culture = north_andean
+		religion = catholic
+		size = 404
+	}
+	farmers = {
+		culture = north_andean
+		religion = catholic
+		size = 7306
+	}
+
+	aristocrats = {
+		culture = quechua
+		religion = catholic
+		size = 24
+	}
+	bureaucrats = {
+		culture = quechua
+		religion = catholic
+		size = 8
+	}
+	officers = {
+		culture = quechua
+		religion = catholic
+		size = 2
+	}
+	clergymen = {
+		culture = quechua
+		religion = catholic
+		size = 16
+	}
+	artisans = {
+		culture = quechua
+		religion = catholic
+		size = 79
+	}
+	soldiers = {
+		culture = quechua
+		religion = catholic
+		size = 158
+	}
+	farmers = {
+		culture = quechua
+		religion = catholic
+		size = 1294
+	}
+			
+	aristocrats = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 5
+	}
+	bureaucrats = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 2
+	}
+	officers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 3
+	}
+	artisans = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 16
+	}
+	soldiers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 33
+	}
+	slaves = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 270
+	}
+}
+#Latacunga
+3810 = {
+	aristocrats = {
+		culture = spanish
+		religion = catholic
+		size = 3
+	}
+	bureaucrats = {
+		culture = spanish
+		religion = catholic
+		size = 1
+	}
+	officers = {
+		culture = spanish
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = spanish
+		religion = catholic
+		size = 2
+	}
+	artisans = {
+		culture = spanish
+		religion = catholic
+		size = 11
+	}
+	soldiers = {
+		culture = spanish
+		religion = catholic
+		size = 23
+	}
+	farmers = {
+		culture = spanish
+		religion = catholic
+		size = 186
+	}
+			
+	aristocrats = {
+		culture = north_andean
+		religion = catholic
+		size = 58
+	}
+	bureaucrats = {
+		culture = north_andean
+		religion = catholic
+		size = 19
+	}
+	officers = {
+		culture = north_andean
+		religion = catholic
+		size = 4
+	}
+	clergymen = {
+		culture = north_andean
+		religion = catholic
+		size = 38
+	}
+	artisans = {
+		culture = north_andean
+		religion = catholic
+		size = 892
+	}
+	soldiers = {
+		culture = north_andean
+		religion = catholic
+		size = 384
+	}
+	farmers = {
+		culture = north_andean
+		religion = catholic
+		size = 3143
+	}
+
+	aristocrats = {
+		culture = quechua
+		religion = catholic
+		size = 84
+	}
+	bureaucrats = {
+		culture = quechua
+		religion = catholic
+		size = 28
+	}
+	officers = {
+		culture = quechua
+		religion = catholic
+		size = 6
+	}
+	clergymen = {
+		culture = quechua
+		religion = catholic
+		size = 56
+	}
+	artisans = {
+		culture = quechua
+		religion = catholic
+		size = 282
+	}
+	soldiers = {
+		culture = quechua
+		religion = catholic
+		size = 563
+	}
+	farmers = {
+		culture = quechua
+		religion = catholic
+		size = 4613
+	}
+			
+	aristocrats = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 3
+	}
+	bureaucrats = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 1
+	}
+	officers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 2
+	}
+	artisans = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 8
+	}
+	soldiers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 17
+	}
+	slaves = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 137
+	}
+}
+#Ambato
+3812 = {
+	aristocrats = {
+		culture = spanish
+		religion = catholic
+		size = 4
+	}
+	bureaucrats = {
+		culture = spanish
+		religion = catholic
+		size = 1
+	}
+	officers = {
+		culture = spanish
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = spanish
+		religion = catholic
+		size = 3
+	}
+	artisans = {
+		culture = spanish
+		religion = catholic
+		size = 14
+	}
+	soldiers = {
+		culture = spanish
+		religion = catholic
+		size = 29
+	}
+	farmers = {
+		culture = spanish
+		religion = catholic
+		size = 4235
+	}
+			
+	aristocrats = {
+		culture = north_andean
+		religion = catholic
+		size = 60
+	}
+	bureaucrats = {
+		culture = north_andean
+		religion = catholic
+		size = 20
+	}
+	officers = {
+		culture = north_andean
+		religion = catholic
+		size = 4
+	}
+	clergymen = {
+		culture = north_andean
+		religion = catholic
+		size = 40
+	}
+	artisans = {
+		culture = north_andean
+		religion = catholic
+		size = 199
+	}
+	soldiers = {
+		culture = north_andean
+		religion = catholic
+		size = 397
+	}
+	farmers = {
+		culture = north_andean
+		religion = catholic
+		size = 3253
+	}
+
+	aristocrats = {
+		culture = quechua
+		religion = catholic
+		size = 73
+	}
+	bureaucrats = {
+		culture = quechua
+		religion = catholic
+		size = 24
+	}
+	officers = {
+		culture = quechua
+		religion = catholic
+		size = 5
+	}
+	clergymen = {
+		culture = quechua
+		religion = catholic
+		size = 49
+	}
+	artisans = {
+		culture = quechua
+		religion = catholic
+		size = 244
+	}
+	soldiers = {
+		culture = quechua
+		religion = catholic
+		size = 488
+	}
+	farmers = {
+		culture = quechua
+		religion = catholic
+		size = 3997
+	}
+			
+	aristocrats = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 2
+	}
+	bureaucrats = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 1
+	}
+	officers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 1
+	}
+	artisans = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 6
+	}
+	soldiers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 13
+	}
+	slaves = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 106
+	}
+}
+#Guaranda
+3814 = {
+	aristocrats = {
+		culture = spanish
+		religion = catholic
+		size = 2
+	}
+	bureaucrats = {
+		culture = spanish
+		religion = catholic
+		size = 1
+	}
+	officers = {
+		culture = spanish
+		religion = catholic
+		size = 5
+	}
+	clergymen = {
+		culture = spanish
+		religion = catholic
+		size = 11
+	}
+	artisans = {
+		culture = spanish
+		religion = catholic
+		size = 5
+	}
+	soldiers = {
+		culture = spanish
+		religion = catholic
+		size = 10
+	}
+	farmers = {
+		culture = spanish
+		religion = catholic
+		size = 486
+	}
+			
+	aristocrats = {
+		culture = north_andean
+		religion = catholic
+		size = 41
+	}
+	bureaucrats = {
+		culture = north_andean
+		religion = catholic
+		size = 14
+	}
+	officers = {
+		culture = north_andean
+		religion = catholic
+		size = 3
+	}
+	clergymen = {
+		culture = north_andean
+		religion = catholic
+		size = 27
+	}
+	artisans = {
+		culture = north_andean
+		religion = catholic
+		size = 137
+	}
+	soldiers = {
+		culture = north_andean
+		religion = catholic
+		size = 274
+	}
+	farmers = {
+		culture = north_andean
+		religion = catholic
+		size = 2242
+	}
+
+	aristocrats = {
+		culture = quechua
+		religion = catholic
+		size = 15
+	}
+	bureaucrats = {
+		culture = quechua
+		religion = catholic
+		size = 5
+	}
+	officers = {
+		culture = quechua
+		religion = catholic
+		size = 1
+	}
+	clergymen = {
+		culture = quechua
+		religion = catholic
+		size = 10
+	}
+	artisans = {
+		culture = quechua
+		religion = catholic
+		size = 49
+	}
+	soldiers = {
+		culture = quechua
+		religion = catholic
+		size = 98
+	}
+	farmers = {
+		culture = quechua
+		religion = catholic
+		size = 807
+	}
+}
+#Riobamba
+3815 = {
+	aristocrats = {
+		culture = spanish
+		religion = catholic
+		size = 4
+	}
+	bureaucrats = {
+		culture = spanish
+		religion = catholic
+		size = 1
+	}
+	officers = {
+		culture = spanish
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = spanish
+		religion = catholic
+		size = 2
+	}
+	artisans = {
+		culture = spanish
+		religion = catholic
+		size = 12
+	}
+	soldiers = {
+		culture = spanish
+		religion = catholic
+		size = 24
+	}
+	farmers = {
+		culture = spanish
+		religion = catholic
+		size = 498
+	}
+			
+	aristocrats = {
+		culture = north_andean
+		religion = catholic
+		size = 56
+	}
+	bureaucrats = {
+		culture = north_andean
+		religion = catholic
+		size = 19
+	}
+	officers = {
+		culture = north_andean
+		religion = catholic
+		size = 4
+	}
+	clergymen = {
+		culture = north_andean
+		religion = catholic
+		size = 37
+	}
+	artisans = {
+		culture = north_andean
+		religion = catholic
+		size = 185
+	}
+	soldiers = {
+		culture = north_andean
+		religion = catholic
+		size = 371
+	}
+	farmers = {
+		culture = north_andean
+		religion = catholic
+		size = 5038
+	}
+
+	aristocrats = {
+		culture = quechua
+		religion = catholic
+		size = 104
+	}
+	bureaucrats = {
+		culture = quechua
+		religion = catholic
+		size = 35
+	}
+	officers = {
+		culture = quechua
+		religion = catholic
+		size = 7
+	}
+	clergymen = {
+		culture = quechua
+		religion = catholic
+		size = 69
+	}
+	artisans = {
+		culture = quechua
+		religion = catholic
+		size = 347
+	}
+	soldiers = {
+		culture = quechua
+		religion = catholic
+		size = 693
+	}
+	farmers = {
+		culture = quechua
+		religion = catholic
+		size = 5679
+	}
+			
+	aristocrats = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 2
+	}
+	bureaucrats = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 1
+	}
+	officers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 1
+	}
+	artisans = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 6
+	}
+	soldiers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 12
+	}
+	slaves = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 99
+	}
+}
+#Tena
+2284 = {
+	aristocrats = {
+		culture = spanish
+		religion = catholic
+		size = 2
+	}
+	bureaucrats = {
+		culture = spanish
+		religion = catholic
+		size = 1
+	}
+	officers = {
+		culture = spanish
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = spanish
+		religion = catholic
+		size = 2
+	}
+	artisans = {
+		culture = spanish
+		religion = catholic
+		size = 8
+	}
+	soldiers = {
+		culture = spanish
+		religion = catholic
+		size = 15
+	}
+	farmers = {
+		culture = spanish
+		religion = catholic
+		size = 124
+	}
+			
+	aristocrats = {
+		culture = north_andean
+		religion = catholic
+		size = 34
+	}
+	bureaucrats = {
+		culture = north_andean
+		religion = catholic
+		size = 11
+	}
+	officers = {
+		culture = north_andean
+		religion = catholic
+		size = 2
+	}
+	clergymen = {
+		culture = north_andean
+		religion = catholic
+		size = 23
+	}
+	artisans = {
+		culture = north_andean
+		religion = catholic
+		size = 113
+	}
+	soldiers = {
+		culture = north_andean
+		religion = catholic
+		size = 226
+	}
+	farmers = {
+		culture = north_andean
+		religion = catholic
+		size = 1853
+	}
+
+	aristocrats = {
+		culture = quechua
+		religion = catholic
+		size = 21
+	}
+	bureaucrats = {
+		culture = quechua
+		religion = catholic
+		size = 7
+	}
+	officers = {
+		culture = quechua
+		religion = catholic
+		size = 1
+	}
+	clergymen = {
+		culture = quechua
+		religion = catholic
+		size = 14
+	}
+	artisans = {
+		culture = quechua
+		religion = catholic
+		size = 69
+	}
+	soldiers = {
+		culture = quechua
+		religion = catholic
+		size = 139
+	}
+	farmers = {
+		culture = quechua
+		religion = catholic
+		size = 1136
+	}
+			
+	aristocrats = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 2
+	}
+	bureaucrats = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 1
+	}
+	officers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 2
+	}
+	artisans = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 8
+	}
+	soldiers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 16
+	}
+	slaves = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 130
+	}
+}
+#Guayaquil
+#Guayaquil
+2280 = {
+	aristocrats = {
+		culture = spanish
+		religion = catholic
+		size = 22
+	}
+	bureaucrats = {
+		culture = spanish
+		religion = catholic
+		size = 7
+	}
+	officers = {
+		culture = spanish
+		religion = catholic
+		size = 1
+	}
+	clergymen = {
+		culture = spanish
+		religion = catholic
+		size = 15
+	}
+	artisans = {
+		culture = spanish
+		religion = catholic
+		size = 74
+	}
+	soldiers = {
+		culture = spanish
+		religion = catholic
+		size = 2147
+	}
+	farmers = {
+		culture = spanish
+		religion = catholic
+		size = 8208
+	}
+			
+	aristocrats = {
+		culture = north_andean
+		religion = catholic
+		size = 64
+	}
+	bureaucrats = {
+		culture = north_andean
+		religion = catholic
+		size = 21
+	}
+	officers = {
+		culture = north_andean
+		religion = catholic
+		size = 4
+	}
+	clergymen = {
+		culture = north_andean
+		religion = catholic
+		size = 43
+	}
+	artisans = {
+		culture = north_andean
+		religion = catholic
+		size = 213
+	}
+	soldiers = {
+		culture = north_andean
+		religion = catholic
+		size = 425
+	}
+	farmers = {
+		culture = north_andean
+		religion = catholic
+		size = 3481
+	}
+
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 34
+	}
+	bureaucrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 11
+	}
+	officers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 2
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 23
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 113
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 226
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 1848
+	}
+			
+	aristocrats = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 13
+	}
+	bureaucrats = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 4
+	}
+	officers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 1
+	}
+	clergymen = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 8
+	}
+	artisans = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 42
+	}
+	soldiers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 85
+	}
+	slaves = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 695
+	}
+}
+#Babahoyo
+3813 = {
+	aristocrats = {
+		culture = spanish
+		religion = catholic
+		size = 2
+	}
+	bureaucrats = {
+		culture = spanish
+		religion = catholic
+		size = 1
+	}
+	officers = {
+		culture = spanish
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = spanish
+		religion = catholic
+		size = 1
+	}
+	artisans = {
+		culture = spanish
+		religion = catholic
+		size = 7
+	}
+	soldiers = {
+		culture = spanish
+		religion = catholic
+		size = 15
+	}
+	farmers = {
+		culture = spanish
+		religion = catholic
+		size = 121
+	}
+			
+	aristocrats = {
+		culture = north_andean
+		religion = catholic
+		size = 28
+	}
+	bureaucrats = {
+		culture = north_andean
+		religion = catholic
+		size = 9
+	}
+	officers = {
+		culture = north_andean
+		religion = catholic
+		size = 2
+	}
+	clergymen = {
+		culture = north_andean
+		religion = catholic
+		size = 19
+	}
+	artisans = {
+		culture = north_andean
+		religion = catholic
+		size = 93
+	}
+	soldiers = {
+		culture = north_andean
+		religion = catholic
+		size = 186
+	}
+	farmers = {
+		culture = north_andean
+		religion = catholic
+		size = 1526
+	}
+
+	aristocrats = {
+		culture = quechua
+		religion = catholic
+		size = 11
+	}
+	bureaucrats = {
+		culture = quechua
+		religion = catholic
+		size = 4
+	}
+	officers = {
+		culture = quechua
+		religion = catholic
+		size = 1
+	}
+	clergymen = {
+		culture = quechua
+		religion = catholic
+		size = 8
+	}
+	artisans = {
+		culture = quechua
+		religion = catholic
+		size = 38
+	}
+	soldiers = {
+		culture = quechua
+		religion = catholic
+		size = 76
+	}
+	farmers = {
+		culture = quechua
+		religion = catholic
+		size = 621
+	}
+			
+	aristocrats = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 3
+	}
+	bureaucrats = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 1
+	}
+	officers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 2
+	}
+	artisans = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 9
+	}
+	soldiers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 18
+	}
+	slaves = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 150
+	}
+}
+#Machala
+3818 = {
+	aristocrats = {
+		culture = spanish
+		religion = catholic
+		size = 4
+	}
+	bureaucrats = {
+		culture = spanish
+		religion = catholic
+		size = 1
+	}
+	officers = {
+		culture = spanish
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = spanish
+		religion = catholic
+		size = 3
+	}
+	artisans = {
+		culture = spanish
+		religion = catholic
+		size = 15
+	}
+	soldiers = {
+		culture = spanish
+		religion = catholic
+		size = 30
+	}
+	farmers = {
+		culture = spanish
+		religion = catholic
+		size = 2243
+	}
+			
+	aristocrats = {
+		culture = north_andean
+		religion = catholic
+		size = 21
+	}
+	bureaucrats = {
+		culture = north_andean
+		religion = catholic
+		size = 7
+	}
+	officers = {
+		culture = north_andean
+		religion = catholic
+		size = 1
+	}
+	clergymen = {
+		culture = north_andean
+		religion = catholic
+		size = 14
+	}
+	artisans = {
+		culture = north_andean
+		religion = catholic
+		size = 69
+	}
+	soldiers = {
+		culture = north_andean
+		religion = catholic
+		size = 137
+	}
+	farmers = {
+		culture = north_andean
+		religion = catholic
+		size = 1126
+	}
+
+	aristocrats = {
+		culture = quechua
+		religion = catholic
+		size = 16
+	}
+	bureaucrats = {
+		culture = quechua
+		religion = catholic
+		size = 5
+	}
+	officers = {
+		culture = quechua
+		religion = catholic
+		size = 1
+	}
+	clergymen = {
+		culture = quechua
+		religion = catholic
+		size = 11
+	}
+	artisans = {
+		culture = quechua
+		religion = catholic
+		size = 53
+	}
+	soldiers = {
+		culture = quechua
+		religion = catholic
+		size = 106
+	}
+	farmers = {
+		culture = quechua
+		religion = catholic
+		size = 869
+	}
+			
+	aristocrats = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 3
+	}
+	bureaucrats = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 1
+	}
+	officers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 2
+	}
+	artisans = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 10
+	}
+	soldiers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 20
+	}
+	slaves = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 166
+	}
+}
+#Esmereldas
+2281 = {
+	aristocrats = {
+		culture = spanish
+		religion = catholic
+		size = 2
+	}
+	bureaucrats = {
+		culture = spanish
+		religion = catholic
+		size = 1
+	}
+	officers = {
+		culture = spanish
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = spanish
+		religion = catholic
+		size = 1
+	}
+	artisans = {
+		culture = spanish
+		religion = catholic
+		size = 7
+	}
+	soldiers = {
+		culture = spanish
+		religion = catholic
+		size = 14
+	}
+	farmers = {
+		culture = spanish
+		religion = catholic
+		size = 113
+	}
+			
+	aristocrats = {
+		culture = north_andean
+		religion = catholic
+		size = 5
+	}
+	bureaucrats = {
+		culture = north_andean
+		religion = catholic
+		size = 2
+	}
+	officers = {
+		culture = north_andean
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = north_andean
+		religion = catholic
+		size = 3
+	}
+	artisans = {
+		culture = north_andean
+		religion = catholic
+		size = 16
+	}
+	soldiers = {
+		culture = north_andean
+		religion = catholic
+		size = 33
+	}
+	farmers = {
+		culture = north_andean
+		religion = catholic
+		size = 269
+	}
+
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 4
+	}
+	bureaucrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 1
+	}
+	officers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 3
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 14
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 27
+	}
+	farmers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 1222
+	}
+			
+	aristocrats = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 9
+	}
+	bureaucrats = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 3
+	}
+	officers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 2
+	}
+	clergymen = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 16
+	}
+	artisans = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 390
+	}
+	soldiers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 158
+	}
+	slaves = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 8872
+	}
+}
+#Portoviejo
+3811 = {
+	aristocrats = {
+		culture = spanish
+		religion = catholic
+		size = 11
+	}
+	bureaucrats = {
+		culture = spanish
+		religion = catholic
+		size = 4
+	}
+	officers = {
+		culture = spanish
+		religion = catholic
+		size = 1
+	}
+	clergymen = {
+		culture = spanish
+		religion = catholic
+		size = 7
+	}
+	artisans = {
+		culture = spanish
+		religion = catholic
+		size = 37
+	}
+	soldiers = {
+		culture = spanish
+		religion = catholic
+		size = 75
+	}
+	farmers = {
+		culture = spanish
+		religion = catholic
+		size = 614
+	}
+			
+	aristocrats = {
+		culture = north_andean
+		religion = catholic
+		size = 44
+	}
+	bureaucrats = {
+		culture = north_andean
+		religion = catholic
+		size = 15
+	}
+	officers = {
+		culture = north_andean
+		religion = catholic
+		size = 3
+	}
+	clergymen = {
+		culture = north_andean
+		religion = catholic
+		size = 29
+	}
+	artisans = {
+		culture = north_andean
+		religion = catholic
+		size = 145
+	}
+	soldiers = {
+		culture = north_andean
+		religion = catholic
+		size = 290
+	}
+	farmers = {
+		culture = north_andean
+		religion = catholic
+		size = 2377
+	}
+
+	aristocrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 27
+	}
+	bureaucrats = {
+		culture = native_american_minor
+		religion = catholic
+		size = 9
+	}
+	officers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 2
+	}
+	clergymen = {
+		culture = native_american_minor
+		religion = catholic
+		size = 18
+	}
+	artisans = {
+		culture = native_american_minor
+		religion = catholic
+		size = 89
+	}
+	soldiers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 177
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = catholic
+		size = 1451
+	}
+			
+	aristocrats = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 5
+	}
+	bureaucrats = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 2
+	}
+	officers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 3
+	}
+	artisans = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 17
+	}
+	soldiers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 35
+	}
+	slaves = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 283
+	}
+}
+#Loja
+2282 = {
+	aristocrats = {
+		culture = spanish
+		religion = catholic
+		size = 3
+	}
+	bureaucrats = {
+		culture = spanish
+		religion = catholic
+		size = 1
+	}
+	officers = {
+		culture = spanish
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = spanish
+		religion = catholic
+		size = 2
+	}
+	artisans = {
+		culture = spanish
+		religion = catholic
+		size = 9
+	}
+	soldiers = {
+		culture = spanish
+		religion = catholic
+		size = 18
+	}
+	farmers = {
+		culture = spanish
+		religion = catholic
+		size = 147
+	}
+			
+	aristocrats = {
+		culture = north_andean
+		religion = catholic
+		size = 45
+	}
+	bureaucrats = {
+		culture = north_andean
+		religion = catholic
+		size = 15
+	}
+	officers = {
+		culture = north_andean
+		religion = catholic
+		size = 3
+	}
+	clergymen = {
+		culture = north_andean
+		religion = catholic
+		size = 30
+	}
+	artisans = {
+		culture = north_andean
+		religion = catholic
+		size = 151
+	}
+	soldiers = {
+		culture = north_andean
+		religion = catholic
+		size = 301
+	}
+	farmers = {
+		culture = north_andean
+		religion = catholic
+		size = 2469
+	}
+
+	aristocrats = {
+		culture = quechua
+		religion = catholic
+		size = 40
+	}
+	bureaucrats = {
+		culture = quechua
+		religion = catholic
+		size = 13
+	}
+	officers = {
+		culture = quechua
+		religion = catholic
+		size = 3
+	}
+	clergymen = {
+		culture = quechua
+		religion = catholic
+		size = 26
+	}
+	artisans = {
+		culture = quechua
+		religion = catholic
+		size = 132
+	}
+	soldiers = {
+		culture = quechua
+		religion = catholic
+		size = 265
+	}
+	farmers = {
+		culture = quechua
+		religion = catholic
+		size = 2168
+	}
+			
+	aristocrats = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 2
+	}
+	bureaucrats = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 1
+	}
+	officers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 1
+	}
+	artisans = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 7
+	}
+	soldiers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 14
+	}
+	slaves = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 118
+	}
+}
+#Azogues
+3816 = {
+	aristocrats = {
+		culture = spanish
+		religion = catholic
+		size = 4
+	}
+	bureaucrats = {
+		culture = spanish
+		religion = catholic
+		size = 1
+	}
+	officers = {
+		culture = spanish
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = spanish
+		religion = catholic
+		size = 2
+	}
+	artisans = {
+		culture = spanish
+		religion = catholic
+		size = 12
+	}
+	soldiers = {
+		culture = spanish
+		religion = catholic
+		size = 25
+	}
+	farmers = {
+		culture = spanish
+		religion = catholic
+		size = 203
+	}
+			
+	aristocrats = {
+		culture = north_andean
+		religion = catholic
+		size = 67
+	}
+	bureaucrats = {
+		culture = north_andean
+		religion = catholic
+		size = 22
+	}
+	officers = {
+		culture = north_andean
+		religion = catholic
+		size = 4
+	}
+	clergymen = {
+		culture = north_andean
+		religion = catholic
+		size = 45
+	}
+	artisans = {
+		culture = north_andean
+		religion = catholic
+		size = 224
+	}
+	soldiers = {
+		culture = north_andean
+		religion = catholic
+		size = 448
+	}
+	farmers = {
+		culture = north_andean
+		religion = catholic
+		size = 3673
+	}
+
+	aristocrats = {
+		culture = quechua
+		religion = catholic
+		size = 13
+	}
+	bureaucrats = {
+		culture = quechua
+		religion = catholic
+		size = 4
+	}
+	officers = {
+		culture = quechua
+		religion = catholic
+		size = 1
+	}
+	clergymen = {
+		culture = quechua
+		religion = catholic
+		size = 9
+	}
+	artisans = {
+		culture = quechua
+		religion = catholic
+		size = 44
+	}
+	soldiers = {
+		culture = quechua
+		religion = catholic
+		size = 88
+	}
+	farmers = {
+		culture = quechua
+		religion = catholic
+		size = 719
+	}
+			
+	aristocrats = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 2
+	}
+	bureaucrats = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 1
+	}
+	officers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 1
+	}
+	artisans = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 7
+	}
+	soldiers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 15
+	}
+	slaves = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 123
+	}
+}
+#Cuenca
+3817 = {
+	aristocrats = {
+		culture = spanish
+		religion = catholic
+		size = 36
+	}
+	bureaucrats = {
+		culture = spanish
+		religion = catholic
+		size = 12
+	}
+	officers = {
+		culture = spanish
+		religion = catholic
+		size = 2
+	}
+	clergymen = {
+		culture = spanish
+		religion = catholic
+		size = 24
+	}
+	artisans = {
+		culture = spanish
+		religion = catholic
+		size = 120
+	}
+	soldiers = {
+		culture = spanish
+		religion = catholic
+		size = 241
+	}
+	farmers = {
+		culture = spanish
+		religion = catholic
+		size = 1971
+	}
+			
+	aristocrats = {
+		culture = north_andean
+		religion = catholic
+		size = 72
+	}
+	bureaucrats = {
+		culture = north_andean
+		religion = catholic
+		size = 24
+	}
+	officers = {
+		culture = north_andean
+		religion = catholic
+		size = 5
+	}
+	clergymen = {
+		culture = north_andean
+		religion = catholic
+		size = 48
+	}
+	artisans = {
+		culture = north_andean
+		religion = catholic
+		size = 240
+	}
+	soldiers = {
+		culture = north_andean
+		religion = catholic
+		size = 481
+	}
+	farmers = {
+		culture = north_andean
+		religion = catholic
+		size = 6936
+	}
+
+	aristocrats = {
+		culture = quechua
+		religion = catholic
+		size = 67
+	}
+	bureaucrats = {
+		culture = quechua
+		religion = catholic
+		size = 22
+	}
+	officers = {
+		culture = quechua
+		religion = catholic
+		size = 4
+	}
+	clergymen = {
+		culture = quechua
+		religion = catholic
+		size = 44
+	}
+	artisans = {
+		culture = quechua
+		religion = catholic
+		size = 222
+	}
+	soldiers = {
+		culture = quechua
+		religion = catholic
+		size = 444
+	}
+	farmers = {
+		culture = quechua
+		religion = catholic
+		size = 5637
+	}
+			
+	aristocrats = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 4
+	}
+	bureaucrats = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 1
+	}
+	officers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 0
+	}
+	clergymen = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 3
+	}
+	artisans = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 13
+	}
+	soldiers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 26
+	}
+	slaves = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 215
+	}
+}
+#Macas
+2283 = {
+	aristocrats = {
+		culture = north_andean
+		religion = catholic
+		size = 23
+	}
+	bureaucrats = {
+		culture = north_andean
+		religion = catholic
+		size = 8
+	}
+	officers = {
+		culture = north_andean
+		religion = catholic
+		size = 2
+	}
+	clergymen = {
+		culture = north_andean
+		religion = catholic
+		size = 15
+	}
+	artisans = {
+		culture = north_andean
+		religion = catholic
+		size = 77
+	}
+	soldiers = {
+		culture = north_andean
+		religion = catholic
+		size = 154
+	}
+	farmers = {
+		culture = north_andean
+		religion = catholic
+		size = 1260
+	}
+
+	aristocrats = {
+		culture = quechua
+		religion = catholic
+		size = 24
+	}
+	bureaucrats = {
+		culture = quechua
+		religion = catholic
+		size = 8
+	}
+	officers = {
+		culture = quechua
+		religion = catholic
+		size = 2
+	}
+	clergymen = {
+		culture = quechua
+		religion = catholic
+		size = 16
+	}
+	artisans = {
+		culture = quechua
+		religion = catholic
+		size = 78
+	}
+	soldiers = {
+		culture = quechua
+		religion = catholic
+		size = 157
+	}
+	farmers = {
+		culture = quechua
+		religion = catholic
+		size = 1285
+	}
+}
+#Galapagos
+#Galapagos
+2285 = {
+
+}

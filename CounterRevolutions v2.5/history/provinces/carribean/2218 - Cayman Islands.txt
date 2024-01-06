@@ -1,0 +1,5 @@
+owner = SPA
+controller = SPA
+add_core = DOM
+trade_goods = cattle
+life_rating = 38

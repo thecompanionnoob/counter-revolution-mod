@@ -1,0 +1,5 @@
+owner = PGY
+controller = PGY
+add_core = PGY
+trade_goods = coal
+life_rating = 38

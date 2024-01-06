@@ -1,5 +1,0 @@
-owner = DIR
-controller = DIR
-add_core = DIR
-trade_goods = wool
-life_rating = 33

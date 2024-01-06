@@ -1,0 +1,95 @@
+leader = {
+	name = "Juan Pío Tristán"
+	type = land
+	date = 1813.1.1
+	personality = harsh
+	background = school_of_offense
+}
+
+leader = {
+	name = "Isidro Couceiro"
+	type = sea
+	date = 1813.1.1
+	personality = hellbent
+	background = school_of_offense
+}
+
+navy = {
+	name = "Marina Real del Virreinato del Peru"
+	location = 2295
+	ship = {
+		name= "Palafox"
+		type = frigate
+	}
+
+	ship = {
+		name= "Tagle"
+		type = frigate
+	}
+	
+	ship = {
+		name= "Reina de los Ángeles"
+		type = frigate
+	}
+
+}
+
+navy = {
+	name = "Marina Real del Virreinato del Peru"
+	location = 2330	
+	ship = {
+		name= "Minerva"
+		type = frigate
+	}	
+
+	ship = {
+		name= "Comercio"
+		type = frigate
+	}
+
+	ship = {
+		name= "Europa"
+		type = frigate
+	}	
+
+}
+
+army = {
+	name = "Ejército Real del Perú"
+	location = 2295
+	regiment = {
+		name= "1. Brigada de Infantería"
+		type = infantry
+		home = 2295
+	}
+
+	regiment = {
+		name= "2. Brigada de Infantería"
+		type = infantry
+		home = 2295
+	}
+
+	regiment = {
+		name= "3. Brigada de Infantería"
+		type = cavalry
+		home = 2299
+	}
+
+}
+
+army = {
+	name = "Ejercito del Alto Peru"
+	location = 2310
+	regiment = {
+		name= "2. Brigada de Infantería"
+		type = infantry
+		home = 2314
+	}
+
+	regiment = {
+		name= "3. Brigada de Infantería"
+		type = infantry
+		home = 2304
+	}
+
+}

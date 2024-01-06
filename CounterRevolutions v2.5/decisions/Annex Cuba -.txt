@@ -1,0 +1,29 @@
+political_decisions = {
+	conquercub = {
+                picture = conquercub
+		potential = {
+			NOT = { has_global_flag = conquercub }
+		    OR = {			
+                tag = GCO
+ 		        tag = MEX
+			}	
+		}
+		allow = {
+			OR = {		
+	            controls = 2209
+		        controls = 2212
+			}
+		}
+		
+		effect = {
+			set_global_flag = conquercub
+			add_accepted_culture = afro_caribeno
+			add_accepted_culture = caribeno		
+			prestige = 3
+			war_exhaustion = -5
+			SPA_2209 = {
+				secede_province = THIS			
+			}
+		}
+	}
+}

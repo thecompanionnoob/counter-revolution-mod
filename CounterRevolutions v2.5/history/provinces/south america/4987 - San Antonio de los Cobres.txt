@@ -1,0 +1,6 @@
+owner = VOP
+controller = VOP
+add_core = BOL
+trade_goods = cattle
+life_rating = 42
+fort = 2

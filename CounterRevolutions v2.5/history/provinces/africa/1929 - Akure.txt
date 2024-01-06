@@ -1,0 +1,5 @@
+owner = BNN
+controller = BNN
+add_core = BNN
+trade_goods = cattle
+life_rating = 33

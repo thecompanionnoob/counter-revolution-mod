@@ -1,0 +1,30 @@
+#Southern Melanesia #see Vanuatu
+#uncolonized in 1836
+#New Caledonia 
+1097 = {
+	aristocrats = {
+		culture = melanesian
+		religion = catholic
+		size = 100
+	}
+	clergymen = {
+		culture = melanesian
+		religion = catholic
+		size = 50
+	}
+	artisans = {
+		culture = melanesian
+		religion = catholic
+		size = 300
+	}
+	soldiers = {
+		culture = melanesian
+		religion = catholic
+		size = 300
+	}
+	farmers = {
+		culture = melanesian
+		religion = catholic
+		size = 5475
+	}
+}

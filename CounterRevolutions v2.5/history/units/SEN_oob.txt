@@ -1,0 +1,35 @@
+army = {
+	name = "1st Army"
+	location = 1830
+	regiment = {
+		name= "1. Sennar Militia"
+		type = irregular
+		home = 1830
+	}
+	regiment = {
+		name= "1. Khartoum Militia"
+		type = irregular
+		home = 1827
+	}
+	regiment = {
+		name= "2. Khartoum Militia"
+		type = irregular
+		home = 1827
+	}
+	regiment = {
+		name= "1. Wad Madani Militia"
+		type = irregular
+		home = 1828
+	}
+	regiment = {
+		name= "1. Kassala Militia"
+		type = irregular
+		home = 1829
+	}
+	regiment = {
+		name= "1. Rabak Militia"
+		type = irregular
+		home = 1831
+	}
+}
+

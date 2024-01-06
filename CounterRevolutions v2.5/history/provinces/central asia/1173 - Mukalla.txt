@@ -1,0 +1,5 @@
+owner = KTR
+controller = KTR
+add_core = KTR
+trade_goods = opium
+life_rating = 32

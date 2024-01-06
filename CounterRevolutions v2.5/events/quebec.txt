@@ -1,0 +1,241 @@
+#death of napoleon for quebec
+country_event = {
+	id = 696969
+	title = "EVTNAME696969"
+	desc = "EVTDESC696969"
+	picture = "Bonaparte"
+
+	trigger = {
+		tag = QUE
+		year = 1836
+		NOT = { has_country_flag = secret_napoleon }
+	}
+	fire_only_once = yes
+
+	option = {
+		name = "EVTOPTA696969" #OTL napoleon II 
+		kill_leader = 160 #napoleon's id found from making a save game and seeing what it is in the save file. if we change oob generals this might change.
+		set_global_flag = death_of_napoleon
+		set_country_flag = new_french_europe
+            USA_248 = {
+                remove_core = THIS
+            }
+            USA_247 = {
+                remove_core = THIS
+            }
+            USA_246 = {
+                remove_core = THIS
+            }
+            ENG_36 = {
+                remove_core = THIS
+            }
+            ENG_6 = {
+                remove_core = THIS
+            }
+            ENG_9 = {
+                remove_core = THIS
+            }
+            18 = {
+                remove_core = THIS
+            }
+            15 = {
+                remove_core = THIS
+            }
+            ENG_22 = {
+                remove_core = THIS
+            }
+            ENG_30 = {
+                remove_core = THIS
+            }
+            USA_116 = {
+                remove_core = THIS
+            }
+            USA_243 = {
+                remove_core = THIS
+            }
+            USA_242 = {
+                remove_core = THIS
+            }
+            USA_241 = {
+                remove_core = THIS
+            }
+            USA_232 = {
+                remove_core = THIS 
+            }
+            USA_231 = {
+                remove_core = THIS
+            }
+            USA_223 = {
+                remove_core = THIS
+            }
+            USA_178 = {
+                remove_core = THIS
+            }
+            USA_176 = {
+                remove_core = THIS
+            }
+            USA_170 = {
+                remove_core = THIS
+            }
+            USA_162 = {
+                remove_core = THIS
+            }
+            USA_168 = {
+                remove_core = THIS
+            }
+            USA_111 = {
+                remove_core = THIS
+            }
+            USA_118 = {
+                remove_core = THIS
+            }
+            USA_151 = {
+                remove_core = THIS
+            }
+            USA_158 = {
+                remove_core = THIS
+            }
+            USA_148 = {
+                remove_core = THIS 
+            }
+            USA_121 = {
+                remove_core = THIS
+            }
+            USA_124 = {
+                remove_core = THIS
+            }
+            USA_144 = {
+                remove_core = THIS
+            }
+            USA_139 = {
+                remove_core = THIS
+            }
+            USA_126 = {
+                remove_core = THIS
+            }
+            USA_129 = {
+                remove_core = THIS
+            }
+            USA_106 = {
+                remove_core = THIS
+            }
+	}
+	option = {
+		name = "EVTOPTB696969" #OTL napoleon III
+		kill_leader = 160
+		set_global_flag = death_of_napoleon
+		set_country_flag = new_french_america
+		FRA = {
+			all_core = {
+				remove_core = THIS
+			}
+		}
+	}
+}
+#secret napoleon death
+country_event = {
+	id = 696972
+	title = "EVTNAME696972"
+	desc = "EVTDESC696972"
+	picture = "Bonaparte"
+
+	trigger = {
+		has_country_flag = secret_napoleon
+		tag = QUE
+		year = 1836
+	}
+	fire_only_once = yes
+
+	option = {
+		name = "EVTOPTA696972"
+		kill_leader = 160
+		define_general = {
+			name = "The Ghost of Napoleon"
+			personality = defence_5.1
+			background = attack_5.1
+		}
+		set_global_flag = death_of_napoleon
+	}
+}
+#death of napoleon for foreign countries
+country_event = {
+	id = 696970
+	title = "EVTNAME696970"
+	desc = "EVTDESC696970"
+	picture = "Bonaparte"
+
+	trigger = {
+		has_global_flag = death_of_napoleon
+		NOT = { year = 1838 } #prevent released countries from getting the event long after napoleon dies
+		NOT = { has_country_flag = napoleon_death_seen}
+	}
+
+	option = {
+		name = "EVTOPTA696970" #i hate that guy
+		set_country_flag = napoleon_death_seen
+		any_pop = {
+			limit = {
+				pop_majority_ideology = reactionary
+			}
+			militancy = -2
+			consciousness = -2
+		}
+		any_pop = {
+			limit = {
+				pop_majority_ideology = conservative
+			}
+			militancy = -1
+			consciousness = -1
+		}
+	}
+	option = {
+		name = "EVTOPTB696970" #i like that guy
+		set_country_flag = napoleon_death_seen
+		prestige = 10
+	}
+}
+
+#an event for the return of napoleon to france...
+country_event = {
+	id = 696973
+	title = "EVTNAME696973"
+	desc = "EVTDESC696973"
+
+	trigger = {
+		tag = QUE
+		owns = 425
+		NOT = { has_global_flag = death_of_napoleon }
+		NOT = { has_global_flag = quebec_comes_to_france }
+	}
+	fire_only_once = yes
+	major = yes
+
+	option = {
+		name = "EVTOPTA696973"
+		set_global_flag = quebec_comes_to_france
+		badboy = 8
+		prestige = 25
+	}
+}
+#an event for the return of napoleon's successor to france...
+country_event = {
+	id = 696974
+	title = "EVTNAME696974"
+	desc = "EVTDESC696974"
+
+	trigger = {
+		tag = QUE
+		owns = 425
+		has_global_flag = death_of_napoleon 
+		NOT = { has_global_flag = quebec_comes_to_france }
+	}
+	fire_only_once = yes
+	major = yes
+
+	option = {
+		name = "EVTOPTA696974"
+		set_global_flag = quebec_comes_to_france
+		badboy = 8
+		prestige = 15
+	}
+}

@@ -1,0 +1,5 @@
+owner = KOY
+controller = KOY
+add_core = KOY
+trade_goods = grain
+life_rating = 36

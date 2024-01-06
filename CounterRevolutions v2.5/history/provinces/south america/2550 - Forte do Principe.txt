@@ -1,0 +1,4 @@
+2owner = POR
+controller = POR
+trade_goods = cattle
+life_rating = 42

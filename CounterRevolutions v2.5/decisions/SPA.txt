@@ -1,0 +1,311 @@
+political_decisions = {
+	establish_la_guardia_civil = {
+		potential = {
+			tag = SPA
+			NOT = {
+				has_country_flag = guardia_civil_established
+			}
+		}
+		allow = {
+			NOT = {
+				num_of_revolts = 1
+			}
+			OR = {
+				average_militancy = 3
+				average_consciousness = 4
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = la_guardia_civil
+				duration = -1
+			}
+			set_country_flag = guardia_civil_established
+		}
+	}
+
+	confiscations_of_mendizabal = {
+		potential = {
+			tag = SPA
+			NOT = {
+				has_country_flag = mendizabal_confiscated
+			}
+		}
+
+		allow = {
+			ideological_thought = 1
+		}
+
+		effect = {
+			treasury = 2500000
+			prestige = 100
+			relation = {
+				who = PAP
+				value = -200
+			}
+			any_pop = {
+				scaled_militancy = {
+					ideology = conservative
+					factor = 6
+				}
+				dominant_issue = {
+					value = pro_atheism
+					factor = 0.15
+				}
+			}
+			set_country_flag = mendizabal_confiscated
+		}
+	}
+	
+	establish_the_hispanic_commomwealth = {
+		potential = {
+			tag = SPA
+			NOT = {
+			exist = GCO
+			exist = MEX
+			exist = CHL
+			exist = VOP
+			exist = ARG
+			exist = PRG
+			}
+			government = democracy
+			has_country_flag = counterrevolution
+			}
+		allow = {
+			war = no
+			NOT = {
+				num_of_revolts = 1
+			}
+		}
+		effect = {
+		
+		change_tag = HCO
+		add_accepted_culture = north_andean
+		add_accepted_culture = south_andean
+		add_accepted_culture = mexican
+		add_accepted_culture = central_american
+		add_accepted_culture = platinean
+		add_accepted_culture = caribeno
+		add_accepted_culture = afro_caribeno
+		add_accepted_culture = afro_caribbean
+			all_core = {
+				add_core = HCO
+			}
+		}
+	}
+	
+	integrate_the_viceroyalties = {
+		potential = {
+			exists = VOP
+			government = democracy
+			tag = SPA
+			has_country_flag = guardia_civil_established
+			}
+		allow = {
+			NOT = {
+				num_of_revolts = 1
+			}
+		}
+		effect = {
+		inherit = VOP
+			any_pop = {
+			limit = {
+			culture = north_andean
+			}
+				militancy = 10
+				consciousness = 10
+			}
+		}
+	}
+
+	spa_filipino_inititive = {
+		potential = {
+			tag = HCO
+			NOT = { has_country_flag = filipino_integration }
+		}
+		allow = {
+			revolution_n_counterrevolution = 1
+			owns = 1462
+			owns = 1464
+			owns = 1397
+		}
+		effect = {
+			add_accepted_culture = filipino
+			HCO_1463 = { add_core = THIS }
+			HCO_1455 = { add_core = THIS }
+			HCO_1459 = { add_core = THIS }
+			any_pop = {
+				limit = {
+					OR = {
+						has_pop_culture = spanish
+						has_pop_culture = catalan
+						has_pop_culture = basque
+					}
+				}
+				militancy = 6
+				consciousness = 8
+			}
+			set_country_flag = filipino_integration
+		}
+	}
+
+	claim_galicia = {
+		potential = {
+			OR = {
+			tag = HCO
+			tag = SPA
+			}
+			NOT = { has_country_flag = galicia_claimed }
+		}
+		allow = {
+			owns = 474
+		}
+		effect = {
+			HCO_474 = { add_core = THIS }
+			set_country_flag = galicia_claimed
+			LSK = { clr_country_flag = galicia_claimed }
+			any_owned = {
+				limit = {
+					OR = {
+						province_id = 474
+						province_id = 476
+						province_id = 3274
+						province_id = 3275
+					}
+				}
+				assimilate = yes
+			}
+		}
+	}
+	
+	reintegrate_paraguay = {
+		potential = {
+			exists = PRG
+			government = democracy
+			tag = SPA
+			has_country_flag = guardia_civil_established
+			}
+		allow = {
+			PRG = {
+			in_sphere = THIS
+			}
+		}
+		effect = {
+		inherit = PRG
+			any_pop = {
+			limit = {
+				culture = north_andean
+			}
+				militancy = 2
+				consciousness = 3
+			}
+		}
+	}
+	
+	return_pau_to_france = {
+		potential = {
+			tag = SPA
+			NOT = { has_country_flag = honor_in_our_treaties }
+			}
+		allow = {
+			owns = 460
+		}
+		effect = {
+		remove_core = 460
+		FRA = { add_core = 460 }
+		460 = {
+		secede_province = FRA
+		}
+			any_pop = {
+				militancy = 0.5
+			}
+			set_country_flag = honor_in_our_treaties
+		}
+	}
+	
+	weak_crown = {
+		potential = {
+			tag = SPA
+			NOT = { has_country_flag = hispanic_republic }
+			}
+		allow = {
+			government = democracy
+			
+		}
+		effect = {
+		ARG = { country_event = 721453 }
+		set_country_flag = hispanic_republic
+		}
+	}
+	
+	death_of_bolivarianism = {
+		potential = {
+			tag = SPA
+			exists = GCO
+			}
+		allow = {
+		2247 = { controlled_by = THIS }
+		2264 = { controlled_by = THIS }
+		}
+		effect = {
+		inherit = GCO
+		
+		}
+	}
+	
+	integrate_chile_into_congress = {
+		potential = {
+			tag = SPA
+			exists = CHL
+			}
+		allow = {
+		NOT = { exists = ARG }
+		
+		}
+		effect = {
+		inherit = CHL
+		}
+	}
+	
+	destroy_the_revolution_in_the_north = {
+		potential = {
+			tag = SPA
+			exists = MEX
+			}
+		allow = {
+		2179 = { controlled_by = THIS }
+		}
+		effect = {
+		inherit = MEX
+		}
+	}
+	
+	counterrevolution_complete_on_the_spanish_empire = {
+		potential = {
+			tag = SPA
+			government = democracy
+			}
+		allow = {
+			war = no
+			NOT = {
+			exist = GCO
+			exist = MEX
+			exist = CHL
+			exist = VOP
+			exist = ARG
+			exist = PRG
+			}
+			NOT = {
+				num_of_revolts = 1
+			}
+		}
+		effect = {
+		set_country_flag = counterrevolution
+		prestige = 100
+		any_pop = {
+			militancy = -10
+			consciousness = -10 
+			}
+		}
+	}
+}

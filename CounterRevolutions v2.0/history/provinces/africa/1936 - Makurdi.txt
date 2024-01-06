@@ -1,5 +1,0 @@
-owner = WUK
-controller = WUK
-add_core = WUK
-trade_goods = grain
-life_rating = 33

@@ -1,0 +1,8 @@
+owner = POR
+controller = POR
+trade_goods = iron
+life_rating = 42
+colonial = 2
+    
+    
+    

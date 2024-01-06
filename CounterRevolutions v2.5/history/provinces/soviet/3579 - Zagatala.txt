@@ -1,0 +1,8 @@
+owner = PER
+controller = PER
+add_core = PER
+add_core = GEO
+add_core = AZB
+add_core = CAU
+trade_goods = silk
+life_rating = 37

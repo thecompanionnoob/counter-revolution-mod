@@ -1,0 +1,4 @@
+owner = EIC
+controller = EIC
+trade_goods = tropical_wood
+life_rating = 33
