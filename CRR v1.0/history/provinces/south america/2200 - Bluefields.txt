@@ -1,5 +1,5 @@
-owner = UCA
-controller = UCA
+owner = SPA
+controller = SPA
 add_core = UCA
 add_core = NIC
 trade_goods = cattle
