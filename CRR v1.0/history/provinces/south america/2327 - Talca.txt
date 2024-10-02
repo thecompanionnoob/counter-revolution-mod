@@ -1,5 +1,5 @@
-owner = CHL
-controller = CHL
+owner = SPA
+controller = SPA
 add_core = CHL
 trade_goods = grain
 life_rating = 35
