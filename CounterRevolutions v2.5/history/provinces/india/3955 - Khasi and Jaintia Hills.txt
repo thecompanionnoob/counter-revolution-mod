@@ -1,5 +1,0 @@
-owner = AHO
-controller = AHO
-add_core = AHO
-trade_goods = tropical_wood
-life_rating = 33

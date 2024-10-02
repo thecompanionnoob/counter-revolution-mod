@@ -1,3 +1,0 @@
-owner = SPA
-controller = SPAadd_core = MEXtrade_goods = cattle
-life_rating = 44

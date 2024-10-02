@@ -1,7 +1,0 @@
-owner = RUS
-controller = RUS
-add_core = AZB
-add_core = CAU
-trade_goods = fruit
-life_rating = 38
-colonial = 2

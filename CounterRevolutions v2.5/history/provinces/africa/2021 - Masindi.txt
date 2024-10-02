@@ -1,5 +1,0 @@
-owner = BNY
-controller = BNY
-add_core = BNY
-trade_goods = grain
-life_rating = 33

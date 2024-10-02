@@ -1,6 +1,0 @@
-owner = HIL
-controller = HIL
-add_core = NEJ
-add_core = HIL
-trade_goods = wool
-life_rating = 32

@@ -1,4 +1,0 @@
-owner = MEX
-controller = SPAadd_core = MEX
-trade_goods = fish
-life_rating = 37

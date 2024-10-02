@@ -1,5 +1,0 @@
-owner = BBS
-controller = BBS
-add_core = BBS
-trade_goods = grain
-life_rating = 36

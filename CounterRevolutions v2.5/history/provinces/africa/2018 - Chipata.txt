@@ -1,5 +1,0 @@
-owner = MRV
-controller = MRV
-add_core = MRV
-trade_goods = cotton
-life_rating = 31

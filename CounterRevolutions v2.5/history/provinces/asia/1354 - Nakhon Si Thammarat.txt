@@ -1,5 +1,0 @@
-owner = SIA
-controller = SIA
-add_core = SIA
-trade_goods = coffee
-life_rating = 37

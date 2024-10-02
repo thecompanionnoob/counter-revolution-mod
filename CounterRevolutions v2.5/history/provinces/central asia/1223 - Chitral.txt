@@ -1,5 +1,0 @@
-owner = CHT
-controller = CHT
-add_core = CHT
-trade_goods = wool
-life_rating = 33

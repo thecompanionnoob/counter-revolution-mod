@@ -1,5 +1,0 @@
-owner = MBU
-controller = MBU
-add_core = MBU
-trade_goods = grain
-life_rating = 36

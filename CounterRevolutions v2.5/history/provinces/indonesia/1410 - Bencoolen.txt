@@ -1,5 +1,0 @@
-owner = EIC
-controller = EIC
-trade_goods = fish
-life_rating = 38
-colonial = 2

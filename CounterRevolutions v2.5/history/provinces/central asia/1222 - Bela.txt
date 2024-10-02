@@ -1,5 +1,0 @@
-owner = LSB
-controller = LSB
-add_core = LSB
-trade_goods = fish
-life_rating = 33

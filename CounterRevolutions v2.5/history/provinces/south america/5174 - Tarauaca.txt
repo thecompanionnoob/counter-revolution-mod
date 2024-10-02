@@ -1,5 +1,0 @@
-owner = VOP
-controller = VOP
-add_core = BOL
-trade_goods = rubber
-life_rating = 42
