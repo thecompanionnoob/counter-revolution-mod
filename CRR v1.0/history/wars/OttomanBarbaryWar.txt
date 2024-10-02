@@ -17,7 +17,7 @@ name = "Ottoman Restoration of Tripoli"
 
 }
 
-1836.6.6 = {
+1835.11.6 = {
 	rem_attacker = TUR
 	rem_defender = TRI
 }
