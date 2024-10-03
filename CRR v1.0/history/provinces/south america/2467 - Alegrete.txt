@@ -1,5 +1,7 @@
-owner = BRZ
-controller = BRZ
+owner = ARG
+controller = ARG
+add_core = ARG
+add_core = URU
 add_core = BRZ
 trade_goods = cattle
 life_rating = 35
